@@ -1,0 +1,478 @@
+{
+  "choose_clip_info": "step2 story: use merge. multi step1 (False), multi step2 (False), story choose: 20, all story video clip: 49, all useful video clip: 91, all video clip: 94",
+  "story_result": {
+    "section_id_list": [
+      2,
+      14,
+      16,
+      17,
+      25,
+      29,
+      31,
+      32,
+      44,
+      46,
+      48,
+      49,
+      53,
+      60,
+      62,
+      64,
+      65,
+      68,
+      69,
+      90
+    ],
+    "clip_caption": {
+      "2": "The clip shows three individuals preparing to start a luge ride at a track's starting area, setting the stage for the subsequent action-packed sequences.",
+      "14": "This clip features two men enjoying a luge ride at an amusement park, capturing the essence of fun and excitement that follows the preparation.",
+      "16": "Two men and a child are seen riding luge carts down a forest track, introducing a family-friendly element to the sequence.",
+      "17": "Two men are riding luge carts down a winding track, exemplifying the thrilling nature of the luge ride in a natural setting.",
+      "25": "A man is riding a luge down a wooded track at high speed, emphasizing the adrenaline-pumping aspect of the sport.",
+      "29": "Two individuals are racing on a luge track through a forested area, showcasing competitive spirit and speed.",
+      "31": "Three people enjoy a ride on luge carts down a forest track, highlighting camaraderie and shared adventure.",
+      "32": "Two people are riding go-karts on a winding forest track, offering a variation in the type of ride while maintaining the theme of outdoor excitement.",
+      "44": "Two men race on a luge track through a forest, skillfully navigating curves at high speed, which adds to the competitive and thrilling narrative.",
+      "46": "Three people are racing on luges down a forest track, intensifying the theme of speed and competition.",
+      "48": "Three people luging down a forest track at high speed, enjoying an adventurous ride, encapsulates the joy and thrill of the sport.",
+      "49": "Three men racing go-karts on a forest track, providing a dynamic and fast-paced segment to the sequence.",
+      "53": "Two people riding luges down a forest track at high speed, reinforcing the theme of thrill and adventure.",
+      "60": "Two people riding go-karts down a forest track, maintaining the excitement of racing in a natural environment.",
+      "62": "A thrilling ride on go-karts through a forest trail captures the excitement of the chase, adding an element of suspense to the sequence.",
+      "64": "Two people enjoying a thrilling luge ride through a forest trail, illustrating the fun and excitement of the activity.",
+      "65": "Two people riding luge carts down a forest track enjoy a thrilling ride, continuing the theme of outdoor adventure.",
+      "68": "Two people racing go-karts on a forest trail, emphasizing safety with helmets and adding a competitive edge to the sequence.",
+      "69": "Two people racing go-karts down a forest trail, contributing to the high-speed and competitive narrative.",
+      "90": "A person riding a luge down a track at an amusement park, providing a conclusion to the sequence by returning to the amusement park setting."
+    },
+    "theme_caption": {
+      "[2, 14, 90]": "Amusement Park Luge Adventures: This theme captures the excitement and joy of riding luge carts at an amusement park, from preparation to the thrilling ride itself.",
+      "[16, 17, 25, 29, 31, 44, 46, 48, 53, 64, 65]": "Forest Luge Excursions: These clips highlight various groups and individuals enjoying the thrill of luge rides through scenic forest tracks, showcasing both leisurely rides and competitive races.",
+      "[32, 49, 60, 62, 68, 69]": "Forest Go-Kart Racing: This theme focuses on the adrenaline-pumping experience of racing go-karts through forest trails, emphasizing speed, competition, and the excitement of outdoor adventure."
+    },
+    "global_caption": "The video collection captures the exhilarating world of luge and go-karting, beginning with preparations at an amusement park and transitioning into thrilling rides through both amusement park and forest settings. It showcases a variety of participants, from families to competitive racers, all experiencing the joy and adrenaline of these outdoor activities. The narrative concludes by returning to the amusement park, providing a full circle to the adventure."
+  },
+  "output_section_info_list": [
+    {
+      "start": 180,
+      "end": 270,
+      "start_time": 6.0,
+      "end_time": 9.0,
+      "raw_caption": "Three individuals prepare to start a luge ride at a track's starting area.",
+      "attribute_caption_useful": "{'What': 'preparing for luge ride', 'Where': 'luge track start area', 'When': 'daytime', 'Who': 'two men and one woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+      "sample_id_list": [
+        180,
+        210,
+        240
+      ],
+      "raw_section": {
+        "start": 180,
+        "end": 270
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 2
+    },
+    {
+      "start": 1260,
+      "end": 1350,
+      "start_time": 42.0,
+      "end_time": 45.0,
+      "raw_caption": "Two men are enjoying a luge ride at an amusement park during the day.",
+      "attribute_caption_useful": "{'What': 'riding luge', 'Where': 'amusement park', 'When': 'daytime', 'Who': 'two men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        1260,
+        1290,
+        1320
+      ],
+      "raw_section": {
+        "start": 1260,
+        "end": 1350
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 14
+    },
+    {
+      "start": 1440,
+      "end": 1530,
+      "start_time": 48.0,
+      "end_time": 51.1,
+      "raw_caption": "The video shows two men and a child riding luge carts down a forest track during the day.",
+      "attribute_caption_useful": "{'What': 'riding luge carts', 'Where': 'forest track', 'When': 'daytime', 'Who': 'two men and one child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        1440,
+        1470,
+        1500
+      ],
+      "raw_section": {
+        "start": 1440,
+        "end": 1530
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 16
+    },
+    {
+      "start": 1530,
+      "end": 1620,
+      "start_time": 51.1,
+      "end_time": 54.1,
+      "raw_caption": "Two men are riding luge carts down a winding track during the day.",
+      "attribute_caption_useful": "{'What': 'riding luge carts', 'Where': 'downhill track', 'When': 'daytime', 'Who': 'two men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        1530,
+        1560,
+        1590
+      ],
+      "raw_section": {
+        "start": 1530,
+        "end": 1620
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 17
+    },
+    {
+      "start": 2250,
+      "end": 2340,
+      "start_time": 75.1,
+      "end_time": 78.1,
+      "raw_caption": "A man is riding a luge down a wooded track at high speed during the daytime.",
+      "attribute_caption_useful": "{'What': 'riding a luge', 'Where': 'wooded track', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        2250,
+        2280,
+        2310
+      ],
+      "raw_section": {
+        "start": 2250,
+        "end": 2340
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 25
+    },
+    {
+      "start": 2610,
+      "end": 2700,
+      "start_time": 87.1,
+      "end_time": 90.1,
+      "raw_caption": "Two individuals are racing on a luge track through a forested area during the day.",
+      "attribute_caption_useful": "{'What': 'luge racing', 'Where': 'forest track', 'When': 'daytime', 'Who': 'two individuals'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        2610,
+        2640,
+        2670
+      ],
+      "raw_section": {
+        "start": 2610,
+        "end": 2700
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 29
+    },
+    {
+      "start": 2790,
+      "end": 2880,
+      "start_time": 93.1,
+      "end_time": 96.1,
+      "raw_caption": "Three people are enjoying a ride on luge carts down a forest track during the day.",
+      "attribute_caption_useful": "{'What': 'riding luge carts', 'Where': 'forest track', 'When': 'daytime', 'Who': 'three people wearing helmets'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        2790,
+        2820,
+        2850
+      ],
+      "raw_section": {
+        "start": 2790,
+        "end": 2880
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 31
+    },
+    {
+      "start": 2880,
+      "end": 2970,
+      "start_time": 96.1,
+      "end_time": 99.1,
+      "raw_caption": "Two people are riding go-karts on a winding forest track during the day, enjoying an exciting outdoor activity.",
+      "attribute_caption_useful": "{'What': 'riding go-karts', 'Where': 'forest track', 'When': 'daytime', 'Who': 'two people'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        2880,
+        2910,
+        2940
+      ],
+      "raw_section": {
+        "start": 2880,
+        "end": 2970
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 32
+    },
+    {
+      "start": 3960,
+      "end": 4050,
+      "start_time": 132.1,
+      "end_time": 135.1,
+      "raw_caption": "Two men are racing on a luge track through a forest, navigating curves at high speed.",
+      "attribute_caption_useful": "{'What': 'luge racing', 'Where': 'forest track', 'When': 'daytime', 'Who': 'two men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        3960,
+        3990,
+        4020
+      ],
+      "raw_section": {
+        "start": 3960,
+        "end": 4050
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 44
+    },
+    {
+      "start": 4140,
+      "end": 4230,
+      "start_time": 138.1,
+      "end_time": 141.1,
+      "raw_caption": "Three people are racing on luges down a forest track during the day.",
+      "attribute_caption_useful": "{'What': 'luge racing', 'Where': 'forest track', 'When': 'daytime', 'Who': 'three people, likely adults'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        4140,
+        4170,
+        4200
+      ],
+      "raw_section": {
+        "start": 4140,
+        "end": 4230
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 46
+    },
+    {
+      "start": 4320,
+      "end": 4410,
+      "start_time": 144.1,
+      "end_time": 147.1,
+      "raw_caption": "Three people are luging down a forest track at high speed, enjoying an adventurous ride.",
+      "attribute_caption_useful": "{'What': 'luging down a forest track', 'Where': 'forest', 'When': 'daytime', 'Who': 'three people wearing helmets'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        4320,
+        4350,
+        4380
+      ],
+      "raw_section": {
+        "start": 4320,
+        "end": 4410
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 48
+    },
+    {
+      "start": 4410,
+      "end": 4500,
+      "start_time": 147.1,
+      "end_time": 150.2,
+      "raw_caption": "Three men are racing go-karts on a forest track during the day.",
+      "attribute_caption_useful": "{'What': 'riding go-karts', 'Where': 'forest track', 'When': 'daytime', 'Who': 'three men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        4410,
+        4440,
+        4470
+      ],
+      "raw_section": {
+        "start": 4410,
+        "end": 4500
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 49
+    },
+    {
+      "start": 4770,
+      "end": 4860,
+      "start_time": 159.2,
+      "end_time": 162.2,
+      "raw_caption": "Two people are riding luges down a forest track at high speed during the day.",
+      "attribute_caption_useful": "{'What': 'riding luges', 'Where': 'forest track', 'When': 'daytime', 'Who': 'two people in helmets'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        4770,
+        4800,
+        4830
+      ],
+      "raw_section": {
+        "start": 4770,
+        "end": 4860
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 53
+    },
+    {
+      "start": 5400,
+      "end": 5490,
+      "start_time": 180.2,
+      "end_time": 183.2,
+      "raw_caption": "Two people are riding go-karts down a forest track during the day.",
+      "attribute_caption_useful": "{'What': 'riding go-karts', 'Where': 'forest track', 'When': 'daytime', 'Who': 'two people'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        5400,
+        5430,
+        5460
+      ],
+      "raw_section": {
+        "start": 5400,
+        "end": 5490
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 60
+    },
+    {
+      "start": 5580,
+      "end": 5670,
+      "start_time": 186.2,
+      "end_time": 189.2,
+      "raw_caption": "The video shows a thrilling ride on go-karts through a forest trail, capturing the excitement of the chase.",
+      "attribute_caption_useful": "{'What': 'riding go-karts', 'Where': 'forest trail', 'When': 'daytime', 'Who': 'two people in front, one person filming'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        5580,
+        5610,
+        5640
+      ],
+      "raw_section": {
+        "start": 5580,
+        "end": 5670
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 62
+    },
+    {
+      "start": 5760,
+      "end": 5850,
+      "start_time": 192.2,
+      "end_time": 195.2,
+      "raw_caption": "Two people are enjoying a thrilling luge ride through a forest trail during the day.",
+      "attribute_caption_useful": "{'What': 'luge ride', 'Where': 'forest trail', 'When': 'daytime', 'Who': 'two people wearing helmets'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.8; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        5760,
+        5790,
+        5820
+      ],
+      "raw_section": {
+        "start": 5760,
+        "end": 5850
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 64
+    },
+    {
+      "start": 5850,
+      "end": 5940,
+      "start_time": 195.2,
+      "end_time": 198.2,
+      "raw_caption": "Two people are riding luge carts down a forest track, enjoying a thrilling ride.",
+      "attribute_caption_useful": "{'What': 'riding luge carts', 'Where': 'forest track', 'When': 'daytime', 'Who': 'two people wearing helmets'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        5850,
+        5880,
+        5910
+      ],
+      "raw_section": {
+        "start": 5850,
+        "end": 5940
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 65
+    },
+    {
+      "start": 6120,
+      "end": 6210,
+      "start_time": 204.2,
+      "end_time": 207.2,
+      "raw_caption": "Two people are racing go-karts on a forest trail, wearing helmets for safety.",
+      "attribute_caption_useful": "{'What': 'riding go-karts', 'Where': 'forest trail', 'When': 'daytime', 'Who': 'two people wearing helmets'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        6120,
+        6150,
+        6180
+      ],
+      "raw_section": {
+        "start": 6120,
+        "end": 6210
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 68
+    },
+    {
+      "start": 6210,
+      "end": 6300,
+      "start_time": 207.2,
+      "end_time": 210.2,
+      "raw_caption": "Two people are racing go-karts down a forest trail during the day.",
+      "attribute_caption_useful": "{'What': 'riding go-karts', 'Where': 'forest trail', 'When': 'daytime', 'Who': 'two people wearing helmets'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        6210,
+        6240,
+        6270
+      ],
+      "raw_section": {
+        "start": 6210,
+        "end": 6300
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 69
+    },
+    {
+      "start": 8100,
+      "end": 8190,
+      "start_time": 270.3,
+      "end_time": 273.3,
+      "raw_caption": "A person is riding a luge down a track at an amusement park during the day.",
+      "attribute_caption_useful": "{'What': 'riding a luge', 'Where': 'amusement park', 'When': 'daytime', 'Who': 'person on luge'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        8099,
+        8129,
+        8159,
+        8189
+      ],
+      "raw_section": {
+        "start": 8100,
+        "end": 8190
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-luge-Travel&Adventure_Junkies/dXZO0qnhrPo.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 90
+    }
+  ]
+}

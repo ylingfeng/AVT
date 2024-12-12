@@ -1,0 +1,477 @@
+{
+  "choose_clip_info": "step2 story: use merge. multi step1 (True), multi step2 (False), story choose: 20, all story video clip: 47, all useful video clip: 178, all video clip: 217",
+  "story_result": {
+    "section_id_list": [
+      3,
+      18,
+      30,
+      43,
+      46,
+      57,
+      77,
+      85,
+      86,
+      101,
+      127,
+      143,
+      150,
+      158,
+      165,
+      166,
+      173,
+      182,
+      198,
+      216
+    ],
+    "clip_caption": {
+      "3": "The vendor preparing crepes at a street food stall during the daytime sets the scene for a bustling street food atmosphere, making it a suitable opening clip.",
+      "18": "Two cooks preparing okonomiyaki at a street food market highlights the collaborative effort in cooking, fitting well in the middle of the sequence to showcase teamwork.",
+      "30": "A vendor preparing eggs and noodles on a hot griddle adds variety to the food offerings, making it an interesting middle clip to show different cooking techniques.",
+      "43": "The vendor showcasing the okonomiyaki cooking process with ingredients like eggs and cabbage provides a detailed view of the dish, suitable for a middle position to engage viewers with the cooking process.",
+      "46": "A man preparing okonomiyaki at a street food stall during the day emphasizes individual cooking skills, complementing the sequence with a focus on a single chef's technique.",
+      "57": "The vendor preparing stuffed pancakes introduces another unique dish, which can serve as a transitional clip between different food preparations.",
+      "77": "Two cooks preparing okonomiyaki at a street food stall during the day reinforces the theme of food preparation, fitting well in the middle to maintain the narrative flow.",
+      "85": "A cook preparing multiple eggs on a large griddle showcases the skill and efficiency required in street food cooking, adding depth to the middle sequence.",
+      "86": "A vendor cooking eggs and okonomiyaki at a street food stall combines two popular dishes, providing a comprehensive view of the cooking variety, suitable for the middle section.",
+      "101": "Vendors preparing okonomiyaki at a street food stall during the day captures the lively and communal atmosphere, making it an engaging middle clip.",
+      "127": "A vendor preparing and serving food at a street food stall during the day transitions the sequence towards the serving aspect, leading towards the conclusion.",
+      "143": "A cook showcasing the okonomiyaki process with various toppings highlights the creativity in street food, fitting well in the middle to maintain viewer interest.",
+      "150": "A cook flipping and arranging okonomiyaki on a griddle offers a dynamic view of the cooking process, suitable for the middle sequence to keep the pace lively.",
+      "158": "A vendor applying sauce to cooked okonomiyaki dishes adds a finishing touch to the cooking process, making it a natural lead towards the end of the sequence.",
+      "165": "A cook preparing eggs on a large griddle and using them as toppings provides insight into the preparation details, fitting well in the middle to enhance the narrative.",
+      "166": "A vendor preparing okonomiyaki with fried eggs combines multiple elements of cooking, suitable for the middle to showcase the complexity of street food.",
+      "173": "A cook preparing okonomiyaki with various toppings at a street food market highlights the customization in food preparation, fitting well in the middle sequence.",
+      "182": "Vendors preparing and serving okonomiyaki at a street food market captures the complete food service experience, making it a suitable clip to transition towards the end.",
+      "198": "A vendor preparing and serving food to customers at a street food stall during the day emphasizes the customer interaction, fitting as a concluding clip.",
+      "216": "The lively outdoor festival with food stalls and families enjoying the event offers a broad view of the festival atmosphere, making it an ideal ending clip to encapsulate the overall experience."
+    },
+    "theme_caption": {
+      "[3, 30, 57, 85, 165]": "Variety in Street Food Preparation: These clips highlight the diverse food offerings at street food stalls, including crepes, eggs, noodles, and stuffed pancakes, showcasing the range of culinary skills.",
+      "[18, 43, 46, 77, 86, 101, 143, 150, 158, 166, 173, 182]": "The Art of Okonomiyaki: This theme focuses on the preparation of okonomiyaki, a popular Japanese dish, with various cooks and vendors showcasing their techniques and creativity with different toppings and ingredients.",
+      "[127, 198, 216]": "Serving and Festival Atmosphere: These clips capture the interaction between vendors and customers, as well as the lively festival environment, rounding out the street food experience with scenes of enjoyment and community."
+    },
+    "global_caption": "The video collection captures the vibrant and bustling atmosphere of street food stalls during the daytime, highlighting the diversity in food preparation and the artistry involved in cooking dishes like okonomiyaki. It showcases both individual and collaborative cooking efforts, with a variety of foods being prepared, including crepes, eggs, noodles, and stuffed pancakes. The sequence transitions from the detailed cooking processes to the interaction with customers and concludes with scenes of a lively outdoor festival, encapsulating the communal and festive spirit of street food markets."
+  },
+  "output_section_info_list": [
+    {
+      "start": 540,
+      "end": 720,
+      "start_time": 9.0,
+      "end_time": 12.0,
+      "raw_caption": "A vendor is preparing crepes at a street food stall during the daytime.",
+      "attribute_caption_useful": "{'What': 'cooking crepes', 'Where': 'street food stall', 'When': 'daytime', 'Who': 'vendor'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        540,
+        600,
+        660
+      ],
+      "raw_section": {
+        "start": 540,
+        "end": 720
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 3
+    },
+    {
+      "start": 3240,
+      "end": 3420,
+      "start_time": 54.0,
+      "end_time": 57.0,
+      "raw_caption": "Two cooks are preparing okonomiyaki at a street food market during the day.",
+      "attribute_caption_useful": "{'What': 'preparing okonomiyaki', 'Where': 'street food market', 'When': 'daytime', 'Who': 'two cooks'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        3240,
+        3300,
+        3360
+      ],
+      "raw_section": {
+        "start": 3240,
+        "end": 3420
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 18
+    },
+    {
+      "start": 5400,
+      "end": 5580,
+      "start_time": 90.0,
+      "end_time": 93.0,
+      "raw_caption": "A vendor is preparing eggs and noodles on a hot griddle at a street food stall during the day.",
+      "attribute_caption_useful": "{'What': 'cooking eggs and noodles', 'Where': 'street food stall', 'When': 'daytime', 'Who': 'vendor'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        5400,
+        5460,
+        5520
+      ],
+      "raw_section": {
+        "start": 5400,
+        "end": 5580
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 30
+    },
+    {
+      "start": 7740,
+      "end": 7920,
+      "start_time": 129.0,
+      "end_time": 132.0,
+      "raw_caption": "A vendor is preparing okonomiyaki at a street food stall, showcasing the cooking process with ingredients like eggs and cabbage.",
+      "attribute_caption_useful": "{'What': 'cooking okonomiyaki', 'Where': 'street food stall', 'When': 'unknown', 'Who': 'vendor'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        7740,
+        7800,
+        7860
+      ],
+      "raw_section": {
+        "start": 7740,
+        "end": 7920
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 43
+    },
+    {
+      "start": 8280,
+      "end": 8460,
+      "start_time": 138.0,
+      "end_time": 141.0,
+      "raw_caption": "A man is preparing okonomiyaki at a street food stall during the day.",
+      "attribute_caption_useful": "{'What': 'cooking okonomiyaki', 'Where': 'street food stall', 'When': 'daytime', 'Who': 'man with spatula'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        8280,
+        8340,
+        8400
+      ],
+      "raw_section": {
+        "start": 8280,
+        "end": 8460
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 46
+    },
+    {
+      "start": 10260,
+      "end": 10440,
+      "start_time": 171.0,
+      "end_time": 174.0,
+      "raw_caption": "A vendor prepares stuffed pancakes at a street food stall during the day.",
+      "attribute_caption_useful": "{'What': 'cooking stuffed pancakes', 'Where': 'street food stall', 'When': 'daytime', 'Who': 'vendor with gloves'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        10260,
+        10320,
+        10380
+      ],
+      "raw_section": {
+        "start": 10260,
+        "end": 10440
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 57
+    },
+    {
+      "start": 13860,
+      "end": 14040,
+      "start_time": 231.0,
+      "end_time": 234.0,
+      "raw_caption": "Two cooks prepare okonomiyaki at a street food stall during the day.",
+      "attribute_caption_useful": "{'What': 'cooking okonomiyaki', 'Where': 'street food stall', 'When': 'daytime', 'Who': 'two cooks'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        13860,
+        13920,
+        13980
+      ],
+      "raw_section": {
+        "start": 13860,
+        "end": 14040
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 77
+    },
+    {
+      "start": 15300,
+      "end": 15480,
+      "start_time": 255.0,
+      "end_time": 258.0,
+      "raw_caption": "A cook is preparing multiple eggs on a large griddle at a street food stall.",
+      "attribute_caption_useful": "{'What': 'cooking eggs on a griddle', 'Where': 'street food stall', 'When': 'daytime', 'Who': 'cook'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        15300,
+        15360,
+        15420
+      ],
+      "raw_section": {
+        "start": 15300,
+        "end": 15480
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 85
+    },
+    {
+      "start": 15480,
+      "end": 15660,
+      "start_time": 258.0,
+      "end_time": 261.0,
+      "raw_caption": "A vendor cooks eggs and okonomiyaki at a street food stall during the day.",
+      "attribute_caption_useful": "{'What': 'cooking eggs and okonomiyaki', 'Where': 'street food stall', 'When': 'daytime', 'Who': 'vendor cooking'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+      "sample_id_list": [
+        15480,
+        15540,
+        15600
+      ],
+      "raw_section": {
+        "start": 15480,
+        "end": 15660
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 86
+    },
+    {
+      "start": 18180,
+      "end": 18360,
+      "start_time": 303.0,
+      "end_time": 306.0,
+      "raw_caption": "Vendors are preparing okonomiyaki at a street food stall during the day.",
+      "attribute_caption_useful": "{'What': 'cooking okonomiyaki', 'Where': 'street food stall', 'When': 'daytime', 'Who': 'vendors'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        18180,
+        18240,
+        18300
+      ],
+      "raw_section": {
+        "start": 18180,
+        "end": 18360
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 101
+    },
+    {
+      "start": 22860,
+      "end": 23040,
+      "start_time": 381.0,
+      "end_time": 384.0,
+      "raw_caption": "A vendor prepares and serves food at a street food stall during the day.",
+      "attribute_caption_useful": "{'What': 'cooking and serving food', 'Where': 'street food stall', 'When': 'daytime', 'Who': 'vendor'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        22860,
+        22920,
+        22980
+      ],
+      "raw_section": {
+        "start": 22860,
+        "end": 23040
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 127
+    },
+    {
+      "start": 25740,
+      "end": 25920,
+      "start_time": 429.0,
+      "end_time": 432.0,
+      "raw_caption": "A cook is preparing okonomiyaki at a food stall, showcasing the process with various toppings.",
+      "attribute_caption_useful": "{'What': 'cooking okonomiyaki', 'Where': 'food stall', 'When': 'unknown', 'Who': 'cook with gloves'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+      "sample_id_list": [
+        25740,
+        25800,
+        25860
+      ],
+      "raw_section": {
+        "start": 25740,
+        "end": 25920
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 143
+    },
+    {
+      "start": 27000,
+      "end": 27180,
+      "start_time": 450.0,
+      "end_time": 453.0,
+      "raw_caption": "A cook prepares okonomiyaki at a street food stall, flipping and arranging the pancakes on a griddle.",
+      "attribute_caption_useful": "{'What': 'cooking okonomiyaki', 'Where': 'street food stall', 'When': 'daytime', 'Who': 'cook'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        27000,
+        27060,
+        27120
+      ],
+      "raw_section": {
+        "start": 27000,
+        "end": 27180
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 150
+    },
+    {
+      "start": 28440,
+      "end": 28620,
+      "start_time": 474.0,
+      "end_time": 477.0,
+      "raw_caption": "A vendor is preparing okonomiyaki at a street food stall, applying sauce to the cooked dishes.",
+      "attribute_caption_useful": "{'What': 'cooking okonomiyaki', 'Where': 'street food stall', 'When': 'daytime', 'Who': 'vendor'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        28440,
+        28500,
+        28560
+      ],
+      "raw_section": {
+        "start": 28440,
+        "end": 28620
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 158
+    },
+    {
+      "start": 29700,
+      "end": 29880,
+      "start_time": 495.0,
+      "end_time": 498.0,
+      "raw_caption": "A cook prepares eggs on a large griddle at a street food stall, arranging them neatly. The eggs are being used as toppings on a savory dish.",
+      "attribute_caption_useful": "{'What': 'cooking eggs on a griddle', 'Where': 'street food stall', 'When': 'daytime', 'Who': 'cook wearing gloves'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        29700,
+        29760,
+        29820
+      ],
+      "raw_section": {
+        "start": 29700,
+        "end": 29880
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 165
+    },
+    {
+      "start": 29880,
+      "end": 30060,
+      "start_time": 498.0,
+      "end_time": 501.0,
+      "raw_caption": "A vendor is preparing okonomiyaki with fried eggs at a street food stall during the day.",
+      "attribute_caption_useful": "{'What': 'cooking okonomiyaki', 'Where': 'street food stall', 'When': 'daytime', 'Who': 'vendor'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        29880,
+        29940,
+        30000
+      ],
+      "raw_section": {
+        "start": 29880,
+        "end": 30060
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 166
+    },
+    {
+      "start": 31140,
+      "end": 31320,
+      "start_time": 519.0,
+      "end_time": 522.0,
+      "raw_caption": "A cook is preparing okonomiyaki with various toppings at a street food market during the day.",
+      "attribute_caption_useful": "{'What': 'cooking okonomiyaki', 'Where': 'street food market', 'When': 'daytime', 'Who': 'cook'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        31140,
+        31200,
+        31260
+      ],
+      "raw_section": {
+        "start": 31140,
+        "end": 31320
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 173
+    },
+    {
+      "start": 32760,
+      "end": 32940,
+      "start_time": 546.0,
+      "end_time": 549.0,
+      "raw_caption": "Vendors are preparing and serving okonomiyaki at a street food market.",
+      "attribute_caption_useful": "{'What': 'cooking okonomiyaki', 'Where': 'street food market', 'When': 'daytime', 'Who': 'two vendors'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+      "sample_id_list": [
+        32760,
+        32820,
+        32880
+      ],
+      "raw_section": {
+        "start": 32760,
+        "end": 32940
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 182
+    },
+    {
+      "start": 35640,
+      "end": 35820,
+      "start_time": 594.0,
+      "end_time": 597.0,
+      "raw_caption": "A vendor prepares and serves food to customers at a street food stall during the day.",
+      "attribute_caption_useful": "{'What': 'preparing and serving food', 'Where': 'street food stall', 'When': 'daytime', 'Who': 'vendor and customers'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        35640,
+        35700,
+        35760
+      ],
+      "raw_section": {
+        "start": 35640,
+        "end": 35820
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 198
+    },
+    {
+      "start": 38880,
+      "end": 39060,
+      "start_time": 648.0,
+      "end_time": 651.0,
+      "raw_caption": "The video captures a lively outdoor festival with food stalls and families enjoying the event.",
+      "attribute_caption_useful": "{'What': 'festival with food stalls', 'Where': 'outdoor festival', 'When': 'daytime', 'Who': 'families and vendors'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        38880,
+        38940,
+        39000
+      ],
+      "raw_section": {
+        "start": 38880,
+        "end": 39060
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-food-Soon_Films_순필름/_McjBGfacfc.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 216
+    }
+  ]
+}

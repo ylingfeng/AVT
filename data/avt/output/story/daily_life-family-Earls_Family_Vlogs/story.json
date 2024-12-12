@@ -1,0 +1,527 @@
+{
+  "choose_clip_info": "step2 story: use all. multi step1 (False), multi step2 (False), story choose: 22, all story video clip: 22, all useful video clip: 60, all video clip: 290",
+  "story_result": {
+    "section_id_list": [
+      0,
+      1,
+      2,
+      90,
+      102,
+      108,
+      119,
+      120,
+      125,
+      128,
+      129,
+      218,
+      219,
+      222,
+      242,
+      243,
+      252,
+      255,
+      260,
+      287,
+      288,
+      289
+    ],
+    "clip_caption": {
+      "0": "A man is relaxing on a couch with two young children, enjoying a peaceful moment together. This clip could serve as a beginning as it sets a calm and familial tone.",
+      "1": "A man is joyfully spending time on the couch with two young children, creating a warm family moment. This clip could follow the opening to build on the established family atmosphere.",
+      "2": "A man is happily relaxing on a sofa with two children, one of whom is a baby. This clip can continue the theme of familial bonding, maintaining the warmth of the sequence.",
+      "90": "A woman and a man share a moment in a park, with the man giving the woman a kiss. They appear happy and relaxed in the outdoor setting. This clip could be a transition to outdoor activities, showing the couple's affection.",
+      "102": "Three men and a child are setting up tents at a campsite by a river during the day. This clip introduces an outdoor adventure theme, suggesting preparation for a camping experience.",
+      "108": "A child is playing inside a tent at a campground during the day while an adult stands nearby. This clip continues the camping theme, focusing on the child's playful exploration.",
+      "119": "Two men and a child are setting up a tent in a backyard during the day. This clip could serve as a lighter, home-based version of camping activities.",
+      "120": "A family sets up a tent at a campground and then drives together in a car. This clip can serve as a narrative bridge from camping to travel, indicating a family journey.",
+      "125": "A family is dining at a restaurant, interacting with a waitress and each other. This clip shifts the setting to an evening dining experience, showing family interaction in a social setting.",
+      "128": "A man is singing at a restaurant while a child watches nearby. This clip adds an entertainment aspect to the dining scene, highlighting the child's interest.",
+      "129": "A woman holding a child enjoys a karaoke performance in a restaurant as a man sings. This clip continues the restaurant theme with a focus on family enjoyment of the performance.",
+      "218": "A woman is smiling and interacting with a baby in a dimly lit room, suggesting a calming night-time scene. This clip could transition into a quieter, intimate domestic setting.",
+      "219": "A woman interacts playfully with a baby indoors during the night. This clip emphasizes the nurturing aspect of the night-time routine.",
+      "222": "A woman is gently feeding a baby indoors during the night. This clip can serve as an ending, providing a sense of closure with a peaceful, nurturing scene.",
+      "242": "A family shares a joyful moment on a wooden staircase during the day. This clip can introduce a theme of playful family interaction in a home setting.",
+      "243": "A man and a child share a playful moment on a wooden staircase during the day. This clip can follow the previous clip to maintain the playful, familial atmosphere.",
+      "252": "A man and a child are playing and interacting inside a tent during the day. This clip can be placed in the middle of the camping theme, focusing on indoor tent activities.",
+      "255": "A man and a child are cuddling inside a tent, enjoying a cozy moment together. This clip provides a tender moment within the camping theme, emphasizing closeness.",
+      "260": "A child and a man are playing inside a tent during the day at a camping site. This clip continues the theme of playful interaction within the camping setting.",
+      "287": "A family of four enjoys a moment together on a garden bench surrounded by flowers. This clip can serve as a serene outdoor family moment, highlighting togetherness.",
+      "288": "A family is sitting on a bench in a garden, enjoying each other's company. This clip continues the garden theme, focusing on family interaction in nature.",
+      "289": "A family enjoys a moment together on a garden bench, with flowers in the background. This clip reinforces the tranquil, familial theme of the garden setting."
+    },
+    "theme_caption": {
+      "[0, 1, 2]": "Family Relaxation Indoors: These clips depict a man spending quality time with children on a couch, highlighting the warmth and comfort of family moments at home.",
+      "[90]": "Couple's Moment in the Park: This clip showcases a romantic interaction between a woman and a man, set in a serene park environment.",
+      "[102, 108, 119, 120, 252, 255, 260]": "Camping and Outdoor Adventures: These clips capture various aspects of setting up tents and playing in camping environments, emphasizing family bonding and exploration in nature.",
+      "[125, 128, 129]": "Restaurant Dining and Entertainment: These scenes show a family dining and enjoying performances at a restaurant, illustrating social and entertainment aspects of family life.",
+      "[218, 219, 222]": "Night-time Intimacy: These clips focus on a woman's interactions with a baby indoors at night, highlighting nurturing and calming bedtime routines.",
+      "[242, 243]": "Playful Family Interactions at Home: These clips depict joyful moments on a wooden staircase, showcasing playful family dynamics.",
+      "[287, 288, 289]": "Family Moments in the Garden: These clips feature a family sitting together on a garden bench, surrounded by flowers, emphasizing tranquility and togetherness in a natural setting."
+    },
+    "global_caption": "The video collection captures a variety of family and outdoor experiences, beginning with serene moments of relaxation indoors, where a man and children enjoy peaceful interactions. The narrative transitions to a romantic couple's moment in the park, followed by a series of clips focused on the excitement and bonding of camping and outdoor adventures. The sequence then shifts to a vibrant restaurant setting, where the family enjoys dining and entertainment. As the day turns to night, the scenes become more intimate, featuring nurturing night-time routines with a baby. Finally, the video concludes with joyful family interactions at home and tranquil moments in a garden, encapsulating the essence of togetherness and familial love."
+  },
+  "output_section_info_list": [
+    {
+      "start": 0,
+      "end": 180,
+      "start_time": 0.0,
+      "end_time": 3.0,
+      "raw_caption": "A man is relaxing on a couch with two young children, enjoying a peaceful moment together.",
+      "attribute_caption_useful": "{'What': 'relaxing on couch', 'Where': 'living room', 'When': 'daytime', 'Who': 'man with two children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        0,
+        60,
+        120
+      ],
+      "raw_section": {
+        "start": 0,
+        "end": 180
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 0
+    },
+    {
+      "start": 180,
+      "end": 360,
+      "start_time": 3.0,
+      "end_time": 6.0,
+      "raw_caption": "A man is joyfully spending time on the couch with two young children, creating a warm family moment.",
+      "attribute_caption_useful": "{'What': 'relaxing on couch', 'Where': 'living room', 'When': 'daytime', 'Who': 'man with two children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        180,
+        240,
+        300
+      ],
+      "raw_section": {
+        "start": 180,
+        "end": 360
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 1
+    },
+    {
+      "start": 360,
+      "end": 540,
+      "start_time": 6.0,
+      "end_time": 9.0,
+      "raw_caption": "A man is happily relaxing on a sofa with two children, one of whom is a baby.",
+      "attribute_caption_useful": "{'What': 'relaxing on sofa', 'Where': 'living room', 'When': 'daytime', 'Who': 'man with two children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        360,
+        420,
+        480
+      ],
+      "raw_section": {
+        "start": 360,
+        "end": 540
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 2
+    },
+    {
+      "start": 16200,
+      "end": 16380,
+      "start_time": 270.3,
+      "end_time": 273.3,
+      "raw_caption": "A woman and a man share a moment in a park, with the man giving the woman a kiss. They appear happy and relaxed in the outdoor setting.",
+      "attribute_caption_useful": "{'What': 'kissing', 'Where': 'park', 'When': 'daytime', 'Who': 'woman and man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        16200,
+        16260,
+        16320
+      ],
+      "raw_section": {
+        "start": 16200,
+        "end": 16380
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 90
+    },
+    {
+      "start": 18360,
+      "end": 18540,
+      "start_time": 306.3,
+      "end_time": 309.3,
+      "raw_caption": "Three men and a child are setting up tents at a campsite by a river during the day.",
+      "attribute_caption_useful": "{'What': 'setting up tents', 'Where': 'campsite by a river', 'When': 'daytime', 'Who': 'three men and a child'}",
+      "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+      "sample_id_list": [
+        18360,
+        18420,
+        18480
+      ],
+      "raw_section": {
+        "start": 18360,
+        "end": 18540
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 102
+    },
+    {
+      "start": 19440,
+      "end": 19620,
+      "start_time": 324.3,
+      "end_time": 327.3,
+      "raw_caption": "A child is playing inside a tent at a campground during the day while an adult stands nearby.",
+      "attribute_caption_useful": "{'What': 'child playing inside a tent', 'Where': 'campground', 'When': 'daytime', 'Who': 'child and adult'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+      "sample_id_list": [
+        19440,
+        19500,
+        19560
+      ],
+      "raw_section": {
+        "start": 19440,
+        "end": 19620
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 108
+    },
+    {
+      "start": 21420,
+      "end": 21600,
+      "start_time": 357.4,
+      "end_time": 360.4,
+      "raw_caption": "Two men and a child are setting up a tent in a backyard during the day.",
+      "attribute_caption_useful": "{'What': 'setting up a tent', 'Where': 'backyard', 'When': 'daytime', 'Who': 'two men and a child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+      "sample_id_list": [
+        21420,
+        21480,
+        21540
+      ],
+      "raw_section": {
+        "start": 21420,
+        "end": 21600
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 119
+    },
+    {
+      "start": 21600,
+      "end": 21780,
+      "start_time": 360.4,
+      "end_time": 363.4,
+      "raw_caption": "A family sets up a tent at a campground and then drives together in a car.",
+      "attribute_caption_useful": "{'What': 'setting up tent and driving', 'Where': 'campground and car', 'When': 'daytime', 'Who': 'man, woman, and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+      "sample_id_list": [
+        21600,
+        21660,
+        21720
+      ],
+      "raw_section": {
+        "start": 21600,
+        "end": 21780
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 120
+    },
+    {
+      "start": 22500,
+      "end": 22680,
+      "start_time": 375.4,
+      "end_time": 378.4,
+      "raw_caption": "A family is dining at a restaurant, interacting with a waitress and each other.",
+      "attribute_caption_useful": "{'What': 'dining and interacting', 'Where': 'restaurant', 'When': 'evening', 'Who': 'woman, man, baby, waitress'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+      "sample_id_list": [
+        22500,
+        22560,
+        22620
+      ],
+      "raw_section": {
+        "start": 22500,
+        "end": 22680
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 125
+    },
+    {
+      "start": 23040,
+      "end": 23220,
+      "start_time": 384.4,
+      "end_time": 387.4,
+      "raw_caption": "A man is singing at a restaurant while a child watches nearby.",
+      "attribute_caption_useful": "{'What': 'singing performance', 'Where': 'restaurant', 'When': 'evening', 'Who': 'man singing, child watching'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+      "sample_id_list": [
+        23040,
+        23100,
+        23160
+      ],
+      "raw_section": {
+        "start": 23040,
+        "end": 23220
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 128
+    },
+    {
+      "start": 23220,
+      "end": 23400,
+      "start_time": 387.4,
+      "end_time": 390.4,
+      "raw_caption": "A woman holding a child enjoys a karaoke performance in a restaurant as a man sings.",
+      "attribute_caption_useful": "{'What': 'karaoke performance', 'Where': 'restaurant', 'When': 'evening', 'Who': 'woman holding child, man singing'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+      "sample_id_list": [
+        23220,
+        23280,
+        23340
+      ],
+      "raw_section": {
+        "start": 23220,
+        "end": 23400
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 129
+    },
+    {
+      "start": 39240,
+      "end": 39420,
+      "start_time": 654.7,
+      "end_time": 657.7,
+      "raw_caption": "A woman is smiling and interacting with a baby in a dimly lit room, suggesting a calming night-time scene.",
+      "attribute_caption_useful": "{'What': 'woman interacting with baby', 'Where': 'indoors, possibly a bedroom', 'When': 'night', 'Who': 'woman and baby'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        39240,
+        39300,
+        39360
+      ],
+      "raw_section": {
+        "start": 39240,
+        "end": 39420
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 218
+    },
+    {
+      "start": 39420,
+      "end": 39600,
+      "start_time": 657.7,
+      "end_time": 660.7,
+      "raw_caption": "A woman interacts playfully with a baby indoors during the night.",
+      "attribute_caption_useful": "{'What': 'woman playing with baby', 'Where': 'indoors', 'When': 'night', 'Who': 'woman and baby'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.6; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        39420,
+        39480,
+        39540
+      ],
+      "raw_section": {
+        "start": 39420,
+        "end": 39600
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 219
+    },
+    {
+      "start": 39960,
+      "end": 40140,
+      "start_time": 666.7,
+      "end_time": 669.7,
+      "raw_caption": "A woman is gently feeding a baby indoors during the night.",
+      "attribute_caption_useful": "{'What': 'woman holding and feeding baby', 'Where': 'indoors, possibly a bedroom', 'When': 'nighttime', 'Who': 'woman and baby'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        39960,
+        40020,
+        40080
+      ],
+      "raw_section": {
+        "start": 39960,
+        "end": 40140
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 222
+    },
+    {
+      "start": 43560,
+      "end": 43740,
+      "start_time": 726.7,
+      "end_time": 729.7,
+      "raw_caption": "A family shares a joyful moment on a wooden staircase during the day.",
+      "attribute_caption_useful": "{'What': 'family interaction', 'Where': 'wooden staircase', 'When': 'daytime', 'Who': 'woman, man, child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        43560,
+        43620,
+        43680
+      ],
+      "raw_section": {
+        "start": 43560,
+        "end": 43740
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 242
+    },
+    {
+      "start": 43740,
+      "end": 43920,
+      "start_time": 729.7,
+      "end_time": 732.7,
+      "raw_caption": "A man and a child share a playful moment on a wooden staircase during the day.",
+      "attribute_caption_useful": "{'What': 'playful interaction', 'Where': 'wooden staircase', 'When': 'daytime', 'Who': 'man and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        43740,
+        43800,
+        43860
+      ],
+      "raw_section": {
+        "start": 43740,
+        "end": 43920
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 243
+    },
+    {
+      "start": 45360,
+      "end": 45540,
+      "start_time": 756.8,
+      "end_time": 759.8,
+      "raw_caption": "A man and a child are playing and interacting inside a tent during the day.",
+      "attribute_caption_useful": "{'What': 'playing in a tent', 'Where': 'inside a tent', 'When': 'daytime', 'Who': 'man and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+      "sample_id_list": [
+        45360,
+        45420,
+        45480
+      ],
+      "raw_section": {
+        "start": 45360,
+        "end": 45540
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 252
+    },
+    {
+      "start": 45900,
+      "end": 46080,
+      "start_time": 765.8,
+      "end_time": 768.8,
+      "raw_caption": "A man and a child are cuddling inside a tent, enjoying a cozy moment together.",
+      "attribute_caption_useful": "{'What': 'cuddling', 'Where': 'tent', 'When': 'unknown', 'Who': 'man and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        45900,
+        45960,
+        46020
+      ],
+      "raw_section": {
+        "start": 45900,
+        "end": 46080
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 255
+    },
+    {
+      "start": 46800,
+      "end": 46980,
+      "start_time": 780.8,
+      "end_time": 783.8,
+      "raw_caption": "A child and a man are playing inside a tent during the day at a camping site.",
+      "attribute_caption_useful": "{'What': 'playing inside a tent', 'Where': 'camping site', 'When': 'daytime', 'Who': 'child and man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.3;",
+      "sample_id_list": [
+        46800,
+        46860,
+        46920
+      ],
+      "raw_section": {
+        "start": 46800,
+        "end": 46980
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 260
+    },
+    {
+      "start": 51660,
+      "end": 51840,
+      "start_time": 861.9,
+      "end_time": 864.9,
+      "raw_caption": "A family of four enjoys a moment together on a garden bench surrounded by flowers.",
+      "attribute_caption_useful": "{'What': 'family sitting together', 'Where': 'garden bench', 'When': 'daytime', 'Who': 'man, woman, two children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        51660,
+        51720,
+        51780
+      ],
+      "raw_section": {
+        "start": 51660,
+        "end": 51840
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 287
+    },
+    {
+      "start": 51840,
+      "end": 52020,
+      "start_time": 864.9,
+      "end_time": 867.9,
+      "raw_caption": "A family is sitting on a bench in a garden, enjoying each other's company.",
+      "attribute_caption_useful": "{'What': 'family sitting together', 'Where': 'garden bench', 'When': 'daytime', 'Who': 'man, woman, two children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        51840,
+        51900,
+        51960
+      ],
+      "raw_section": {
+        "start": 51840,
+        "end": 52020
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 288
+    },
+    {
+      "start": 52020,
+      "end": 52200,
+      "start_time": 867.9,
+      "end_time": 870.9,
+      "raw_caption": "A family enjoys a moment together on a garden bench, with flowers in the background.",
+      "attribute_caption_useful": "{'What': 'family sitting together', 'Where': 'garden', 'When': 'daytime', 'Who': 'man, woman, two children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        52020,
+        52080,
+        52140
+      ],
+      "raw_section": {
+        "start": 52020,
+        "end": 52200
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Earls_Family_Vlogs/MyLwV1V19WY.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 289
+    }
+  ]
+}

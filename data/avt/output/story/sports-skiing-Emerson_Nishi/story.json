@@ -1,0 +1,475 @@
+{
+  "choose_clip_info": "step2 story: use merge. multi step1 (True), multi step2 (False), story choose: 20, all story video clip: 50, all useful video clip: 185, all video clip: 190",
+  "story_result": {
+    "section_id_list": [
+      4,
+      23,
+      39,
+      40,
+      128,
+      134,
+      141,
+      143,
+      144,
+      145,
+      157,
+      158,
+      176,
+      177,
+      179,
+      180,
+      181,
+      182,
+      185,
+      188
+    ],
+    "clip_caption": {
+      "4": "A skier is descending a snowy slope during the day, which sets the scene for individual skiing activities and can serve as an introduction to the skiing theme.",
+      "23": "Three people skiing down a snowy slope on a clear day highlights group skiing activities, making it suitable for a middle placement to show social skiing dynamics.",
+      "39": "A child sledding down a snowy hill during the daytime introduces a playful and family-friendly aspect, fitting well in the middle to diversify the winter sports theme.",
+      "40": "A person wearing a helmet is snowboarding down a ski slope, representing individual snowboarding activities and can be placed in the middle of the sequence.",
+      "128": "Skiers enjoying a sunny day at a ski resort and preparing to descend the slopes introduces the resort environment, making it a good starting point for the resort theme.",
+      "134": "A man snowboarding down a ski slope during the day showcases individual snowboarding, fitting well in the middle of the sequence.",
+      "141": "Two people snowboarding together on a snowy slope highlights companionship in snowboarding, suitable for the middle to emphasize group activities.",
+      "143": "A man snowboarding while a woman is skiing on a snowy mountain combines both skiing and snowboarding, making it ideal for the middle to show diverse winter sports.",
+      "144": "A group of people skiing at a resort on a clear day exemplifies group skiing at resorts, fitting well in the middle of the resort theme.",
+      "145": "A group of people, including adults and children, skiing and snowboarding on a snowy mountain showcases family-friendly group activities, suitable for the middle.",
+      "157": "A person skiing down a snowy mountain with a scenic view provides a picturesque moment, making it an ideal ending to capture the beauty of skiing.",
+      "158": "A person snowboarding down a mountain slope on a clear day emphasizes individual snowboarding, fitting well in the middle of the sequence.",
+      "176": "Two skiers enjoying a run at a ski resort on a sunny day highlights enjoyment at resorts, suitable for the middle of the resort theme.",
+      "177": "A man and woman skiing down a slope on a clear day shows companionship in skiing, fitting well in the middle to emphasize social activities.",
+      "179": "A man snowboarding down a slope at a ski resort during the day highlights individual snowboarding at resorts, suitable for the middle of the sequence.",
+      "180": "Skiers enjoying a sunny day on the slopes at a ski resort captures the essence of fun at resorts, fitting well in the middle of the resort theme.",
+      "181": "People snowboarding and skiing down a slope at a ski resort during the day showcases diverse activities, suitable for the middle to highlight variety.",
+      "182": "A man teaching a child how to ski at a ski resort introduces a learning aspect, fitting well in the middle to diversify the winter sports narrative.",
+      "185": "A person skiing down a slope at a ski resort during the day highlights individual skiing, suitable for the middle of the sequence.",
+      "188": "Skiers enjoying a sunny day at a ski resort, navigating the slopes and interacting, captures the social aspect of skiing, fitting well in the middle."
+    },
+    "theme_caption": {
+      "[4, 23, 39, 40, 128, 134, 141, 143, 144, 145, 157, 158, 176, 177, 179, 180, 181, 182, 185, 188]": "Winter Sports Adventures: This theme captures various winter sports activities, including skiing, snowboarding, and sledding. It showcases both individual and group dynamics in different settings, from snowy slopes to ski resorts, highlighting the enjoyment and diversity of winter sports."
+    },
+    "global_caption": "The video collection portrays a vibrant tapestry of winter sports activities, capturing the thrill and camaraderie of skiing, snowboarding, and sledding. It begins with individual skiing and snowboarding scenes, progresses through group activities at ski resorts, and culminates in picturesque moments that emphasize the beauty and enjoyment of these winter sports."
+  },
+  "output_section_info_list": [
+    {
+      "start": 600,
+      "end": 750,
+      "start_time": 12.0,
+      "end_time": 15.0,
+      "raw_caption": "A skier is descending a snowy slope during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unidentified skier'}",
+      "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+      "sample_id_list": [
+        600,
+        650,
+        700
+      ],
+      "raw_section": {
+        "start": 600,
+        "end": 750
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 4
+    },
+    {
+      "start": 3450,
+      "end": 3600,
+      "start_time": 69.0,
+      "end_time": 72.0,
+      "raw_caption": "Three people are skiing down a snowy slope on a clear day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'three skiers'}",
+      "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        3450,
+        3500,
+        3550
+      ],
+      "raw_section": {
+        "start": 3450,
+        "end": 3600
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 23
+    },
+    {
+      "start": 5850,
+      "end": 6000,
+      "start_time": 117.0,
+      "end_time": 120.0,
+      "raw_caption": "A child is sledding down a snowy hill during the daytime.",
+      "attribute_caption_useful": "{'What': 'sledding', 'Where': 'snowy hill', 'When': 'daytime', 'Who': 'child'}",
+      "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        5850,
+        5900,
+        5950
+      ],
+      "raw_section": {
+        "start": 5850,
+        "end": 6000
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 39
+    },
+    {
+      "start": 6000,
+      "end": 6150,
+      "start_time": 120.0,
+      "end_time": 123.0,
+      "raw_caption": "A person wearing a helmet is snowboarding down a ski slope during the day.",
+      "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'person in helmet'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        6000,
+        6050,
+        6100
+      ],
+      "raw_section": {
+        "start": 6000,
+        "end": 6150
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 40
+    },
+    {
+      "start": 19200,
+      "end": 19350,
+      "start_time": 384.0,
+      "end_time": 387.0,
+      "raw_caption": "Skiers are enjoying a sunny day at a ski resort, preparing to descend the slopes from a lift area.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers'}",
+      "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        19200,
+        19250,
+        19300
+      ],
+      "raw_section": {
+        "start": 19200,
+        "end": 19350
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 128
+    },
+    {
+      "start": 20100,
+      "end": 20250,
+      "start_time": 402.0,
+      "end_time": 405.0,
+      "raw_caption": "A man is snowboarding down a ski slope during the day.",
+      "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.9;",
+      "sample_id_list": [
+        20100,
+        20150,
+        20200
+      ],
+      "raw_section": {
+        "start": 20100,
+        "end": 20250
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 134
+    },
+    {
+      "start": 21150,
+      "end": 21300,
+      "start_time": 423.0,
+      "end_time": 426.0,
+      "raw_caption": "Two people are snowboarding together on a snowy slope during the day.",
+      "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'snowy slope', 'When': 'daytime', 'Who': 'two people'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        21150,
+        21200,
+        21250
+      ],
+      "raw_section": {
+        "start": 21150,
+        "end": 21300
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 141
+    },
+    {
+      "start": 21450,
+      "end": 21600,
+      "start_time": 429.0,
+      "end_time": 432.0,
+      "raw_caption": "A man is snowboarding while a woman is skiing on a snowy mountain during the day.",
+      "attribute_caption_useful": "{'What': 'snowboarding and skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man and woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        21450,
+        21500,
+        21550
+      ],
+      "raw_section": {
+        "start": 21450,
+        "end": 21600
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 143
+    },
+    {
+      "start": 21600,
+      "end": 21750,
+      "start_time": 432.0,
+      "end_time": 435.0,
+      "raw_caption": "A group of people are skiing at a resort on a clear day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'group of people including woman, man, and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        21600,
+        21650,
+        21700
+      ],
+      "raw_section": {
+        "start": 21600,
+        "end": 21750
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 144
+    },
+    {
+      "start": 21750,
+      "end": 21900,
+      "start_time": 435.0,
+      "end_time": 438.0,
+      "raw_caption": "A group of people, including adults and children, are skiing and snowboarding on a snowy mountain during the day.",
+      "attribute_caption_useful": "{'What': 'skiing and snowboarding', 'Where': 'snow-covered mountain', 'When': 'daytime', 'Who': 'group of adults and children'}",
+      "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        21750,
+        21800,
+        21850
+      ],
+      "raw_section": {
+        "start": 21750,
+        "end": 21900
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 145
+    },
+    {
+      "start": 23550,
+      "end": 23700,
+      "start_time": 471.0,
+      "end_time": 474.0,
+      "raw_caption": "A person is skiing down a snowy mountain during the daytime with a scenic mountain view in the background.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'person skiing'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        23550,
+        23600,
+        23650
+      ],
+      "raw_section": {
+        "start": 23550,
+        "end": 23700
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 157
+    },
+    {
+      "start": 23700,
+      "end": 23850,
+      "start_time": 474.0,
+      "end_time": 477.0,
+      "raw_caption": "A person is snowboarding down a mountain slope on a clear day.",
+      "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'shadow of a person'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        23700,
+        23750,
+        23800
+      ],
+      "raw_section": {
+        "start": 23700,
+        "end": 23850
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 158
+    },
+    {
+      "start": 26400,
+      "end": 26550,
+      "start_time": 528.0,
+      "end_time": 531.0,
+      "raw_caption": "Two skiers are enjoying a run down a snowy slope at a ski resort on a sunny day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'two skiers'}",
+      "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        26400,
+        26450,
+        26500
+      ],
+      "raw_section": {
+        "start": 26400,
+        "end": 26550
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 176
+    },
+    {
+      "start": 26550,
+      "end": 26700,
+      "start_time": 531.0,
+      "end_time": 534.0,
+      "raw_caption": "A man and woman are skiing down a slope on a clear day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'man and woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        26550,
+        26600,
+        26650
+      ],
+      "raw_section": {
+        "start": 26550,
+        "end": 26700
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 177
+    },
+    {
+      "start": 26850,
+      "end": 27000,
+      "start_time": 537.0,
+      "end_time": 540.0,
+      "raw_caption": "A man is snowboarding down a slope at a ski resort during the day.",
+      "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        26850,
+        26900,
+        26950
+      ],
+      "raw_section": {
+        "start": 26850,
+        "end": 27000
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 179
+    },
+    {
+      "start": 27000,
+      "end": 27150,
+      "start_time": 540.0,
+      "end_time": 543.0,
+      "raw_caption": "Skiers are enjoying a sunny day on the slopes at a ski resort.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'multiple skiers'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        27000,
+        27050,
+        27100
+      ],
+      "raw_section": {
+        "start": 27000,
+        "end": 27150
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 180
+    },
+    {
+      "start": 27150,
+      "end": 27300,
+      "start_time": 543.0,
+      "end_time": 546.0,
+      "raw_caption": "People are snowboarding and skiing down a slope at a ski resort during the day.",
+      "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'people skiing and snowboarding'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        27150,
+        27200,
+        27250
+      ],
+      "raw_section": {
+        "start": 27150,
+        "end": 27300
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 181
+    },
+    {
+      "start": 27300,
+      "end": 27450,
+      "start_time": 546.0,
+      "end_time": 549.0,
+      "raw_caption": "A man is teaching a child how to ski at a ski resort during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'man and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        27300,
+        27350,
+        27400
+      ],
+      "raw_section": {
+        "start": 27300,
+        "end": 27450
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 182
+    },
+    {
+      "start": 27750,
+      "end": 27900,
+      "start_time": 555.0,
+      "end_time": 558.0,
+      "raw_caption": "A person is skiing down a slope at a ski resort during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unknown individual'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        27750,
+        27800,
+        27850
+      ],
+      "raw_section": {
+        "start": 27750,
+        "end": 27900
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 185
+    },
+    {
+      "start": 28200,
+      "end": 28350,
+      "start_time": 564.0,
+      "end_time": 567.0,
+      "raw_caption": "Skiers are enjoying a sunny day at a ski resort, navigating the slopes and interacting with each other.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'multiple skiers'}",
+      "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+      "sample_id_list": [
+        28200,
+        28250,
+        28300
+      ],
+      "raw_section": {
+        "start": 28200,
+        "end": 28350
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 188
+    }
+  ]
+}

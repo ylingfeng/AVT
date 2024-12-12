@@ -1,0 +1,56 @@
+sample_rate: 1
+short_side: 512
+
+model: "gpt-4o"
+
+max_tokens: 500
+max_try_count: 10
+
+empty_caption: "EMPTY"
+
+prompt:
+  system: |
+    You are an expert in summarize video clip. I will provide you with some video clips, and you will convert these video clips into multiple images through video frame sampling. Based on these image information, you need to provide comprehensive and detailed answers.
+  user: |
+    # Useless attribute:
+    [Occlusion]: Consider if the occluded area exceeds 1/3 of the frame. Consider whether it affects the presentation of the main content. Is the occluding object prominent or does it affect the presentation of the clip? Obstruction is categorized into lens obstruction, such as when an object touches or remains on the camera lens, causing the filmed scene to be blocked. It also includes scenarios where an object during filming obstructs or impacts the complete presentation of the subject, generally positioned between the lens and the filming subject. First-person hand-holding, hugging, and other interactive behaviors, as well as purposeful tracking shots, should not be considered as obstructions.
+    [Shaking or Jittering]: Rapid vibrations, minor rotations of the screen up, down, left, and right, and especially fast shaking, along with irregular flipping of the lens, should be judged as jitter in the video quality. Irregular shaking or jittering of the frame, lack of any discernible intention, or reaching a certain degree that reduces the watchability of the video. Shots with clear motion should not be considered as jitter. Subjective camera movements caused by the person filming should not be considered as jitter. Shots with clear actions or behaviors should not be considered shaky.
+    [Exposure]: Whether the video exhibits overexposure (excessively bright), underexposure (excessively dark), and if there are colored horizontal stripes, colored vertical stripes, green fringing, pink screen, or purple screen.
+    [Edited]: If the video appears upside down, either vertically or horizontally, and if there are black bars consistently present on the top, bottom, or sides of the frame, it indicates that the video has been edited.
+    [Meaningless]: There are some meaningless elements, including actions such as extending/retracting selfie sticks during filming, adjusting the camera, looking at the camera, people playing with phones/computers, working, chatting, walking on the street, talking to the camera, and static scenes. Videos of meetings, narrations, walking, and live streaming without clear activities are considered meaningless. Videos containing monotonous scenes of the ground, sky, ceiling, pure black night, snowfields, and walls are ineffective and meaningless. 
+    [Highlight]: Does the video clip feature an action, such as hand in hand, hugging, kissing, cycling, fishing, playing basketball, skiing, playing games, skateboarding, swimming, etc, and is this action quite spectacular? Shots exciting sports moments, and interactions are highlights. Video of playing on a phone, chatting, or speaking to the camera should not be considered highlights.
+
+    # Useful attribute:
+    Based on this image information, you need to summarize the attributes in aspects of ['What', 'Where', 'When', 'Who'] of the scene with comprehensive and detailed answers. If it is hard to summarize the scene, it is allowed to describe the scene with longer descriptions. Above all, don't use general, non-discriminative descriptions.
+    [What]: Describe the main actions or events occurring in the scene.
+    [Where]: Identify the specific location or setting of the scene. 'Where' should be 'beach', 'mountain', rather then ambiguous phrases such as 'outdoor'.
+    [When]: Determine the time of day, season, or any relevant time period depicted.
+    [Who]: Specify the characters involved, using clear descriptions such as 'woman,' 'man,' or 'child.' Avoid ambiguous terms like 'person.' The content of each attributes should be specific, such as 'Who' should be described as 'woman', 'man,' or 'child,' rather than ambiguous phrases such as 'person'.
+
+    # Video caption:
+    Please summarize the video clip and ensure that the output clip description is logically reasonable and can completely summarize the content of the video clip. It should not exceed two sentences.
+
+    # Answer given questions with the following restrictions.
+    (1) If you are not sure about the answer, say you do not know honestly.
+    (2) Do not imagine any contents that are NOT in the video.
+    (3) Do not add information. 
+    (4) Do not describe each frame individually and do not mention the frame. 
+    (5) Do not summarize negative or uncertain answers.
+
+    #Output format constraints
+    The overall output format is as follows:
+    {"attribute_useless": Useless attribute, "attribute_useful": Useful attribute, "raw_caption": Video caption}
+
+    # Useless attribute output format constraints:
+    Each reason is a float number ranging from 0 to 1, denoting the degree of the attribute; separate each attribute with ';' , output as shown in the following example: [Occlusion]: 0.75; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.8; [Highlight]: 0.9;
+    Here, the number represents the confidence level of the result, ranging from 0 to 1. A score of 0 means the attribute does not exist, while a score of 1 indicates absolute reliability."
+
+    # Useful attribute output format constraints:
+    Each scene should contain the above four attributes.
+    Provide comprehensive and detailed answers for each attribute based on the information gathered from the video frames.
+    It is recommended to use one word or one short phrase to summarize each attribute. 
+    However, when it is hard to conclude, you should provide detailed descriptions rather than general and ambiguous phrases.
+    The output format should be: {"What": "surfing", "Where": "beach", "When": "daytime", "Who": "woman and man, seems to be couple"}
+
+    # Video caption output format constraints:
+    Please summarize the video clip and ensure that the output clip description is logically reasonable and can completely summarize the content of the video clip. It should not exceed two sentences.

@@ -1,0 +1,653 @@
+[
+  {
+    "start": 720,
+    "end": 900,
+    "start_time": 12.0,
+    "end_time": 15.0,
+    "raw_caption": "A person interacts with two dogs in a living room, engaging in playful activities.",
+    "attribute_caption_useful": "{'What': 'playing with dogs', 'Where': 'living room', 'When': 'daytime', 'Who': 'two dogs and a person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      720,
+      780,
+      840
+    ],
+    "raw_section": {
+      "start": 720,
+      "end": 900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 4
+  },
+  {
+    "start": 1260,
+    "end": 1440,
+    "start_time": 21.0,
+    "end_time": 24.0,
+    "raw_caption": "Two huskies are seen interacting in a living room during the day.",
+    "attribute_caption_useful": "{'What': 'dogs interacting', 'Where': 'living room', 'When': 'daytime', 'Who': 'two huskies'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.2;",
+    "sample_id_list": [
+      1260,
+      1320,
+      1380
+    ],
+    "raw_section": {
+      "start": 1260,
+      "end": 1440
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 7
+  },
+  {
+    "start": 1440,
+    "end": 1620,
+    "start_time": 24.0,
+    "end_time": 27.0,
+    "raw_caption": "Two dogs are seen interacting and playing in a living room during the day.",
+    "attribute_caption_useful": "{'What': 'dogs interacting', 'Where': 'living room', 'When': 'daytime', 'Who': 'two dogs'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      1440,
+      1500,
+      1560
+    ],
+    "raw_section": {
+      "start": 1440,
+      "end": 1620
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 8
+  },
+  {
+    "start": 1800,
+    "end": 1980,
+    "start_time": 30.0,
+    "end_time": 33.0,
+    "raw_caption": "Two dogs are playfully interacting in a living room during the day.",
+    "attribute_caption_useful": "{'What': 'dogs playing', 'Where': 'living room', 'When': 'daytime', 'Who': 'two dogs'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+    "sample_id_list": [
+      1800,
+      1860,
+      1920
+    ],
+    "raw_section": {
+      "start": 1800,
+      "end": 1980
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 10
+  },
+  {
+    "start": 4140,
+    "end": 4320,
+    "start_time": 69.1,
+    "end_time": 72.1,
+    "raw_caption": "A dog is being walked through a hardware store by its handler during the daytime.",
+    "attribute_caption_useful": "{'What': 'walking a dog', 'Where': 'hardware store', 'When': 'daytime', 'Who': 'dog and handler'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      4140,
+      4200,
+      4260
+    ],
+    "raw_section": {
+      "start": 4140,
+      "end": 4320
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 23
+  },
+  {
+    "start": 6660,
+    "end": 6840,
+    "start_time": 111.1,
+    "end_time": 114.1,
+    "raw_caption": "A dog is exploring a pet store aisle, looking at various toys and products.",
+    "attribute_caption_useful": "{'What': 'dog exploring', 'Where': 'pet store', 'When': 'indoors', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      6660,
+      6720,
+      6780
+    ],
+    "raw_section": {
+      "start": 6660,
+      "end": 6840
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 37
+  },
+  {
+    "start": 6840,
+    "end": 7020,
+    "start_time": 114.1,
+    "end_time": 117.1,
+    "raw_caption": "A dog is being walked through a pet store, exploring the aisles.",
+    "attribute_caption_useful": "{'What': 'dog walking in store', 'Where': 'pet store', 'When': 'daytime', 'Who': 'dog on leash'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      6840,
+      6900,
+      6960
+    ],
+    "raw_section": {
+      "start": 6840,
+      "end": 7020
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 38
+  },
+  {
+    "start": 7020,
+    "end": 7200,
+    "start_time": 117.1,
+    "end_time": 120.1,
+    "raw_caption": "A dog explores the pet store aisle, looking at various treats and products.",
+    "attribute_caption_useful": "{'What': 'dog shopping', 'Where': 'pet store', 'When': 'daytime', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      7020,
+      7080,
+      7140
+    ],
+    "raw_section": {
+      "start": 7020,
+      "end": 7200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 39
+  },
+  {
+    "start": 7560,
+    "end": 7740,
+    "start_time": 126.1,
+    "end_time": 129.1,
+    "raw_caption": "A dog is exploring the treat aisle in a pet store.",
+    "attribute_caption_useful": "{'What': 'dog browsing treats', 'Where': 'pet store', 'When': 'daytime', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      7560,
+      7620,
+      7680
+    ],
+    "raw_section": {
+      "start": 7560,
+      "end": 7740
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 42
+  },
+  {
+    "start": 7920,
+    "end": 8100,
+    "start_time": 132.1,
+    "end_time": 135.1,
+    "raw_caption": "A dog is exploring the aisles of a pet store, examining various products.",
+    "attribute_caption_useful": "{'What': 'dog shopping', 'Where': 'pet store', 'When': 'daytime', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.3;",
+    "sample_id_list": [
+      7920,
+      7980,
+      8040
+    ],
+    "raw_section": {
+      "start": 7920,
+      "end": 8100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 44
+  },
+  {
+    "start": 8460,
+    "end": 8640,
+    "start_time": 141.1,
+    "end_time": 144.1,
+    "raw_caption": "A dog is sniffing bags of pet food in a store aisle.",
+    "attribute_caption_useful": "{'What': 'dog sniffing pet food bags', 'Where': 'pet store', 'When': 'unknown', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.3;",
+    "sample_id_list": [
+      8460,
+      8520,
+      8580
+    ],
+    "raw_section": {
+      "start": 8460,
+      "end": 8640
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 47
+  },
+  {
+    "start": 9180,
+    "end": 9360,
+    "start_time": 153.2,
+    "end_time": 156.2,
+    "raw_caption": "A dog on a leash is exploring the pet food aisle in a store.",
+    "attribute_caption_useful": "{'What': 'dog browsing', 'Where': 'pet store', 'When': 'daytime', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      9180,
+      9240,
+      9300
+    ],
+    "raw_section": {
+      "start": 9180,
+      "end": 9360
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 51
+  },
+  {
+    "start": 9360,
+    "end": 9540,
+    "start_time": 156.2,
+    "end_time": 159.2,
+    "raw_caption": "A dog on a leash explores the pet food aisle in a store during the day.",
+    "attribute_caption_useful": "{'What': 'dog exploring pet store aisle', 'Where': 'pet store', 'When': 'daytime', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      9360,
+      9420,
+      9480
+    ],
+    "raw_section": {
+      "start": 9360,
+      "end": 9540
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 52
+  },
+  {
+    "start": 9540,
+    "end": 9720,
+    "start_time": 159.2,
+    "end_time": 162.2,
+    "raw_caption": "A dog is exploring the aisles of a pet store, sniffing around the shelves.",
+    "attribute_caption_useful": "{'What': 'dog exploring', 'Where': 'pet store', 'When': 'unknown', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.2;",
+    "sample_id_list": [
+      9540,
+      9600,
+      9660
+    ],
+    "raw_section": {
+      "start": 9540,
+      "end": 9720
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 53
+  },
+  {
+    "start": 10080,
+    "end": 10260,
+    "start_time": 168.2,
+    "end_time": 171.2,
+    "raw_caption": "A dog is being taken for a shopping trip to a pet store by its owner.",
+    "attribute_caption_useful": "{'What': 'shopping with dog', 'Where': 'pet store', 'When': 'daytime', 'Who': 'dog and owner'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      10080,
+      10140,
+      10200
+    ],
+    "raw_section": {
+      "start": 10080,
+      "end": 10260
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 56
+  },
+  {
+    "start": 10260,
+    "end": 10440,
+    "start_time": 171.2,
+    "end_time": 174.2,
+    "raw_caption": "A dog is being walked on a leash through a pet store aisle.",
+    "attribute_caption_useful": "{'What': 'walking dog', 'Where': 'pet store', 'When': 'daytime', 'Who': 'dog and handler'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      10260,
+      10320,
+      10380
+    ],
+    "raw_section": {
+      "start": 10260,
+      "end": 10440
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 57
+  },
+  {
+    "start": 10440,
+    "end": 10620,
+    "start_time": 174.2,
+    "end_time": 177.2,
+    "raw_caption": "A person walks a dog through a pet store, exploring the aisles.",
+    "attribute_caption_useful": "{'What': 'walking dog', 'Where': 'pet store', 'When': 'daytime', 'Who': 'dog and person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      10440,
+      10500,
+      10560
+    ],
+    "raw_section": {
+      "start": 10440,
+      "end": 10620
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 58
+  },
+  {
+    "start": 10800,
+    "end": 10980,
+    "start_time": 180.2,
+    "end_time": 183.2,
+    "raw_caption": "A dog on a leash is exploring the aisles of a pet store during the day.",
+    "attribute_caption_useful": "{'What': 'dog shopping', 'Where': 'pet store', 'When': 'daytime', 'Who': 'dog with leash'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      10800,
+      10860,
+      10920
+    ],
+    "raw_section": {
+      "start": 10800,
+      "end": 10980
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 60
+  },
+  {
+    "start": 10980,
+    "end": 11160,
+    "start_time": 183.2,
+    "end_time": 186.2,
+    "raw_caption": "A dog is exploring the aisles of a pet store, looking at various pet accessories.",
+    "attribute_caption_useful": "{'What': 'dog shopping', 'Where': 'pet store', 'When': 'unknown', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      10980,
+      11040,
+      11100
+    ],
+    "raw_section": {
+      "start": 10980,
+      "end": 11160
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 61
+  },
+  {
+    "start": 11340,
+    "end": 11520,
+    "start_time": 189.2,
+    "end_time": 192.2,
+    "raw_caption": "A dog is exploring the aisles of a pet store, sniffing at various products.",
+    "attribute_caption_useful": "{'What': 'dog exploring', 'Where': 'pet store', 'When': 'daytime', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      11340,
+      11400,
+      11460
+    ],
+    "raw_section": {
+      "start": 11340,
+      "end": 11520
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 63
+  },
+  {
+    "start": 12240,
+    "end": 12420,
+    "start_time": 204.2,
+    "end_time": 207.2,
+    "raw_caption": "A dog is exploring the aisles of a pet store, likely looking at pet food.",
+    "attribute_caption_useful": "{'What': 'dog shopping', 'Where': 'pet store', 'When': 'daytime', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      12240,
+      12300,
+      12360
+    ],
+    "raw_section": {
+      "start": 12240,
+      "end": 12420
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 68
+  },
+  {
+    "start": 13320,
+    "end": 13500,
+    "start_time": 222.2,
+    "end_time": 225.2,
+    "raw_caption": "A dog is inside a car being fed a fry during the day.",
+    "attribute_caption_useful": "{'What': 'dog being fed', 'Where': 'inside a car', 'When': 'daytime', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      13320,
+      13380,
+      13440
+    ],
+    "raw_section": {
+      "start": 13320,
+      "end": 13500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 74
+  },
+  {
+    "start": 13680,
+    "end": 13860,
+    "start_time": 228.2,
+    "end_time": 231.2,
+    "raw_caption": "A dog is eating a fry inside a car during the daytime.",
+    "attribute_caption_useful": "{'What': 'dog eating', 'Where': 'inside car', 'When': 'daytime', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      13680,
+      13740,
+      13800
+    ],
+    "raw_section": {
+      "start": 13680,
+      "end": 13860
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 76
+  },
+  {
+    "start": 14220,
+    "end": 14400,
+    "start_time": 237.2,
+    "end_time": 240.2,
+    "raw_caption": "A dog is being walked inside a store during the daytime.",
+    "attribute_caption_useful": "{'What': 'dog walking', 'Where': 'store', 'When': 'daytime', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      14220,
+      14280,
+      14340
+    ],
+    "raw_section": {
+      "start": 14220,
+      "end": 14400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 79
+  },
+  {
+    "start": 16740,
+    "end": 16920,
+    "start_time": 279.3,
+    "end_time": 282.3,
+    "raw_caption": "Two dogs are playing with toys in a living room during the day.",
+    "attribute_caption_useful": "{'What': 'playing with toys', 'Where': 'living room', 'When': 'daytime', 'Who': 'two dogs'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      16740,
+      16800,
+      16860
+    ],
+    "raw_section": {
+      "start": 16740,
+      "end": 16920
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 93
+  },
+  {
+    "start": 17460,
+    "end": 17640,
+    "start_time": 291.3,
+    "end_time": 294.3,
+    "raw_caption": "A dog is lying on a rug in a living room, playing with a toy during the day.",
+    "attribute_caption_useful": "{'What': 'playing with toy', 'Where': 'living room', 'When': 'daytime', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.2;",
+    "sample_id_list": [
+      17460,
+      17520,
+      17580
+    ],
+    "raw_section": {
+      "start": 17460,
+      "end": 17640
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 97
+  },
+  {
+    "start": 17640,
+    "end": 17820,
+    "start_time": 294.3,
+    "end_time": 297.3,
+    "raw_caption": "A dog is playing with a toy in the living room during the day.",
+    "attribute_caption_useful": "{'What': 'playing with toy', 'Where': 'living room', 'When': 'daytime', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      17640,
+      17700,
+      17760
+    ],
+    "raw_section": {
+      "start": 17640,
+      "end": 17820
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 98
+  },
+  {
+    "start": 17820,
+    "end": 18000,
+    "start_time": 297.3,
+    "end_time": 300.3,
+    "raw_caption": "A dog is playing with a toy on a rug in the living room.",
+    "attribute_caption_useful": "{'What': 'playing with toy', 'Where': 'living room', 'When': 'daytime', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      17820,
+      17880,
+      17940
+    ],
+    "raw_section": {
+      "start": 17820,
+      "end": 18000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 99
+  },
+  {
+    "start": 18360,
+    "end": 18540,
+    "start_time": 306.3,
+    "end_time": 309.3,
+    "raw_caption": "A dog is chewing on a toy in a living room during the day.",
+    "attribute_caption_useful": "{'What': 'chewing toy', 'Where': 'living room', 'When': 'daytime', 'Who': 'dog'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.2;",
+    "sample_id_list": [
+      18360,
+      18420,
+      18480
+    ],
+    "raw_section": {
+      "start": 18360,
+      "end": 18540
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 102
+  },
+  {
+    "start": 18540,
+    "end": 18720,
+    "start_time": 309.3,
+    "end_time": 312.3,
+    "raw_caption": "Two dogs are playing in a living room during the day.",
+    "attribute_caption_useful": "{'What': 'playing', 'Where': 'living room', 'When': 'daytime', 'Who': 'two dogs'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.4;",
+    "sample_id_list": [
+      18540,
+      18600,
+      18660
+    ],
+    "raw_section": {
+      "start": 18540,
+      "end": 18720
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 103
+  },
+  {
+    "start": 19260,
+    "end": 19440,
+    "start_time": 321.3,
+    "end_time": 324.3,
+    "raw_caption": "Two dogs are in a living room, with one chewing on a toy.",
+    "attribute_caption_useful": "{'What': 'playing with toy', 'Where': 'living room', 'When': 'unknown', 'Who': 'two dogs'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      19260,
+      19320,
+      19380
+    ],
+    "raw_section": {
+      "start": 19260,
+      "end": 19440
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Gone_to_the_Snow_Dogs/iISfWRiDe1g.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 107
+  }
+]

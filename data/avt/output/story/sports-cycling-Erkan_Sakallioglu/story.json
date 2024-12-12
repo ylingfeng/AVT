@@ -1,0 +1,478 @@
+{
+  "choose_clip_info": "step2 story: use merge. multi step1 (True), multi step2 (False), story choose: 20, all story video clip: 76, all useful video clip: 239, all video clip: 320",
+  "story_result": {
+    "section_id_list": [
+      6,
+      7,
+      11,
+      18,
+      21,
+      23,
+      25,
+      33,
+      40,
+      65,
+      66,
+      77,
+      97,
+      139,
+      152,
+      154,
+      158,
+      160,
+      162,
+      167
+    ],
+    "clip_caption": {
+      "6": "The clip shows a man mountain biking through a forest trail during the day, which could serve as an introductory scene due to its depiction of a solitary rider beginning his adventure.",
+      "7": "A man is shown biking on a rugged trail, adding a sense of challenge and progression to the narrative, suitable for a middle sequence.",
+      "11": "This clip highlights a cyclist's adventurous ride along a forest trail, making it ideal for showcasing the thrill of mountain biking in the middle of the sequence.",
+      "18": "A cyclist rides along a scenic mountain trail, which could be used to transition between different terrains in the sequence.",
+      "21": "Two cyclists are seen biking on a scenic trail, introducing camaraderie and shared experience, fitting for the middle of the sequence.",
+      "23": "The clip features two cyclists biking along a scenic trail, which can emphasize the social aspect of biking, suitable for the middle part of the story.",
+      "25": "Two cyclists biking on a scenic trail reinforces the theme of companionship and adventure, fitting for the middle of the sequence.",
+      "33": "A cyclist riding down a scenic mountain trail adds dynamic movement and could serve as a transition to more challenging scenes.",
+      "40": "The clip showcases a cyclist on a mountain trail, highlighting an adventurous experience, fitting for the middle of the sequence.",
+      "65": "A cyclist is mountain biking along a scenic trail, which could be used to depict the beauty of the trail, suitable for the middle of the sequence.",
+      "66": "This clip captures an exciting biking experience through a forest trail, which can be used to highlight the thrill of mountain biking in the middle of the sequence.",
+      "77": "A cyclist navigating a rocky mountain trail introduces difficulty and skill, suitable for a climactic point in the sequence.",
+      "97": "The clip shows a cyclist mountain biking down a trail, which could depict the descent and conclusion of the adventure.",
+      "139": "A cyclist navigating a mountain trail offers a sense of exploration and can be used in the middle of the sequence.",
+      "152": "A man biking along a scenic trail provides a peaceful and reflective moment, suitable for transitioning towards the end of the sequence.",
+      "154": "Two cyclists on a scenic trail reinforce the theme of shared adventure, fitting for the middle of the sequence.",
+      "158": "This clip shows two cyclists riding down a mountain trail, which could depict the descent towards the conclusion of the sequence.",
+      "160": "A cyclist riding along a scenic trail provides a tranquil moment that could be used to transition towards the end.",
+      "162": "A cyclist showcasing an adventurous biking experience along a mountain trail fits well in the middle of the sequence.",
+      "167": "A rider navigating a forest trail offers a sense of exploration and adventure, suitable for the middle of the sequence."
+    },
+    "theme_caption": {
+      "[6, 11, 66, 167]": "Forest Trail Adventure: These clips capture the thrill and excitement of mountain biking through forest trails, highlighting the solitary and adventurous aspects of the sport.",
+      "[7, 18, 77, 139]": "Challenging Terrain: This theme focuses on the rugged and rocky mountain trails, showcasing the skill and challenge involved in navigating these paths.",
+      "[21, 23, 25, 154]": "Shared Journey: These clips emphasize the camaraderie and shared experience of biking with others, featuring pairs of cyclists enjoying scenic trails together.",
+      "[33, 40, 65, 97, 152, 158, 160, 162]": "Scenic Mountain Trails: A collection of clips highlighting the beauty and adventure of riding along scenic mountain trails, capturing both individual and shared experiences."
+    },
+    "global_caption": "The video collection takes viewers on an exhilarating journey through diverse mountain biking experiences. It begins with solitary rides through forest trails, capturing the thrill of adventure. The narrative then transitions to challenging terrains, where cyclists navigate rugged and rocky paths, showcasing their skills. As the journey progresses, the theme of companionship emerges, with pairs of cyclists sharing the experience on scenic trails. The collection concludes with a focus on the beauty and excitement of scenic mountain trails, offering a blend of individual challenges and shared adventures."
+  },
+  "output_section_info_list": [
+    {
+      "start": 540,
+      "end": 630,
+      "start_time": 18.0,
+      "end_time": 21.0,
+      "raw_caption": "A man is mountain biking through a forest trail during the day.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'forest trail', 'When': 'daytime', 'Who': 'man with gloves'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        540,
+        570,
+        600
+      ],
+      "raw_section": {
+        "start": 540,
+        "end": 630
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/AO6p0jlOd6U.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 6
+    },
+    {
+      "start": 630,
+      "end": 720,
+      "start_time": 21.0,
+      "end_time": 24.0,
+      "raw_caption": "A man is mountain biking on a rugged trail during the day.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'man with helmet'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        630,
+        660,
+        690
+      ],
+      "raw_section": {
+        "start": 630,
+        "end": 720
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/AO6p0jlOd6U.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 7
+    },
+    {
+      "start": 990,
+      "end": 1080,
+      "start_time": 33.0,
+      "end_time": 36.0,
+      "raw_caption": "A cyclist is riding along a forest trail during the day, showcasing an adventurous mountain biking experience.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'forest trail', 'When': 'daytime', 'Who': 'cyclist'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        990,
+        1020,
+        1050
+      ],
+      "raw_section": {
+        "start": 990,
+        "end": 1080
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/AO6p0jlOd6U.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 11
+    },
+    {
+      "start": 1620,
+      "end": 1710,
+      "start_time": 54.1,
+      "end_time": 57.1,
+      "raw_caption": "A cyclist is riding along a scenic mountain trail during the day.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'cyclist'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        1620,
+        1650,
+        1680
+      ],
+      "raw_section": {
+        "start": 1620,
+        "end": 1710
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/AO6p0jlOd6U.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 18
+    },
+    {
+      "start": 1890,
+      "end": 1980,
+      "start_time": 63.1,
+      "end_time": 66.1,
+      "raw_caption": "Two cyclists are mountain biking on a scenic trail during the day.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'two cyclists'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        1890,
+        1920,
+        1950
+      ],
+      "raw_section": {
+        "start": 1890,
+        "end": 1980
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/AO6p0jlOd6U.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 21
+    },
+    {
+      "start": 2070,
+      "end": 2160,
+      "start_time": 69.1,
+      "end_time": 72.1,
+      "raw_caption": "Two cyclists are mountain biking along a scenic trail during the day.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'two cyclists'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        2070,
+        2100,
+        2130
+      ],
+      "raw_section": {
+        "start": 2070,
+        "end": 2160
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/AO6p0jlOd6U.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 23
+    },
+    {
+      "start": 2250,
+      "end": 2340,
+      "start_time": 75.1,
+      "end_time": 78.1,
+      "raw_caption": "Two cyclists are mountain biking on a scenic trail during the day.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'two cyclists'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        2250,
+        2280,
+        2310
+      ],
+      "raw_section": {
+        "start": 2250,
+        "end": 2340
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/AO6p0jlOd6U.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 25
+    },
+    {
+      "start": 2970,
+      "end": 3060,
+      "start_time": 99.1,
+      "end_time": 102.1,
+      "raw_caption": "A cyclist is riding down a scenic mountain trail during the day.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'cyclist'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        2970,
+        3000,
+        3030
+      ],
+      "raw_section": {
+        "start": 2970,
+        "end": 3060
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/AO6p0jlOd6U.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 33
+    },
+    {
+      "start": 3600,
+      "end": 3690,
+      "start_time": 120.1,
+      "end_time": 123.1,
+      "raw_caption": "A cyclist is riding on a mountain trail during the daytime, showcasing an adventurous biking experience.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'cyclist'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        3600,
+        3630,
+        3660
+      ],
+      "raw_section": {
+        "start": 3600,
+        "end": 3690
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/AO6p0jlOd6U.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 40
+    },
+    {
+      "start": 5850,
+      "end": 5940,
+      "start_time": 195.2,
+      "end_time": 198.2,
+      "raw_caption": "A cyclist is mountain biking along a scenic trail during the day.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'cyclist'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        5850,
+        5880,
+        5910
+      ],
+      "raw_section": {
+        "start": 5850,
+        "end": 5940
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/AO6p0jlOd6U.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 65
+    },
+    {
+      "start": 5940,
+      "end": 6030,
+      "start_time": 198.2,
+      "end_time": 201.2,
+      "raw_caption": "A cyclist is riding through a forest trail during the day, capturing an exciting biking experience.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'forest trail', 'When': 'daytime', 'Who': 'cyclist'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        5940,
+        5970,
+        6000
+      ],
+      "raw_section": {
+        "start": 5940,
+        "end": 6030
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/AO6p0jlOd6U.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 66
+    },
+    {
+      "start": 0,
+      "end": 90,
+      "start_time": 0.0,
+      "end_time": 3.0,
+      "raw_caption": "A cyclist is navigating a rocky mountain trail during the day.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'cyclist'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+      "sample_id_list": [
+        0,
+        30,
+        60
+      ],
+      "raw_section": {
+        "start": 0,
+        "end": 90
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/iwCSAYGwPq4.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 77
+    },
+    {
+      "start": 1800,
+      "end": 1890,
+      "start_time": 60.1,
+      "end_time": 63.1,
+      "raw_caption": "A cyclist is mountain biking down a trail during the day.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'cyclist'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        1800,
+        1830,
+        1860
+      ],
+      "raw_section": {
+        "start": 1800,
+        "end": 1890
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/iwCSAYGwPq4.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 97
+    },
+    {
+      "start": 5580,
+      "end": 5670,
+      "start_time": 186.2,
+      "end_time": 189.2,
+      "raw_caption": "A cyclist navigates a mountain trail during the day.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'cyclist'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        5580,
+        5610,
+        5640
+      ],
+      "raw_section": {
+        "start": 5580,
+        "end": 5670
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/iwCSAYGwPq4.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 139
+    },
+    {
+      "start": 6750,
+      "end": 6840,
+      "start_time": 225.2,
+      "end_time": 228.2,
+      "raw_caption": "A man is mountain biking along a scenic trail during the day.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        6750,
+        6780,
+        6810
+      ],
+      "raw_section": {
+        "start": 6750,
+        "end": 6840
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/iwCSAYGwPq4.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 152
+    },
+    {
+      "start": 6930,
+      "end": 7020,
+      "start_time": 231.2,
+      "end_time": 234.2,
+      "raw_caption": "Two cyclists are mountain biking on a scenic trail during the day.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'two cyclists'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        6930,
+        6960,
+        6990
+      ],
+      "raw_section": {
+        "start": 6930,
+        "end": 7020
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/iwCSAYGwPq4.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 154
+    },
+    {
+      "start": 0,
+      "end": 90,
+      "start_time": 0.0,
+      "end_time": 3.0,
+      "raw_caption": "Two cyclists are riding down a mountain trail on a sunny day.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'two cyclists'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        0,
+        30,
+        60
+      ],
+      "raw_section": {
+        "start": 0,
+        "end": 90
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/xLhHU8uo2aY.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 158
+    },
+    {
+      "start": 180,
+      "end": 270,
+      "start_time": 6.0,
+      "end_time": 9.0,
+      "raw_caption": "A cyclist rides along a scenic mountain trail during the day.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'cyclist'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        180,
+        210,
+        240
+      ],
+      "raw_section": {
+        "start": 180,
+        "end": 270
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/xLhHU8uo2aY.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 160
+    },
+    {
+      "start": 360,
+      "end": 450,
+      "start_time": 12.0,
+      "end_time": 15.0,
+      "raw_caption": "A cyclist is riding along a mountain trail during the day, showcasing an adventurous biking experience.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'cyclist'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        360,
+        390,
+        420
+      ],
+      "raw_section": {
+        "start": 360,
+        "end": 450
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/xLhHU8uo2aY.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 162
+    },
+    {
+      "start": 810,
+      "end": 900,
+      "start_time": 27.0,
+      "end_time": 30.0,
+      "raw_caption": "A rider navigates a forest trail on a mountain bike during the day.",
+      "attribute_caption_useful": "{'What': 'mountain biking', 'Where': 'forest trail', 'When': 'daytime', 'Who': 'unknown rider'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+      "sample_id_list": [
+        810,
+        840,
+        870
+      ],
+      "raw_section": {
+        "start": 810,
+        "end": 900
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-cycling-Erkan_Sakallioglu/xLhHU8uo2aY.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 167
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "choose_clip_info": "step2 story: use merge. multi step1 (True), multi step2 (False), story choose: 20, all story video clip: 67, all useful video clip: 194, all video clip: 215",
+  "story_result": {
+    "section_id_list": [
+      0,
+      4,
+      12,
+      19,
+      24,
+      28,
+      33,
+      34,
+      35,
+      37,
+      54,
+      60,
+      83,
+      86,
+      89,
+      98,
+      99,
+      106,
+      108,
+      131
+    ],
+    "clip_caption": {
+      "0": "This clip captures a casual or practice roller skating event at an indoor rink, setting the stage for the environment and participants, making it suitable for the beginning.",
+      "4": "Similar to clip 0, this clip shows children and adults roller skating indoors, reinforcing the initial setting and atmosphere.",
+      "12": "Featuring a roller skating performance, this clip introduces a more structured activity, marking a transition from casual skating to organized routines.",
+      "19": "This clip shows people both practicing and performing moves, serving as a bridge between casual skating and more formal performances.",
+      "24": "Skaters performing while observers watch adds an audience element, indicating a shift towards a performance-focused theme.",
+      "28": "A woman in a pink outfit performing suggests a highlighted individual performance, adding diversity to the sequence of performances.",
+      "33": "A young boy performing a routine highlights youthful talent, contributing to the diversity of performers.",
+      "34": "A young skater with a number performs, emphasizing skill and competition, and is a key highlight in the performance sequence.",
+      "35": "Skaters performing routines while an audience watches reinforces the theme of organized performances.",
+      "37": "A group showcasing various moves adds to the diversity and complexity of performances, enhancing the narrative of the event.",
+      "54": "A single skater performing can serve as a moment of focus within the sequence of performances.",
+      "60": "Two people performing synchronized movements add an element of teamwork and coordination.",
+      "83": "Two people skating together highlights companionship and can serve as a transition between individual and group performances.",
+      "86": "Two young boys skating together emphasizes youthful participation and camaraderie.",
+      "89": "A synchronized routine by a group of skaters showcases advanced coordination, serving as a climax in the performance narrative.",
+      "98": "A group performing a routine adds to the sense of collective effort and spectacle.",
+      "99": "Two skaters performing under dim lighting provides a dramatic visual element, enhancing the narrative with mood and atmosphere.",
+      "106": "Two skaters performing while observers watch emphasizes audience engagement and can serve as a conclusion to the performance segment.",
+      "108": "Two people skating while others watch from the sidelines reinforces the theme of audience participation.",
+      "131": "A man skating alone offers a reflective or concluding note, suitable for ending the sequence."
+    },
+    "theme_caption": {
+      "[0, 4, 19, 108]": "Casual and Practice Skating: These clips depict people casually roller skating in an indoor rink, setting a relaxed and community-oriented atmosphere.",
+      "[12, 24, 28, 33, 34, 35, 37, 54, 60, 83, 89, 98, 99, 106]": "Performance and Routine: This theme captures skaters performing routines, showcasing individual and group talents, with audience engagement.",
+      "[86, 131]": "Youthful and Solo Moments: These clips highlight the participation of young skaters and solitary performances, adding variety to the narrative."
+    },
+    "global_caption": "The video collection presents a vibrant roller skating event at an indoor rink during the evening. It begins with scenes of casual and practice skating, where people of all ages enjoy the rink's atmosphere. As the sequence progresses, it transitions to more organized performances, highlighting both individual talents and group routines. The presence of an audience adds to the event's lively ambiance. The collection concludes with moments of youthful participation and solitary skating, offering a reflective and diverse portrayal of the roller skating experience."
+  },
+  "output_section_info_list": [
+    {
+      "start": 0,
+      "end": 90,
+      "start_time": 0.0,
+      "end_time": 3.0,
+      "raw_caption": "People are roller skating in an indoor rink, possibly during a practice or casual event.",
+      "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'multiple people including adults and children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.6;",
+      "sample_id_list": [
+        0,
+        30,
+        60
+      ],
+      "raw_section": {
+        "start": 0,
+        "end": 90
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+      "Highlight": "['Highlight Score']: 0.6",
+      "clip_id": 0
+    },
+    {
+      "start": 360,
+      "end": 450,
+      "start_time": 12.0,
+      "end_time": 15.0,
+      "raw_caption": "Children and adults are roller skating inside an indoor rink, possibly during a skating event or practice.",
+      "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'children and adults'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.6;",
+      "sample_id_list": [
+        360,
+        390,
+        420
+      ],
+      "raw_section": {
+        "start": 360,
+        "end": 450
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+      "Highlight": "['Highlight Score']: 0.6",
+      "clip_id": 4
+    },
+    {
+      "start": 1080,
+      "end": 1170,
+      "start_time": 36.0,
+      "end_time": 39.0,
+      "raw_caption": "Multiple skaters perform a routine at an indoor skating rink under artificial lighting.",
+      "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'multiple skaters'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        1080,
+        1110,
+        1140
+      ],
+      "raw_section": {
+        "start": 1080,
+        "end": 1170
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 12
+    },
+    {
+      "start": 1710,
+      "end": 1800,
+      "start_time": 57.0,
+      "end_time": 60.0,
+      "raw_caption": "People are roller skating in an indoor rink, practicing and performing moves.",
+      "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'multiple people including a man and woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+      "sample_id_list": [
+        1710,
+        1740,
+        1770
+      ],
+      "raw_section": {
+        "start": 1710,
+        "end": 1800
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 19
+    },
+    {
+      "start": 2160,
+      "end": 2250,
+      "start_time": 72.0,
+      "end_time": 75.0,
+      "raw_caption": "Skaters perform at an indoor skating rink while observers watch from the sidelines.",
+      "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'skaters and observers'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        2160,
+        2190,
+        2220
+      ],
+      "raw_section": {
+        "start": 2160,
+        "end": 2250
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 24
+    },
+    {
+      "start": 2520,
+      "end": 2610,
+      "start_time": 84.0,
+      "end_time": 87.0,
+      "raw_caption": "A woman in a pink outfit is performing roller skating at an indoor rink while spectators watch.",
+      "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'woman in pink outfit and spectators'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+      "sample_id_list": [
+        2520,
+        2550,
+        2580
+      ],
+      "raw_section": {
+        "start": 2520,
+        "end": 2610
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 28
+    },
+    {
+      "start": 2970,
+      "end": 3060,
+      "start_time": 99.0,
+      "end_time": 102.0,
+      "raw_caption": "A young boy is performing a roller skating routine at an indoor rink.",
+      "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor roller rink', 'When': 'evening', 'Who': 'young boy'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        2970,
+        3000,
+        3030
+      ],
+      "raw_section": {
+        "start": 2970,
+        "end": 3060
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 33
+    },
+    {
+      "start": 3060,
+      "end": 3150,
+      "start_time": 102.0,
+      "end_time": 105.0,
+      "raw_caption": "A young skater performs at an indoor skating rink, showcasing their skills in front of an audience.",
+      "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'young skater with number 736'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        3060,
+        3090,
+        3120
+      ],
+      "raw_section": {
+        "start": 3060,
+        "end": 3150
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 34
+    },
+    {
+      "start": 3150,
+      "end": 3240,
+      "start_time": 105.0,
+      "end_time": 108.0,
+      "raw_caption": "Skaters perform routines at an indoor rink while the audience watches.",
+      "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'skaters and audience'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        3150,
+        3180,
+        3210
+      ],
+      "raw_section": {
+        "start": 3150,
+        "end": 3240
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 35
+    },
+    {
+      "start": 3330,
+      "end": 3420,
+      "start_time": 111.0,
+      "end_time": 114.0,
+      "raw_caption": "A group of skaters perform at an indoor skating rink, showcasing various moves and routines.",
+      "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of skaters'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+      "sample_id_list": [
+        3330,
+        3360,
+        3390
+      ],
+      "raw_section": {
+        "start": 3330,
+        "end": 3420
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 37
+    },
+    {
+      "start": 540,
+      "end": 630,
+      "start_time": 18.0,
+      "end_time": 21.0,
+      "raw_caption": "A skater performs at an indoor skating rink during the evening.",
+      "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'skater'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.5; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+      "sample_id_list": [
+        540,
+        570,
+        600
+      ],
+      "raw_section": {
+        "start": 540,
+        "end": 630
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 54
+    },
+    {
+      "start": 1080,
+      "end": 1170,
+      "start_time": 36.0,
+      "end_time": 39.0,
+      "raw_caption": "Two people are roller skating together in an indoor rink, performing synchronized movements.",
+      "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'two people'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+      "sample_id_list": [
+        1080,
+        1110,
+        1140
+      ],
+      "raw_section": {
+        "start": 1080,
+        "end": 1170
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 60
+    },
+    {
+      "start": 3150,
+      "end": 3240,
+      "start_time": 105.0,
+      "end_time": 108.0,
+      "raw_caption": "Two people are roller skating together in an indoor rink.",
+      "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'skating rink', 'When': 'indoor', 'Who': 'two people'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        3150,
+        3180,
+        3210
+      ],
+      "raw_section": {
+        "start": 3150,
+        "end": 3240
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 83
+    },
+    {
+      "start": 3420,
+      "end": 3510,
+      "start_time": 114.0,
+      "end_time": 117.0,
+      "raw_caption": "Two young boys are roller skating together in an indoor rink.",
+      "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'two young boys'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        3420,
+        3450,
+        3480
+      ],
+      "raw_section": {
+        "start": 3420,
+        "end": 3510
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 86
+    },
+    {
+      "start": 3690,
+      "end": 3780,
+      "start_time": 123.0,
+      "end_time": 126.0,
+      "raw_caption": "A group of skaters performs a synchronized routine in an indoor skating rink.",
+      "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of skaters'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        3690,
+        3720,
+        3750
+      ],
+      "raw_section": {
+        "start": 3690,
+        "end": 3780
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 89
+    },
+    {
+      "start": 4500,
+      "end": 4590,
+      "start_time": 150.0,
+      "end_time": 153.0,
+      "raw_caption": "A group of skaters performs a routine at an indoor skating rink.",
+      "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of skaters'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        4500,
+        4530,
+        4560
+      ],
+      "raw_section": {
+        "start": 4500,
+        "end": 4590
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 98
+    },
+    {
+      "start": 4590,
+      "end": 4680,
+      "start_time": 153.0,
+      "end_time": 156.0,
+      "raw_caption": "Two skaters perform a routine in an indoor skating rink under dim lighting.",
+      "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'two skaters'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        4590,
+        4620,
+        4650
+      ],
+      "raw_section": {
+        "start": 4590,
+        "end": 4680
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 99
+    },
+    {
+      "start": 5220,
+      "end": 5310,
+      "start_time": 174.0,
+      "end_time": 177.0,
+      "raw_caption": "Two skaters perform on an indoor rink while observers watch from the sidelines.",
+      "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'two skaters'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+      "sample_id_list": [
+        5220,
+        5250,
+        5280
+      ],
+      "raw_section": {
+        "start": 5220,
+        "end": 5310
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 106
+    },
+    {
+      "start": 5400,
+      "end": 5490,
+      "start_time": 180.0,
+      "end_time": 183.0,
+      "raw_caption": "Two people are roller skating in an indoor rink while others watch from the sidelines.",
+      "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'indoor lighting, likely evening', 'Who': 'two skaters, audience watching'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+      "sample_id_list": [
+        5400,
+        5430,
+        5460
+      ],
+      "raw_section": {
+        "start": 5400,
+        "end": 5490
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 108
+    },
+    {
+      "start": 7470,
+      "end": 7560,
+      "start_time": 249.0,
+      "end_time": 252.0,
+      "raw_caption": "A man is roller skating alone in an indoor skating rink during the evening.",
+      "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+      "sample_id_list": [
+        7470,
+        7500,
+        7530
+      ],
+      "raw_section": {
+        "start": 7470,
+        "end": 7560
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 131
+    }
+  ]
+}

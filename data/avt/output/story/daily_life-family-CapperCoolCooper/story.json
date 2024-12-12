@@ -1,0 +1,476 @@
+{
+  "choose_clip_info": "step2 story: use merge. multi step1 (True), multi step2 (False), story choose: 20, all story video clip: 47, all useful video clip: 98, all video clip: 179",
+  "story_result": {
+    "section_id_list": [
+      4,
+      6,
+      8,
+      9,
+      15,
+      17,
+      18,
+      29,
+      30,
+      31,
+      32,
+      35,
+      36,
+      37,
+      43,
+      45,
+      48,
+      56,
+      58,
+      59
+    ],
+    "clip_caption": {
+      "4": "The video opens with a child playing on an obstacle course at a forest playground during the day, setting the playful and adventurous tone for the sequence.",
+      "6": "This clip shows children and an adult on an obstacle course, highlighting the social aspect of the activity in a forest playground.",
+      "8": "Children are seen playing on an obstacle course in a forest park, emphasizing the communal and energetic atmosphere of the setting.",
+      "9": "Children climbing ropes at an adventure park during the day introduces a new activity, showcasing the variety of challenges available.",
+      "15": "A boy climbing a bouldering wall in a park adds a different dimension to the activities, focusing on individual skill and determination.",
+      "17": "A child climbing a tire obstacle course in a forest continues the theme of physical challenges in a natural setting.",
+      "18": "A boy participating in an obstacle course in a forest setting highlights the involvement of different age groups in the activity.",
+      "29": "A child swinging over a stream with the assistance of two adults introduces the idea of teamwork and support in overcoming obstacles.",
+      "30": "Three children swinging over a small pond in a forest park captures the joy and excitement of the activity.",
+      "31": "Children swinging over a small pond in a forest park continues the theme of fun and adventure in nature.",
+      "32": "Children playing by swinging over a stream in a forested area emphasizes the playful interaction with the natural environment.",
+      "35": "Children swinging over a stream in a forested area showcases the carefree enjoyment of outdoor activities.",
+      "36": "A group of children taking turns swinging over a creek in a forest park highlights the cooperative play aspect.",
+      "37": "A group of children swinging over a creek in a forest area during the daytime reinforces the theme of shared adventure.",
+      "43": "Children and adults taking turns swinging over a creek in a forested area underlines the inclusivity and shared enjoyment of the activity.",
+      "45": "A child swinging over a creek while two others watch from a platform adds a narrative of anticipation and encouragement.",
+      "48": "A boy swinging on a rope over a creek, watched by a woman and others, emphasizes the supportive and communal environment.",
+      "56": "A boy swinging on a rope over a small body of water in a forest setting captures the essence of adventure and thrill.",
+      "58": "A child joyfully swinging on a rope over a small body of water in a forest park highlights the pure enjoyment of the activity.",
+      "59": "A child swinging on a rope over a small body of water in a forest park during the day serves as a fitting conclusion, encapsulating the spirit of fun and freedom."
+    },
+    "theme_caption": {
+      "[4, 6, 8, 9, 15, 17, 18]": "Obstacle Course Challenges: This theme captures the excitement and variety of activities children and adults engage in at forest and adventure parks, focusing on obstacle courses and climbing challenges.",
+      "[29, 30, 31, 32, 35, 36, 37, 43, 45, 48, 56, 58, 59]": "Swinging Adventures: The theme revolves around the joy and thrill of swinging over water bodies in forest settings, highlighting both individual and group activities, with a focus on fun and camaraderie."
+    },
+    "global_caption": "The video collection presents a vivid portrayal of outdoor adventures in forest and park settings, capturing the essence of childhood play and exploration. It begins with children engaging in various obstacle course challenges, showcasing their physical skills and the social interactions that occur in these environments. The narrative then shifts to the excitement of swinging over streams and ponds, where children and adults alike experience joy and thrill, emphasizing the communal and supportive nature of these activities. The sequence concludes with a celebration of the carefree and adventurous spirit that defines these playful outdoor experiences."
+  },
+  "output_section_info_list": [
+    {
+      "start": 360,
+      "end": 450,
+      "start_time": 12.0,
+      "end_time": 15.0,
+      "raw_caption": "A child is playing on an obstacle course at a forest playground during the day.",
+      "attribute_caption_useful": "{'What': 'playing on obstacle course', 'Where': 'forest playground', 'When': 'daytime', 'Who': 'child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+      "sample_id_list": [
+        360,
+        390,
+        420
+      ],
+      "raw_section": {
+        "start": 360,
+        "end": 450
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 4
+    },
+    {
+      "start": 540,
+      "end": 630,
+      "start_time": 18.0,
+      "end_time": 21.0,
+      "raw_caption": "Children and an adult are playing on an obstacle course in a forest playground during the day.",
+      "attribute_caption_useful": "{'What': 'playing on an obstacle course', 'Where': 'forest playground', 'When': 'daytime', 'Who': 'children and adult'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        540,
+        570,
+        600
+      ],
+      "raw_section": {
+        "start": 540,
+        "end": 630
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 6
+    },
+    {
+      "start": 720,
+      "end": 810,
+      "start_time": 24.0,
+      "end_time": 27.0,
+      "raw_caption": "Children are playing on an obstacle course in a forest park during the day.",
+      "attribute_caption_useful": "{'What': 'playing on obstacle course', 'Where': 'forest park', 'When': 'daytime', 'Who': 'children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        720,
+        750,
+        780
+      ],
+      "raw_section": {
+        "start": 720,
+        "end": 810
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 8
+    },
+    {
+      "start": 810,
+      "end": 900,
+      "start_time": 27.0,
+      "end_time": 30.0,
+      "raw_caption": "Children are climbing ropes at an adventure park during the day.",
+      "attribute_caption_useful": "{'What': 'climbing ropes', 'Where': 'adventure park', 'When': 'daytime', 'Who': 'children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        810,
+        840,
+        870
+      ],
+      "raw_section": {
+        "start": 810,
+        "end": 900
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 9
+    },
+    {
+      "start": 1350,
+      "end": 1440,
+      "start_time": 45.0,
+      "end_time": 48.0,
+      "raw_caption": "A boy is climbing a bouldering wall in a park during the day.",
+      "attribute_caption_useful": "{'What': 'bouldering', 'Where': 'park with climbing wall', 'When': 'daytime', 'Who': 'boy'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        1350,
+        1380,
+        1410
+      ],
+      "raw_section": {
+        "start": 1350,
+        "end": 1440
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 15
+    },
+    {
+      "start": 1530,
+      "end": 1620,
+      "start_time": 51.1,
+      "end_time": 54.1,
+      "raw_caption": "A child is climbing a tire obstacle course in a forest during the day.",
+      "attribute_caption_useful": "{'What': 'climbing obstacle', 'Where': 'forest', 'When': 'daytime', 'Who': 'child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        1530,
+        1560,
+        1590
+      ],
+      "raw_section": {
+        "start": 1530,
+        "end": 1620
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 17
+    },
+    {
+      "start": 1620,
+      "end": 1710,
+      "start_time": 54.1,
+      "end_time": 57.1,
+      "raw_caption": "A boy participates in an obstacle course in a forest setting during the day.",
+      "attribute_caption_useful": "{'What': 'obstacle course', 'Where': 'forest', 'When': 'daytime', 'Who': 'boy and adults'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        1620,
+        1650,
+        1680
+      ],
+      "raw_section": {
+        "start": 1620,
+        "end": 1710
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 18
+    },
+    {
+      "start": 2610,
+      "end": 2700,
+      "start_time": 87.1,
+      "end_time": 90.1,
+      "raw_caption": "A child swings over a stream in a forest setting, assisted by two adults.",
+      "attribute_caption_useful": "{'What': 'swinging over a stream', 'Where': 'forest stream', 'When': 'daytime', 'Who': 'child and two adults'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        2610,
+        2640,
+        2670
+      ],
+      "raw_section": {
+        "start": 2610,
+        "end": 2700
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 29
+    },
+    {
+      "start": 2700,
+      "end": 2790,
+      "start_time": 90.1,
+      "end_time": 93.1,
+      "raw_caption": "Three children are playing by swinging over a small pond in a forest park during the day.",
+      "attribute_caption_useful": "{'What': 'swinging over water', 'Where': 'forest park', 'When': 'daytime', 'Who': 'three children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        2700,
+        2730,
+        2760
+      ],
+      "raw_section": {
+        "start": 2700,
+        "end": 2790
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 30
+    },
+    {
+      "start": 2790,
+      "end": 2880,
+      "start_time": 93.1,
+      "end_time": 96.1,
+      "raw_caption": "Children are swinging over a small pond in a forest park during the day.",
+      "attribute_caption_useful": "{'What': 'swinging over water', 'Where': 'forest park', 'When': 'daytime', 'Who': 'children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        2790,
+        2820,
+        2850
+      ],
+      "raw_section": {
+        "start": 2790,
+        "end": 2880
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 31
+    },
+    {
+      "start": 2880,
+      "end": 2970,
+      "start_time": 96.1,
+      "end_time": 99.1,
+      "raw_caption": "Children are playing by swinging over a stream in a forested area during the day.",
+      "attribute_caption_useful": "{'What': 'swinging over water', 'Where': 'forest area with a stream', 'When': 'daytime', 'Who': 'children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        2880,
+        2910,
+        2940
+      ],
+      "raw_section": {
+        "start": 2880,
+        "end": 2970
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 32
+    },
+    {
+      "start": 3150,
+      "end": 3240,
+      "start_time": 105.1,
+      "end_time": 108.1,
+      "raw_caption": "Children are swinging over a stream in a forested area during the day.",
+      "attribute_caption_useful": "{'What': 'swinging over water', 'Where': 'forest stream', 'When': 'daytime', 'Who': 'children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        3150,
+        3180,
+        3210
+      ],
+      "raw_section": {
+        "start": 3150,
+        "end": 3240
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 35
+    },
+    {
+      "start": 3240,
+      "end": 3330,
+      "start_time": 108.1,
+      "end_time": 111.1,
+      "raw_caption": "A group of children take turns swinging over a creek in a forest park during the day.",
+      "attribute_caption_useful": "{'What': 'swinging over a creek', 'Where': 'forest park', 'When': 'daytime', 'Who': 'group of children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        3240,
+        3270,
+        3300
+      ],
+      "raw_section": {
+        "start": 3240,
+        "end": 3330
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 36
+    },
+    {
+      "start": 3330,
+      "end": 3420,
+      "start_time": 111.1,
+      "end_time": 114.1,
+      "raw_caption": "A group of children are playing by swinging over a creek in a forest area during the daytime.",
+      "attribute_caption_useful": "{'What': 'swinging over a creek', 'Where': 'forest creek', 'When': 'daytime', 'Who': 'group of children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        3330,
+        3360,
+        3390
+      ],
+      "raw_section": {
+        "start": 3330,
+        "end": 3420
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 37
+    },
+    {
+      "start": 3870,
+      "end": 3960,
+      "start_time": 129.1,
+      "end_time": 132.1,
+      "raw_caption": "Children and adults are taking turns swinging over a creek in a forested area.",
+      "attribute_caption_useful": "{'What': 'swinging over a creek', 'Where': 'forest creek', 'When': 'daytime', 'Who': 'children and adults'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        3870,
+        3900,
+        3930
+      ],
+      "raw_section": {
+        "start": 3870,
+        "end": 3960
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 43
+    },
+    {
+      "start": 4050,
+      "end": 4140,
+      "start_time": 135.1,
+      "end_time": 138.1,
+      "raw_caption": "A child swings over a creek in a forested area while two other children watch from a wooden platform.",
+      "attribute_caption_useful": "{'What': 'swinging over water', 'Where': 'forest area with a creek', 'When': 'daytime', 'Who': 'child on swing, two other children watching'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        4050,
+        4080,
+        4110
+      ],
+      "raw_section": {
+        "start": 4050,
+        "end": 4140
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 45
+    },
+    {
+      "start": 4320,
+      "end": 4410,
+      "start_time": 144.1,
+      "end_time": 147.1,
+      "raw_caption": "A boy swings on a rope over a creek in a forest setting, watched by a woman and others.",
+      "attribute_caption_useful": "{'What': 'swinging over a creek', 'Where': 'forest', 'When': 'daytime', 'Who': 'boy and woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        4320,
+        4350,
+        4380
+      ],
+      "raw_section": {
+        "start": 4320,
+        "end": 4410
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 48
+    },
+    {
+      "start": 5040,
+      "end": 5130,
+      "start_time": 168.2,
+      "end_time": 171.2,
+      "raw_caption": "A boy swings on a rope over a small body of water in a forest setting.",
+      "attribute_caption_useful": "{'What': 'swinging on a rope over water', 'Where': 'forest with a small water body', 'When': 'daytime', 'Who': 'boy'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        5040,
+        5070,
+        5100
+      ],
+      "raw_section": {
+        "start": 5040,
+        "end": 5130
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 56
+    },
+    {
+      "start": 5220,
+      "end": 5310,
+      "start_time": 174.2,
+      "end_time": 177.2,
+      "raw_caption": "A child is joyfully swinging on a rope over a small body of water in a forest park.",
+      "attribute_caption_useful": "{'What': 'swinging on a rope', 'Where': 'forest park', 'When': 'daytime', 'Who': 'child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        5220,
+        5250,
+        5280
+      ],
+      "raw_section": {
+        "start": 5220,
+        "end": 5310
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 58
+    },
+    {
+      "start": 5310,
+      "end": 5400,
+      "start_time": 177.2,
+      "end_time": 180.2,
+      "raw_caption": "A child swings on a rope over a small body of water in a forest park during the day.",
+      "attribute_caption_useful": "{'What': 'swinging on a rope over water', 'Where': 'forest park', 'When': 'daytime', 'Who': 'child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        5310,
+        5340,
+        5370
+      ],
+      "raw_section": {
+        "start": 5310,
+        "end": 5400
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-CapperCoolCooper/KRqR6eLSoP8.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 59
+    }
+  ]
+}

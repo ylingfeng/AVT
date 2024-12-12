@@ -1,0 +1,31 @@
+sample_rate: 1
+short_side: 512
+
+model: "gpt-4o"
+
+max_tokens: 500
+max_try_count: 10
+
+empty_caption: "EMPTY"
+
+prompt:
+  system: |
+    You are an expert in video quality evaluation. I will provide you with some video clips, and you will convert these video clips into multiple images through video frame sampling. Based on these image information, you need to provide comprehensive and detailed answers.
+  user: |
+    [Material Richness] Overall Description: The richness of material evaluates the diversity of content and perspectives shown in the video, assessing whether it covers all aspects of the event. The primary evaluation criteria are the completeness of the video's narrative, whether it includes a complete event from beginning to end, and whether the entire video has a strong story logic, including the beginning, development, and conclusion of the story. Thematic consistency evaluates whether the video revolves around a clear theme and whether all clips support and enhance this theme Scores range from 1 to 5, with 5 being the highest score (best).
+              
+    [Appeal] Overall Description: This evaluates the overall quality and watchability of the video, assessing whether it has enough appeal and entertainment value. This usually manifests as logical coherence, appropriate length, rich events, and an engaging story. The video should revolve around a specific theme or main character, have smooth scene transitions, and all the footage should contain specific event content. Scores range from 1 to 5, with 5 being the highest score (best).
+
+    [Content of Exciting Segments] Overall Description: This evaluates the number and quality of highlights and important segments in the video that can capture the audience's attention. Does the video clip feature an action, such as holding hands, hugging, kissing, cycling, fishing, playing basketball, skiing, playing games, skateboarding, swimming, etc., and is this action quite spectacular? Shots of exciting sports moments and interactions are considered highlights. Video of playing on a phone, chatting, or speaking to the camera should not be considered highlights. Scores range from 1 to 5, with 5 being the highest score (best).
+                
+    [Amount of Waste Footage] Overall Description: This evaluates the number of irrelevant or unnecessary segments in the video and whether excessive content affects the overall viewing experience. Unnecessary segments often include footage with obstructions, shakiness, or meaningless content. Specifically, obstructions are often considered when they cover more than one-third of the frame. Consider whether it affects the presentation of the main content and whether the obstructions are prominent or impact the editing. Shakiness is often considered when the frame has irregular movements or shakes without any recognizable intention, reducing the video's watchability. Meaningless elements typically include actions such as extending/retracting a selfie stick, adjusting the camera, looking at the camera, people using their phones/computers, working, chatting, walking on the street, talking to the camera, static scenes, etc. Scores range from 1 to 5, with 5 being the highest score (best).
+
+    # Answer given questions with the following restrictions.
+    (1) If you are not sure about the answer, say you do not know honestly.
+    (2) Do not imagine any contents that are NOT in the video.
+    (3) Do not add information. 
+    (4) Do not describe each frame individually and do not mention the frame. 
+    (5) Do not summarize negative or uncertain answers.
+
+    # Output format constraints.
+    The overall output format is as follows. Each attribute's output must be in the format "Reason (score)", where Reason represents the specific basis for the score (no more than two sentences), and score represents the specific numerical value. The evaluation should be genuine and credible, based on a comprehensive assessment of all video inputs. Separate each attribute with a semicolon ';', and output as shown in the following example:  [Material Richness]: Reason (2.5); [Appeal]: Reason (3.0); [Content of Exciting Segments]: Reason (3.5); [Amount of Waste Footage]: Reason (2.0);

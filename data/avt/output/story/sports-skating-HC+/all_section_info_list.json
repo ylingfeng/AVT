@@ -1,0 +1,4517 @@
+[
+  {
+    "start": 0,
+    "end": 90,
+    "start_time": 0.0,
+    "end_time": 3.0,
+    "raw_caption": "People are roller skating in an indoor rink, possibly during a practice or casual event.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'multiple people including adults and children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.6;",
+    "sample_id_list": [
+      0,
+      30,
+      60
+    ],
+    "raw_section": {
+      "start": 0,
+      "end": 90
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 0
+  },
+  {
+    "start": 90,
+    "end": 180,
+    "start_time": 3.0,
+    "end_time": 6.0,
+    "raw_caption": "A group of skaters practice at an indoor rink, with some receiving instructions.",
+    "attribute_caption_useful": "{'What': 'roller skating practice', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of skaters, including woman and child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.4; [Highlight]: 0.5;",
+    "sample_id_list": [
+      90,
+      120,
+      150
+    ],
+    "raw_section": {
+      "start": 90,
+      "end": 180
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 1
+  },
+  {
+    "start": 180,
+    "end": 270,
+    "start_time": 6.0,
+    "end_time": 9.0,
+    "raw_caption": "A woman in skating attire is being evaluated by judges at an indoor skating rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'woman in skating attire, judges'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      180,
+      210,
+      240
+    ],
+    "raw_section": {
+      "start": 180,
+      "end": 270
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 2
+  },
+  {
+    "start": 270,
+    "end": 360,
+    "start_time": 9.0,
+    "end_time": 12.0,
+    "raw_caption": "A group of women and children are practicing roller skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating practice', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of women and children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      270,
+      300,
+      330
+    ],
+    "raw_section": {
+      "start": 270,
+      "end": 360
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 3
+  },
+  {
+    "start": 360,
+    "end": 450,
+    "start_time": 12.0,
+    "end_time": 15.0,
+    "raw_caption": "Children and adults are roller skating inside an indoor rink, possibly during a skating event or practice.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'children and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.6;",
+    "sample_id_list": [
+      360,
+      390,
+      420
+    ],
+    "raw_section": {
+      "start": 360,
+      "end": 450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 4
+  },
+  {
+    "start": 450,
+    "end": 540,
+    "start_time": 15.0,
+    "end_time": 18.0,
+    "raw_caption": "Several people are roller skating around an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'multiple people skating'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.8; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.6; [Highlight]: 0",
+    "sample_id_list": [
+      450,
+      480,
+      510
+    ],
+    "raw_section": {
+      "start": 450,
+      "end": 540
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 5
+  },
+  {
+    "start": 540,
+    "end": 630,
+    "start_time": 18.0,
+    "end_time": 21.0,
+    "raw_caption": "A group of people are roller skating inside an indoor rink, enjoying their time together.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.4; [Highlight]: 0.5;",
+    "sample_id_list": [
+      540,
+      570,
+      600
+    ],
+    "raw_section": {
+      "start": 540,
+      "end": 630
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 6
+  },
+  {
+    "start": 630,
+    "end": 720,
+    "start_time": 21.0,
+    "end_time": 24.0,
+    "raw_caption": "A group of people are skating inside an indoor rink.",
+    "attribute_caption_useful": "{'What': 'skating', 'Where': 'indoor rink', 'When': 'unknown', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.1;",
+    "sample_id_list": [
+      630,
+      660,
+      690
+    ],
+    "raw_section": {
+      "start": 630,
+      "end": 720
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 7
+  },
+  {
+    "start": 720,
+    "end": 810,
+    "start_time": 24.0,
+    "end_time": 27.0,
+    "raw_caption": "A group of skaters practice roller skating at an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating practice', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      720,
+      750,
+      780
+    ],
+    "raw_section": {
+      "start": 720,
+      "end": 810
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 8
+  },
+  {
+    "start": 810,
+    "end": 900,
+    "start_time": 27.0,
+    "end_time": 30.0,
+    "raw_caption": "A child is roller skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'nighttime', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      810,
+      840,
+      870
+    ],
+    "raw_section": {
+      "start": 810,
+      "end": 900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 9
+  },
+  {
+    "start": 900,
+    "end": 990,
+    "start_time": 30.0,
+    "end_time": 33.0,
+    "raw_caption": "A child is roller skating at an indoor rink during the day.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'daytime', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      900,
+      930,
+      960
+    ],
+    "raw_section": {
+      "start": 900,
+      "end": 990
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 10
+  },
+  {
+    "start": 990,
+    "end": 1080,
+    "start_time": 33.0,
+    "end_time": 36.0,
+    "raw_caption": "A child is roller skating in an indoor rink, observed by an adult with a clipboard.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'child and adult'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      990,
+      1020,
+      1050
+    ],
+    "raw_section": {
+      "start": 990,
+      "end": 1080
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 11
+  },
+  {
+    "start": 1080,
+    "end": 1170,
+    "start_time": 36.0,
+    "end_time": 39.0,
+    "raw_caption": "Multiple skaters perform a routine at an indoor skating rink under artificial lighting.",
+    "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'multiple skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      1080,
+      1110,
+      1140
+    ],
+    "raw_section": {
+      "start": 1080,
+      "end": 1170
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 12
+  },
+  {
+    "start": 1170,
+    "end": 1260,
+    "start_time": 39.0,
+    "end_time": 42.0,
+    "raw_caption": "Several skaters perform routines in an indoor skating rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown time', 'Who': 'multiple skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      1170,
+      1200,
+      1230
+    ],
+    "raw_section": {
+      "start": 1170,
+      "end": 1260
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 13
+  },
+  {
+    "start": 1260,
+    "end": 1350,
+    "start_time": 42.0,
+    "end_time": 45.0,
+    "raw_caption": "People are roller skating in an indoor rink, possibly during a competition or practice session.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'unknown', 'Who': 'multiple people, including a man and a woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.4;",
+    "sample_id_list": [
+      1260,
+      1290,
+      1320
+    ],
+    "raw_section": {
+      "start": 1260,
+      "end": 1350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 14
+  },
+  {
+    "start": 1350,
+    "end": 1440,
+    "start_time": 45.0,
+    "end_time": 48.0,
+    "raw_caption": "People are roller skating inside an indoor rink, with several spectators watching.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor roller rink', 'When': 'evening', 'Who': 'multiple adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.4;",
+    "sample_id_list": [
+      1350,
+      1380,
+      1410
+    ],
+    "raw_section": {
+      "start": 1350,
+      "end": 1440
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 15
+  },
+  {
+    "start": 1440,
+    "end": 1530,
+    "start_time": 48.0,
+    "end_time": 51.0,
+    "raw_caption": "A group of adults are skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.2;",
+    "sample_id_list": [
+      1440,
+      1470,
+      1500
+    ],
+    "raw_section": {
+      "start": 1440,
+      "end": 1530
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 16
+  },
+  {
+    "start": 1530,
+    "end": 1620,
+    "start_time": 51.0,
+    "end_time": 54.0,
+    "raw_caption": "Several people are roller skating inside an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'several people skating'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      1530,
+      1560,
+      1590
+    ],
+    "raw_section": {
+      "start": 1530,
+      "end": 1620
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 17
+  },
+  {
+    "start": 1620,
+    "end": 1710,
+    "start_time": 54.0,
+    "end_time": 57.0,
+    "raw_caption": "A group of people are roller skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of people, including a woman in pink'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+    "sample_id_list": [
+      1620,
+      1650,
+      1680
+    ],
+    "raw_section": {
+      "start": 1620,
+      "end": 1710
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 18
+  },
+  {
+    "start": 1710,
+    "end": 1800,
+    "start_time": 57.0,
+    "end_time": 60.0,
+    "raw_caption": "People are roller skating in an indoor rink, practicing and performing moves.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'multiple people including a man and woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+    "sample_id_list": [
+      1710,
+      1740,
+      1770
+    ],
+    "raw_section": {
+      "start": 1710,
+      "end": 1800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 19
+  },
+  {
+    "start": 1800,
+    "end": 1890,
+    "start_time": 60.0,
+    "end_time": 63.0,
+    "raw_caption": "People are roller skating in an indoor rink with a few spectators watching.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'people skating'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.3;",
+    "sample_id_list": [
+      1800,
+      1830,
+      1860
+    ],
+    "raw_section": {
+      "start": 1800,
+      "end": 1890
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 20
+  },
+  {
+    "start": 1890,
+    "end": 1980,
+    "start_time": 63.0,
+    "end_time": 66.0,
+    "raw_caption": "A woman is roller skating around an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      1890,
+      1920,
+      1950
+    ],
+    "raw_section": {
+      "start": 1890,
+      "end": 1980
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 21
+  },
+  {
+    "start": 1980,
+    "end": 2070,
+    "start_time": 66.0,
+    "end_time": 69.0,
+    "raw_caption": "A woman roller skates gracefully around an indoor rink, joined by others.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'woman and others'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+    "sample_id_list": [
+      1980,
+      2010,
+      2040
+    ],
+    "raw_section": {
+      "start": 1980,
+      "end": 2070
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 22
+  },
+  {
+    "start": 2070,
+    "end": 2160,
+    "start_time": 69.0,
+    "end_time": 72.0,
+    "raw_caption": "A child is roller skating inside an indoor rink, possibly participating in a competition.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.6;",
+    "sample_id_list": [
+      2070,
+      2100,
+      2130
+    ],
+    "raw_section": {
+      "start": 2070,
+      "end": 2160
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 23
+  },
+  {
+    "start": 2160,
+    "end": 2250,
+    "start_time": 72.0,
+    "end_time": 75.0,
+    "raw_caption": "Skaters perform at an indoor skating rink while observers watch from the sidelines.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'skaters and observers'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2160,
+      2190,
+      2220
+    ],
+    "raw_section": {
+      "start": 2160,
+      "end": 2250
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 24
+  },
+  {
+    "start": 2250,
+    "end": 2340,
+    "start_time": 75.0,
+    "end_time": 78.0,
+    "raw_caption": "A group of people are roller skating in an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'group of people including adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.3;",
+    "sample_id_list": [
+      2250,
+      2280,
+      2310
+    ],
+    "raw_section": {
+      "start": 2250,
+      "end": 2340
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 25
+  },
+  {
+    "start": 2340,
+    "end": 2430,
+    "start_time": 78.0,
+    "end_time": 81.0,
+    "raw_caption": "People are roller skating inside a rink, observed by others standing nearby.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      2340,
+      2370,
+      2400
+    ],
+    "raw_section": {
+      "start": 2340,
+      "end": 2430
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 26
+  },
+  {
+    "start": 2430,
+    "end": 2520,
+    "start_time": 81.0,
+    "end_time": 84.0,
+    "raw_caption": "People are roller skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'multiple people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.6;",
+    "sample_id_list": [
+      2430,
+      2460,
+      2490
+    ],
+    "raw_section": {
+      "start": 2430,
+      "end": 2520
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 27
+  },
+  {
+    "start": 2520,
+    "end": 2610,
+    "start_time": 84.0,
+    "end_time": 87.0,
+    "raw_caption": "A woman in a pink outfit is performing roller skating at an indoor rink while spectators watch.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'woman in pink outfit and spectators'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2520,
+      2550,
+      2580
+    ],
+    "raw_section": {
+      "start": 2520,
+      "end": 2610
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 28
+  },
+  {
+    "start": 2610,
+    "end": 2700,
+    "start_time": 87.0,
+    "end_time": 90.0,
+    "raw_caption": "A group of people is roller skating at an indoor rink, enjoying a casual evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of people, including men and women'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2610,
+      2640,
+      2670
+    ],
+    "raw_section": {
+      "start": 2610,
+      "end": 2700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 29
+  },
+  {
+    "start": 2700,
+    "end": 2790,
+    "start_time": 90.0,
+    "end_time": 93.0,
+    "raw_caption": "People are roller skating in an indoor rink, with one woman in pink standing out among the skaters.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'multiple people, including a woman in pink'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2700,
+      2730,
+      2760
+    ],
+    "raw_section": {
+      "start": 2700,
+      "end": 2790
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 30
+  },
+  {
+    "start": 2790,
+    "end": 2880,
+    "start_time": 93.0,
+    "end_time": 96.0,
+    "raw_caption": "People are roller skating in an indoor rink, including a child practicing.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'multiple people, including a child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      2790,
+      2820,
+      2850
+    ],
+    "raw_section": {
+      "start": 2790,
+      "end": 2880
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 31
+  },
+  {
+    "start": 2880,
+    "end": 2970,
+    "start_time": 96.0,
+    "end_time": 99.0,
+    "raw_caption": "A child is roller skating inside an indoor rink, showcasing their skills.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2880,
+      2910,
+      2940
+    ],
+    "raw_section": {
+      "start": 2880,
+      "end": 2970
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 32
+  },
+  {
+    "start": 2970,
+    "end": 3060,
+    "start_time": 99.0,
+    "end_time": 102.0,
+    "raw_caption": "A young boy is performing a roller skating routine at an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor roller rink', 'When': 'evening', 'Who': 'young boy'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      2970,
+      3000,
+      3030
+    ],
+    "raw_section": {
+      "start": 2970,
+      "end": 3060
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 33
+  },
+  {
+    "start": 3060,
+    "end": 3150,
+    "start_time": 102.0,
+    "end_time": 105.0,
+    "raw_caption": "A young skater performs at an indoor skating rink, showcasing their skills in front of an audience.",
+    "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'young skater with number 736'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      3060,
+      3090,
+      3120
+    ],
+    "raw_section": {
+      "start": 3060,
+      "end": 3150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 34
+  },
+  {
+    "start": 3150,
+    "end": 3240,
+    "start_time": 105.0,
+    "end_time": 108.0,
+    "raw_caption": "Skaters perform routines at an indoor rink while the audience watches.",
+    "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'skaters and audience'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      3150,
+      3180,
+      3210
+    ],
+    "raw_section": {
+      "start": 3150,
+      "end": 3240
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 35
+  },
+  {
+    "start": 3240,
+    "end": 3330,
+    "start_time": 108.0,
+    "end_time": 111.0,
+    "raw_caption": "A group of people is roller skating inside an indoor rink, with some observers watching.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      3240,
+      3270,
+      3300
+    ],
+    "raw_section": {
+      "start": 3240,
+      "end": 3330
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 36
+  },
+  {
+    "start": 3330,
+    "end": 3420,
+    "start_time": 111.0,
+    "end_time": 114.0,
+    "raw_caption": "A group of skaters perform at an indoor skating rink, showcasing various moves and routines.",
+    "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      3330,
+      3360,
+      3390
+    ],
+    "raw_section": {
+      "start": 3330,
+      "end": 3420
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 37
+  },
+  {
+    "start": 3420,
+    "end": 3510,
+    "start_time": 114.0,
+    "end_time": 117.0,
+    "raw_caption": "A group of people is roller skating inside an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      3420,
+      3450,
+      3480
+    ],
+    "raw_section": {
+      "start": 3420,
+      "end": 3510
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 38
+  },
+  {
+    "start": 3510,
+    "end": 3600,
+    "start_time": 117.0,
+    "end_time": 120.0,
+    "raw_caption": "Several skaters perform routines at an indoor skating rink.",
+    "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'multiple skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      3510,
+      3540,
+      3570
+    ],
+    "raw_section": {
+      "start": 3510,
+      "end": 3600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 39
+  },
+  {
+    "start": 3600,
+    "end": 3690,
+    "start_time": 120.0,
+    "end_time": 123.0,
+    "raw_caption": "A child is roller skating indoors and interacts with an adult, possibly a coach or parent.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'child and adult'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      3600,
+      3630,
+      3660
+    ],
+    "raw_section": {
+      "start": 3600,
+      "end": 3690
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 40
+  },
+  {
+    "start": 3690,
+    "end": 3780,
+    "start_time": 123.0,
+    "end_time": 126.0,
+    "raw_caption": "Two adults share a hug in a roller rink while others skate in the background.",
+    "attribute_caption_useful": "{'What': 'hugging', 'Where': 'roller rink', 'When': 'indoors', 'Who': 'two adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      3690,
+      3720,
+      3750
+    ],
+    "raw_section": {
+      "start": 3690,
+      "end": 3780
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 41
+  },
+  {
+    "start": 3780,
+    "end": 3870,
+    "start_time": 126.0,
+    "end_time": 129.0,
+    "raw_caption": "A woman in a cap is socializing at an indoor skating rink during the evening.",
+    "attribute_caption_useful": "{'What': 'social gathering', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'woman wearing a cap'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0",
+    "sample_id_list": [
+      3780,
+      3810,
+      3840
+    ],
+    "raw_section": {
+      "start": 3780,
+      "end": 3870
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 42
+  },
+  {
+    "start": 3870,
+    "end": 3960,
+    "start_time": 129.0,
+    "end_time": 132.0,
+    "raw_caption": "Three women are having a conversation and smiling at an indoor skating rink.",
+    "attribute_caption_useful": "{'What': 'group conversation', 'Where': 'indoor skating rink', 'When': 'night', 'Who': 'three women'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      3870,
+      3900,
+      3930
+    ],
+    "raw_section": {
+      "start": 3870,
+      "end": 3960
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 43
+  },
+  {
+    "start": 3960,
+    "end": 4050,
+    "start_time": 132.0,
+    "end_time": 135.0,
+    "raw_caption": "The video shows several adults interacting in an indoor venue, possibly a social gathering.",
+    "attribute_caption_useful": "{'What': 'people interacting', 'Where': 'indoor venue', 'When': 'unknown', 'Who': 'several adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0.2; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.2;",
+    "sample_id_list": [
+      3960,
+      3990,
+      4020
+    ],
+    "raw_section": {
+      "start": 3960,
+      "end": 4050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 44
+  },
+  {
+    "start": 4050,
+    "end": 4140,
+    "start_time": 135.0,
+    "end_time": 138.0,
+    "raw_caption": "Two people are hugging indoors, appearing to share a moment of affection.",
+    "attribute_caption_useful": "{'What': 'hugging', 'Where': 'indoors', 'When': 'unknown', 'Who': 'two people'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0.2; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.4; [Highlight]: 0.6;",
+    "sample_id_list": [
+      4050,
+      4080,
+      4110
+    ],
+    "raw_section": {
+      "start": 4050,
+      "end": 4140
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 45
+  },
+  {
+    "start": 4140,
+    "end": 4230,
+    "start_time": 138.0,
+    "end_time": 141.0,
+    "raw_caption": "Two people are embracing indoors, appearing happy.",
+    "attribute_caption_useful": "{'What': 'embracing', 'Where': 'indoors', 'When': 'unknown', 'Who': 'two people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.7; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      4140,
+      4170,
+      4200
+    ],
+    "raw_section": {
+      "start": 4140,
+      "end": 4230
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 46
+  },
+  {
+    "start": 4230,
+    "end": 4320,
+    "start_time": 141.0,
+    "end_time": 144.0,
+    "raw_caption": "Two women are talking in an indoor locker room setting.",
+    "attribute_caption_useful": "{'What': 'talking', 'Where': 'indoor locker room', 'When': 'unknown', 'Who': 'two women'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      4230,
+      4260,
+      4290
+    ],
+    "raw_section": {
+      "start": 4230,
+      "end": 4320
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/a8M-5nTrll8.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 47
+  },
+  {
+    "start": 0,
+    "end": 90,
+    "start_time": 0.0,
+    "end_time": 3.0,
+    "raw_caption": "A group of people are roller skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      0,
+      30,
+      60
+    ],
+    "raw_section": {
+      "start": 0,
+      "end": 90
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 48
+  },
+  {
+    "start": 90,
+    "end": 180,
+    "start_time": 3.0,
+    "end_time": 6.0,
+    "raw_caption": "Three people are roller skating in an indoor rink at night.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'nighttime', 'Who': 'three people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.6;",
+    "sample_id_list": [
+      90,
+      120,
+      150
+    ],
+    "raw_section": {
+      "start": 90,
+      "end": 180
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 49
+  },
+  {
+    "start": 180,
+    "end": 270,
+    "start_time": 6.0,
+    "end_time": 9.0,
+    "raw_caption": "Three people are roller skating inside an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'three people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      180,
+      210,
+      240
+    ],
+    "raw_section": {
+      "start": 180,
+      "end": 270
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 50
+  },
+  {
+    "start": 270,
+    "end": 360,
+    "start_time": 9.0,
+    "end_time": 12.0,
+    "raw_caption": "Three people are roller skating in an indoor rink at night.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'night', 'Who': 'three people skating'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.7; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      270,
+      300,
+      330
+    ],
+    "raw_section": {
+      "start": 270,
+      "end": 360
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 51
+  },
+  {
+    "start": 360,
+    "end": 450,
+    "start_time": 12.0,
+    "end_time": 15.0,
+    "raw_caption": "Two women are standing in a roller rink under indoor lighting, possibly waiting or preparing for an activity.",
+    "attribute_caption_useful": "{'What': 'waiting', 'Where': 'roller rink', 'When': 'indoor lighting', 'Who': 'two women'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.7; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.6; [Highlight]: 0;",
+    "sample_id_list": [
+      360,
+      390,
+      420
+    ],
+    "raw_section": {
+      "start": 360,
+      "end": 450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 52
+  },
+  {
+    "start": 450,
+    "end": 540,
+    "start_time": 15.0,
+    "end_time": 18.0,
+    "raw_caption": "A man is skating alone in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.6; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.8; [Highlight]: 0",
+    "sample_id_list": [
+      450,
+      480,
+      510
+    ],
+    "raw_section": {
+      "start": 450,
+      "end": 540
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 53
+  },
+  {
+    "start": 540,
+    "end": 630,
+    "start_time": 18.0,
+    "end_time": 21.0,
+    "raw_caption": "A skater performs at an indoor skating rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'skater'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.5; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      540,
+      570,
+      600
+    ],
+    "raw_section": {
+      "start": 540,
+      "end": 630
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 54
+  },
+  {
+    "start": 630,
+    "end": 720,
+    "start_time": 21.0,
+    "end_time": 24.0,
+    "raw_caption": "The video shows people roller skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.5; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      630,
+      660,
+      690
+    ],
+    "raw_section": {
+      "start": 630,
+      "end": 720
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 55
+  },
+  {
+    "start": 720,
+    "end": 810,
+    "start_time": 24.0,
+    "end_time": 27.0,
+    "raw_caption": "A woman is roller skating indoors, with another person watching nearby.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'night', 'Who': 'woman and another person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.8; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.3;",
+    "sample_id_list": [
+      720,
+      750,
+      780
+    ],
+    "raw_section": {
+      "start": 720,
+      "end": 810
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 56
+  },
+  {
+    "start": 810,
+    "end": 900,
+    "start_time": 27.0,
+    "end_time": 30.0,
+    "raw_caption": "People are skating inside an indoor rink with smooth floors and bright lighting.",
+    "attribute_caption_useful": "{'What': 'skating', 'Where': 'indoor rink', 'When': 'unknown', 'Who': 'people skating'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.6; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      810,
+      840,
+      870
+    ],
+    "raw_section": {
+      "start": 810,
+      "end": 900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 57
+  },
+  {
+    "start": 900,
+    "end": 990,
+    "start_time": 30.0,
+    "end_time": 33.0,
+    "raw_caption": "A child is roller skating alone in an indoor rink at night.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'night', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+    "sample_id_list": [
+      900,
+      930,
+      960
+    ],
+    "raw_section": {
+      "start": 900,
+      "end": 990
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 58
+  },
+  {
+    "start": 990,
+    "end": 1080,
+    "start_time": 33.0,
+    "end_time": 36.0,
+    "raw_caption": "Two people are roller skating together in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'two people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      990,
+      1020,
+      1050
+    ],
+    "raw_section": {
+      "start": 990,
+      "end": 1080
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 59
+  },
+  {
+    "start": 1080,
+    "end": 1170,
+    "start_time": 36.0,
+    "end_time": 39.0,
+    "raw_caption": "Two people are roller skating together in an indoor rink, performing synchronized movements.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'two people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      1080,
+      1110,
+      1140
+    ],
+    "raw_section": {
+      "start": 1080,
+      "end": 1170
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 60
+  },
+  {
+    "start": 1170,
+    "end": 1260,
+    "start_time": 39.0,
+    "end_time": 42.0,
+    "raw_caption": "People are roller skating in an indoor rink, moving smoothly around the space.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'multiple people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      1170,
+      1200,
+      1230
+    ],
+    "raw_section": {
+      "start": 1170,
+      "end": 1260
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 61
+  },
+  {
+    "start": 1260,
+    "end": 1350,
+    "start_time": 42.0,
+    "end_time": 45.0,
+    "raw_caption": "Two skaters are practicing at an indoor rink in the evening.",
+    "attribute_caption_useful": "{'What': 'skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'two skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      1260,
+      1290,
+      1320
+    ],
+    "raw_section": {
+      "start": 1260,
+      "end": 1350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 62
+  },
+  {
+    "start": 1350,
+    "end": 1440,
+    "start_time": 45.0,
+    "end_time": 48.0,
+    "raw_caption": "A skater performs moves on an indoor skating rink, showcasing skill and balance.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'skater in black outfit'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      1350,
+      1380,
+      1410
+    ],
+    "raw_section": {
+      "start": 1350,
+      "end": 1440
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 63
+  },
+  {
+    "start": 1440,
+    "end": 1530,
+    "start_time": 48.0,
+    "end_time": 51.0,
+    "raw_caption": "A skater is performing moves on a roller rink, showcasing their skills.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'roller rink', 'When': 'indoor', 'Who': 'skater'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.6;",
+    "sample_id_list": [
+      1440,
+      1470,
+      1500
+    ],
+    "raw_section": {
+      "start": 1440,
+      "end": 1530
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 64
+  },
+  {
+    "start": 1530,
+    "end": 1620,
+    "start_time": 51.0,
+    "end_time": 54.0,
+    "raw_caption": "A man is roller skating alone in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      1530,
+      1560,
+      1590
+    ],
+    "raw_section": {
+      "start": 1530,
+      "end": 1620
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 65
+  },
+  {
+    "start": 1620,
+    "end": 1710,
+    "start_time": 54.0,
+    "end_time": 57.0,
+    "raw_caption": "Two skaters are performing on an indoor roller skating rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'two skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+    "sample_id_list": [
+      1620,
+      1650,
+      1680
+    ],
+    "raw_section": {
+      "start": 1620,
+      "end": 1710
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 66
+  },
+  {
+    "start": 1710,
+    "end": 1800,
+    "start_time": 57.0,
+    "end_time": 60.0,
+    "raw_caption": "A man is roller skating in an indoor rink while spectators watch from the sidelines.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'man and spectators'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      1710,
+      1740,
+      1770
+    ],
+    "raw_section": {
+      "start": 1710,
+      "end": 1800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 67
+  },
+  {
+    "start": 1800,
+    "end": 1890,
+    "start_time": 60.0,
+    "end_time": 63.0,
+    "raw_caption": "A man is roller skating in an indoor rink with people watching from the sidelines.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'unknown', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      1800,
+      1830,
+      1860
+    ],
+    "raw_section": {
+      "start": 1800,
+      "end": 1890
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 68
+  },
+  {
+    "start": 1890,
+    "end": 1980,
+    "start_time": 63.0,
+    "end_time": 66.0,
+    "raw_caption": "Two skaters perform routines at an indoor roller skating rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'two skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.6;",
+    "sample_id_list": [
+      1890,
+      1920,
+      1950
+    ],
+    "raw_section": {
+      "start": 1890,
+      "end": 1980
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 69
+  },
+  {
+    "start": 1980,
+    "end": 2070,
+    "start_time": 66.0,
+    "end_time": 69.0,
+    "raw_caption": "Two skaters perform routines in an indoor skating rink at night.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'night', 'Who': 'two skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      1980,
+      2010,
+      2040
+    ],
+    "raw_section": {
+      "start": 1980,
+      "end": 2070
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 70
+  },
+  {
+    "start": 2070,
+    "end": 2160,
+    "start_time": 69.0,
+    "end_time": 72.0,
+    "raw_caption": "A group of skaters performs at an indoor skating rink, showcasing their skills.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2070,
+      2100,
+      2130
+    ],
+    "raw_section": {
+      "start": 2070,
+      "end": 2160
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 71
+  },
+  {
+    "start": 2160,
+    "end": 2250,
+    "start_time": 72.0,
+    "end_time": 75.0,
+    "raw_caption": "A man is roller skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.6;",
+    "sample_id_list": [
+      2160,
+      2190,
+      2220
+    ],
+    "raw_section": {
+      "start": 2160,
+      "end": 2250
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 72
+  },
+  {
+    "start": 2250,
+    "end": 2340,
+    "start_time": 75.0,
+    "end_time": 78.0,
+    "raw_caption": "A person is roller skating in an indoor rink, performing smooth movements.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'unknown', 'Who': 'person in black outfit'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.6; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2250,
+      2280,
+      2310
+    ],
+    "raw_section": {
+      "start": 2250,
+      "end": 2340
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 73
+  },
+  {
+    "start": 2340,
+    "end": 2430,
+    "start_time": 78.0,
+    "end_time": 81.0,
+    "raw_caption": "A woman is roller skating gracefully inside an indoor skating rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'indoor lighting', 'Who': 'woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2340,
+      2370,
+      2400
+    ],
+    "raw_section": {
+      "start": 2340,
+      "end": 2430
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 74
+  },
+  {
+    "start": 2430,
+    "end": 2520,
+    "start_time": 81.0,
+    "end_time": 84.0,
+    "raw_caption": "A boy is roller skating alone in an indoor rink, performing various moves.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'boy'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2430,
+      2460,
+      2490
+    ],
+    "raw_section": {
+      "start": 2430,
+      "end": 2520
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 75
+  },
+  {
+    "start": 2520,
+    "end": 2610,
+    "start_time": 84.0,
+    "end_time": 87.0,
+    "raw_caption": "Two people are roller skating indoors, performing maneuvers on the rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'two people, possibly teenagers'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2520,
+      2550,
+      2580
+    ],
+    "raw_section": {
+      "start": 2520,
+      "end": 2610
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 76
+  },
+  {
+    "start": 2610,
+    "end": 2700,
+    "start_time": 87.0,
+    "end_time": 90.0,
+    "raw_caption": "Two children are roller skating indoors at a rink in the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'two children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      2610,
+      2640,
+      2670
+    ],
+    "raw_section": {
+      "start": 2610,
+      "end": 2700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 77
+  },
+  {
+    "start": 2700,
+    "end": 2790,
+    "start_time": 90.0,
+    "end_time": 93.0,
+    "raw_caption": "Three people are roller skating in an indoor rink at night.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'night', 'Who': 'three skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2700,
+      2730,
+      2760
+    ],
+    "raw_section": {
+      "start": 2700,
+      "end": 2790
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 78
+  },
+  {
+    "start": 2790,
+    "end": 2880,
+    "start_time": 93.0,
+    "end_time": 96.0,
+    "raw_caption": "A group of children are roller skating in an indoor rink at night.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'nighttime', 'Who': 'group of children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      2790,
+      2820,
+      2850
+    ],
+    "raw_section": {
+      "start": 2790,
+      "end": 2880
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 79
+  },
+  {
+    "start": 2880,
+    "end": 2970,
+    "start_time": 96.0,
+    "end_time": 99.0,
+    "raw_caption": "Three people are roller skating together in an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'three individuals'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      2880,
+      2910,
+      2940
+    ],
+    "raw_section": {
+      "start": 2880,
+      "end": 2970
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 80
+  },
+  {
+    "start": 2970,
+    "end": 3060,
+    "start_time": 99.0,
+    "end_time": 102.0,
+    "raw_caption": "Several people are roller skating in an indoor rink, including a child practicing moves.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'several people, including a child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2970,
+      3000,
+      3030
+    ],
+    "raw_section": {
+      "start": 2970,
+      "end": 3060
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 81
+  },
+  {
+    "start": 3060,
+    "end": 3150,
+    "start_time": 102.0,
+    "end_time": 105.0,
+    "raw_caption": "Several people, including a child, are roller skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'several people, including a child and two adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      3060,
+      3090,
+      3120
+    ],
+    "raw_section": {
+      "start": 3060,
+      "end": 3150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 82
+  },
+  {
+    "start": 3150,
+    "end": 3240,
+    "start_time": 105.0,
+    "end_time": 108.0,
+    "raw_caption": "Two people are roller skating together in an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'skating rink', 'When': 'indoor', 'Who': 'two people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      3150,
+      3180,
+      3210
+    ],
+    "raw_section": {
+      "start": 3150,
+      "end": 3240
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 83
+  },
+  {
+    "start": 3240,
+    "end": 3330,
+    "start_time": 108.0,
+    "end_time": 111.0,
+    "raw_caption": "Two children are roller skating together in an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'two children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      3240,
+      3270,
+      3300
+    ],
+    "raw_section": {
+      "start": 3240,
+      "end": 3330
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 84
+  },
+  {
+    "start": 3330,
+    "end": 3420,
+    "start_time": 111.0,
+    "end_time": 114.0,
+    "raw_caption": "Two boys are roller skating together in an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'two boys'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      3330,
+      3360,
+      3390
+    ],
+    "raw_section": {
+      "start": 3330,
+      "end": 3420
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 85
+  },
+  {
+    "start": 3420,
+    "end": 3510,
+    "start_time": 114.0,
+    "end_time": 117.0,
+    "raw_caption": "Two young boys are roller skating together in an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'two young boys'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      3420,
+      3450,
+      3480
+    ],
+    "raw_section": {
+      "start": 3420,
+      "end": 3510
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 86
+  },
+  {
+    "start": 3510,
+    "end": 3600,
+    "start_time": 117.0,
+    "end_time": 120.0,
+    "raw_caption": "Three people are roller skating together in an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'unknown', 'Who': 'three people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      3510,
+      3540,
+      3570
+    ],
+    "raw_section": {
+      "start": 3510,
+      "end": 3600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 87
+  },
+  {
+    "start": 3600,
+    "end": 3690,
+    "start_time": 120.0,
+    "end_time": 123.0,
+    "raw_caption": "Two children are roller skating in an indoor rink, demonstrating their skills.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'unknown', 'Who': 'two children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      3600,
+      3630,
+      3660
+    ],
+    "raw_section": {
+      "start": 3600,
+      "end": 3690
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 88
+  },
+  {
+    "start": 3690,
+    "end": 3780,
+    "start_time": 123.0,
+    "end_time": 126.0,
+    "raw_caption": "A group of skaters performs a synchronized routine in an indoor skating rink.",
+    "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      3690,
+      3720,
+      3750
+    ],
+    "raw_section": {
+      "start": 3690,
+      "end": 3780
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 89
+  },
+  {
+    "start": 3780,
+    "end": 3870,
+    "start_time": 126.0,
+    "end_time": 129.0,
+    "raw_caption": "Several people are roller skating indoors, showcasing various skating techniques.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'several people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.6;",
+    "sample_id_list": [
+      3780,
+      3810,
+      3840
+    ],
+    "raw_section": {
+      "start": 3780,
+      "end": 3870
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 90
+  },
+  {
+    "start": 3870,
+    "end": 3960,
+    "start_time": 129.0,
+    "end_time": 132.0,
+    "raw_caption": "Two people are roller skating together in an indoor skating rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'two people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.7;",
+    "sample_id_list": [
+      3870,
+      3900,
+      3930
+    ],
+    "raw_section": {
+      "start": 3870,
+      "end": 3960
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 91
+  },
+  {
+    "start": 3960,
+    "end": 4050,
+    "start_time": 132.0,
+    "end_time": 135.0,
+    "raw_caption": "Two skaters are roller skating in an indoor rink with people watching from the sidelines.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'two skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      3960,
+      3990,
+      4020
+    ],
+    "raw_section": {
+      "start": 3960,
+      "end": 4050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 92
+  },
+  {
+    "start": 4050,
+    "end": 4140,
+    "start_time": 135.0,
+    "end_time": 138.0,
+    "raw_caption": "People are roller skating in an indoor rink with a small audience watching.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'multiple skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.4;",
+    "sample_id_list": [
+      4050,
+      4080,
+      4110
+    ],
+    "raw_section": {
+      "start": 4050,
+      "end": 4140
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 93
+  },
+  {
+    "start": 4140,
+    "end": 4230,
+    "start_time": 138.0,
+    "end_time": 141.0,
+    "raw_caption": "Two skaters perform at an indoor roller skating rink under artificial lights.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'night', 'Who': 'two skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      4140,
+      4170,
+      4200
+    ],
+    "raw_section": {
+      "start": 4140,
+      "end": 4230
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 94
+  },
+  {
+    "start": 4230,
+    "end": 4320,
+    "start_time": 141.0,
+    "end_time": 144.0,
+    "raw_caption": "Two people are roller skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'two people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      4230,
+      4260,
+      4290
+    ],
+    "raw_section": {
+      "start": 4230,
+      "end": 4320
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 95
+  },
+  {
+    "start": 4320,
+    "end": 4410,
+    "start_time": 144.0,
+    "end_time": 147.0,
+    "raw_caption": "A child is roller skating alone in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.6;",
+    "sample_id_list": [
+      4320,
+      4350,
+      4380
+    ],
+    "raw_section": {
+      "start": 4320,
+      "end": 4410
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 96
+  },
+  {
+    "start": 4410,
+    "end": 4500,
+    "start_time": 147.0,
+    "end_time": 150.0,
+    "raw_caption": "A skater is practicing roller skating in an indoor rink at night.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'night', 'Who': 'one skater'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      4410,
+      4440,
+      4470
+    ],
+    "raw_section": {
+      "start": 4410,
+      "end": 4500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 97
+  },
+  {
+    "start": 4500,
+    "end": 4590,
+    "start_time": 150.0,
+    "end_time": 153.0,
+    "raw_caption": "A group of skaters performs a routine at an indoor skating rink.",
+    "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      4500,
+      4530,
+      4560
+    ],
+    "raw_section": {
+      "start": 4500,
+      "end": 4590
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 98
+  },
+  {
+    "start": 4590,
+    "end": 4680,
+    "start_time": 153.0,
+    "end_time": 156.0,
+    "raw_caption": "Two skaters perform a routine in an indoor skating rink under dim lighting.",
+    "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'two skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      4590,
+      4620,
+      4650
+    ],
+    "raw_section": {
+      "start": 4590,
+      "end": 4680
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 99
+  },
+  {
+    "start": 4680,
+    "end": 4770,
+    "start_time": 156.0,
+    "end_time": 159.0,
+    "raw_caption": "Two skaters perform routines on an indoor roller skating rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'unknown', 'Who': 'two skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      4680,
+      4710,
+      4740
+    ],
+    "raw_section": {
+      "start": 4680,
+      "end": 4770
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 100
+  },
+  {
+    "start": 4770,
+    "end": 4860,
+    "start_time": 159.0,
+    "end_time": 162.0,
+    "raw_caption": "A woman is roller skating alone in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      4770,
+      4800,
+      4830
+    ],
+    "raw_section": {
+      "start": 4770,
+      "end": 4860
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 101
+  },
+  {
+    "start": 4860,
+    "end": 4950,
+    "start_time": 162.0,
+    "end_time": 165.0,
+    "raw_caption": "A skater is performing at an indoor skating rink while being observed by a small audience.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'skater'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      4860,
+      4890,
+      4920
+    ],
+    "raw_section": {
+      "start": 4860,
+      "end": 4950
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 102
+  },
+  {
+    "start": 4950,
+    "end": 5040,
+    "start_time": 165.0,
+    "end_time": 168.0,
+    "raw_caption": "A skater performs on an indoor rink, watched by spectators.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'skater and spectators'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+    "sample_id_list": [
+      4950,
+      4980,
+      5010
+    ],
+    "raw_section": {
+      "start": 4950,
+      "end": 5040
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 103
+  },
+  {
+    "start": 5040,
+    "end": 5130,
+    "start_time": 168.0,
+    "end_time": 171.0,
+    "raw_caption": "A man performs roller skating moves in an indoor skating rink at night.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'nighttime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      5040,
+      5070,
+      5100
+    ],
+    "raw_section": {
+      "start": 5040,
+      "end": 5130
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 104
+  },
+  {
+    "start": 5130,
+    "end": 5220,
+    "start_time": 171.0,
+    "end_time": 174.0,
+    "raw_caption": "A woman is roller skating alone in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      5130,
+      5160,
+      5190
+    ],
+    "raw_section": {
+      "start": 5130,
+      "end": 5220
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 105
+  },
+  {
+    "start": 5220,
+    "end": 5310,
+    "start_time": 174.0,
+    "end_time": 177.0,
+    "raw_caption": "Two skaters perform on an indoor rink while observers watch from the sidelines.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'two skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      5220,
+      5250,
+      5280
+    ],
+    "raw_section": {
+      "start": 5220,
+      "end": 5310
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 106
+  },
+  {
+    "start": 5310,
+    "end": 5400,
+    "start_time": 177.0,
+    "end_time": 180.0,
+    "raw_caption": "Two skaters perform a routine at an indoor roller skating rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'nighttime', 'Who': 'two skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      5310,
+      5340,
+      5370
+    ],
+    "raw_section": {
+      "start": 5310,
+      "end": 5400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 107
+  },
+  {
+    "start": 5400,
+    "end": 5490,
+    "start_time": 180.0,
+    "end_time": 183.0,
+    "raw_caption": "Two people are roller skating in an indoor rink while others watch from the sidelines.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'indoor lighting, likely evening', 'Who': 'two skaters, audience watching'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      5400,
+      5430,
+      5460
+    ],
+    "raw_section": {
+      "start": 5400,
+      "end": 5490
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 108
+  },
+  {
+    "start": 5490,
+    "end": 5580,
+    "start_time": 183.0,
+    "end_time": 186.0,
+    "raw_caption": "Two skaters perform at an indoor rink while people watch from the side.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'nighttime', 'Who': 'two skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      5490,
+      5520,
+      5550
+    ],
+    "raw_section": {
+      "start": 5490,
+      "end": 5580
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 109
+  },
+  {
+    "start": 5580,
+    "end": 5670,
+    "start_time": 186.0,
+    "end_time": 189.0,
+    "raw_caption": "Two people are roller skating in an indoor rink while an older man and woman converse nearby.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'two people skating, older man and woman talking'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      5580,
+      5610,
+      5640
+    ],
+    "raw_section": {
+      "start": 5580,
+      "end": 5670
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 110
+  },
+  {
+    "start": 5670,
+    "end": 5760,
+    "start_time": 189.0,
+    "end_time": 192.0,
+    "raw_caption": "Two skaters practice at an indoor roller rink while a few spectators watch from the sidelines.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor roller rink', 'When': 'evening', 'Who': 'two skaters and a few spectators'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      5670,
+      5700,
+      5730
+    ],
+    "raw_section": {
+      "start": 5670,
+      "end": 5760
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 111
+  },
+  {
+    "start": 5760,
+    "end": 5850,
+    "start_time": 192.0,
+    "end_time": 195.0,
+    "raw_caption": "People are roller skating at an indoor rink while others watch from the sidelines.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor roller rink', 'When': 'evening', 'Who': 'several people, including skaters and spectators'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.6;",
+    "sample_id_list": [
+      5760,
+      5790,
+      5820
+    ],
+    "raw_section": {
+      "start": 5760,
+      "end": 5850
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 112
+  },
+  {
+    "start": 5850,
+    "end": 5940,
+    "start_time": 195.0,
+    "end_time": 198.0,
+    "raw_caption": "A group of people are standing and waiting at a roller rink.",
+    "attribute_caption_useful": "{'What': 'waiting', 'Where': 'roller rink', 'When': 'indoors', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.6; [Highlight]: 0.2;",
+    "sample_id_list": [
+      5850,
+      5880,
+      5910
+    ],
+    "raw_section": {
+      "start": 5850,
+      "end": 5940
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 113
+  },
+  {
+    "start": 5940,
+    "end": 6030,
+    "start_time": 198.0,
+    "end_time": 201.0,
+    "raw_caption": "A group of adults is waiting by the side of a roller rink in the evening.",
+    "attribute_caption_useful": "{'What': 'waiting', 'Where': 'roller rink', 'When': 'evening', 'Who': 'group of adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      5940,
+      5970,
+      6000
+    ],
+    "raw_section": {
+      "start": 5940,
+      "end": 6030
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 114
+  },
+  {
+    "start": 6030,
+    "end": 6120,
+    "start_time": 201.0,
+    "end_time": 204.0,
+    "raw_caption": "A group of adults stands by the railing at a roller rink, observing the activity on the rink.",
+    "attribute_caption_useful": "{'What': 'people watching skating', 'Where': 'roller rink', 'When': 'indoor lighting', 'Who': 'group of adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      6030,
+      6060,
+      6090
+    ],
+    "raw_section": {
+      "start": 6030,
+      "end": 6120
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 115
+  },
+  {
+    "start": 6120,
+    "end": 6210,
+    "start_time": 204.0,
+    "end_time": 207.0,
+    "raw_caption": "People are standing near the edge of a roller rink.",
+    "attribute_caption_useful": "{'What': 'people standing', 'Where': 'roller rink', 'When': 'indoor lighting', 'Who': 'adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.8; [Highlight]: 0;",
+    "sample_id_list": [
+      6120,
+      6150,
+      6180
+    ],
+    "raw_section": {
+      "start": 6120,
+      "end": 6210
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 116
+  },
+  {
+    "start": 6210,
+    "end": 6300,
+    "start_time": 207.0,
+    "end_time": 210.0,
+    "raw_caption": "A young skater performs at an indoor rink while spectators watch from the sidelines.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'young skater, spectators'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      6210,
+      6240,
+      6270
+    ],
+    "raw_section": {
+      "start": 6210,
+      "end": 6300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 117
+  },
+  {
+    "start": 6300,
+    "end": 6390,
+    "start_time": 210.0,
+    "end_time": 213.0,
+    "raw_caption": "A man is skating alone in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.3;",
+    "sample_id_list": [
+      6300,
+      6330,
+      6360
+    ],
+    "raw_section": {
+      "start": 6300,
+      "end": 6390
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 118
+  },
+  {
+    "start": 6390,
+    "end": 6480,
+    "start_time": 213.0,
+    "end_time": 216.0,
+    "raw_caption": "A man is roller skating alone in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor roller rink', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      6390,
+      6420,
+      6450
+    ],
+    "raw_section": {
+      "start": 6390,
+      "end": 6480
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 119
+  },
+  {
+    "start": 6480,
+    "end": 6570,
+    "start_time": 216.0,
+    "end_time": 219.0,
+    "raw_caption": "An individual is roller skating alone in an indoor rink, performing smooth movements.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'unknown', 'Who': 'individual skater'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      6480,
+      6510,
+      6540
+    ],
+    "raw_section": {
+      "start": 6480,
+      "end": 6570
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 120
+  },
+  {
+    "start": 6570,
+    "end": 6660,
+    "start_time": 219.0,
+    "end_time": 222.0,
+    "raw_caption": "An individual is roller skating alone in an indoor skating rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'individual, likely a man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      6570,
+      6600,
+      6630
+    ],
+    "raw_section": {
+      "start": 6570,
+      "end": 6660
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 121
+  },
+  {
+    "start": 6660,
+    "end": 6750,
+    "start_time": 222.0,
+    "end_time": 225.0,
+    "raw_caption": "A person is roller skating alone in an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'unknown', 'Who': 'person in black outfit'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.4;",
+    "sample_id_list": [
+      6660,
+      6690,
+      6720
+    ],
+    "raw_section": {
+      "start": 6660,
+      "end": 6750
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 122
+  },
+  {
+    "start": 6750,
+    "end": 6840,
+    "start_time": 225.0,
+    "end_time": 228.0,
+    "raw_caption": "A person is roller skating alone in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'person in black clothing'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      6750,
+      6780,
+      6810
+    ],
+    "raw_section": {
+      "start": 6750,
+      "end": 6840
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 123
+  },
+  {
+    "start": 6840,
+    "end": 6930,
+    "start_time": 228.0,
+    "end_time": 231.0,
+    "raw_caption": "A man is roller skating alone in an indoor skating rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.3;",
+    "sample_id_list": [
+      6840,
+      6870,
+      6900
+    ],
+    "raw_section": {
+      "start": 6840,
+      "end": 6930
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 124
+  },
+  {
+    "start": 6930,
+    "end": 7020,
+    "start_time": 231.0,
+    "end_time": 234.0,
+    "raw_caption": "A man is roller skating alone in an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'unknown', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.6;",
+    "sample_id_list": [
+      6930,
+      6960,
+      6990
+    ],
+    "raw_section": {
+      "start": 6930,
+      "end": 7020
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 125
+  },
+  {
+    "start": 7020,
+    "end": 7110,
+    "start_time": 234.0,
+    "end_time": 237.0,
+    "raw_caption": "A person is skating alone in an indoor rink at night.",
+    "attribute_caption_useful": "{'What': 'skating', 'Where': 'indoor rink', 'When': 'night', 'Who': 'single skater'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.3;",
+    "sample_id_list": [
+      7020,
+      7050,
+      7080
+    ],
+    "raw_section": {
+      "start": 7020,
+      "end": 7110
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 126
+  },
+  {
+    "start": 7110,
+    "end": 7200,
+    "start_time": 237.0,
+    "end_time": 240.0,
+    "raw_caption": "A person is roller skating alone in an indoor skating rink under artificial lighting.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'indoor lighting', 'Who': 'person skating'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      7110,
+      7140,
+      7170
+    ],
+    "raw_section": {
+      "start": 7110,
+      "end": 7200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 127
+  },
+  {
+    "start": 7200,
+    "end": 7290,
+    "start_time": 240.0,
+    "end_time": 243.0,
+    "raw_caption": "A skater performs on an indoor roller skating rink under bright lights.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'skater'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      7200,
+      7230,
+      7260
+    ],
+    "raw_section": {
+      "start": 7200,
+      "end": 7290
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 128
+  },
+  {
+    "start": 7290,
+    "end": 7380,
+    "start_time": 243.0,
+    "end_time": 246.0,
+    "raw_caption": "A man is roller skating inside an indoor rink at night.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'night', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      7290,
+      7320,
+      7350
+    ],
+    "raw_section": {
+      "start": 7290,
+      "end": 7380
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 129
+  },
+  {
+    "start": 7380,
+    "end": 7470,
+    "start_time": 246.0,
+    "end_time": 249.0,
+    "raw_caption": "A man is roller skating gracefully in an indoor skating rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      7380,
+      7410,
+      7440
+    ],
+    "raw_section": {
+      "start": 7380,
+      "end": 7470
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 130
+  },
+  {
+    "start": 7470,
+    "end": 7560,
+    "start_time": 249.0,
+    "end_time": 252.0,
+    "raw_caption": "A man is roller skating alone in an indoor skating rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      7470,
+      7500,
+      7530
+    ],
+    "raw_section": {
+      "start": 7470,
+      "end": 7560
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 131
+  },
+  {
+    "start": 7560,
+    "end": 7650,
+    "start_time": 252.0,
+    "end_time": 255.0,
+    "raw_caption": "A person is roller skating alone in an indoor skating rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'single skater'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      7560,
+      7590,
+      7620
+    ],
+    "raw_section": {
+      "start": 7560,
+      "end": 7650
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 132
+  },
+  {
+    "start": 7650,
+    "end": 7740,
+    "start_time": 255.0,
+    "end_time": 258.0,
+    "raw_caption": "A man is roller skating skillfully in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      7650,
+      7680,
+      7710
+    ],
+    "raw_section": {
+      "start": 7650,
+      "end": 7740
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 133
+  },
+  {
+    "start": 7740,
+    "end": 7830,
+    "start_time": 258.0,
+    "end_time": 261.0,
+    "raw_caption": "People are roller skating inside an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.3;",
+    "sample_id_list": [
+      7740,
+      7770,
+      7800
+    ],
+    "raw_section": {
+      "start": 7740,
+      "end": 7830
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 134
+  },
+  {
+    "start": 7830,
+    "end": 7920,
+    "start_time": 261.0,
+    "end_time": 264.0,
+    "raw_caption": "A child is roller skating inside an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.2;",
+    "sample_id_list": [
+      7830,
+      7860,
+      7890
+    ],
+    "raw_section": {
+      "start": 7830,
+      "end": 7920
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 135
+  },
+  {
+    "start": 7920,
+    "end": 8010,
+    "start_time": 264.0,
+    "end_time": 267.0,
+    "raw_caption": "An individual is performing roller skating inside an indoor rink, showcasing their skills.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'individual in black outfit'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      7920,
+      7950,
+      7980
+    ],
+    "raw_section": {
+      "start": 7920,
+      "end": 8010
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 136
+  },
+  {
+    "start": 8010,
+    "end": 8100,
+    "start_time": 267.0,
+    "end_time": 270.0,
+    "raw_caption": "A child is roller skating inside an indoor skating rink at night.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'nighttime', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      8010,
+      8040,
+      8070
+    ],
+    "raw_section": {
+      "start": 8010,
+      "end": 8100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 137
+  },
+  {
+    "start": 8100,
+    "end": 8190,
+    "start_time": 270.0,
+    "end_time": 273.0,
+    "raw_caption": "A skater performs moves on an indoor rink under artificial lighting.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'night', 'Who': 'skater'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      8100,
+      8130,
+      8160
+    ],
+    "raw_section": {
+      "start": 8100,
+      "end": 8190
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 138
+  },
+  {
+    "start": 8190,
+    "end": 8280,
+    "start_time": 273.0,
+    "end_time": 276.0,
+    "raw_caption": "A woman skillfully roller skates alone in an indoor rink at night.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'nighttime', 'Who': 'woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      8190,
+      8220,
+      8250
+    ],
+    "raw_section": {
+      "start": 8190,
+      "end": 8280
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 139
+  },
+  {
+    "start": 8280,
+    "end": 8370,
+    "start_time": 276.0,
+    "end_time": 279.0,
+    "raw_caption": "A woman is roller skating alone in an indoor skating rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+    "sample_id_list": [
+      8280,
+      8310,
+      8340
+    ],
+    "raw_section": {
+      "start": 8280,
+      "end": 8370
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 140
+  },
+  {
+    "start": 8370,
+    "end": 8460,
+    "start_time": 279.0,
+    "end_time": 282.0,
+    "raw_caption": "A woman is roller skating alone in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      8370,
+      8400,
+      8430
+    ],
+    "raw_section": {
+      "start": 8370,
+      "end": 8460
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 141
+  },
+  {
+    "start": 8460,
+    "end": 8550,
+    "start_time": 282.0,
+    "end_time": 285.0,
+    "raw_caption": "A person is roller skating alone in an indoor rink at night.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'nighttime', 'Who': 'person in black outfit'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      8460,
+      8490,
+      8520
+    ],
+    "raw_section": {
+      "start": 8460,
+      "end": 8550
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 142
+  },
+  {
+    "start": 8550,
+    "end": 8640,
+    "start_time": 285.0,
+    "end_time": 288.0,
+    "raw_caption": "A man is roller skating alone in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      8550,
+      8580,
+      8610
+    ],
+    "raw_section": {
+      "start": 8550,
+      "end": 8640
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 143
+  },
+  {
+    "start": 8640,
+    "end": 8730,
+    "start_time": 288.0,
+    "end_time": 291.0,
+    "raw_caption": "A man is roller skating alone in an indoor skating rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      8640,
+      8670,
+      8700
+    ],
+    "raw_section": {
+      "start": 8640,
+      "end": 8730
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 144
+  },
+  {
+    "start": 8730,
+    "end": 8820,
+    "start_time": 291.0,
+    "end_time": 294.0,
+    "raw_caption": "A man is roller skating alone in an indoor skating rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.4;",
+    "sample_id_list": [
+      8730,
+      8760,
+      8790
+    ],
+    "raw_section": {
+      "start": 8730,
+      "end": 8820
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 145
+  },
+  {
+    "start": 8820,
+    "end": 8910,
+    "start_time": 294.0,
+    "end_time": 297.0,
+    "raw_caption": "A child is roller skating alone in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      8820,
+      8850,
+      8880
+    ],
+    "raw_section": {
+      "start": 8820,
+      "end": 8910
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 146
+  },
+  {
+    "start": 8910,
+    "end": 9000,
+    "start_time": 297.0,
+    "end_time": 300.0,
+    "raw_caption": "A woman is performing roller skating moves in an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      8910,
+      8940,
+      8970
+    ],
+    "raw_section": {
+      "start": 8910,
+      "end": 9000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 147
+  },
+  {
+    "start": 9000,
+    "end": 9090,
+    "start_time": 300.0,
+    "end_time": 303.0,
+    "raw_caption": "A woman is roller skating gracefully inside an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      9000,
+      9030,
+      9060
+    ],
+    "raw_section": {
+      "start": 9000,
+      "end": 9090
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 148
+  },
+  {
+    "start": 9090,
+    "end": 9180,
+    "start_time": 303.0,
+    "end_time": 306.0,
+    "raw_caption": "A woman is roller skating alone in an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'unknown', 'Who': 'woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      9090,
+      9120,
+      9150
+    ],
+    "raw_section": {
+      "start": 9090,
+      "end": 9180
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 149
+  },
+  {
+    "start": 9180,
+    "end": 9270,
+    "start_time": 306.0,
+    "end_time": 309.0,
+    "raw_caption": "An individual is roller skating in an indoor rink with spectators watching.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown time', 'Who': 'individual skater'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      9180,
+      9210,
+      9240
+    ],
+    "raw_section": {
+      "start": 9180,
+      "end": 9270
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 150
+  },
+  {
+    "start": 9270,
+    "end": 9360,
+    "start_time": 309.0,
+    "end_time": 312.0,
+    "raw_caption": "An individual skates around an indoor roller rink with spectators watching from the sidelines.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'unknown', 'Who': 'individual skater'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      9270,
+      9300,
+      9330
+    ],
+    "raw_section": {
+      "start": 9270,
+      "end": 9360
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 151
+  },
+  {
+    "start": 9360,
+    "end": 9450,
+    "start_time": 312.0,
+    "end_time": 315.0,
+    "raw_caption": "A man is roller skating alone in an indoor skating rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.3;",
+    "sample_id_list": [
+      9360,
+      9390,
+      9420
+    ],
+    "raw_section": {
+      "start": 9360,
+      "end": 9450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 152
+  },
+  {
+    "start": 9450,
+    "end": 9540,
+    "start_time": 315.0,
+    "end_time": 318.0,
+    "raw_caption": "An individual is skating alone in an indoor roller rink.",
+    "attribute_caption_useful": "{'What': 'skating', 'Where': 'roller rink', 'When': 'indoor', 'Who': 'individual skater'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+    "sample_id_list": [
+      9450,
+      9480,
+      9510
+    ],
+    "raw_section": {
+      "start": 9450,
+      "end": 9540
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 153
+  },
+  {
+    "start": 9540,
+    "end": 9630,
+    "start_time": 318.0,
+    "end_time": 321.0,
+    "raw_caption": "A man is roller skating alone in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.4;",
+    "sample_id_list": [
+      9540,
+      9570,
+      9600
+    ],
+    "raw_section": {
+      "start": 9540,
+      "end": 9630
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 154
+  },
+  {
+    "start": 9630,
+    "end": 9720,
+    "start_time": 321.0,
+    "end_time": 324.0,
+    "raw_caption": "A child is roller skating alone in an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'roller rink', 'When': 'indoor', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      9630,
+      9660,
+      9690
+    ],
+    "raw_section": {
+      "start": 9630,
+      "end": 9720
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 155
+  },
+  {
+    "start": 9720,
+    "end": 9810,
+    "start_time": 324.0,
+    "end_time": 327.0,
+    "raw_caption": "A child is roller skating alone in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      9720,
+      9750,
+      9780
+    ],
+    "raw_section": {
+      "start": 9720,
+      "end": 9810
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 156
+  },
+  {
+    "start": 9810,
+    "end": 9900,
+    "start_time": 327.0,
+    "end_time": 330.0,
+    "raw_caption": "A skater performs a routine at an indoor rink, showcasing fluid movements and skills.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'skater'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      9810,
+      9840,
+      9870
+    ],
+    "raw_section": {
+      "start": 9810,
+      "end": 9900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 157
+  },
+  {
+    "start": 9900,
+    "end": 9990,
+    "start_time": 330.0,
+    "end_time": 333.0,
+    "raw_caption": "A child is roller skating alone in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+    "sample_id_list": [
+      9900,
+      9930,
+      9960
+    ],
+    "raw_section": {
+      "start": 9900,
+      "end": 9990
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 158
+  },
+  {
+    "start": 9990,
+    "end": 10080,
+    "start_time": 333.0,
+    "end_time": 336.0,
+    "raw_caption": "A man is roller skating skillfully in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      9990,
+      10020,
+      10050
+    ],
+    "raw_section": {
+      "start": 9990,
+      "end": 10080
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 159
+  },
+  {
+    "start": 10080,
+    "end": 10170,
+    "start_time": 336.0,
+    "end_time": 339.0,
+    "raw_caption": "A man is roller skating skillfully in an indoor rink, performing impressive moves.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      10080,
+      10110,
+      10140
+    ],
+    "raw_section": {
+      "start": 10080,
+      "end": 10170
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 160
+  },
+  {
+    "start": 10170,
+    "end": 10260,
+    "start_time": 339.0,
+    "end_time": 342.0,
+    "raw_caption": "A skater in a black outfit performs at an indoor skating rink, showcasing graceful movements.",
+    "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'skater in black outfit'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      10170,
+      10200,
+      10230
+    ],
+    "raw_section": {
+      "start": 10170,
+      "end": 10260
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 161
+  },
+  {
+    "start": 10260,
+    "end": 10350,
+    "start_time": 342.0,
+    "end_time": 345.0,
+    "raw_caption": "A person is roller skating alone in an indoor skating rink at night.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'nighttime', 'Who': 'person wearing dark clothing'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.3;",
+    "sample_id_list": [
+      10260,
+      10290,
+      10320
+    ],
+    "raw_section": {
+      "start": 10260,
+      "end": 10350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 162
+  },
+  {
+    "start": 10350,
+    "end": 10440,
+    "start_time": 345.0,
+    "end_time": 348.0,
+    "raw_caption": "An individual is roller skating alone in an indoor skating rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'individual skater'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      10350,
+      10380,
+      10410
+    ],
+    "raw_section": {
+      "start": 10350,
+      "end": 10440
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 163
+  },
+  {
+    "start": 10440,
+    "end": 10530,
+    "start_time": 348.0,
+    "end_time": 351.0,
+    "raw_caption": "A person is roller skating alone in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'single skater'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+    "sample_id_list": [
+      10440,
+      10470,
+      10500
+    ],
+    "raw_section": {
+      "start": 10440,
+      "end": 10530
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 164
+  },
+  {
+    "start": 10530,
+    "end": 10620,
+    "start_time": 351.0,
+    "end_time": 354.0,
+    "raw_caption": "A man is roller skating alone in an indoor rink, performing smooth movements.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      10530,
+      10560,
+      10590
+    ],
+    "raw_section": {
+      "start": 10530,
+      "end": 10620
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 165
+  },
+  {
+    "start": 10620,
+    "end": 10710,
+    "start_time": 354.0,
+    "end_time": 357.0,
+    "raw_caption": "A man roller skates around an indoor rink while others watch from the sidelines.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'man skating, people watching'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      10620,
+      10650,
+      10680
+    ],
+    "raw_section": {
+      "start": 10620,
+      "end": 10710
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 166
+  },
+  {
+    "start": 10710,
+    "end": 10800,
+    "start_time": 357.0,
+    "end_time": 360.0,
+    "raw_caption": "A man and woman are talking by the side of an indoor skating rink while a skater practices.",
+    "attribute_caption_useful": "{'What': 'people talking and skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'man, woman, and skater'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.6; [Highlight]: 0",
+    "sample_id_list": [
+      10710,
+      10740,
+      10770
+    ],
+    "raw_section": {
+      "start": 10710,
+      "end": 10800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/bA3CxZllhsI.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 167
+  },
+  {
+    "start": 0,
+    "end": 90,
+    "start_time": 0.0,
+    "end_time": 3.0,
+    "raw_caption": "People are gathered inside a skating rink, some are talking while others are watching.",
+    "attribute_caption_useful": "{'What': 'people standing and talking', 'Where': 'indoor skating rink', 'When': 'nighttime', 'Who': 'adults and children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.6; [Highlight]: 0.1;",
+    "sample_id_list": [
+      0,
+      30,
+      60
+    ],
+    "raw_section": {
+      "start": 0,
+      "end": 90
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 168
+  },
+  {
+    "start": 90,
+    "end": 180,
+    "start_time": 3.0,
+    "end_time": 6.0,
+    "raw_caption": "A group of adults and children are roller skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'adults and children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      90,
+      120,
+      150
+    ],
+    "raw_section": {
+      "start": 90,
+      "end": 180
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 169
+  },
+  {
+    "start": 180,
+    "end": 270,
+    "start_time": 6.0,
+    "end_time": 9.0,
+    "raw_caption": "A group of people, including children and adults, are roller skating inside an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of people, including children and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      180,
+      210,
+      240
+    ],
+    "raw_section": {
+      "start": 180,
+      "end": 270
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 170
+  },
+  {
+    "start": 270,
+    "end": 360,
+    "start_time": 9.0,
+    "end_time": 12.0,
+    "raw_caption": "A child is performing a roller skating routine in front of judges at an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'child and judges'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      270,
+      300,
+      330
+    ],
+    "raw_section": {
+      "start": 270,
+      "end": 360
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 171
+  },
+  {
+    "start": 360,
+    "end": 450,
+    "start_time": 12.0,
+    "end_time": 15.0,
+    "raw_caption": "Children and adults are roller skating in an indoor rink, engaging in a skating event or practice.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'daytime', 'Who': 'children and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      360,
+      390,
+      420
+    ],
+    "raw_section": {
+      "start": 360,
+      "end": 450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 172
+  },
+  {
+    "start": 450,
+    "end": 540,
+    "start_time": 15.0,
+    "end_time": 18.0,
+    "raw_caption": "A young girl performs a roller skating routine at an indoor rink in the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating performance', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'young girl in pink costume'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      450,
+      480,
+      510
+    ],
+    "raw_section": {
+      "start": 450,
+      "end": 540
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 173
+  },
+  {
+    "start": 540,
+    "end": 630,
+    "start_time": 18.0,
+    "end_time": 21.0,
+    "raw_caption": "A young girl performs figure skating in an indoor rink during an event.",
+    "attribute_caption_useful": "{'What': 'figure skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'young girl'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      540,
+      570,
+      600
+    ],
+    "raw_section": {
+      "start": 540,
+      "end": 630
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 174
+  },
+  {
+    "start": 630,
+    "end": 720,
+    "start_time": 21.0,
+    "end_time": 24.0,
+    "raw_caption": "People are roller skating indoors, with adults and children participating in an evening event.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'adults and children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      630,
+      660,
+      690
+    ],
+    "raw_section": {
+      "start": 630,
+      "end": 720
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 175
+  },
+  {
+    "start": 720,
+    "end": 810,
+    "start_time": 24.0,
+    "end_time": 27.0,
+    "raw_caption": "A group of adults roller skating at an indoor rink in the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'group of adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      720,
+      750,
+      780
+    ],
+    "raw_section": {
+      "start": 720,
+      "end": 810
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 176
+  },
+  {
+    "start": 810,
+    "end": 900,
+    "start_time": 27.0,
+    "end_time": 30.0,
+    "raw_caption": "Children and adults are practicing roller skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating practice', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'children and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      810,
+      840,
+      870
+    ],
+    "raw_section": {
+      "start": 810,
+      "end": 900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 177
+  },
+  {
+    "start": 900,
+    "end": 990,
+    "start_time": 30.0,
+    "end_time": 33.0,
+    "raw_caption": "Children are roller skating indoors while adults observe and take notes.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'children and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      900,
+      930,
+      960
+    ],
+    "raw_section": {
+      "start": 900,
+      "end": 990
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 178
+  },
+  {
+    "start": 990,
+    "end": 1080,
+    "start_time": 33.0,
+    "end_time": 36.0,
+    "raw_caption": "A group of adults and children are practicing roller skating in an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating practice', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of adults and children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      990,
+      1020,
+      1050
+    ],
+    "raw_section": {
+      "start": 990,
+      "end": 1080
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 179
+  },
+  {
+    "start": 1080,
+    "end": 1170,
+    "start_time": 36.0,
+    "end_time": 39.0,
+    "raw_caption": "People of various ages are roller skating together at an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'children and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      1080,
+      1110,
+      1140
+    ],
+    "raw_section": {
+      "start": 1080,
+      "end": 1170
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 180
+  },
+  {
+    "start": 1170,
+    "end": 1260,
+    "start_time": 39.0,
+    "end_time": 42.0,
+    "raw_caption": "The scene shows children and adults roller skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'children and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.6;",
+    "sample_id_list": [
+      1170,
+      1200,
+      1230
+    ],
+    "raw_section": {
+      "start": 1170,
+      "end": 1260
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 181
+  },
+  {
+    "start": 1260,
+    "end": 1350,
+    "start_time": 42.0,
+    "end_time": 45.0,
+    "raw_caption": "The video shows children and adults roller skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'children and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.6;",
+    "sample_id_list": [
+      1260,
+      1290,
+      1320
+    ],
+    "raw_section": {
+      "start": 1260,
+      "end": 1350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 182
+  },
+  {
+    "start": 1350,
+    "end": 1440,
+    "start_time": 45.0,
+    "end_time": 48.0,
+    "raw_caption": "A woman roller skates at an indoor rink with several others present in the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'woman and several people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      1350,
+      1380,
+      1410
+    ],
+    "raw_section": {
+      "start": 1350,
+      "end": 1440
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 183
+  },
+  {
+    "start": 1440,
+    "end": 1530,
+    "start_time": 48.0,
+    "end_time": 51.0,
+    "raw_caption": "People are roller skating in an indoor rink, enjoying the activity under dim lighting.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'multiple skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      1440,
+      1470,
+      1500
+    ],
+    "raw_section": {
+      "start": 1440,
+      "end": 1530
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 184
+  },
+  {
+    "start": 1530,
+    "end": 1620,
+    "start_time": 51.0,
+    "end_time": 54.0,
+    "raw_caption": "People are roller skating in an indoor rink, enjoying the activity together.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'people of various ages'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      1530,
+      1560,
+      1590
+    ],
+    "raw_section": {
+      "start": 1530,
+      "end": 1620
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 185
+  },
+  {
+    "start": 1620,
+    "end": 1710,
+    "start_time": 54.0,
+    "end_time": 57.0,
+    "raw_caption": "A group of people are roller skating in an indoor rink under ambient lighting.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'skating rink', 'When': 'indoor lighting', 'Who': 'group of people, mixed ages'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.6;",
+    "sample_id_list": [
+      1620,
+      1650,
+      1680
+    ],
+    "raw_section": {
+      "start": 1620,
+      "end": 1710
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 186
+  },
+  {
+    "start": 1710,
+    "end": 1800,
+    "start_time": 57.0,
+    "end_time": 60.0,
+    "raw_caption": "A group of people is roller skating in an indoor rink under dim lighting.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.6;",
+    "sample_id_list": [
+      1710,
+      1740,
+      1770
+    ],
+    "raw_section": {
+      "start": 1710,
+      "end": 1800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 187
+  },
+  {
+    "start": 1800,
+    "end": 1890,
+    "start_time": 60.0,
+    "end_time": 63.0,
+    "raw_caption": "The video shows multiple people roller skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'multiple skaters'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      1800,
+      1830,
+      1860
+    ],
+    "raw_section": {
+      "start": 1800,
+      "end": 1890
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 188
+  },
+  {
+    "start": 1890,
+    "end": 1980,
+    "start_time": 63.0,
+    "end_time": 66.0,
+    "raw_caption": "People are roller skating inside an indoor rink with several children participating.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'indoor lighting', 'Who': 'several people, including children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      1890,
+      1920,
+      1950
+    ],
+    "raw_section": {
+      "start": 1890,
+      "end": 1980
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 189
+  },
+  {
+    "start": 1980,
+    "end": 2070,
+    "start_time": 66.0,
+    "end_time": 69.0,
+    "raw_caption": "Children and adults are roller skating inside an indoor rink, enjoying the activity together.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'children and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      1980,
+      2010,
+      2040
+    ],
+    "raw_section": {
+      "start": 1980,
+      "end": 2070
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 190
+  },
+  {
+    "start": 2070,
+    "end": 2160,
+    "start_time": 69.0,
+    "end_time": 72.0,
+    "raw_caption": "Children and adults are roller skating in an indoor rink, showcasing their skills.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'children and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      2070,
+      2100,
+      2130
+    ],
+    "raw_section": {
+      "start": 2070,
+      "end": 2160
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 191
+  },
+  {
+    "start": 2160,
+    "end": 2250,
+    "start_time": 72.0,
+    "end_time": 75.0,
+    "raw_caption": "A child is roller skating in an indoor rink, showcasing their skills.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'unknown', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      2160,
+      2190,
+      2220
+    ],
+    "raw_section": {
+      "start": 2160,
+      "end": 2250
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 192
+  },
+  {
+    "start": 2250,
+    "end": 2340,
+    "start_time": 75.0,
+    "end_time": 78.0,
+    "raw_caption": "A child is roller skating indoors at a rink, practicing or performing moves.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.5;",
+    "sample_id_list": [
+      2250,
+      2280,
+      2310
+    ],
+    "raw_section": {
+      "start": 2250,
+      "end": 2340
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 193
+  },
+  {
+    "start": 2340,
+    "end": 2430,
+    "start_time": 78.0,
+    "end_time": 81.0,
+    "raw_caption": "People are roller skating at an indoor rink, enjoying the activity together.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'multiple people, including children and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2340,
+      2370,
+      2400
+    ],
+    "raw_section": {
+      "start": 2340,
+      "end": 2430
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 194
+  },
+  {
+    "start": 2430,
+    "end": 2520,
+    "start_time": 81.0,
+    "end_time": 84.0,
+    "raw_caption": "Several people are roller skating in an indoor rink, with some spectators watching from the side.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'several people, including adults and children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      2430,
+      2460,
+      2490
+    ],
+    "raw_section": {
+      "start": 2430,
+      "end": 2520
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 195
+  },
+  {
+    "start": 2520,
+    "end": 2610,
+    "start_time": 84.0,
+    "end_time": 87.0,
+    "raw_caption": "People are roller skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor rink', 'When': 'evening', 'Who': 'multiple people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2520,
+      2550,
+      2580
+    ],
+    "raw_section": {
+      "start": 2520,
+      "end": 2610
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 196
+  },
+  {
+    "start": 2610,
+    "end": 2700,
+    "start_time": 87.0,
+    "end_time": 90.0,
+    "raw_caption": "People are roller skating at an indoor rink, with a child skating near adults.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'various people, including a child and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.4;",
+    "sample_id_list": [
+      2610,
+      2640,
+      2670
+    ],
+    "raw_section": {
+      "start": 2610,
+      "end": 2700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 197
+  },
+  {
+    "start": 2700,
+    "end": 2790,
+    "start_time": 90.0,
+    "end_time": 93.0,
+    "raw_caption": "Children and adults are roller skating in an indoor rink during the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'children and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2700,
+      2730,
+      2760
+    ],
+    "raw_section": {
+      "start": 2700,
+      "end": 2790
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 198
+  },
+  {
+    "start": 2790,
+    "end": 2880,
+    "start_time": 93.0,
+    "end_time": 96.0,
+    "raw_caption": "A child is roller skating inside an indoor rink, demonstrating skillful maneuvers.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      2790,
+      2820,
+      2850
+    ],
+    "raw_section": {
+      "start": 2790,
+      "end": 2880
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 199
+  },
+  {
+    "start": 2880,
+    "end": 2970,
+    "start_time": 96.0,
+    "end_time": 99.0,
+    "raw_caption": "Children are roller skating inside a rink, practicing or performing routines.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'indoor lighting', 'Who': 'children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      2880,
+      2910,
+      2940
+    ],
+    "raw_section": {
+      "start": 2880,
+      "end": 2970
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 200
+  },
+  {
+    "start": 2970,
+    "end": 3060,
+    "start_time": 99.0,
+    "end_time": 102.0,
+    "raw_caption": "People are roller skating at an indoor rink, with a child in focus skating smoothly.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'multiple people, including children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      2970,
+      3000,
+      3030
+    ],
+    "raw_section": {
+      "start": 2970,
+      "end": 3060
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 201
+  },
+  {
+    "start": 3060,
+    "end": 3150,
+    "start_time": 102.0,
+    "end_time": 105.0,
+    "raw_caption": "People are roller skating at an indoor rink in the evening.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'several adults and children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      3060,
+      3090,
+      3120
+    ],
+    "raw_section": {
+      "start": 3060,
+      "end": 3150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 202
+  },
+  {
+    "start": 3150,
+    "end": 3240,
+    "start_time": 105.0,
+    "end_time": 108.0,
+    "raw_caption": "A group of people, including children, are roller skating at an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of people, including children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      3150,
+      3180,
+      3210
+    ],
+    "raw_section": {
+      "start": 3150,
+      "end": 3240
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 203
+  },
+  {
+    "start": 3240,
+    "end": 3330,
+    "start_time": 108.0,
+    "end_time": 111.0,
+    "raw_caption": "People are roller skating in an indoor rink, enjoying leisure time.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'unknown time', 'Who': 'multiple people, including children and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      3240,
+      3270,
+      3300
+    ],
+    "raw_section": {
+      "start": 3240,
+      "end": 3330
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 204
+  },
+  {
+    "start": 3330,
+    "end": 3420,
+    "start_time": 111.0,
+    "end_time": 114.0,
+    "raw_caption": "Children and adults are roller skating in an indoor rink at night.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'night', 'Who': 'children and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      3330,
+      3360,
+      3390
+    ],
+    "raw_section": {
+      "start": 3330,
+      "end": 3420
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 205
+  },
+  {
+    "start": 3420,
+    "end": 3510,
+    "start_time": 114.0,
+    "end_time": 117.0,
+    "raw_caption": "People are gathered in an indoor skating rink, observing and interacting with each other.",
+    "attribute_caption_useful": "{'What': 'people gathering', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'adults and children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.6; [Highlight]: 0.2;",
+    "sample_id_list": [
+      3420,
+      3450,
+      3480
+    ],
+    "raw_section": {
+      "start": 3420,
+      "end": 3510
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 206
+  },
+  {
+    "start": 3510,
+    "end": 3600,
+    "start_time": 117.0,
+    "end_time": 120.0,
+    "raw_caption": "The scene takes place in an indoor skating rink where people are roller skating and interacting casually.",
+    "attribute_caption_useful": "{'What': 'roller skating', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'several adults and children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      3510,
+      3540,
+      3570
+    ],
+    "raw_section": {
+      "start": 3510,
+      "end": 3600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 207
+  },
+  {
+    "start": 3600,
+    "end": 3690,
+    "start_time": 120.0,
+    "end_time": 123.0,
+    "raw_caption": "A group of adults is gathered at a roller rink, possibly preparing for an activity.",
+    "attribute_caption_useful": "{'What': 'gathering', 'Where': 'roller rink', 'When': 'indoor evening', 'Who': 'group of adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      3600,
+      3630,
+      3660
+    ],
+    "raw_section": {
+      "start": 3600,
+      "end": 3690
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 208
+  },
+  {
+    "start": 3690,
+    "end": 3780,
+    "start_time": 123.0,
+    "end_time": 126.0,
+    "raw_caption": "A group of adults are standing and chatting inside an indoor skating rink in the evening.",
+    "attribute_caption_useful": "{'What': 'standing and chatting', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      3690,
+      3720,
+      3750
+    ],
+    "raw_section": {
+      "start": 3690,
+      "end": 3780
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 209
+  },
+  {
+    "start": 3780,
+    "end": 3870,
+    "start_time": 126.0,
+    "end_time": 129.0,
+    "raw_caption": "Several adults are standing and observing in a roller rink during the evening.",
+    "attribute_caption_useful": "{'What': 'standing and observing', 'Where': 'roller rink', 'When': 'evening', 'Who': 'several adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      3780,
+      3810,
+      3840
+    ],
+    "raw_section": {
+      "start": 3780,
+      "end": 3870
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 210
+  },
+  {
+    "start": 3870,
+    "end": 3960,
+    "start_time": 129.0,
+    "end_time": 132.0,
+    "raw_caption": "Several adults are standing in an indoor venue with reflective flooring.",
+    "attribute_caption_useful": "{'What': 'people standing in a hall', 'Where': 'indoor venue', 'When': 'unknown', 'Who': 'several adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.6; [Highlight]: 0;",
+    "sample_id_list": [
+      3870,
+      3900,
+      3930
+    ],
+    "raw_section": {
+      "start": 3870,
+      "end": 3960
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 211
+  },
+  {
+    "start": 3960,
+    "end": 4050,
+    "start_time": 132.0,
+    "end_time": 135.0,
+    "raw_caption": "Two adults are interacting in an indoor space, possibly discussing something.",
+    "attribute_caption_useful": "{'What': 'two people interacting', 'Where': 'indoor space', 'When': 'unknown', 'Who': 'two adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      3960,
+      3990,
+      4020
+    ],
+    "raw_section": {
+      "start": 3960,
+      "end": 4050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 212
+  },
+  {
+    "start": 4050,
+    "end": 4140,
+    "start_time": 135.0,
+    "end_time": 138.0,
+    "raw_caption": "Several people are waiting indoors at an event.",
+    "attribute_caption_useful": "{'What': 'waiting', 'Where': 'indoor event', 'When': 'unknown', 'Who': 'several people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.8; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0",
+    "sample_id_list": [
+      4050,
+      4080,
+      4110
+    ],
+    "raw_section": {
+      "start": 4050,
+      "end": 4140
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 213
+  },
+  {
+    "start": 4140,
+    "end": 4230,
+    "start_time": 138.0,
+    "end_time": 141.0,
+    "raw_caption": "A group of children and adults are practicing roller skating in an indoor rink.",
+    "attribute_caption_useful": "{'What': 'roller skating practice', 'Where': 'indoor skating rink', 'When': 'evening', 'Who': 'group of children and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      4140,
+      4170,
+      4200
+    ],
+    "raw_section": {
+      "start": 4140,
+      "end": 4230
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skating-HC+/dZ3i-HuhQXM.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 214
+  }
+]

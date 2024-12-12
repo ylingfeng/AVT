@@ -1,0 +1,23 @@
+[
+  {
+    "start": 8010,
+    "end": 8100,
+    "start_time": 267.3,
+    "end_time": 270.3,
+    "raw_caption": "A dog is being groomed on a kitchen counter with grooming tools nearby.",
+    "attribute_caption_useful": "{'What': 'grooming a dog', 'Where': 'kitchen counter', 'When': 'unknown', 'Who': \"dog and a person's hand\"}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      8010,
+      8040,
+      8070
+    ],
+    "raw_section": {
+      "start": 8010,
+      "end": 8100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 89
+  }
+]

@@ -1,0 +1,3068 @@
+[
+  {
+    "start": 300,
+    "end": 375,
+    "start_time": 12.0,
+    "end_time": 15.0,
+    "raw_caption": "The video shows a skiing scene on a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.7;",
+    "sample_id_list": [
+      300,
+      325,
+      350
+    ],
+    "raw_section": {
+      "start": 300,
+      "end": 375
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 4
+  },
+  {
+    "start": 375,
+    "end": 450,
+    "start_time": 15.0,
+    "end_time": 18.0,
+    "raw_caption": "A skier is navigating down a snowy mountain slope under bright sunlight.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.5; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.7;",
+    "sample_id_list": [
+      375,
+      400,
+      425
+    ],
+    "raw_section": {
+      "start": 375,
+      "end": 450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 5
+  },
+  {
+    "start": 450,
+    "end": 525,
+    "start_time": 18.0,
+    "end_time": 21.0,
+    "raw_caption": "A skier navigates down a snowy mountain slope under a clear sky.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.7;",
+    "sample_id_list": [
+      450,
+      475,
+      500
+    ],
+    "raw_section": {
+      "start": 450,
+      "end": 525
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 6
+  },
+  {
+    "start": 525,
+    "end": 600,
+    "start_time": 21.0,
+    "end_time": 24.0,
+    "raw_caption": "A skier descends a snowy mountain slope under clear skies.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      525,
+      550,
+      575
+    ],
+    "raw_section": {
+      "start": 525,
+      "end": 600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 7
+  },
+  {
+    "start": 600,
+    "end": 675,
+    "start_time": 24.0,
+    "end_time": 27.0,
+    "raw_caption": "A man is snowboarding down a mountain slope during the day, showcasing impressive skills on the snow.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      600,
+      625,
+      650
+    ],
+    "raw_section": {
+      "start": 600,
+      "end": 675
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 8
+  },
+  {
+    "start": 675,
+    "end": 750,
+    "start_time": 27.0,
+    "end_time": 30.0,
+    "raw_caption": "A man is snowboarding down a sunlit mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0.6; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      675,
+      700,
+      725
+    ],
+    "raw_section": {
+      "start": 675,
+      "end": 750
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 9
+  },
+  {
+    "start": 750,
+    "end": 825,
+    "start_time": 30.0,
+    "end_time": 33.0,
+    "raw_caption": "A man is skiing down a snowy mountain during the daytime, showcasing an exhilarating descent.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man in helmet'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      750,
+      775,
+      800
+    ],
+    "raw_section": {
+      "start": 750,
+      "end": 825
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 10
+  },
+  {
+    "start": 825,
+    "end": 900,
+    "start_time": 33.0,
+    "end_time": 36.0,
+    "raw_caption": "A man in ski gear is preparing to ski down a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'preparing to ski', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man in ski gear'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      825,
+      850,
+      875
+    ],
+    "raw_section": {
+      "start": 825,
+      "end": 900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 11
+  },
+  {
+    "start": 900,
+    "end": 975,
+    "start_time": 36.0,
+    "end_time": 39.0,
+    "raw_caption": "A snowboarder descends a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'individual snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      900,
+      925,
+      950
+    ],
+    "raw_section": {
+      "start": 900,
+      "end": 975
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 12
+  },
+  {
+    "start": 975,
+    "end": 1050,
+    "start_time": 39.0,
+    "end_time": 42.0,
+    "raw_caption": "An individual is snowboarding down a mountain slope during the day, showcasing an exciting descent.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'individual wearing gloves'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.9;",
+    "sample_id_list": [
+      975,
+      1000,
+      1025
+    ],
+    "raw_section": {
+      "start": 975,
+      "end": 1050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 13
+  },
+  {
+    "start": 1050,
+    "end": 1125,
+    "start_time": 42.0,
+    "end_time": 45.0,
+    "raw_caption": "A snowboarder is descending a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      1050,
+      1075,
+      1100
+    ],
+    "raw_section": {
+      "start": 1050,
+      "end": 1125
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 14
+  },
+  {
+    "start": 1125,
+    "end": 1200,
+    "start_time": 45.0,
+    "end_time": 48.0,
+    "raw_caption": "A person is snowboarding down a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      1125,
+      1150,
+      1175
+    ],
+    "raw_section": {
+      "start": 1125,
+      "end": 1200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 15
+  },
+  {
+    "start": 1200,
+    "end": 1275,
+    "start_time": 48.0,
+    "end_time": 51.0,
+    "raw_caption": "A person is snowboarding down a steep mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      1200,
+      1225,
+      1250
+    ],
+    "raw_section": {
+      "start": 1200,
+      "end": 1275
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 16
+  },
+  {
+    "start": 1275,
+    "end": 1350,
+    "start_time": 51.0,
+    "end_time": 54.0,
+    "raw_caption": "An individual is skiing down a snowy mountain during the day, capturing thrilling moments.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      1275,
+      1300,
+      1325
+    ],
+    "raw_section": {
+      "start": 1275,
+      "end": 1350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 17
+  },
+  {
+    "start": 1350,
+    "end": 1425,
+    "start_time": 54.0,
+    "end_time": 57.0,
+    "raw_caption": "A snowboarder descends a snowy mountain slope during the day, capturing the thrilling ride.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      1350,
+      1375,
+      1400
+    ],
+    "raw_section": {
+      "start": 1350,
+      "end": 1425
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 18
+  },
+  {
+    "start": 1425,
+    "end": 1500,
+    "start_time": 57.0,
+    "end_time": 60.0,
+    "raw_caption": "A person is snowboarding down a steep mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      1425,
+      1450,
+      1475
+    ],
+    "raw_section": {
+      "start": 1425,
+      "end": 1500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 19
+  },
+  {
+    "start": 1500,
+    "end": 1575,
+    "start_time": 60.0,
+    "end_time": 63.0,
+    "raw_caption": "A person is snowboarding down a mountain slope on a clear day, showcasing an exciting downhill ride.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      1500,
+      1525,
+      1550
+    ],
+    "raw_section": {
+      "start": 1500,
+      "end": 1575
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 20
+  },
+  {
+    "start": 1575,
+    "end": 1650,
+    "start_time": 63.0,
+    "end_time": 66.0,
+    "raw_caption": "An individual is snowboarding down a mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unidentified individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      1575,
+      1600,
+      1625
+    ],
+    "raw_section": {
+      "start": 1575,
+      "end": 1650
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 21
+  },
+  {
+    "start": 1650,
+    "end": 1725,
+    "start_time": 66.0,
+    "end_time": 69.0,
+    "raw_caption": "A skier navigates down a snowy mountain slope during the day, showcasing an exciting descent.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      1650,
+      1675,
+      1700
+    ],
+    "raw_section": {
+      "start": 1650,
+      "end": 1725
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 22
+  },
+  {
+    "start": 1725,
+    "end": 1800,
+    "start_time": 69.0,
+    "end_time": 72.0,
+    "raw_caption": "A skier descends a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      1725,
+      1750,
+      1775
+    ],
+    "raw_section": {
+      "start": 1725,
+      "end": 1800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 23
+  },
+  {
+    "start": 1800,
+    "end": 1875,
+    "start_time": 72.0,
+    "end_time": 75.0,
+    "raw_caption": "A thrilling skiing descent down a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      1800,
+      1825,
+      1850
+    ],
+    "raw_section": {
+      "start": 1800,
+      "end": 1875
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 24
+  },
+  {
+    "start": 1875,
+    "end": 1950,
+    "start_time": 75.0,
+    "end_time": 78.0,
+    "raw_caption": "A skier descends a steep mountain slope under clear skies, showcasing an exhilarating run.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.4; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      1875,
+      1900,
+      1925
+    ],
+    "raw_section": {
+      "start": 1875,
+      "end": 1950
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 25
+  },
+  {
+    "start": 1950,
+    "end": 2025,
+    "start_time": 78.0,
+    "end_time": 81.0,
+    "raw_caption": "A skier is descending a steep, snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      1950,
+      1975,
+      2000
+    ],
+    "raw_section": {
+      "start": 1950,
+      "end": 2025
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 26
+  },
+  {
+    "start": 2025,
+    "end": 2100,
+    "start_time": 81.0,
+    "end_time": 84.0,
+    "raw_caption": "A skier descends a steep, snowy mountain slope under a clear blue sky.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.9;",
+    "sample_id_list": [
+      2025,
+      2050,
+      2075
+    ],
+    "raw_section": {
+      "start": 2025,
+      "end": 2100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 27
+  },
+  {
+    "start": 2100,
+    "end": 2175,
+    "start_time": 84.0,
+    "end_time": 87.0,
+    "raw_caption": "A skier descends a snowy mountain slope under clear blue skies.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      2100,
+      2125,
+      2150
+    ],
+    "raw_section": {
+      "start": 2100,
+      "end": 2175
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 28
+  },
+  {
+    "start": 2175,
+    "end": 2250,
+    "start_time": 87.0,
+    "end_time": 90.0,
+    "raw_caption": "A skier is descending a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unidentified skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      2175,
+      2200,
+      2225
+    ],
+    "raw_section": {
+      "start": 2175,
+      "end": 2250
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 29
+  },
+  {
+    "start": 2250,
+    "end": 2325,
+    "start_time": 90.0,
+    "end_time": 93.0,
+    "raw_caption": "A man is snowboarding down a snowy mountain during the day, showcasing an exhilarating descent.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      2250,
+      2275,
+      2300
+    ],
+    "raw_section": {
+      "start": 2250,
+      "end": 2325
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 30
+  },
+  {
+    "start": 2325,
+    "end": 2400,
+    "start_time": 93.0,
+    "end_time": 96.0,
+    "raw_caption": "A person in a bright ski suit is skiing down a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'person in bright ski suit'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      2325,
+      2350,
+      2375
+    ],
+    "raw_section": {
+      "start": 2325,
+      "end": 2400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 31
+  },
+  {
+    "start": 2400,
+    "end": 2475,
+    "start_time": 96.0,
+    "end_time": 99.0,
+    "raw_caption": "An individual is preparing to snowboard down a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'individual with helmet'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      2400,
+      2425,
+      2450
+    ],
+    "raw_section": {
+      "start": 2400,
+      "end": 2475
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 32
+  },
+  {
+    "start": 2475,
+    "end": 2550,
+    "start_time": 99.0,
+    "end_time": 102.0,
+    "raw_caption": "The video captures a thrilling skiing descent down a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      2475,
+      2500,
+      2525
+    ],
+    "raw_section": {
+      "start": 2475,
+      "end": 2550
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 33
+  },
+  {
+    "start": 2550,
+    "end": 2625,
+    "start_time": 102.0,
+    "end_time": 105.0,
+    "raw_caption": "An individual is snowboarding down a mountain slope during the daytime.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      2550,
+      2575,
+      2600
+    ],
+    "raw_section": {
+      "start": 2550,
+      "end": 2625
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 34
+  },
+  {
+    "start": 2625,
+    "end": 2700,
+    "start_time": 105.0,
+    "end_time": 108.0,
+    "raw_caption": "A skier descends a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      2625,
+      2650,
+      2675
+    ],
+    "raw_section": {
+      "start": 2625,
+      "end": 2700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 35
+  },
+  {
+    "start": 2700,
+    "end": 2775,
+    "start_time": 108.0,
+    "end_time": 111.0,
+    "raw_caption": "A person is snowboarding down a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      2700,
+      2725,
+      2750
+    ],
+    "raw_section": {
+      "start": 2700,
+      "end": 2775
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 36
+  },
+  {
+    "start": 2775,
+    "end": 2850,
+    "start_time": 111.0,
+    "end_time": 114.0,
+    "raw_caption": "A person is snowboarding down a mountain slope during the daytime.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      2775,
+      2800,
+      2825
+    ],
+    "raw_section": {
+      "start": 2775,
+      "end": 2850
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 37
+  },
+  {
+    "start": 2850,
+    "end": 2925,
+    "start_time": 114.0,
+    "end_time": 117.0,
+    "raw_caption": "A person is snowboarding down a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      2850,
+      2875,
+      2900
+    ],
+    "raw_section": {
+      "start": 2850,
+      "end": 2925
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 38
+  },
+  {
+    "start": 2925,
+    "end": 3000,
+    "start_time": 117.0,
+    "end_time": 120.0,
+    "raw_caption": "A skier descends a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      2925,
+      2950,
+      2975
+    ],
+    "raw_section": {
+      "start": 2925,
+      "end": 3000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 39
+  },
+  {
+    "start": 3000,
+    "end": 3075,
+    "start_time": 120.0,
+    "end_time": 123.0,
+    "raw_caption": "A man is snowboarding down a snowy mountain slope during the daytime, capturing the thrilling descent.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      3000,
+      3025,
+      3050
+    ],
+    "raw_section": {
+      "start": 3000,
+      "end": 3075
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 40
+  },
+  {
+    "start": 3075,
+    "end": 3150,
+    "start_time": 123.0,
+    "end_time": 126.0,
+    "raw_caption": "A snowboarder descends a snowy mountain slope during the day, capturing a thrilling ride.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      3075,
+      3100,
+      3125
+    ],
+    "raw_section": {
+      "start": 3075,
+      "end": 3150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 41
+  },
+  {
+    "start": 3150,
+    "end": 3225,
+    "start_time": 126.0,
+    "end_time": 129.0,
+    "raw_caption": "A person is snowboarding down a steep mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'person wearing red pants'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      3150,
+      3175,
+      3200
+    ],
+    "raw_section": {
+      "start": 3150,
+      "end": 3225
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 42
+  },
+  {
+    "start": 3225,
+    "end": 3300,
+    "start_time": 129.0,
+    "end_time": 132.0,
+    "raw_caption": "A snowboarder descends a snowy mountain slope during the day, showcasing an exciting ride.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      3225,
+      3250,
+      3275
+    ],
+    "raw_section": {
+      "start": 3225,
+      "end": 3300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 43
+  },
+  {
+    "start": 3300,
+    "end": 3375,
+    "start_time": 132.0,
+    "end_time": 135.0,
+    "raw_caption": "An individual is snowboarding down a mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      3300,
+      3325,
+      3350
+    ],
+    "raw_section": {
+      "start": 3300,
+      "end": 3375
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 44
+  },
+  {
+    "start": 3375,
+    "end": 3450,
+    "start_time": 135.0,
+    "end_time": 138.0,
+    "raw_caption": "A person is snowboarding down a snowy mountain slope during the daytime.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      3375,
+      3400,
+      3425
+    ],
+    "raw_section": {
+      "start": 3375,
+      "end": 3450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 45
+  },
+  {
+    "start": 3450,
+    "end": 3525,
+    "start_time": 138.0,
+    "end_time": 141.0,
+    "raw_caption": "A person is snowboarding down a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'person with snowboard'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      3450,
+      3475,
+      3500
+    ],
+    "raw_section": {
+      "start": 3450,
+      "end": 3525
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 46
+  },
+  {
+    "start": 3525,
+    "end": 3600,
+    "start_time": 141.0,
+    "end_time": 144.0,
+    "raw_caption": "A man in a blue jacket is snowboarding down a steep mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man in blue jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      3525,
+      3550,
+      3575
+    ],
+    "raw_section": {
+      "start": 3525,
+      "end": 3600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 47
+  },
+  {
+    "start": 3600,
+    "end": 3675,
+    "start_time": 144.0,
+    "end_time": 147.0,
+    "raw_caption": "A man is skiing down a steep mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      3600,
+      3625,
+      3650
+    ],
+    "raw_section": {
+      "start": 3600,
+      "end": 3675
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 48
+  },
+  {
+    "start": 3675,
+    "end": 3750,
+    "start_time": 147.0,
+    "end_time": 150.0,
+    "raw_caption": "A man is snowboarding down a steep mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      3675,
+      3700,
+      3725
+    ],
+    "raw_section": {
+      "start": 3675,
+      "end": 3750
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 49
+  },
+  {
+    "start": 3750,
+    "end": 3825,
+    "start_time": 150.0,
+    "end_time": 153.0,
+    "raw_caption": "Skiers are navigating down a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'skiing down a mountain', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      3750,
+      3775,
+      3800
+    ],
+    "raw_section": {
+      "start": 3750,
+      "end": 3825
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 50
+  },
+  {
+    "start": 3825,
+    "end": 3900,
+    "start_time": 153.0,
+    "end_time": 156.0,
+    "raw_caption": "A skier is preparing to descend a snowy mountain slope during the daytime.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'shadow of skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      3825,
+      3850,
+      3875
+    ],
+    "raw_section": {
+      "start": 3825,
+      "end": 3900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 51
+  },
+  {
+    "start": 3900,
+    "end": 3975,
+    "start_time": 156.0,
+    "end_time": 159.0,
+    "raw_caption": "A skier descends a snowy mountain slope during the day, capturing the thrill of the descent.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown silhouette'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      3900,
+      3925,
+      3950
+    ],
+    "raw_section": {
+      "start": 3900,
+      "end": 3975
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 52
+  },
+  {
+    "start": 3975,
+    "end": 4050,
+    "start_time": 159.0,
+    "end_time": 162.0,
+    "raw_caption": "A skier is descending a steep snowy mountain slope during the day, casting a shadow on the snow.",
+    "attribute_caption_useful": "{'What': 'skiing down a steep slope', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'shadow of a skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      3975,
+      4000,
+      4025
+    ],
+    "raw_section": {
+      "start": 3975,
+      "end": 4050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 53
+  },
+  {
+    "start": 4050,
+    "end": 4125,
+    "start_time": 162.0,
+    "end_time": 165.0,
+    "raw_caption": "A snowboarder descends a steep, snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      4050,
+      4075,
+      4100
+    ],
+    "raw_section": {
+      "start": 4050,
+      "end": 4125
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 54
+  },
+  {
+    "start": 4125,
+    "end": 4200,
+    "start_time": 165.0,
+    "end_time": 168.0,
+    "raw_caption": "A skier is descending a steep, snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing down a steep slope', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      4125,
+      4150,
+      4175
+    ],
+    "raw_section": {
+      "start": 4125,
+      "end": 4200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 55
+  },
+  {
+    "start": 4200,
+    "end": 4275,
+    "start_time": 168.0,
+    "end_time": 171.0,
+    "raw_caption": "A skier is navigating down a steep, snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing down a steep slope', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      4200,
+      4225,
+      4250
+    ],
+    "raw_section": {
+      "start": 4200,
+      "end": 4275
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 56
+  },
+  {
+    "start": 4275,
+    "end": 4350,
+    "start_time": 171.0,
+    "end_time": 174.0,
+    "raw_caption": "A skier descends a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      4275,
+      4300,
+      4325
+    ],
+    "raw_section": {
+      "start": 4275,
+      "end": 4350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 57
+  },
+  {
+    "start": 4350,
+    "end": 4425,
+    "start_time": 174.0,
+    "end_time": 177.0,
+    "raw_caption": "The video captures a thrilling snowboarding descent down a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      4350,
+      4375,
+      4400
+    ],
+    "raw_section": {
+      "start": 4350,
+      "end": 4425
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 58
+  },
+  {
+    "start": 4425,
+    "end": 4500,
+    "start_time": 177.0,
+    "end_time": 180.0,
+    "raw_caption": "A snowboarder is descending a snowy mountain during the day, showcasing an exciting ride.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      4425,
+      4450,
+      4475
+    ],
+    "raw_section": {
+      "start": 4425,
+      "end": 4500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 59
+  },
+  {
+    "start": 4500,
+    "end": 4575,
+    "start_time": 180.0,
+    "end_time": 183.0,
+    "raw_caption": "A snowboarder is descending a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'shadow of snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.9;",
+    "sample_id_list": [
+      4500,
+      4525,
+      4550
+    ],
+    "raw_section": {
+      "start": 4500,
+      "end": 4575
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 60
+  },
+  {
+    "start": 4575,
+    "end": 4650,
+    "start_time": 183.0,
+    "end_time": 186.0,
+    "raw_caption": "A person is snowboarding down a mountain slope during the day, capturing an exhilarating descent.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.9;",
+    "sample_id_list": [
+      4575,
+      4600,
+      4625
+    ],
+    "raw_section": {
+      "start": 4575,
+      "end": 4650
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 61
+  },
+  {
+    "start": 4650,
+    "end": 4725,
+    "start_time": 186.0,
+    "end_time": 189.0,
+    "raw_caption": "A person is skiing down a steep, snow-covered mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing down a steep slope', 'Where': 'snow-covered mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      4650,
+      4675,
+      4700
+    ],
+    "raw_section": {
+      "start": 4650,
+      "end": 4725
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 62
+  },
+  {
+    "start": 4725,
+    "end": 4800,
+    "start_time": 189.0,
+    "end_time": 192.0,
+    "raw_caption": "An individual is skiing down a steep mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      4725,
+      4750,
+      4775
+    ],
+    "raw_section": {
+      "start": 4725,
+      "end": 4800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 63
+  },
+  {
+    "start": 4800,
+    "end": 4875,
+    "start_time": 192.0,
+    "end_time": 195.0,
+    "raw_caption": "A snowboarder is descending a snowy mountain slope during the daytime.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      4800,
+      4825,
+      4850
+    ],
+    "raw_section": {
+      "start": 4800,
+      "end": 4875
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 64
+  },
+  {
+    "start": 4875,
+    "end": 4950,
+    "start_time": 195.0,
+    "end_time": 198.0,
+    "raw_caption": "A person is snowboarding down a mountain slope during the daytime.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      4875,
+      4900,
+      4925
+    ],
+    "raw_section": {
+      "start": 4875,
+      "end": 4950
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 65
+  },
+  {
+    "start": 4950,
+    "end": 5025,
+    "start_time": 198.0,
+    "end_time": 201.0,
+    "raw_caption": "A man is snowboarding down a steep mountain slope during the daytime.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      4950,
+      4975,
+      5000
+    ],
+    "raw_section": {
+      "start": 4950,
+      "end": 5025
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 66
+  },
+  {
+    "start": 5025,
+    "end": 5100,
+    "start_time": 201.0,
+    "end_time": 204.0,
+    "raw_caption": "A person is skiing down a steep snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      5025,
+      5050,
+      5075
+    ],
+    "raw_section": {
+      "start": 5025,
+      "end": 5100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 67
+  },
+  {
+    "start": 5100,
+    "end": 5175,
+    "start_time": 204.0,
+    "end_time": 207.0,
+    "raw_caption": "A snowboarder descends a steep mountain slope at high speed during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      5100,
+      5125,
+      5150
+    ],
+    "raw_section": {
+      "start": 5100,
+      "end": 5175
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 68
+  },
+  {
+    "start": 5175,
+    "end": 5250,
+    "start_time": 207.0,
+    "end_time": 210.0,
+    "raw_caption": "An individual is snowboarding down a steep mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      5175,
+      5200,
+      5225
+    ],
+    "raw_section": {
+      "start": 5175,
+      "end": 5250
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 69
+  },
+  {
+    "start": 5250,
+    "end": 5325,
+    "start_time": 210.0,
+    "end_time": 213.0,
+    "raw_caption": "A person is snowboarding down a steep mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      5250,
+      5275,
+      5300
+    ],
+    "raw_section": {
+      "start": 5250,
+      "end": 5325
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 70
+  },
+  {
+    "start": 5325,
+    "end": 5400,
+    "start_time": 213.0,
+    "end_time": 216.0,
+    "raw_caption": "A snowboarder is performing a jump on a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      5325,
+      5350,
+      5375
+    ],
+    "raw_section": {
+      "start": 5325,
+      "end": 5400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 71
+  },
+  {
+    "start": 5400,
+    "end": 5475,
+    "start_time": 216.0,
+    "end_time": 219.0,
+    "raw_caption": "A man is snowboarding down a mountain slope during the day, showcasing his skills.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man in colorful gear'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      5400,
+      5425,
+      5450
+    ],
+    "raw_section": {
+      "start": 5400,
+      "end": 5475
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 72
+  },
+  {
+    "start": 5475,
+    "end": 5550,
+    "start_time": 219.0,
+    "end_time": 222.0,
+    "raw_caption": "A man is skiing down a snowy mountain during the day, capturing the experience on camera.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man with helmet'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      5475,
+      5500,
+      5525
+    ],
+    "raw_section": {
+      "start": 5475,
+      "end": 5550
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 73
+  },
+  {
+    "start": 5625,
+    "end": 5700,
+    "start_time": 225.0,
+    "end_time": 228.0,
+    "raw_caption": "A group of skiers is preparing to ski on a snowy mountain and is seen riding a cable car together.",
+    "attribute_caption_useful": "{'What': 'skiing and riding cable car', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'group of skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.7;",
+    "sample_id_list": [
+      5625,
+      5650,
+      5675
+    ],
+    "raw_section": {
+      "start": 5625,
+      "end": 5700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 75
+  },
+  {
+    "start": 5775,
+    "end": 5850,
+    "start_time": 231.0,
+    "end_time": 234.0,
+    "raw_caption": "An individual is skiing down a steep mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'individual skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      5775,
+      5800,
+      5825
+    ],
+    "raw_section": {
+      "start": 5775,
+      "end": 5850
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 77
+  },
+  {
+    "start": 5850,
+    "end": 5925,
+    "start_time": 234.0,
+    "end_time": 237.0,
+    "raw_caption": "An individual is skiing down a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown, likely adult'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      5850,
+      5875,
+      5900
+    ],
+    "raw_section": {
+      "start": 5850,
+      "end": 5925
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 78
+  },
+  {
+    "start": 5925,
+    "end": 6000,
+    "start_time": 237.0,
+    "end_time": 240.0,
+    "raw_caption": "A man is snowboarding down a mountain slope during the day, showcasing an exciting descent.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      5925,
+      5950,
+      5975
+    ],
+    "raw_section": {
+      "start": 5925,
+      "end": 6000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 79
+  },
+  {
+    "start": 6000,
+    "end": 6075,
+    "start_time": 240.0,
+    "end_time": 243.0,
+    "raw_caption": "A man is snowboarding down a mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man in helmet'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      6000,
+      6025,
+      6050
+    ],
+    "raw_section": {
+      "start": 6000,
+      "end": 6075
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 80
+  },
+  {
+    "start": 6075,
+    "end": 6150,
+    "start_time": 243.0,
+    "end_time": 246.0,
+    "raw_caption": "A man snowboards down a mountain slope during the day, showcasing thrilling maneuvers.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountains', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      6075,
+      6100,
+      6125
+    ],
+    "raw_section": {
+      "start": 6075,
+      "end": 6150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 81
+  },
+  {
+    "start": 6150,
+    "end": 6225,
+    "start_time": 246.0,
+    "end_time": 249.0,
+    "raw_caption": "A man is snowboarding down a mountain during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      6150,
+      6175,
+      6200
+    ],
+    "raw_section": {
+      "start": 6150,
+      "end": 6225
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 82
+  },
+  {
+    "start": 6225,
+    "end": 6300,
+    "start_time": 249.0,
+    "end_time": 252.0,
+    "raw_caption": "Two snowboarders navigate a steep mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'two snowboarders'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      6225,
+      6250,
+      6275
+    ],
+    "raw_section": {
+      "start": 6225,
+      "end": 6300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 83
+  },
+  {
+    "start": 6300,
+    "end": 6375,
+    "start_time": 252.0,
+    "end_time": 255.0,
+    "raw_caption": "A man is snowboarding down a steep, snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man in snow gear'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      6300,
+      6325,
+      6350
+    ],
+    "raw_section": {
+      "start": 6300,
+      "end": 6375
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 84
+  },
+  {
+    "start": 6375,
+    "end": 6450,
+    "start_time": 255.0,
+    "end_time": 258.0,
+    "raw_caption": "A person in a green jacket is snowboarding down a mountain during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'person in green jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      6375,
+      6400,
+      6425
+    ],
+    "raw_section": {
+      "start": 6375,
+      "end": 6450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 85
+  },
+  {
+    "start": 6450,
+    "end": 6525,
+    "start_time": 258.0,
+    "end_time": 261.0,
+    "raw_caption": "A man is skiing down a snowy mountain during the day, showcasing an exhilarating descent.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'man in green and orange outfit'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      6450,
+      6475,
+      6500
+    ],
+    "raw_section": {
+      "start": 6450,
+      "end": 6525
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 86
+  },
+  {
+    "start": 6525,
+    "end": 6600,
+    "start_time": 261.0,
+    "end_time": 264.0,
+    "raw_caption": "A skier is descending a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      6525,
+      6550,
+      6575
+    ],
+    "raw_section": {
+      "start": 6525,
+      "end": 6600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 87
+  },
+  {
+    "start": 6600,
+    "end": 6675,
+    "start_time": 264.0,
+    "end_time": 267.0,
+    "raw_caption": "A skier is navigating a snowy mountain slope during the day, showcasing a thrilling descent.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snow-covered mountain', 'When': 'daytime', 'Who': 'unknown skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      6600,
+      6625,
+      6650
+    ],
+    "raw_section": {
+      "start": 6600,
+      "end": 6675
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 88
+  },
+  {
+    "start": 6675,
+    "end": 6750,
+    "start_time": 267.0,
+    "end_time": 270.0,
+    "raw_caption": "An individual is snowboarding down a mountain slope during the daytime.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'individual, likely a snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      6675,
+      6700,
+      6725
+    ],
+    "raw_section": {
+      "start": 6675,
+      "end": 6750
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 89
+  },
+  {
+    "start": 6750,
+    "end": 6825,
+    "start_time": 270.0,
+    "end_time": 273.0,
+    "raw_caption": "An individual is skiing down a snowy mountain during the day, capturing an exciting descent.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      6750,
+      6775,
+      6800
+    ],
+    "raw_section": {
+      "start": 6750,
+      "end": 6825
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 90
+  },
+  {
+    "start": 6825,
+    "end": 6900,
+    "start_time": 273.0,
+    "end_time": 276.0,
+    "raw_caption": "A person is snowboarding down a mountain slope on a sunny day, capturing the thrilling descent from a first-person perspective.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown, first-person view'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      6825,
+      6850,
+      6875
+    ],
+    "raw_section": {
+      "start": 6825,
+      "end": 6900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 91
+  },
+  {
+    "start": 6900,
+    "end": 6975,
+    "start_time": 276.0,
+    "end_time": 279.0,
+    "raw_caption": "An individual is snowboarding down a mountain during the day, showcasing an exciting ride.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      6900,
+      6925,
+      6950
+    ],
+    "raw_section": {
+      "start": 6900,
+      "end": 6975
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 92
+  },
+  {
+    "start": 6975,
+    "end": 7050,
+    "start_time": 279.0,
+    "end_time": 282.0,
+    "raw_caption": "A person is snowboarding down a mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'person in green and orange outfit'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 1;",
+    "sample_id_list": [
+      6975,
+      7000,
+      7025
+    ],
+    "raw_section": {
+      "start": 6975,
+      "end": 7050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 1.0",
+    "clip_id": 93
+  },
+  {
+    "start": 7050,
+    "end": 7125,
+    "start_time": 282.0,
+    "end_time": 285.0,
+    "raw_caption": "A man in a green jacket is snowboarding down a mountain slope on a clear day, showcasing his skills.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man in green jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      7050,
+      7075,
+      7100
+    ],
+    "raw_section": {
+      "start": 7050,
+      "end": 7125
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 94
+  },
+  {
+    "start": 7125,
+    "end": 7200,
+    "start_time": 285.0,
+    "end_time": 288.0,
+    "raw_caption": "A man in a green jacket is snowboarding down a mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man in green jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      7125,
+      7150,
+      7175
+    ],
+    "raw_section": {
+      "start": 7125,
+      "end": 7200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 95
+  },
+  {
+    "start": 7200,
+    "end": 7275,
+    "start_time": 288.0,
+    "end_time": 291.0,
+    "raw_caption": "A man in a green outfit is snowboarding down a mountain slope during the day, showcasing impressive skills.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man in green outfit'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      7200,
+      7225,
+      7250
+    ],
+    "raw_section": {
+      "start": 7200,
+      "end": 7275
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 96
+  },
+  {
+    "start": 7275,
+    "end": 7350,
+    "start_time": 291.0,
+    "end_time": 294.0,
+    "raw_caption": "An individual is skiing down a snowy mountain during the day, capturing exciting downhill action.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountains', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      7275,
+      7300,
+      7325
+    ],
+    "raw_section": {
+      "start": 7275,
+      "end": 7350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 97
+  },
+  {
+    "start": 7350,
+    "end": 7425,
+    "start_time": 294.0,
+    "end_time": 297.0,
+    "raw_caption": "A person in a green jacket is skiing down a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'person in green jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      7350,
+      7375,
+      7400
+    ],
+    "raw_section": {
+      "start": 7350,
+      "end": 7425
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 98
+  },
+  {
+    "start": 7425,
+    "end": 7500,
+    "start_time": 297.0,
+    "end_time": 300.0,
+    "raw_caption": "Two snowboarders are descending a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'two snowboarders'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      7425,
+      7450,
+      7475
+    ],
+    "raw_section": {
+      "start": 7425,
+      "end": 7500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 99
+  },
+  {
+    "start": 7500,
+    "end": 7575,
+    "start_time": 300.0,
+    "end_time": 303.0,
+    "raw_caption": "Two snowboarders skillfully navigate a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'two snowboarders'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      7500,
+      7525,
+      7550
+    ],
+    "raw_section": {
+      "start": 7500,
+      "end": 7575
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 100
+  },
+  {
+    "start": 7575,
+    "end": 7650,
+    "start_time": 303.0,
+    "end_time": 306.0,
+    "raw_caption": "A person is skiing down a snowy mountain during the daytime.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountains', 'When': 'daytime', 'Who': 'person wearing blue jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      7575,
+      7600,
+      7625
+    ],
+    "raw_section": {
+      "start": 7575,
+      "end": 7650
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 101
+  },
+  {
+    "start": 7650,
+    "end": 7725,
+    "start_time": 306.0,
+    "end_time": 309.0,
+    "raw_caption": "A man is skiing down a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      7650,
+      7675,
+      7700
+    ],
+    "raw_section": {
+      "start": 7650,
+      "end": 7725
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 102
+  },
+  {
+    "start": 7725,
+    "end": 7800,
+    "start_time": 309.0,
+    "end_time": 312.0,
+    "raw_caption": "A skier in a green jacket navigates down a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'skier in green jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      7725,
+      7750,
+      7775
+    ],
+    "raw_section": {
+      "start": 7725,
+      "end": 7800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 103
+  },
+  {
+    "start": 7800,
+    "end": 7875,
+    "start_time": 312.0,
+    "end_time": 315.0,
+    "raw_caption": "A person in a green jacket is snowboarding down a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'person in green jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      7800,
+      7825,
+      7850
+    ],
+    "raw_section": {
+      "start": 7800,
+      "end": 7875
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 104
+  },
+  {
+    "start": 7875,
+    "end": 7950,
+    "start_time": 315.0,
+    "end_time": 318.0,
+    "raw_caption": "An individual is snowboarding down a mountain slope during the daytime.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'individual wearing a green jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      7875,
+      7900,
+      7925
+    ],
+    "raw_section": {
+      "start": 7875,
+      "end": 7950
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 105
+  },
+  {
+    "start": 7950,
+    "end": 8025,
+    "start_time": 318.0,
+    "end_time": 321.0,
+    "raw_caption": "A snowboarder performs a jump on a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'snowboarder in green and orange outfit'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      7950,
+      7975,
+      8000
+    ],
+    "raw_section": {
+      "start": 7950,
+      "end": 8025
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 106
+  },
+  {
+    "start": 8025,
+    "end": 8100,
+    "start_time": 321.0,
+    "end_time": 324.0,
+    "raw_caption": "A man in a green jacket is snowboarding down a snowy mountain forest during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain forest', 'When': 'daytime', 'Who': 'man in green jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8025,
+      8050,
+      8075
+    ],
+    "raw_section": {
+      "start": 8025,
+      "end": 8100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 107
+  },
+  {
+    "start": 8100,
+    "end": 8175,
+    "start_time": 324.0,
+    "end_time": 327.0,
+    "raw_caption": "Two people are skiing down a mountain during the day, showcasing an exciting descent.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'two people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8100,
+      8125,
+      8150
+    ],
+    "raw_section": {
+      "start": 8100,
+      "end": 8175
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 108
+  },
+  {
+    "start": 8175,
+    "end": 8250,
+    "start_time": 327.0,
+    "end_time": 330.0,
+    "raw_caption": "A man in a green jacket snowboards down a mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man in green jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8175,
+      8200,
+      8225
+    ],
+    "raw_section": {
+      "start": 8175,
+      "end": 8250
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 109
+  },
+  {
+    "start": 8250,
+    "end": 8325,
+    "start_time": 330.0,
+    "end_time": 333.0,
+    "raw_caption": "The video captures an exciting skiing descent down a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8250,
+      8275,
+      8300
+    ],
+    "raw_section": {
+      "start": 8250,
+      "end": 8325
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 110
+  },
+  {
+    "start": 8325,
+    "end": 8400,
+    "start_time": 333.0,
+    "end_time": 336.0,
+    "raw_caption": "An individual is snowboarding down a mountain slope during the day, capturing the thrill of the descent.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8325,
+      8350,
+      8375
+    ],
+    "raw_section": {
+      "start": 8325,
+      "end": 8400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 111
+  },
+  {
+    "start": 8400,
+    "end": 8475,
+    "start_time": 336.0,
+    "end_time": 339.0,
+    "raw_caption": "Two people are snowboarding down a mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'two people in snow gear'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8400,
+      8425,
+      8450
+    ],
+    "raw_section": {
+      "start": 8400,
+      "end": 8475
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 112
+  },
+  {
+    "start": 8475,
+    "end": 8550,
+    "start_time": 339.0,
+    "end_time": 342.0,
+    "raw_caption": "A man is snowboarding down a snowy mountain during the day, capturing the action from a first-person perspective.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8475,
+      8500,
+      8525
+    ],
+    "raw_section": {
+      "start": 8475,
+      "end": 8550
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 113
+  },
+  {
+    "start": 8550,
+    "end": 8625,
+    "start_time": 342.0,
+    "end_time": 345.0,
+    "raw_caption": "A snowboarder glides through a snowy forest, casting a shadow on the snow.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8550,
+      8575,
+      8600
+    ],
+    "raw_section": {
+      "start": 8550,
+      "end": 8625
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 114
+  },
+  {
+    "start": 8625,
+    "end": 8700,
+    "start_time": 345.0,
+    "end_time": 348.0,
+    "raw_caption": "A man is snowboarding down a mountain during the day, showcasing an exciting descent.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8625,
+      8650,
+      8675
+    ],
+    "raw_section": {
+      "start": 8625,
+      "end": 8700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 115
+  },
+  {
+    "start": 8700,
+    "end": 8775,
+    "start_time": 348.0,
+    "end_time": 351.0,
+    "raw_caption": "A snowboarder navigates through a forested area during the day, showcasing an exciting snowboarding experience.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'forest', 'When': 'daytime', 'Who': 'unknown snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8700,
+      8725,
+      8750
+    ],
+    "raw_section": {
+      "start": 8700,
+      "end": 8775
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 116
+  },
+  {
+    "start": 8775,
+    "end": 8850,
+    "start_time": 351.0,
+    "end_time": 354.0,
+    "raw_caption": "A person is snowboarding through a forested area during the day, capturing the action from a first-person perspective.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'forest', 'When': 'daytime', 'Who': 'unknown person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8775,
+      8800,
+      8825
+    ],
+    "raw_section": {
+      "start": 8775,
+      "end": 8850
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 117
+  },
+  {
+    "start": 8850,
+    "end": 8925,
+    "start_time": 354.0,
+    "end_time": 357.0,
+    "raw_caption": "An individual is snowboarding through a forested area during the day, showcasing an adventurous activity.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'forest', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8850,
+      8875,
+      8900
+    ],
+    "raw_section": {
+      "start": 8850,
+      "end": 8925
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 118
+  },
+  {
+    "start": 8925,
+    "end": 9000,
+    "start_time": 357.0,
+    "end_time": 360.0,
+    "raw_caption": "An individual is snowboarding through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8925,
+      8950,
+      8975
+    ],
+    "raw_section": {
+      "start": 8925,
+      "end": 9000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 119
+  },
+  {
+    "start": 9000,
+    "end": 9075,
+    "start_time": 360.0,
+    "end_time": 363.0,
+    "raw_caption": "An individual is snowboarding down a mountain during the daytime, navigating through trees.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      9000,
+      9025,
+      9050
+    ],
+    "raw_section": {
+      "start": 9000,
+      "end": 9075
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 120
+  },
+  {
+    "start": 9075,
+    "end": 9150,
+    "start_time": 363.0,
+    "end_time": 366.0,
+    "raw_caption": "A snowboarder navigates through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'forest', 'When': 'daytime', 'Who': 'unknown snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      9075,
+      9100,
+      9125
+    ],
+    "raw_section": {
+      "start": 9075,
+      "end": 9150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 121
+  },
+  {
+    "start": 9150,
+    "end": 9225,
+    "start_time": 366.0,
+    "end_time": 369.0,
+    "raw_caption": "A snowboarder is riding down a snowy mountain during the day, capturing the action from a first-person perspective.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      9150,
+      9175,
+      9200
+    ],
+    "raw_section": {
+      "start": 9150,
+      "end": 9225
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 122
+  },
+  {
+    "start": 9225,
+    "end": 9300,
+    "start_time": 369.0,
+    "end_time": 372.0,
+    "raw_caption": "A man in a green jacket is snowboarding down a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man in green jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.1; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      9225,
+      9250,
+      9275
+    ],
+    "raw_section": {
+      "start": 9225,
+      "end": 9300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 123
+  },
+  {
+    "start": 9300,
+    "end": 9375,
+    "start_time": 372.0,
+    "end_time": 375.0,
+    "raw_caption": "A man is snowboarding down a snowy mountain during the day, performing dynamic maneuvers.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      9300,
+      9325,
+      9350
+    ],
+    "raw_section": {
+      "start": 9300,
+      "end": 9375
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 124
+  },
+  {
+    "start": 9375,
+    "end": 9450,
+    "start_time": 375.0,
+    "end_time": 378.0,
+    "raw_caption": "A person is skiing through a snowy forest during the day, showcasing an exciting descent.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'person with skiing gear'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      9375,
+      9400,
+      9425
+    ],
+    "raw_section": {
+      "start": 9375,
+      "end": 9450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 125
+  },
+  {
+    "start": 9450,
+    "end": 9525,
+    "start_time": 378.0,
+    "end_time": 381.0,
+    "raw_caption": "A person is snowboarding down a mountain slope, creating a spray of snow in the air.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.6; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      9450,
+      9475,
+      9500
+    ],
+    "raw_section": {
+      "start": 9450,
+      "end": 9525
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 126
+  },
+  {
+    "start": 9525,
+    "end": 9600,
+    "start_time": 381.0,
+    "end_time": 384.0,
+    "raw_caption": "Two men are snowboarding down a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'two men'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      9525,
+      9550,
+      9575
+    ],
+    "raw_section": {
+      "start": 9525,
+      "end": 9600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 127
+  },
+  {
+    "start": 9600,
+    "end": 9675,
+    "start_time": 384.0,
+    "end_time": 387.0,
+    "raw_caption": "A man is skiing down a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 1;",
+    "sample_id_list": [
+      9600,
+      9625,
+      9650
+    ],
+    "raw_section": {
+      "start": 9600,
+      "end": 9675
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 1.0",
+    "clip_id": 128
+  },
+  {
+    "start": 9675,
+    "end": 9750,
+    "start_time": 387.0,
+    "end_time": 390.0,
+    "raw_caption": "A man in a blue jacket is preparing to ski on a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'preparing for skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man in blue jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      9675,
+      9700,
+      9725
+    ],
+    "raw_section": {
+      "start": 9675,
+      "end": 9750
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 129
+  },
+  {
+    "start": 9750,
+    "end": 9825,
+    "start_time": 390.0,
+    "end_time": 393.0,
+    "raw_caption": "A man is snowboarding down a mountain during the daytime, showcasing an exciting descent.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      9750,
+      9775,
+      9800
+    ],
+    "raw_section": {
+      "start": 9750,
+      "end": 9825
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 130
+  },
+  {
+    "start": 9825,
+    "end": 9900,
+    "start_time": 393.0,
+    "end_time": 396.0,
+    "raw_caption": "Two snowboarders are descending a snowy mountain slope during the day, showcasing their skills.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'two snowboarders'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      9825,
+      9850,
+      9875
+    ],
+    "raw_section": {
+      "start": 9825,
+      "end": 9900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 131
+  },
+  {
+    "start": 9900,
+    "end": 9975,
+    "start_time": 396.0,
+    "end_time": 399.0,
+    "raw_caption": "A person is snowboarding down a steep mountain slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'person in blue and red gear'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      9900,
+      9925,
+      9950
+    ],
+    "raw_section": {
+      "start": 9900,
+      "end": 9975
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 132
+  },
+  {
+    "start": 9975,
+    "end": 10050,
+    "start_time": 399.0,
+    "end_time": 402.0,
+    "raw_caption": "A person in a blue jacket is snowboarding down a mountain during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'person in blue jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      9975,
+      10000,
+      10025
+    ],
+    "raw_section": {
+      "start": 9975,
+      "end": 10050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 133
+  },
+  {
+    "start": 10050,
+    "end": 10125,
+    "start_time": 402.0,
+    "end_time": 405.0,
+    "raw_caption": "A skier navigates down a steep mountain slope during the daytime, showcasing impressive skills.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      10050,
+      10075,
+      10100
+    ],
+    "raw_section": {
+      "start": 10050,
+      "end": 10125
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 134
+  },
+  {
+    "start": 10125,
+    "end": 10200,
+    "start_time": 405.0,
+    "end_time": 408.0,
+    "raw_caption": "Two skiers are descending a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'two skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      10125,
+      10150,
+      10175
+    ],
+    "raw_section": {
+      "start": 10125,
+      "end": 10200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 135
+  },
+  {
+    "start": 10200,
+    "end": 10275,
+    "start_time": 408.0,
+    "end_time": 411.0,
+    "raw_caption": "An individual is snowboarding down a mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'individual in blue jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      10200,
+      10225,
+      10250
+    ],
+    "raw_section": {
+      "start": 10200,
+      "end": 10275
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 136
+  },
+  {
+    "start": 10275,
+    "end": 10350,
+    "start_time": 411.0,
+    "end_time": 414.0,
+    "raw_caption": "A person is snowboarding down a mountain slope during the day, showcasing skillful maneuvers.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'person in red pants and blue jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      10275,
+      10300,
+      10325
+    ],
+    "raw_section": {
+      "start": 10275,
+      "end": 10350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 137
+  },
+  {
+    "start": 10350,
+    "end": 10425,
+    "start_time": 414.0,
+    "end_time": 417.0,
+    "raw_caption": "A person in a blue jacket is snowboarding down a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'person in blue jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      10350,
+      10375,
+      10400
+    ],
+    "raw_section": {
+      "start": 10350,
+      "end": 10425
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 138
+  },
+  {
+    "start": 10425,
+    "end": 10500,
+    "start_time": 417.0,
+    "end_time": 420.0,
+    "raw_caption": "A man is snowboarding down a steep mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man wearing blue and red gear'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      10425,
+      10450,
+      10475
+    ],
+    "raw_section": {
+      "start": 10425,
+      "end": 10500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 139
+  },
+  {
+    "start": 10500,
+    "end": 10575,
+    "start_time": 420.0,
+    "end_time": 423.0,
+    "raw_caption": "A man is snowboarding down a steep mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      10500,
+      10525,
+      10550
+    ],
+    "raw_section": {
+      "start": 10500,
+      "end": 10575
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 140
+  },
+  {
+    "start": 10575,
+    "end": 10650,
+    "start_time": 423.0,
+    "end_time": 426.0,
+    "raw_caption": "A man is snowboarding down a steep mountain slope during the day, capturing an exhilarating descent.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      10575,
+      10600,
+      10625
+    ],
+    "raw_section": {
+      "start": 10575,
+      "end": 10650
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 141
+  },
+  {
+    "start": 10650,
+    "end": 10725,
+    "start_time": 426.0,
+    "end_time": 429.0,
+    "raw_caption": "A man is snowboarding down a mountain slope during the day, showcasing impressive skills.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      10650,
+      10675,
+      10700
+    ],
+    "raw_section": {
+      "start": 10650,
+      "end": 10725
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 142
+  },
+  {
+    "start": 10725,
+    "end": 10800,
+    "start_time": 429.0,
+    "end_time": 432.0,
+    "raw_caption": "A man is snowboarding down a mountain slope during the day, showcasing exciting maneuvers.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      10725,
+      10750,
+      10775
+    ],
+    "raw_section": {
+      "start": 10725,
+      "end": 10800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 143
+  },
+  {
+    "start": 10800,
+    "end": 10875,
+    "start_time": 432.0,
+    "end_time": 435.0,
+    "raw_caption": "A person is snowboarding down a mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'person in blue jacket and red pants'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      10800,
+      10825,
+      10850
+    ],
+    "raw_section": {
+      "start": 10800,
+      "end": 10875
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 144
+  },
+  {
+    "start": 10875,
+    "end": 10950,
+    "start_time": 435.0,
+    "end_time": 438.0,
+    "raw_caption": "An individual is snowboarding down a mountain during the daytime, showcasing a thrilling descent.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'individual in colorful gear'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      10875,
+      10900,
+      10925
+    ],
+    "raw_section": {
+      "start": 10875,
+      "end": 10950
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 145
+  },
+  {
+    "start": 10950,
+    "end": 11025,
+    "start_time": 438.0,
+    "end_time": 441.0,
+    "raw_caption": "A man is snowboarding down a mountain slope during the day, showcasing impressive skills.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man in colorful outfit'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      10950,
+      10975,
+      11000
+    ],
+    "raw_section": {
+      "start": 10950,
+      "end": 11025
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 146
+  },
+  {
+    "start": 11025,
+    "end": 11100,
+    "start_time": 441.0,
+    "end_time": 444.0,
+    "raw_caption": "A man is skiing down a snowy mountain slope during the day, showcasing an exciting descent.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      11025,
+      11050,
+      11075
+    ],
+    "raw_section": {
+      "start": 11025,
+      "end": 11100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 147
+  },
+  {
+    "start": 11100,
+    "end": 11175,
+    "start_time": 444.0,
+    "end_time": 447.0,
+    "raw_caption": "A man in a blue jacket is snowboarding through a forested mountain area during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain forest', 'When': 'daytime', 'Who': 'man in blue jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      11100,
+      11125,
+      11150
+    ],
+    "raw_section": {
+      "start": 11100,
+      "end": 11175
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 148
+  },
+  {
+    "start": 11175,
+    "end": 11250,
+    "start_time": 447.0,
+    "end_time": 450.0,
+    "raw_caption": "A snowboarder performs a jump in a snowy mountain forest during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain forest', 'When': 'daytime', 'Who': 'snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      11175,
+      11200,
+      11225
+    ],
+    "raw_section": {
+      "start": 11175,
+      "end": 11250
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 149
+  },
+  {
+    "start": 11250,
+    "end": 11325,
+    "start_time": 450.0,
+    "end_time": 453.0,
+    "raw_caption": "A person is snowboarding through a forest on a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'forest on snowy mountain', 'When': 'daytime', 'Who': 'person in red and blue outfit'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      11250,
+      11275,
+      11300
+    ],
+    "raw_section": {
+      "start": 11250,
+      "end": 11325
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 150
+  },
+  {
+    "start": 11325,
+    "end": 11400,
+    "start_time": 453.0,
+    "end_time": 456.0,
+    "raw_caption": "A person is snowboarding down a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain', 'When': 'daytime', 'Who': 'person in blue and red gear'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      11325,
+      11350,
+      11375
+    ],
+    "raw_section": {
+      "start": 11325,
+      "end": 11400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-ecosnowsportsTV/5FE87lIj1DQ.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 151
+  }
+]

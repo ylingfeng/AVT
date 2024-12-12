@@ -1,0 +1,3887 @@
+[
+  {
+    "start": 0,
+    "end": 150,
+    "start_time": 0.0,
+    "end_time": 3.0,
+    "raw_caption": "Skiers are riding a ski lift up a snowy slope on a sunny day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.5;",
+    "sample_id_list": [
+      0,
+      50,
+      100
+    ],
+    "raw_section": {
+      "start": 0,
+      "end": 150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 0
+  },
+  {
+    "start": 150,
+    "end": 300,
+    "start_time": 3.0,
+    "end_time": 6.0,
+    "raw_caption": "The video shows a ski lift ascending a snowy mountain on a clear day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      150,
+      200,
+      250
+    ],
+    "raw_section": {
+      "start": 150,
+      "end": 300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 1
+  },
+  {
+    "start": 300,
+    "end": 450,
+    "start_time": 6.0,
+    "end_time": 9.0,
+    "raw_caption": "The video shows a ski slope during the daytime, with a focus on skiing activities.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      300,
+      350,
+      400
+    ],
+    "raw_section": {
+      "start": 300,
+      "end": 450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 2
+  },
+  {
+    "start": 600,
+    "end": 750,
+    "start_time": 12.0,
+    "end_time": 15.0,
+    "raw_caption": "A skier is descending a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unidentified skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      600,
+      650,
+      700
+    ],
+    "raw_section": {
+      "start": 600,
+      "end": 750
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 4
+  },
+  {
+    "start": 750,
+    "end": 900,
+    "start_time": 15.0,
+    "end_time": 18.0,
+    "raw_caption": "The scene shows a ski slope during the day with a skier descending the hill.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+    "sample_id_list": [
+      750,
+      800,
+      850
+    ],
+    "raw_section": {
+      "start": 750,
+      "end": 900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 5
+  },
+  {
+    "start": 900,
+    "end": 1050,
+    "start_time": 18.0,
+    "end_time": 21.0,
+    "raw_caption": "A skier is descending a snowy slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      900,
+      950,
+      1000
+    ],
+    "raw_section": {
+      "start": 900,
+      "end": 1050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 6
+  },
+  {
+    "start": 1050,
+    "end": 1200,
+    "start_time": 21.0,
+    "end_time": 24.0,
+    "raw_caption": "An individual is skiing down a snow-covered slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'individual with helmet'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      1050,
+      1100,
+      1150
+    ],
+    "raw_section": {
+      "start": 1050,
+      "end": 1200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 7
+  },
+  {
+    "start": 1200,
+    "end": 1350,
+    "start_time": 24.0,
+    "end_time": 27.0,
+    "raw_caption": "An individual is skiing down a snow-covered slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'individual skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      1200,
+      1250,
+      1300
+    ],
+    "raw_section": {
+      "start": 1200,
+      "end": 1350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 8
+  },
+  {
+    "start": 1350,
+    "end": 1500,
+    "start_time": 27.0,
+    "end_time": 30.0,
+    "raw_caption": "Skiers are descending a snowy slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      1350,
+      1400,
+      1450
+    ],
+    "raw_section": {
+      "start": 1350,
+      "end": 1500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 9
+  },
+  {
+    "start": 1500,
+    "end": 1650,
+    "start_time": 30.0,
+    "end_time": 33.0,
+    "raw_caption": "A skier is descending a snowy slope at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      1500,
+      1550,
+      1600
+    ],
+    "raw_section": {
+      "start": 1500,
+      "end": 1650
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 10
+  },
+  {
+    "start": 1650,
+    "end": 1800,
+    "start_time": 33.0,
+    "end_time": 36.0,
+    "raw_caption": "The video shows skiers on a ski lift during a clear day at a ski resort.",
+    "attribute_caption_useful": "{'What': 'ski lift', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      1650,
+      1700,
+      1750
+    ],
+    "raw_section": {
+      "start": 1650,
+      "end": 1800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 11
+  },
+  {
+    "start": 1800,
+    "end": 1950,
+    "start_time": 36.0,
+    "end_time": 39.0,
+    "raw_caption": "Skiers are riding a ski lift at a resort during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.4;",
+    "sample_id_list": [
+      1800,
+      1850,
+      1900
+    ],
+    "raw_section": {
+      "start": 1800,
+      "end": 1950
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 12
+  },
+  {
+    "start": 1950,
+    "end": 2100,
+    "start_time": 39.0,
+    "end_time": 42.0,
+    "raw_caption": "Skiers are descending a snowy slope on a clear day, showcasing their skills.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      1950,
+      2000,
+      2050
+    ],
+    "raw_section": {
+      "start": 1950,
+      "end": 2100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 13
+  },
+  {
+    "start": 2100,
+    "end": 2250,
+    "start_time": 42.0,
+    "end_time": 45.0,
+    "raw_caption": "The video shows skiers descending a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2100,
+      2150,
+      2200
+    ],
+    "raw_section": {
+      "start": 2100,
+      "end": 2250
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 14
+  },
+  {
+    "start": 2250,
+    "end": 2400,
+    "start_time": 45.0,
+    "end_time": 48.0,
+    "raw_caption": "Skiers are descending a snow-covered slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2250,
+      2300,
+      2350
+    ],
+    "raw_section": {
+      "start": 2250,
+      "end": 2400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 15
+  },
+  {
+    "start": 2400,
+    "end": 2550,
+    "start_time": 48.0,
+    "end_time": 51.0,
+    "raw_caption": "Skiers are enjoying a sunny day on the slopes, with a chairlift visible to the side.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      2400,
+      2450,
+      2500
+    ],
+    "raw_section": {
+      "start": 2400,
+      "end": 2550
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 16
+  },
+  {
+    "start": 2550,
+    "end": 2700,
+    "start_time": 51.0,
+    "end_time": 54.0,
+    "raw_caption": "Several skiers are descending a snowy slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'several skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      2550,
+      2600,
+      2650
+    ],
+    "raw_section": {
+      "start": 2550,
+      "end": 2700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 17
+  },
+  {
+    "start": 2700,
+    "end": 2850,
+    "start_time": 54.0,
+    "end_time": 57.0,
+    "raw_caption": "Skiers are enjoying a sunny day on the slopes, with some using the chairlift.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      2700,
+      2750,
+      2800
+    ],
+    "raw_section": {
+      "start": 2700,
+      "end": 2850
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 18
+  },
+  {
+    "start": 2850,
+    "end": 3000,
+    "start_time": 57.0,
+    "end_time": 60.0,
+    "raw_caption": "Skiers are descending a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      2850,
+      2900,
+      2950
+    ],
+    "raw_section": {
+      "start": 2850,
+      "end": 3000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 19
+  },
+  {
+    "start": 3000,
+    "end": 3150,
+    "start_time": 60.0,
+    "end_time": 63.0,
+    "raw_caption": "Skiers are enjoying a sunny day on a ski slope, with a chairlift visible in the background.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.7;",
+    "sample_id_list": [
+      3000,
+      3050,
+      3100
+    ],
+    "raw_section": {
+      "start": 3000,
+      "end": 3150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 20
+  },
+  {
+    "start": 3150,
+    "end": 3300,
+    "start_time": 63.0,
+    "end_time": 66.0,
+    "raw_caption": "Skiers are descending a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      3150,
+      3200,
+      3250
+    ],
+    "raw_section": {
+      "start": 3150,
+      "end": 3300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 21
+  },
+  {
+    "start": 3300,
+    "end": 3450,
+    "start_time": 66.0,
+    "end_time": 69.0,
+    "raw_caption": "The video shows skiers enjoying a run down a snowy slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      3300,
+      3350,
+      3400
+    ],
+    "raw_section": {
+      "start": 3300,
+      "end": 3450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 22
+  },
+  {
+    "start": 3450,
+    "end": 3600,
+    "start_time": 69.0,
+    "end_time": 72.0,
+    "raw_caption": "Three people are skiing down a snowy slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'three skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      3450,
+      3500,
+      3550
+    ],
+    "raw_section": {
+      "start": 3450,
+      "end": 3600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 23
+  },
+  {
+    "start": 3600,
+    "end": 3750,
+    "start_time": 72.0,
+    "end_time": 75.0,
+    "raw_caption": "Two skiers are descending a snowy slope under clear skies.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'two skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      3600,
+      3650,
+      3700
+    ],
+    "raw_section": {
+      "start": 3600,
+      "end": 3750
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 24
+  },
+  {
+    "start": 3750,
+    "end": 3900,
+    "start_time": 75.0,
+    "end_time": 78.0,
+    "raw_caption": "Skiers are descending a snowy slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      3750,
+      3800,
+      3850
+    ],
+    "raw_section": {
+      "start": 3750,
+      "end": 3900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 25
+  },
+  {
+    "start": 3900,
+    "end": 4050,
+    "start_time": 78.0,
+    "end_time": 81.0,
+    "raw_caption": "A skier is descending a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      3900,
+      3950,
+      4000
+    ],
+    "raw_section": {
+      "start": 3900,
+      "end": 4050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 26
+  },
+  {
+    "start": 4050,
+    "end": 4200,
+    "start_time": 81.0,
+    "end_time": 84.0,
+    "raw_caption": "A man is skiing down a snowy slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      4050,
+      4100,
+      4150
+    ],
+    "raw_section": {
+      "start": 4050,
+      "end": 4200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 27
+  },
+  {
+    "start": 4200,
+    "end": 4350,
+    "start_time": 84.0,
+    "end_time": 87.0,
+    "raw_caption": "A man is skiing down a snowy slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      4200,
+      4250,
+      4300
+    ],
+    "raw_section": {
+      "start": 4200,
+      "end": 4350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 28
+  },
+  {
+    "start": 4350,
+    "end": 4500,
+    "start_time": 87.0,
+    "end_time": 90.0,
+    "raw_caption": "The video shows a ski lift moving through a snowy forest area during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      4350,
+      4400,
+      4450
+    ],
+    "raw_section": {
+      "start": 4350,
+      "end": 4500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 29
+  },
+  {
+    "start": 4500,
+    "end": 4650,
+    "start_time": 90.0,
+    "end_time": 93.0,
+    "raw_caption": "Skiers ride a lift through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'skiers on lift'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+    "sample_id_list": [
+      4500,
+      4550,
+      4600
+    ],
+    "raw_section": {
+      "start": 4500,
+      "end": 4650
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 30
+  },
+  {
+    "start": 4650,
+    "end": 4800,
+    "start_time": 93.0,
+    "end_time": 96.0,
+    "raw_caption": "A person in a green jacket is snowboarding down a ski slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'person in green jacket'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      4650,
+      4700,
+      4750
+    ],
+    "raw_section": {
+      "start": 4650,
+      "end": 4800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 31
+  },
+  {
+    "start": 4800,
+    "end": 4950,
+    "start_time": 96.0,
+    "end_time": 99.0,
+    "raw_caption": "The video shows a ride on a ski lift through a snowy landscape during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      4800,
+      4850,
+      4900
+    ],
+    "raw_section": {
+      "start": 4800,
+      "end": 4950
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 32
+  },
+  {
+    "start": 4950,
+    "end": 5100,
+    "start_time": 99.0,
+    "end_time": 102.0,
+    "raw_caption": "Skiers are riding a ski lift at a snowy resort during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      4950,
+      5000,
+      5050
+    ],
+    "raw_section": {
+      "start": 4950,
+      "end": 5100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 33
+  },
+  {
+    "start": 5100,
+    "end": 5250,
+    "start_time": 102.0,
+    "end_time": 105.0,
+    "raw_caption": "Skiers are enjoying a sunny day at a ski resort, captured from a ski lift perspective.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.6;",
+    "sample_id_list": [
+      5100,
+      5150,
+      5200
+    ],
+    "raw_section": {
+      "start": 5100,
+      "end": 5250
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 34
+  },
+  {
+    "start": 5250,
+    "end": 5400,
+    "start_time": 105.0,
+    "end_time": 108.0,
+    "raw_caption": "The video shows a ski lift ride through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.7;",
+    "sample_id_list": [
+      5250,
+      5300,
+      5350
+    ],
+    "raw_section": {
+      "start": 5250,
+      "end": 5400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 35
+  },
+  {
+    "start": 5400,
+    "end": 5550,
+    "start_time": 108.0,
+    "end_time": 111.0,
+    "raw_caption": "The video shows a ride on a ski lift up a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      5400,
+      5450,
+      5500
+    ],
+    "raw_section": {
+      "start": 5400,
+      "end": 5550
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 36
+  },
+  {
+    "start": 5550,
+    "end": 5700,
+    "start_time": 111.0,
+    "end_time": 114.0,
+    "raw_caption": "A ski lift moves through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      5550,
+      5600,
+      5650
+    ],
+    "raw_section": {
+      "start": 5550,
+      "end": 5700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 37
+  },
+  {
+    "start": 5700,
+    "end": 5850,
+    "start_time": 114.0,
+    "end_time": 117.0,
+    "raw_caption": "The video shows a ski lift ride through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown individuals'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      5700,
+      5750,
+      5800
+    ],
+    "raw_section": {
+      "start": 5700,
+      "end": 5850
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 38
+  },
+  {
+    "start": 5850,
+    "end": 6000,
+    "start_time": 117.0,
+    "end_time": 120.0,
+    "raw_caption": "A child is sledding down a snowy hill during the daytime.",
+    "attribute_caption_useful": "{'What': 'sledding', 'Where': 'snowy hill', 'When': 'daytime', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      5850,
+      5900,
+      5950
+    ],
+    "raw_section": {
+      "start": 5850,
+      "end": 6000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 39
+  },
+  {
+    "start": 6000,
+    "end": 6150,
+    "start_time": 120.0,
+    "end_time": 123.0,
+    "raw_caption": "A person wearing a helmet is snowboarding down a ski slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'person in helmet'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      6000,
+      6050,
+      6100
+    ],
+    "raw_section": {
+      "start": 6000,
+      "end": 6150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 40
+  },
+  {
+    "start": 6150,
+    "end": 6300,
+    "start_time": 123.0,
+    "end_time": 126.0,
+    "raw_caption": "The video shows a ski lift operating on a snowy slope during the day with skiers visible.",
+    "attribute_caption_useful": "{'What': 'ski lift operation', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      6150,
+      6200,
+      6250
+    ],
+    "raw_section": {
+      "start": 6150,
+      "end": 6300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 41
+  },
+  {
+    "start": 6300,
+    "end": 6450,
+    "start_time": 126.0,
+    "end_time": 129.0,
+    "raw_caption": "A ski lift is moving up a snowy slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      6300,
+      6350,
+      6400
+    ],
+    "raw_section": {
+      "start": 6300,
+      "end": 6450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 42
+  },
+  {
+    "start": 6450,
+    "end": 6600,
+    "start_time": 129.0,
+    "end_time": 132.0,
+    "raw_caption": "Skiers are seen navigating a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      6450,
+      6500,
+      6550
+    ],
+    "raw_section": {
+      "start": 6450,
+      "end": 6600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 43
+  },
+  {
+    "start": 6600,
+    "end": 6750,
+    "start_time": 132.0,
+    "end_time": 135.0,
+    "raw_caption": "A person is skiing down a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      6600,
+      6650,
+      6700
+    ],
+    "raw_section": {
+      "start": 6600,
+      "end": 6750
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 44
+  },
+  {
+    "start": 6750,
+    "end": 6900,
+    "start_time": 135.0,
+    "end_time": 138.0,
+    "raw_caption": "A skier is captured moving down a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      6750,
+      6800,
+      6850
+    ],
+    "raw_section": {
+      "start": 6750,
+      "end": 6900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 45
+  },
+  {
+    "start": 6900,
+    "end": 7050,
+    "start_time": 138.0,
+    "end_time": 141.0,
+    "raw_caption": "A person is skiing down a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.6;",
+    "sample_id_list": [
+      6900,
+      6950,
+      7000
+    ],
+    "raw_section": {
+      "start": 6900,
+      "end": 7050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 46
+  },
+  {
+    "start": 7050,
+    "end": 7200,
+    "start_time": 141.0,
+    "end_time": 144.0,
+    "raw_caption": "The video shows a ski slope with a person skiing down during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      7050,
+      7100,
+      7150
+    ],
+    "raw_section": {
+      "start": 7050,
+      "end": 7200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 47
+  },
+  {
+    "start": 7200,
+    "end": 7350,
+    "start_time": 144.0,
+    "end_time": 147.0,
+    "raw_caption": "Skiers are navigating down a snowy slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      7200,
+      7250,
+      7300
+    ],
+    "raw_section": {
+      "start": 7200,
+      "end": 7350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 48
+  },
+  {
+    "start": 7350,
+    "end": 7500,
+    "start_time": 147.0,
+    "end_time": 150.0,
+    "raw_caption": "The video shows a ski lift moving through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.4;",
+    "sample_id_list": [
+      7350,
+      7400,
+      7450
+    ],
+    "raw_section": {
+      "start": 7350,
+      "end": 7500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 49
+  },
+  {
+    "start": 7500,
+    "end": 7650,
+    "start_time": 150.0,
+    "end_time": 153.0,
+    "raw_caption": "Skiers are taking a lift up a snowy slope at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      7500,
+      7550,
+      7600
+    ],
+    "raw_section": {
+      "start": 7500,
+      "end": 7650
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 50
+  },
+  {
+    "start": 7650,
+    "end": 7800,
+    "start_time": 153.0,
+    "end_time": 156.0,
+    "raw_caption": "The video shows skiers riding a ski lift through a snowy forest during the daytime.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'skiers on lift'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      7650,
+      7700,
+      7750
+    ],
+    "raw_section": {
+      "start": 7650,
+      "end": 7800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 51
+  },
+  {
+    "start": 7800,
+    "end": 7950,
+    "start_time": 156.0,
+    "end_time": 159.0,
+    "raw_caption": "A person is skiing through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      7800,
+      7850,
+      7900
+    ],
+    "raw_section": {
+      "start": 7800,
+      "end": 7950
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 52
+  },
+  {
+    "start": 7950,
+    "end": 8100,
+    "start_time": 159.0,
+    "end_time": 162.0,
+    "raw_caption": "The video shows a ski lift ride through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown individuals on ski lift'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      7950,
+      8000,
+      8050
+    ],
+    "raw_section": {
+      "start": 7950,
+      "end": 8100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 53
+  },
+  {
+    "start": 8100,
+    "end": 8250,
+    "start_time": 162.0,
+    "end_time": 165.0,
+    "raw_caption": "The video shows a snowy forest area with ski lifts visible, suggesting a skiing location during the daytime.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.3;",
+    "sample_id_list": [
+      8100,
+      8150,
+      8200
+    ],
+    "raw_section": {
+      "start": 8100,
+      "end": 8250
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 54
+  },
+  {
+    "start": 8250,
+    "end": 8400,
+    "start_time": 165.0,
+    "end_time": 168.0,
+    "raw_caption": "A person is on a ski lift traveling through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown person'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      8250,
+      8300,
+      8350
+    ],
+    "raw_section": {
+      "start": 8250,
+      "end": 8400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 55
+  },
+  {
+    "start": 8400,
+    "end": 8550,
+    "start_time": 168.0,
+    "end_time": 171.0,
+    "raw_caption": "A person is riding a ski lift at a snowy ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      8400,
+      8450,
+      8500
+    ],
+    "raw_section": {
+      "start": 8400,
+      "end": 8550
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 56
+  },
+  {
+    "start": 8550,
+    "end": 8700,
+    "start_time": 171.0,
+    "end_time": 174.0,
+    "raw_caption": "Skiers are riding a ski lift at a snowy resort during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers on lift'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      8550,
+      8600,
+      8650
+    ],
+    "raw_section": {
+      "start": 8550,
+      "end": 8700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 57
+  },
+  {
+    "start": 8700,
+    "end": 8850,
+    "start_time": 174.0,
+    "end_time": 177.0,
+    "raw_caption": "The video shows skiers on a lift at a snowy ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers on lift'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      8700,
+      8750,
+      8800
+    ],
+    "raw_section": {
+      "start": 8700,
+      "end": 8850
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 58
+  },
+  {
+    "start": 8850,
+    "end": 9000,
+    "start_time": 177.0,
+    "end_time": 180.0,
+    "raw_caption": "A person is riding a ski lift at a snowy resort during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unidentified person'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      8850,
+      8900,
+      8950
+    ],
+    "raw_section": {
+      "start": 8850,
+      "end": 9000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 59
+  },
+  {
+    "start": 9000,
+    "end": 9150,
+    "start_time": 180.0,
+    "end_time": 183.0,
+    "raw_caption": "Skiers are riding a lift at a resort during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers on lift'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      9000,
+      9050,
+      9100
+    ],
+    "raw_section": {
+      "start": 9000,
+      "end": 9150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 60
+  },
+  {
+    "start": 9150,
+    "end": 9300,
+    "start_time": 183.0,
+    "end_time": 186.0,
+    "raw_caption": "The video shows a ski lift ride through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      9150,
+      9200,
+      9250
+    ],
+    "raw_section": {
+      "start": 9150,
+      "end": 9300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 61
+  },
+  {
+    "start": 9300,
+    "end": 9450,
+    "start_time": 186.0,
+    "end_time": 189.0,
+    "raw_caption": "A person is riding a ski lift at a mountain resort during winter.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'mountain ski resort', 'When': 'daytime, winter', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      9300,
+      9350,
+      9400
+    ],
+    "raw_section": {
+      "start": 9300,
+      "end": 9450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 62
+  },
+  {
+    "start": 9450,
+    "end": 9600,
+    "start_time": 189.0,
+    "end_time": 192.0,
+    "raw_caption": "The scene shows a ski lift ride at a mountain resort during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'mountain ski resort', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.3;",
+    "sample_id_list": [
+      9450,
+      9500,
+      9550
+    ],
+    "raw_section": {
+      "start": 9450,
+      "end": 9600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 63
+  },
+  {
+    "start": 9600,
+    "end": 9750,
+    "start_time": 192.0,
+    "end_time": 195.0,
+    "raw_caption": "A person is riding a ski lift at a snowy resort during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      9600,
+      9650,
+      9700
+    ],
+    "raw_section": {
+      "start": 9600,
+      "end": 9750
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 64
+  },
+  {
+    "start": 9750,
+    "end": 9900,
+    "start_time": 195.0,
+    "end_time": 198.0,
+    "raw_caption": "The video shows a ride on a ski lift through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      9750,
+      9800,
+      9850
+    ],
+    "raw_section": {
+      "start": 9750,
+      "end": 9900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 65
+  },
+  {
+    "start": 9900,
+    "end": 10050,
+    "start_time": 198.0,
+    "end_time": 201.0,
+    "raw_caption": "The video shows a skiing scene on a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime, winter', 'Who': 'unknown, helmet visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      9900,
+      9950,
+      10000
+    ],
+    "raw_section": {
+      "start": 9900,
+      "end": 10050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 66
+  },
+  {
+    "start": 10050,
+    "end": 10200,
+    "start_time": 201.0,
+    "end_time": 204.0,
+    "raw_caption": "A man is riding a ski lift at a snowy resort during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.6;",
+    "sample_id_list": [
+      10050,
+      10100,
+      10150
+    ],
+    "raw_section": {
+      "start": 10050,
+      "end": 10200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 67
+  },
+  {
+    "start": 10200,
+    "end": 10350,
+    "start_time": 204.0,
+    "end_time": 207.0,
+    "raw_caption": "A man is riding a ski lift on a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'mountain', 'When': 'daytime', 'Who': 'man wearing ski gear'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      10200,
+      10250,
+      10300
+    ],
+    "raw_section": {
+      "start": 10200,
+      "end": 10350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 68
+  },
+  {
+    "start": 10350,
+    "end": 10500,
+    "start_time": 207.0,
+    "end_time": 210.0,
+    "raw_caption": "People are riding a ski lift at a resort during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'people on lift'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      10350,
+      10400,
+      10450
+    ],
+    "raw_section": {
+      "start": 10350,
+      "end": 10500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 69
+  },
+  {
+    "start": 10500,
+    "end": 10650,
+    "start_time": 210.0,
+    "end_time": 213.0,
+    "raw_caption": "A ski lift ascends a mountain during the daytime.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      10500,
+      10550,
+      10600
+    ],
+    "raw_section": {
+      "start": 10500,
+      "end": 10650
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 70
+  },
+  {
+    "start": 10650,
+    "end": 10800,
+    "start_time": 213.0,
+    "end_time": 216.0,
+    "raw_caption": "A ski lift ascends a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      10650,
+      10700,
+      10750
+    ],
+    "raw_section": {
+      "start": 10650,
+      "end": 10800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 71
+  },
+  {
+    "start": 10800,
+    "end": 10950,
+    "start_time": 216.0,
+    "end_time": 219.0,
+    "raw_caption": "The video shows a ski lift moving up a mountain during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      10800,
+      10850,
+      10900
+    ],
+    "raw_section": {
+      "start": 10800,
+      "end": 10950
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 72
+  },
+  {
+    "start": 10950,
+    "end": 11100,
+    "start_time": 219.0,
+    "end_time": 222.0,
+    "raw_caption": "People are riding a ski lift at a resort during the daytime.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'people on lift'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      10950,
+      11000,
+      11050
+    ],
+    "raw_section": {
+      "start": 10950,
+      "end": 11100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 73
+  },
+  {
+    "start": 11100,
+    "end": 11250,
+    "start_time": 222.0,
+    "end_time": 225.0,
+    "raw_caption": "The video shows a ski lift ride at a resort during the day, capturing snowy scenery and clear skies.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      11100,
+      11150,
+      11200
+    ],
+    "raw_section": {
+      "start": 11100,
+      "end": 11250
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 74
+  },
+  {
+    "start": 11250,
+    "end": 11400,
+    "start_time": 225.0,
+    "end_time": 228.0,
+    "raw_caption": "A person is riding a ski lift up a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown person'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.3;",
+    "sample_id_list": [
+      11250,
+      11300,
+      11350
+    ],
+    "raw_section": {
+      "start": 11250,
+      "end": 11400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 75
+  },
+  {
+    "start": 11400,
+    "end": 11550,
+    "start_time": 228.0,
+    "end_time": 231.0,
+    "raw_caption": "Two people are riding a ski lift up a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'mountain ski resort', 'When': 'daytime', 'Who': 'two people on lift'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      11400,
+      11450,
+      11500
+    ],
+    "raw_section": {
+      "start": 11400,
+      "end": 11550
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 76
+  },
+  {
+    "start": 11550,
+    "end": 11700,
+    "start_time": 231.0,
+    "end_time": 234.0,
+    "raw_caption": "Skiers are riding a lift through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'skiers on lift'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      11550,
+      11600,
+      11650
+    ],
+    "raw_section": {
+      "start": 11550,
+      "end": 11700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 77
+  },
+  {
+    "start": 11700,
+    "end": 11850,
+    "start_time": 234.0,
+    "end_time": 237.0,
+    "raw_caption": "The video shows a ski lift ride on a snowy mountain during the daytime.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unidentified riders'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      11700,
+      11750,
+      11800
+    ],
+    "raw_section": {
+      "start": 11700,
+      "end": 11850
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 78
+  },
+  {
+    "start": 11850,
+    "end": 12000,
+    "start_time": 237.0,
+    "end_time": 240.0,
+    "raw_caption": "A person is riding a ski lift up a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'mountain with snow', 'When': 'daytime', 'Who': 'unknown person on ski lift'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      11850,
+      11900,
+      11950
+    ],
+    "raw_section": {
+      "start": 11850,
+      "end": 12000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 79
+  },
+  {
+    "start": 12000,
+    "end": 12150,
+    "start_time": 240.0,
+    "end_time": 243.0,
+    "raw_caption": "A person is riding a ski lift at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unknown person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+    "sample_id_list": [
+      12000,
+      12050,
+      12100
+    ],
+    "raw_section": {
+      "start": 12000,
+      "end": 12150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 80
+  },
+  {
+    "start": 12150,
+    "end": 12300,
+    "start_time": 243.0,
+    "end_time": 246.0,
+    "raw_caption": "The video shows a ski lift ride on a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      12150,
+      12200,
+      12250
+    ],
+    "raw_section": {
+      "start": 12150,
+      "end": 12300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 81
+  },
+  {
+    "start": 12300,
+    "end": 12450,
+    "start_time": 246.0,
+    "end_time": 249.0,
+    "raw_caption": "The video captures a ski lift ride up a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unseen individuals'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.4;",
+    "sample_id_list": [
+      12300,
+      12350,
+      12400
+    ],
+    "raw_section": {
+      "start": 12300,
+      "end": 12450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 82
+  },
+  {
+    "start": 12450,
+    "end": 12600,
+    "start_time": 249.0,
+    "end_time": 252.0,
+    "raw_caption": "A ski lift carries people over a snowy landscape at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      12450,
+      12500,
+      12550
+    ],
+    "raw_section": {
+      "start": 12450,
+      "end": 12600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 83
+  },
+  {
+    "start": 12600,
+    "end": 12750,
+    "start_time": 252.0,
+    "end_time": 255.0,
+    "raw_caption": "The video shows a ski lift ascending a snowy mountain slope under clear blue skies.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+    "sample_id_list": [
+      12600,
+      12650,
+      12700
+    ],
+    "raw_section": {
+      "start": 12600,
+      "end": 12750
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 84
+  },
+  {
+    "start": 12750,
+    "end": 12900,
+    "start_time": 255.0,
+    "end_time": 258.0,
+    "raw_caption": "Skiers ride a chairlift through a snowy landscape at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'chairlift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers on lift'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      12750,
+      12800,
+      12850
+    ],
+    "raw_section": {
+      "start": 12750,
+      "end": 12900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 85
+  },
+  {
+    "start": 12900,
+    "end": 13050,
+    "start_time": 258.0,
+    "end_time": 261.0,
+    "raw_caption": "The video shows a ski lift ride on a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.2;",
+    "sample_id_list": [
+      12900,
+      12950,
+      13000
+    ],
+    "raw_section": {
+      "start": 12900,
+      "end": 13050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 86
+  },
+  {
+    "start": 13050,
+    "end": 13200,
+    "start_time": 261.0,
+    "end_time": 264.0,
+    "raw_caption": "A man is riding a ski lift up a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.3;",
+    "sample_id_list": [
+      13050,
+      13100,
+      13150
+    ],
+    "raw_section": {
+      "start": 13050,
+      "end": 13200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 87
+  },
+  {
+    "start": 13200,
+    "end": 13350,
+    "start_time": 264.0,
+    "end_time": 267.0,
+    "raw_caption": "The video shows a ski lift moving through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.3;",
+    "sample_id_list": [
+      13200,
+      13250,
+      13300
+    ],
+    "raw_section": {
+      "start": 13200,
+      "end": 13350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 88
+  },
+  {
+    "start": 13350,
+    "end": 13500,
+    "start_time": 267.0,
+    "end_time": 270.0,
+    "raw_caption": "An individual is riding a chairlift at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'riding chairlift', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unidentified person'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+    "sample_id_list": [
+      13350,
+      13400,
+      13450
+    ],
+    "raw_section": {
+      "start": 13350,
+      "end": 13500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 89
+  },
+  {
+    "start": 13500,
+    "end": 13650,
+    "start_time": 270.0,
+    "end_time": 273.0,
+    "raw_caption": "The video shows a ski lift moving through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'riding a ski lift', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      13500,
+      13550,
+      13600
+    ],
+    "raw_section": {
+      "start": 13500,
+      "end": 13650
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 90
+  },
+  {
+    "start": 13650,
+    "end": 13800,
+    "start_time": 273.0,
+    "end_time": 276.0,
+    "raw_caption": "The video shows a ski lift moving through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+    "sample_id_list": [
+      13650,
+      13700,
+      13750
+    ],
+    "raw_section": {
+      "start": 13650,
+      "end": 13800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 91
+  },
+  {
+    "start": 13800,
+    "end": 13950,
+    "start_time": 276.0,
+    "end_time": 279.0,
+    "raw_caption": "A ski lift is moving along a snowy mountain trail during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'mountain trail', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      13800,
+      13850,
+      13900
+    ],
+    "raw_section": {
+      "start": 13800,
+      "end": 13950
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 92
+  },
+  {
+    "start": 13950,
+    "end": 14100,
+    "start_time": 279.0,
+    "end_time": 282.0,
+    "raw_caption": "The video captures a ski lift ride up a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      13950,
+      14000,
+      14050
+    ],
+    "raw_section": {
+      "start": 13950,
+      "end": 14100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 93
+  },
+  {
+    "start": 14250,
+    "end": 14400,
+    "start_time": 285.0,
+    "end_time": 288.0,
+    "raw_caption": "A ski lift carries a person up a snowy mountain path during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unseen person on lift'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.3;",
+    "sample_id_list": [
+      14250,
+      14300,
+      14350
+    ],
+    "raw_section": {
+      "start": 14250,
+      "end": 14400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 95
+  },
+  {
+    "start": 14400,
+    "end": 14550,
+    "start_time": 288.0,
+    "end_time": 291.0,
+    "raw_caption": "The scene shows a ride on a ski lift during the day on a snowy mountain.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.4;",
+    "sample_id_list": [
+      14400,
+      14450,
+      14500
+    ],
+    "raw_section": {
+      "start": 14400,
+      "end": 14550
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 96
+  },
+  {
+    "start": 14700,
+    "end": 14850,
+    "start_time": 294.0,
+    "end_time": 297.0,
+    "raw_caption": "The video shows a ski lift ride up a snowy mountain during the daytime.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      14700,
+      14750,
+      14800
+    ],
+    "raw_section": {
+      "start": 14700,
+      "end": 14850
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 98
+  },
+  {
+    "start": 14850,
+    "end": 15000,
+    "start_time": 297.0,
+    "end_time": 300.0,
+    "raw_caption": "A ski lift carries individuals up a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'mountain with snow', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      14850,
+      14900,
+      14950
+    ],
+    "raw_section": {
+      "start": 14850,
+      "end": 15000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 99
+  },
+  {
+    "start": 15000,
+    "end": 15150,
+    "start_time": 300.0,
+    "end_time": 303.0,
+    "raw_caption": "People are riding a ski lift on a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unidentified people'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      15000,
+      15050,
+      15100
+    ],
+    "raw_section": {
+      "start": 15000,
+      "end": 15150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 100
+  },
+  {
+    "start": 15150,
+    "end": 15300,
+    "start_time": 303.0,
+    "end_time": 306.0,
+    "raw_caption": "A ski lift is moving up a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      15150,
+      15200,
+      15250
+    ],
+    "raw_section": {
+      "start": 15150,
+      "end": 15300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 101
+  },
+  {
+    "start": 15300,
+    "end": 15450,
+    "start_time": 306.0,
+    "end_time": 309.0,
+    "raw_caption": "The video shows a ride on a ski lift up a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      15300,
+      15350,
+      15400
+    ],
+    "raw_section": {
+      "start": 15300,
+      "end": 15450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 102
+  },
+  {
+    "start": 15450,
+    "end": 15600,
+    "start_time": 309.0,
+    "end_time": 312.0,
+    "raw_caption": "A ski lift carries people over a snowy landscape at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      15450,
+      15500,
+      15550
+    ],
+    "raw_section": {
+      "start": 15450,
+      "end": 15600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 103
+  },
+  {
+    "start": 15600,
+    "end": 15750,
+    "start_time": 312.0,
+    "end_time": 315.0,
+    "raw_caption": "The video shows a ski lift ride through a snowy landscape during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+    "sample_id_list": [
+      15600,
+      15650,
+      15700
+    ],
+    "raw_section": {
+      "start": 15600,
+      "end": 15750
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 104
+  },
+  {
+    "start": 15750,
+    "end": 15900,
+    "start_time": 315.0,
+    "end_time": 318.0,
+    "raw_caption": "A ski lift moves through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.2;",
+    "sample_id_list": [
+      15750,
+      15800,
+      15850
+    ],
+    "raw_section": {
+      "start": 15750,
+      "end": 15900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 105
+  },
+  {
+    "start": 15900,
+    "end": 16050,
+    "start_time": 318.0,
+    "end_time": 321.0,
+    "raw_caption": "The video shows a ride on a ski lift over a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      15900,
+      15950,
+      16000
+    ],
+    "raw_section": {
+      "start": 15900,
+      "end": 16050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 106
+  },
+  {
+    "start": 16050,
+    "end": 16200,
+    "start_time": 321.0,
+    "end_time": 324.0,
+    "raw_caption": "The video shows a ski lift ride over a snowy trail at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      16050,
+      16100,
+      16150
+    ],
+    "raw_section": {
+      "start": 16050,
+      "end": 16200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 107
+  },
+  {
+    "start": 16200,
+    "end": 16350,
+    "start_time": 324.0,
+    "end_time": 327.0,
+    "raw_caption": "A person is riding a ski lift on a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.4;",
+    "sample_id_list": [
+      16200,
+      16250,
+      16300
+    ],
+    "raw_section": {
+      "start": 16200,
+      "end": 16350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 108
+  },
+  {
+    "start": 16350,
+    "end": 16500,
+    "start_time": 327.0,
+    "end_time": 330.0,
+    "raw_caption": "The video captures a ski lift ride up a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      16350,
+      16400,
+      16450
+    ],
+    "raw_section": {
+      "start": 16350,
+      "end": 16500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 109
+  },
+  {
+    "start": 16500,
+    "end": 16650,
+    "start_time": 330.0,
+    "end_time": 333.0,
+    "raw_caption": "A person is riding a ski lift on a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unidentified person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      16500,
+      16550,
+      16600
+    ],
+    "raw_section": {
+      "start": 16500,
+      "end": 16650
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 110
+  },
+  {
+    "start": 16650,
+    "end": 16800,
+    "start_time": 333.0,
+    "end_time": 336.0,
+    "raw_caption": "A ski lift ascends through a snowy forest during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'snowy forest', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      16650,
+      16700,
+      16750
+    ],
+    "raw_section": {
+      "start": 16650,
+      "end": 16800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 111
+  },
+  {
+    "start": 16800,
+    "end": 16950,
+    "start_time": 336.0,
+    "end_time": 339.0,
+    "raw_caption": "The video shows a ski lift moving through a snowy landscape at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.3;",
+    "sample_id_list": [
+      16800,
+      16850,
+      16900
+    ],
+    "raw_section": {
+      "start": 16800,
+      "end": 16950
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 112
+  },
+  {
+    "start": 16950,
+    "end": 17100,
+    "start_time": 339.0,
+    "end_time": 342.0,
+    "raw_caption": "The video captures a ski lift ride at a snowy resort during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      16950,
+      17000,
+      17050
+    ],
+    "raw_section": {
+      "start": 16950,
+      "end": 17100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 113
+  },
+  {
+    "start": 17250,
+    "end": 17400,
+    "start_time": 345.0,
+    "end_time": 348.0,
+    "raw_caption": "People are riding a ski lift on a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown people'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.6;",
+    "sample_id_list": [
+      17250,
+      17300,
+      17350
+    ],
+    "raw_section": {
+      "start": 17250,
+      "end": 17400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 115
+  },
+  {
+    "start": 17400,
+    "end": 17550,
+    "start_time": 348.0,
+    "end_time": 351.0,
+    "raw_caption": "A ski lift is moving through a snowy landscape at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      17400,
+      17450,
+      17500
+    ],
+    "raw_section": {
+      "start": 17400,
+      "end": 17550
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 116
+  },
+  {
+    "start": 17550,
+    "end": 17700,
+    "start_time": 351.0,
+    "end_time": 354.0,
+    "raw_caption": "Skiers are taking a ride on a lift up a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'mountain', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.6;",
+    "sample_id_list": [
+      17550,
+      17600,
+      17650
+    ],
+    "raw_section": {
+      "start": 17550,
+      "end": 17700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 117
+  },
+  {
+    "start": 17700,
+    "end": 17850,
+    "start_time": 354.0,
+    "end_time": 357.0,
+    "raw_caption": "The scene shows a ski lift moving up a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+    "sample_id_list": [
+      17700,
+      17750,
+      17800
+    ],
+    "raw_section": {
+      "start": 17700,
+      "end": 17850
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 118
+  },
+  {
+    "start": 17850,
+    "end": 18000,
+    "start_time": 357.0,
+    "end_time": 360.0,
+    "raw_caption": "The video shows a ski lift ascending a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      17850,
+      17900,
+      17950
+    ],
+    "raw_section": {
+      "start": 17850,
+      "end": 18000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 119
+  },
+  {
+    "start": 18000,
+    "end": 18150,
+    "start_time": 360.0,
+    "end_time": 363.0,
+    "raw_caption": "The video captures a ski lift ride at a resort during the daytime with skiers visible on the lift.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers on lift'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+    "sample_id_list": [
+      18000,
+      18050,
+      18100
+    ],
+    "raw_section": {
+      "start": 18000,
+      "end": 18150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 120
+  },
+  {
+    "start": 18150,
+    "end": 18300,
+    "start_time": 363.0,
+    "end_time": 366.0,
+    "raw_caption": "People are riding a ski lift at a resort during the day.",
+    "attribute_caption_useful": "{'What': 'riding ski lift', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'people on lift'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      18150,
+      18200,
+      18250
+    ],
+    "raw_section": {
+      "start": 18150,
+      "end": 18300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 121
+  },
+  {
+    "start": 18300,
+    "end": 18450,
+    "start_time": 366.0,
+    "end_time": 369.0,
+    "raw_caption": "The video shows people riding a ski lift at a snowy ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'people on ski lift'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      18300,
+      18350,
+      18400
+    ],
+    "raw_section": {
+      "start": 18300,
+      "end": 18450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 122
+  },
+  {
+    "start": 18450,
+    "end": 18600,
+    "start_time": 369.0,
+    "end_time": 372.0,
+    "raw_caption": "Skiers are riding a ski lift up a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      18450,
+      18500,
+      18550
+    ],
+    "raw_section": {
+      "start": 18450,
+      "end": 18600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 123
+  },
+  {
+    "start": 18750,
+    "end": 18900,
+    "start_time": 375.0,
+    "end_time": 378.0,
+    "raw_caption": "An individual is riding a ski lift at a snowy ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'ski lift ride', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'individual with helmet'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+    "sample_id_list": [
+      18750,
+      18800,
+      18850
+    ],
+    "raw_section": {
+      "start": 18750,
+      "end": 18900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 125
+  },
+  {
+    "start": 18900,
+    "end": 19050,
+    "start_time": 378.0,
+    "end_time": 381.0,
+    "raw_caption": "Skiers are enjoying a sunny day at a ski resort, navigating down a snowy slope.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      18900,
+      18950,
+      19000
+    ],
+    "raw_section": {
+      "start": 18900,
+      "end": 19050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 126
+  },
+  {
+    "start": 19050,
+    "end": 19200,
+    "start_time": 381.0,
+    "end_time": 384.0,
+    "raw_caption": "Skiers are enjoying a sunny day at a ski resort, navigating the slopes and using the ski lift.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      19050,
+      19100,
+      19150
+    ],
+    "raw_section": {
+      "start": 19050,
+      "end": 19200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 127
+  },
+  {
+    "start": 19200,
+    "end": 19350,
+    "start_time": 384.0,
+    "end_time": 387.0,
+    "raw_caption": "Skiers are enjoying a sunny day at a ski resort, preparing to descend the slopes from a lift area.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      19200,
+      19250,
+      19300
+    ],
+    "raw_section": {
+      "start": 19200,
+      "end": 19350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 128
+  },
+  {
+    "start": 19350,
+    "end": 19500,
+    "start_time": 387.0,
+    "end_time": 390.0,
+    "raw_caption": "A snowboarder is preparing to descend from a ski lift at a ski resort.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      19350,
+      19400,
+      19450
+    ],
+    "raw_section": {
+      "start": 19350,
+      "end": 19500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 129
+  },
+  {
+    "start": 19500,
+    "end": 19650,
+    "start_time": 390.0,
+    "end_time": 393.0,
+    "raw_caption": "The video captures skiers navigating a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      19500,
+      19550,
+      19600
+    ],
+    "raw_section": {
+      "start": 19500,
+      "end": 19650
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 130
+  },
+  {
+    "start": 19650,
+    "end": 19800,
+    "start_time": 393.0,
+    "end_time": 396.0,
+    "raw_caption": "The clip shows skiers navigating a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      19650,
+      19700,
+      19750
+    ],
+    "raw_section": {
+      "start": 19650,
+      "end": 19800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 131
+  },
+  {
+    "start": 19800,
+    "end": 19950,
+    "start_time": 396.0,
+    "end_time": 399.0,
+    "raw_caption": "A group of skiers is preparing to descend a snowy mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'group of skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      19800,
+      19850,
+      19900
+    ],
+    "raw_section": {
+      "start": 19800,
+      "end": 19950
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 132
+  },
+  {
+    "start": 19950,
+    "end": 20100,
+    "start_time": 399.0,
+    "end_time": 402.0,
+    "raw_caption": "Two people are preparing to snowboard on a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'snowy slope', 'When': 'daytime', 'Who': 'two people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      19950,
+      20000,
+      20050
+    ],
+    "raw_section": {
+      "start": 19950,
+      "end": 20100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 133
+  },
+  {
+    "start": 20100,
+    "end": 20250,
+    "start_time": 402.0,
+    "end_time": 405.0,
+    "raw_caption": "A man is snowboarding down a ski slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.9;",
+    "sample_id_list": [
+      20100,
+      20150,
+      20200
+    ],
+    "raw_section": {
+      "start": 20100,
+      "end": 20250
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 134
+  },
+  {
+    "start": 20250,
+    "end": 20400,
+    "start_time": 405.0,
+    "end_time": 408.0,
+    "raw_caption": "A group of people are snowboarding on a ski slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      20250,
+      20300,
+      20350
+    ],
+    "raw_section": {
+      "start": 20250,
+      "end": 20400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 135
+  },
+  {
+    "start": 20400,
+    "end": 20550,
+    "start_time": 408.0,
+    "end_time": 411.0,
+    "raw_caption": "A snowboarder is preparing to ride down a ski slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown, likely snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      20400,
+      20450,
+      20500
+    ],
+    "raw_section": {
+      "start": 20400,
+      "end": 20550
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 136
+  },
+  {
+    "start": 20550,
+    "end": 20700,
+    "start_time": 411.0,
+    "end_time": 414.0,
+    "raw_caption": "A snowboarder is gliding down a ski slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      20550,
+      20600,
+      20650
+    ],
+    "raw_section": {
+      "start": 20550,
+      "end": 20700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 137
+  },
+  {
+    "start": 20700,
+    "end": 20850,
+    "start_time": 414.0,
+    "end_time": 417.0,
+    "raw_caption": "A person is snowboarding down a ski slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      20700,
+      20750,
+      20800
+    ],
+    "raw_section": {
+      "start": 20700,
+      "end": 20850
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 138
+  },
+  {
+    "start": 20850,
+    "end": 21000,
+    "start_time": 417.0,
+    "end_time": 420.0,
+    "raw_caption": "A man is preparing to snowboard down a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      20850,
+      20900,
+      20950
+    ],
+    "raw_section": {
+      "start": 20850,
+      "end": 21000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 139
+  },
+  {
+    "start": 21000,
+    "end": 21150,
+    "start_time": 420.0,
+    "end_time": 423.0,
+    "raw_caption": "A person is preparing to snowboard on a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'snow-covered slope', 'When': 'daytime', 'Who': 'person in winter gear'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.9;",
+    "sample_id_list": [
+      21000,
+      21050,
+      21100
+    ],
+    "raw_section": {
+      "start": 21000,
+      "end": 21150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 140
+  },
+  {
+    "start": 21150,
+    "end": 21300,
+    "start_time": 423.0,
+    "end_time": 426.0,
+    "raw_caption": "Two people are snowboarding together on a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'snowy slope', 'When': 'daytime', 'Who': 'two people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      21150,
+      21200,
+      21250
+    ],
+    "raw_section": {
+      "start": 21150,
+      "end": 21300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 141
+  },
+  {
+    "start": 21300,
+    "end": 21450,
+    "start_time": 426.0,
+    "end_time": 429.0,
+    "raw_caption": "A snowboarder is riding down a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'snowy slope', 'When': 'daytime', 'Who': 'unknown snowboarder'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      21300,
+      21350,
+      21400
+    ],
+    "raw_section": {
+      "start": 21300,
+      "end": 21450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 142
+  },
+  {
+    "start": 21450,
+    "end": 21600,
+    "start_time": 429.0,
+    "end_time": 432.0,
+    "raw_caption": "A man is snowboarding while a woman is skiing on a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding and skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man and woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      21450,
+      21500,
+      21550
+    ],
+    "raw_section": {
+      "start": 21450,
+      "end": 21600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 143
+  },
+  {
+    "start": 21600,
+    "end": 21750,
+    "start_time": 432.0,
+    "end_time": 435.0,
+    "raw_caption": "A group of people are skiing at a resort on a clear day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'group of people including woman, man, and child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      21600,
+      21650,
+      21700
+    ],
+    "raw_section": {
+      "start": 21600,
+      "end": 21750
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 144
+  },
+  {
+    "start": 21750,
+    "end": 21900,
+    "start_time": 435.0,
+    "end_time": 438.0,
+    "raw_caption": "A group of people, including adults and children, are skiing and snowboarding on a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'skiing and snowboarding', 'Where': 'snow-covered mountain', 'When': 'daytime', 'Who': 'group of adults and children'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      21750,
+      21800,
+      21850
+    ],
+    "raw_section": {
+      "start": 21750,
+      "end": 21900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 145
+  },
+  {
+    "start": 21900,
+    "end": 22050,
+    "start_time": 438.0,
+    "end_time": 441.0,
+    "raw_caption": "People are skiing on a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'adults and children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      21900,
+      21950,
+      22000
+    ],
+    "raw_section": {
+      "start": 21900,
+      "end": 22050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 146
+  },
+  {
+    "start": 22050,
+    "end": 22200,
+    "start_time": 441.0,
+    "end_time": 444.0,
+    "raw_caption": "Skiers are enjoying a sunny day on the slopes, showcasing various skiing techniques.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'several skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      22050,
+      22100,
+      22150
+    ],
+    "raw_section": {
+      "start": 22050,
+      "end": 22200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 147
+  },
+  {
+    "start": 22200,
+    "end": 22350,
+    "start_time": 444.0,
+    "end_time": 447.0,
+    "raw_caption": "Skiers are descending a snowy slope on a clear day with scenic mountain views.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'several skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      22200,
+      22250,
+      22300
+    ],
+    "raw_section": {
+      "start": 22200,
+      "end": 22350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 148
+  },
+  {
+    "start": 22350,
+    "end": 22500,
+    "start_time": 447.0,
+    "end_time": 450.0,
+    "raw_caption": "Two skiers are enjoying a sunny day on a snowy mountain slope.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'two skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      22350,
+      22400,
+      22450
+    ],
+    "raw_section": {
+      "start": 22350,
+      "end": 22500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 149
+  },
+  {
+    "start": 22500,
+    "end": 22650,
+    "start_time": 450.0,
+    "end_time": 453.0,
+    "raw_caption": "Three people are skiing down a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'three people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      22500,
+      22550,
+      22600
+    ],
+    "raw_section": {
+      "start": 22500,
+      "end": 22650
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 150
+  },
+  {
+    "start": 22650,
+    "end": 22800,
+    "start_time": 453.0,
+    "end_time": 456.0,
+    "raw_caption": "Two people are skiing down a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'two people skiing'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      22650,
+      22700,
+      22750
+    ],
+    "raw_section": {
+      "start": 22650,
+      "end": 22800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 151
+  },
+  {
+    "start": 22800,
+    "end": 22950,
+    "start_time": 456.0,
+    "end_time": 459.0,
+    "raw_caption": "An individual is snowboarding down a ski slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      22800,
+      22850,
+      22900
+    ],
+    "raw_section": {
+      "start": 22800,
+      "end": 22950
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 152
+  },
+  {
+    "start": 22950,
+    "end": 23100,
+    "start_time": 459.0,
+    "end_time": 462.0,
+    "raw_caption": "An individual is snowboarding down a mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      22950,
+      23000,
+      23050
+    ],
+    "raw_section": {
+      "start": 22950,
+      "end": 23100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 153
+  },
+  {
+    "start": 23100,
+    "end": 23250,
+    "start_time": 462.0,
+    "end_time": 465.0,
+    "raw_caption": "A skier is descending a snow-covered mountain during daytime, capturing the scenic view of the surroundings.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snow-covered mountain', 'When': 'daytime', 'Who': 'skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      23100,
+      23150,
+      23200
+    ],
+    "raw_section": {
+      "start": 23100,
+      "end": 23250
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 154
+  },
+  {
+    "start": 23250,
+    "end": 23400,
+    "start_time": 465.0,
+    "end_time": 468.0,
+    "raw_caption": "A skier is descending a snowy mountain during the day, capturing their shadow on the snow.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown, shadow visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      23250,
+      23300,
+      23350
+    ],
+    "raw_section": {
+      "start": 23250,
+      "end": 23400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 155
+  },
+  {
+    "start": 23400,
+    "end": 23550,
+    "start_time": 468.0,
+    "end_time": 471.0,
+    "raw_caption": "A skier navigates down a snowy slope with a mountain in the background on a clear day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope with mountain view', 'When': 'daytime', 'Who': 'unknown skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      23400,
+      23450,
+      23500
+    ],
+    "raw_section": {
+      "start": 23400,
+      "end": 23550
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 156
+  },
+  {
+    "start": 23550,
+    "end": 23700,
+    "start_time": 471.0,
+    "end_time": 474.0,
+    "raw_caption": "A person is skiing down a snowy mountain during the daytime with a scenic mountain view in the background.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'person skiing'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      23550,
+      23600,
+      23650
+    ],
+    "raw_section": {
+      "start": 23550,
+      "end": 23700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 157
+  },
+  {
+    "start": 23700,
+    "end": 23850,
+    "start_time": 474.0,
+    "end_time": 477.0,
+    "raw_caption": "A person is snowboarding down a mountain slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'shadow of a person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      23700,
+      23750,
+      23800
+    ],
+    "raw_section": {
+      "start": 23700,
+      "end": 23850
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 158
+  },
+  {
+    "start": 23850,
+    "end": 24000,
+    "start_time": 477.0,
+    "end_time": 480.0,
+    "raw_caption": "An individual is skiing down a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      23850,
+      23900,
+      23950
+    ],
+    "raw_section": {
+      "start": 23850,
+      "end": 24000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 159
+  },
+  {
+    "start": 24000,
+    "end": 24150,
+    "start_time": 480.0,
+    "end_time": 483.0,
+    "raw_caption": "An individual is skiing down a snowy mountain during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      24000,
+      24050,
+      24100
+    ],
+    "raw_section": {
+      "start": 24000,
+      "end": 24150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 160
+  },
+  {
+    "start": 24150,
+    "end": 24300,
+    "start_time": 483.0,
+    "end_time": 486.0,
+    "raw_caption": "An individual is snowboarding down a ski slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      24150,
+      24200,
+      24250
+    ],
+    "raw_section": {
+      "start": 24150,
+      "end": 24300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 161
+  },
+  {
+    "start": 24300,
+    "end": 24450,
+    "start_time": 486.0,
+    "end_time": 489.0,
+    "raw_caption": "An individual is snowboarding down a mountain slope during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      24300,
+      24350,
+      24400
+    ],
+    "raw_section": {
+      "start": 24300,
+      "end": 24450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 162
+  },
+  {
+    "start": 24450,
+    "end": 24600,
+    "start_time": 489.0,
+    "end_time": 492.0,
+    "raw_caption": "A skier descends a snowy slope with a scenic mountain view in the background.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown, shadow visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      24450,
+      24500,
+      24550
+    ],
+    "raw_section": {
+      "start": 24450,
+      "end": 24600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 163
+  },
+  {
+    "start": 24600,
+    "end": 24750,
+    "start_time": 492.0,
+    "end_time": 495.0,
+    "raw_caption": "A skier descends a snowy slope with a mountain view in the background.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      24600,
+      24650,
+      24700
+    ],
+    "raw_section": {
+      "start": 24600,
+      "end": 24750
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 164
+  },
+  {
+    "start": 24750,
+    "end": 24900,
+    "start_time": 495.0,
+    "end_time": 498.0,
+    "raw_caption": "The video shows a skiing descent down a snowy mountain slope with a clear view of the landscape.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      24750,
+      24800,
+      24850
+    ],
+    "raw_section": {
+      "start": 24750,
+      "end": 24900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 165
+  },
+  {
+    "start": 24900,
+    "end": 25050,
+    "start_time": 498.0,
+    "end_time": 501.0,
+    "raw_caption": "Skiers are descending a snowy slope during the day, enjoying the winter sport.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      24900,
+      24950,
+      25000
+    ],
+    "raw_section": {
+      "start": 24900,
+      "end": 25050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 166
+  },
+  {
+    "start": 25050,
+    "end": 25200,
+    "start_time": 501.0,
+    "end_time": 504.0,
+    "raw_caption": "The video shows a skiing activity on a snow-covered slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      25050,
+      25100,
+      25150
+    ],
+    "raw_section": {
+      "start": 25050,
+      "end": 25200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 167
+  },
+  {
+    "start": 25200,
+    "end": 25350,
+    "start_time": 504.0,
+    "end_time": 507.0,
+    "raw_caption": "A person is skiing down a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      25200,
+      25250,
+      25300
+    ],
+    "raw_section": {
+      "start": 25200,
+      "end": 25350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 168
+  },
+  {
+    "start": 25350,
+    "end": 25500,
+    "start_time": 507.0,
+    "end_time": 510.0,
+    "raw_caption": "A skier navigates a snowy trail on a clear day, showcasing a smooth descent.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      25350,
+      25400,
+      25450
+    ],
+    "raw_section": {
+      "start": 25350,
+      "end": 25500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 169
+  },
+  {
+    "start": 25500,
+    "end": 25650,
+    "start_time": 510.0,
+    "end_time": 513.0,
+    "raw_caption": "A person is skiing down a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      25500,
+      25550,
+      25600
+    ],
+    "raw_section": {
+      "start": 25500,
+      "end": 25650
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 170
+  },
+  {
+    "start": 25650,
+    "end": 25800,
+    "start_time": 513.0,
+    "end_time": 516.0,
+    "raw_caption": "A snowboarder is navigating down a snowy slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      25650,
+      25700,
+      25750
+    ],
+    "raw_section": {
+      "start": 25650,
+      "end": 25800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 171
+  },
+  {
+    "start": 25800,
+    "end": 25950,
+    "start_time": 516.0,
+    "end_time": 519.0,
+    "raw_caption": "A skier is descending a snowy slope during the day, showcasing a scenic winter landscape.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      25800,
+      25850,
+      25900
+    ],
+    "raw_section": {
+      "start": 25800,
+      "end": 25950
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 172
+  },
+  {
+    "start": 25950,
+    "end": 26100,
+    "start_time": 519.0,
+    "end_time": 522.0,
+    "raw_caption": "Skiers navigate a snowy slope on a clear day, enjoying the winter sport.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      25950,
+      26000,
+      26050
+    ],
+    "raw_section": {
+      "start": 25950,
+      "end": 26100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 173
+  },
+  {
+    "start": 26100,
+    "end": 26250,
+    "start_time": 522.0,
+    "end_time": 525.0,
+    "raw_caption": "Two people are skiing down a snowy slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'two people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      26100,
+      26150,
+      26200
+    ],
+    "raw_section": {
+      "start": 26100,
+      "end": 26250
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 174
+  },
+  {
+    "start": 26250,
+    "end": 26400,
+    "start_time": 525.0,
+    "end_time": 528.0,
+    "raw_caption": "Skiers are enjoying a sunny day at a ski resort, gliding down the snowy slopes.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      26250,
+      26300,
+      26350
+    ],
+    "raw_section": {
+      "start": 26250,
+      "end": 26400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 175
+  },
+  {
+    "start": 26400,
+    "end": 26550,
+    "start_time": 528.0,
+    "end_time": 531.0,
+    "raw_caption": "Two skiers are enjoying a run down a snowy slope at a ski resort on a sunny day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'two skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      26400,
+      26450,
+      26500
+    ],
+    "raw_section": {
+      "start": 26400,
+      "end": 26550
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 176
+  },
+  {
+    "start": 26550,
+    "end": 26700,
+    "start_time": 531.0,
+    "end_time": 534.0,
+    "raw_caption": "A man and woman are skiing down a slope on a clear day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'man and woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      26550,
+      26600,
+      26650
+    ],
+    "raw_section": {
+      "start": 26550,
+      "end": 26700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 177
+  },
+  {
+    "start": 26700,
+    "end": 26850,
+    "start_time": 534.0,
+    "end_time": 537.0,
+    "raw_caption": "A man is skiing down a slope at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      26700,
+      26750,
+      26800
+    ],
+    "raw_section": {
+      "start": 26700,
+      "end": 26850
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 178
+  },
+  {
+    "start": 26850,
+    "end": 27000,
+    "start_time": 537.0,
+    "end_time": 540.0,
+    "raw_caption": "A man is snowboarding down a slope at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      26850,
+      26900,
+      26950
+    ],
+    "raw_section": {
+      "start": 26850,
+      "end": 27000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 179
+  },
+  {
+    "start": 27000,
+    "end": 27150,
+    "start_time": 540.0,
+    "end_time": 543.0,
+    "raw_caption": "Skiers are enjoying a sunny day on the slopes at a ski resort.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'multiple skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      27000,
+      27050,
+      27100
+    ],
+    "raw_section": {
+      "start": 27000,
+      "end": 27150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 180
+  },
+  {
+    "start": 27150,
+    "end": 27300,
+    "start_time": 543.0,
+    "end_time": 546.0,
+    "raw_caption": "People are snowboarding and skiing down a slope at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'people skiing and snowboarding'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      27150,
+      27200,
+      27250
+    ],
+    "raw_section": {
+      "start": 27150,
+      "end": 27300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 181
+  },
+  {
+    "start": 27300,
+    "end": 27450,
+    "start_time": 546.0,
+    "end_time": 549.0,
+    "raw_caption": "A man is teaching a child how to ski at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'man and child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      27300,
+      27350,
+      27400
+    ],
+    "raw_section": {
+      "start": 27300,
+      "end": 27450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 182
+  },
+  {
+    "start": 27450,
+    "end": 27600,
+    "start_time": 549.0,
+    "end_time": 552.0,
+    "raw_caption": "An individual is snowboarding down a slope at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'snowboarding', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      27450,
+      27500,
+      27550
+    ],
+    "raw_section": {
+      "start": 27450,
+      "end": 27600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 183
+  },
+  {
+    "start": 27600,
+    "end": 27750,
+    "start_time": 552.0,
+    "end_time": 555.0,
+    "raw_caption": "An individual is skiing down a slope at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'individual skier'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      27600,
+      27650,
+      27700
+    ],
+    "raw_section": {
+      "start": 27600,
+      "end": 27750
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 184
+  },
+  {
+    "start": 27750,
+    "end": 27900,
+    "start_time": 555.0,
+    "end_time": 558.0,
+    "raw_caption": "A person is skiing down a slope at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      27750,
+      27800,
+      27850
+    ],
+    "raw_section": {
+      "start": 27750,
+      "end": 27900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 185
+  },
+  {
+    "start": 27900,
+    "end": 28050,
+    "start_time": 558.0,
+    "end_time": 561.0,
+    "raw_caption": "An individual is skiing down a slope at a ski resort during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      27900,
+      27950,
+      28000
+    ],
+    "raw_section": {
+      "start": 27900,
+      "end": 28050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 186
+  },
+  {
+    "start": 28050,
+    "end": 28200,
+    "start_time": 561.0,
+    "end_time": 564.0,
+    "raw_caption": "The video captures a lively scene at a ski resort with people skiing down a snowy slope during the day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'skiers, including children'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      28050,
+      28100,
+      28150
+    ],
+    "raw_section": {
+      "start": 28050,
+      "end": 28200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 187
+  },
+  {
+    "start": 28200,
+    "end": 28350,
+    "start_time": 564.0,
+    "end_time": 567.0,
+    "raw_caption": "Skiers are enjoying a sunny day at a ski resort, navigating the slopes and interacting with each other.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'multiple skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      28200,
+      28250,
+      28300
+    ],
+    "raw_section": {
+      "start": 28200,
+      "end": 28350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 188
+  },
+  {
+    "start": 28350,
+    "end": 28500,
+    "start_time": 567.0,
+    "end_time": 570.0,
+    "raw_caption": "People are skiing at a resort on a clear day.",
+    "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'multiple skiers'}",
+    "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      28350,
+      28400,
+      28450
+    ],
+    "raw_section": {
+      "start": 28350,
+      "end": 28500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Emerson_Nishi/WL4TA--CVcA.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 189
+  }
+]

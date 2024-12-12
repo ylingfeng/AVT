@@ -1,0 +1,90 @@
+{
+  "blind_test_info": {
+    "Material_Richness": {
+      "Reason": "The video captures a public event with a focus on a countdown and fireworks, but lacks a clear narrative structure or thematic development",
+      "Score": 2.5
+    },
+    "Appeal": {
+      "Reason": "The video has visual appeal due to the fireworks and countdown, but the lack of context or storyline reduces overall engagement",
+      "Score": 3.0
+    },
+    "Content_of_Exciting_Segments": {
+      "Reason": "The countdown and fireworks are visually exciting and likely to capture viewer attention",
+      "Score": 4.0
+    },
+    "Amount_of_Waste_Footage": {
+      "Reason": "The video includes some obstructed views and repetitive shots of the crowd, which slightly detract from the main event",
+      "Score": 3.0
+    },
+    "blind_test_avg_score": 3.125,
+    "sample_id_list": [
+      0,
+      30,
+      60,
+      90,
+      120,
+      150,
+      180,
+      210,
+      240,
+      270,
+      300,
+      330,
+      360,
+      390,
+      420,
+      450,
+      480,
+      510,
+      540,
+      570,
+      600,
+      630,
+      660,
+      690,
+      720,
+      750,
+      780,
+      810,
+      840,
+      870,
+      900,
+      930,
+      960,
+      990,
+      1020,
+      1050,
+      1080,
+      1110,
+      1140,
+      1170,
+      1200,
+      1230,
+      1260,
+      1290,
+      1320,
+      1350,
+      1380,
+      1410,
+      1440,
+      1470,
+      1500,
+      1530,
+      1560,
+      1590,
+      1620,
+      1650,
+      1680,
+      1710,
+      1740,
+      1770,
+      1800
+    ]
+  },
+  "video_info": {
+    "width": 1280,
+    "height": 720,
+    "frame_count": 1802,
+    "fps": 30.0
+  }
+}

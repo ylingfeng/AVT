@@ -1,0 +1,477 @@
+{
+  "choose_clip_info": "step2 story: use merge. multi step1 (False), multi step2 (False), story choose: 20, all story video clip: 22, all useful video clip: 75, all video clip: 346",
+  "story_result": {
+    "section_id_list": [
+      0,
+      1,
+      38,
+      66,
+      76,
+      122,
+      123,
+      124,
+      237,
+      58,
+      93,
+      97,
+      100,
+      231,
+      233,
+      235,
+      259,
+      308,
+      343,
+      88
+    ],
+    "clip_caption": {
+      "0": "Two people walk across a beautifully lit suspension bridge in the evening, setting a serene and intimate atmosphere, making it a suitable opening scene.",
+      "1": "A man and woman walk across a beautifully lit bridge during the evening, reinforcing the theme of evening strolls and can be placed to continue the narrative of serene walks.",
+      "38": "A family walks together on a beautifully lit bridge during the evening, introducing a familial element to the theme of evening walks, suitable for the middle of the sequence.",
+      "66": "A woman and man walk through a beautifully lit tunnel in a garden during the evening, transitioning the scene from bridges to garden environments, fitting in the middle.",
+      "76": "A dinosaur-shaped light display is featured in a forest setting at night, providing a captivating visual shift from human interactions to artistic displays, suitable for a transition.",
+      "122": "The video shows a garden with large dinosaur-shaped light displays at night, expanding on the theme of artistic light displays in natural settings, fitting well after clip 4.",
+      "123": "A large dinosaur sculpture is illuminated with lights at night in a park, maintaining the focus on illuminated sculptures, suitable for the middle to end of the sequence.",
+      "124": "A large dinosaur structure is illuminated with lights in a park at night, reinforcing the theme of light displays and serving as a transition to different settings.",
+      "237": "A cozy room decorated for Christmas with a Santa Claus figure surrounded by gifts and festive decor, introducing a festive indoor setting, suitable for a transition to holiday themes.",
+      "58": "An adult and a child walk along a beautifully lit walkway in the evening, returning to the theme of evening strolls with a focus on family, suitable for the middle of the sequence.",
+      "93": "A woman and child are admiring holiday lights in an outdoor garden during the evening, capturing the wonder of holiday lights, suitable for a transition to holiday themes.",
+      "97": "Children and adults walk through a garden decorated with lights in the evening, emphasizing communal enjoyment of light displays, fitting well in the middle.",
+      "100": "Several people walk through a garden adorned with decorative lights at night, continuing the theme of communal experiences under decorative lights, suitable for the middle to end.",
+      "231": "A woman and child are shopping at a Christmas market in the evening, introducing the theme of holiday shopping, suitable for transitioning into festive activities.",
+      "233": "A man and a child are shopping in a Christmas market decorated with lights and festive items, continuing the theme of holiday shopping, fitting well after clip 13.",
+      "235": "A man and two children explore a Christmas market, looking at festive decorations, emphasizing family activities during the holiday season, suitable for the middle.",
+      "259": "A child explores a Christmas shop, admiring festive decorations, capturing the wonder of holiday decorations, fitting well in the middle of the holiday theme.",
+      "308": "A family with children is exploring a Christmas market during the day, introducing a daytime perspective on holiday shopping, suitable for transitioning from evening scenes.",
+      "343": "A family is shopping in a store during the day, maintaining the theme of family shopping experiences, suitable for the middle of the holiday sequence.",
+      "88": "A woman walks through a beautifully lit garden at night, returning to the theme of evening strolls in illuminated settings, suitable for closing the sequence with a serene note."
+    },
+    "theme_caption": {
+      "[0, 1, 38, 66, 58, 93, 97, 100, 88]": "Evening Strolls and Light Displays: This theme captures the beauty and tranquility of walking through illuminated environments, from bridges to gardens, often with family or companions.",
+      "[76, 122, 123, 124]": "Artistic Light Displays: Focusing on dinosaur-shaped light installations in natural settings, these clips highlight the artistic and whimsical elements of light displays at night.",
+      "[237, 231, 233, 235, 259, 308, 343]": "Festive Holiday Scenes: This theme showcases the joy and warmth of the holiday season, with scenes of Christmas decorations, shopping at markets, and family interactions."
+    },
+    "global_caption": "This video collection takes viewers on a journey through beautifully lit environments, capturing the serene and enchanting experiences of evening strolls across bridges and through gardens. It transitions into the whimsical world of artistic light displays, featuring dinosaur-shaped installations that captivate the imagination. The narrative then shifts to the festive spirit of the holiday season, showcasing the warmth and joy of Christmas markets, decorations, and family activities. Each scene contributes to a cohesive exploration of light and celebration, creating a rich tapestry of visual storytelling."
+  },
+  "output_section_info_list": [
+    {
+      "start": 0,
+      "end": 90,
+      "start_time": 0.0,
+      "end_time": 3.0,
+      "raw_caption": "Two people walk across a beautifully lit suspension bridge in the evening.",
+      "attribute_caption_useful": "{'What': 'walking on bridge', 'Where': 'suspension bridge', 'When': 'evening', 'Who': 'two people'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        0,
+        30,
+        60
+      ],
+      "raw_section": {
+        "start": 0,
+        "end": 90
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 0
+    },
+    {
+      "start": 90,
+      "end": 180,
+      "start_time": 3.0,
+      "end_time": 6.0,
+      "raw_caption": "A man and woman walk across a beautifully lit bridge during the evening.",
+      "attribute_caption_useful": "{'What': 'walking on bridge', 'Where': 'bridge with lights', 'When': 'evening', 'Who': 'man and woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+      "sample_id_list": [
+        90,
+        120,
+        150
+      ],
+      "raw_section": {
+        "start": 90,
+        "end": 180
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 1
+    },
+    {
+      "start": 3420,
+      "end": 3510,
+      "start_time": 114.1,
+      "end_time": 117.1,
+      "raw_caption": "A family walks together on a beautifully lit bridge during the evening.",
+      "attribute_caption_useful": "{'What': 'walking on a decorated bridge', 'Where': 'bridge with lights', 'When': 'evening', 'Who': 'two adults and a child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0.1; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        3420,
+        3450,
+        3480
+      ],
+      "raw_section": {
+        "start": 3420,
+        "end": 3510
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 38
+    },
+    {
+      "start": 5940,
+      "end": 6030,
+      "start_time": 198.2,
+      "end_time": 201.2,
+      "raw_caption": "A woman and man walk through a beautifully lit tunnel in a garden during the evening.",
+      "attribute_caption_useful": "{'What': 'walking through light tunnel', 'Where': 'garden', 'When': 'evening', 'Who': 'woman and man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        5940,
+        5970,
+        6000
+      ],
+      "raw_section": {
+        "start": 5940,
+        "end": 6030
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 66
+    },
+    {
+      "start": 6840,
+      "end": 6930,
+      "start_time": 228.2,
+      "end_time": 231.2,
+      "raw_caption": "A dinosaur-shaped light display is featured in a forest setting at night.",
+      "attribute_caption_useful": "{'What': 'light display', 'Where': 'forest', 'When': 'night', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.7;",
+      "sample_id_list": [
+        6840,
+        6870,
+        6900
+      ],
+      "raw_section": {
+        "start": 6840,
+        "end": 6930
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 76
+    },
+    {
+      "start": 10980,
+      "end": 11070,
+      "start_time": 366.4,
+      "end_time": 369.4,
+      "raw_caption": "The video shows a garden with large dinosaur-shaped light displays at night.",
+      "attribute_caption_useful": "{'What': 'light display', 'Where': 'garden', 'When': 'night', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+      "sample_id_list": [
+        10980,
+        11010,
+        11040
+      ],
+      "raw_section": {
+        "start": 10980,
+        "end": 11070
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 122
+    },
+    {
+      "start": 11070,
+      "end": 11160,
+      "start_time": 369.4,
+      "end_time": 372.4,
+      "raw_caption": "A large dinosaur sculpture is illuminated with lights at night in a park.",
+      "attribute_caption_useful": "{'What': 'light display', 'Where': 'park', 'When': 'night', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+      "sample_id_list": [
+        11070,
+        11100,
+        11130
+      ],
+      "raw_section": {
+        "start": 11070,
+        "end": 11160
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 123
+    },
+    {
+      "start": 11160,
+      "end": 11250,
+      "start_time": 372.4,
+      "end_time": 375.4,
+      "raw_caption": "A large dinosaur structure is illuminated with lights in a park at night.",
+      "attribute_caption_useful": "{'What': 'dinosaur light display', 'Where': 'park', 'When': 'night', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.7;",
+      "sample_id_list": [
+        11160,
+        11190,
+        11220
+      ],
+      "raw_section": {
+        "start": 11160,
+        "end": 11250
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 124
+    },
+    {
+      "start": 21330,
+      "end": 21420,
+      "start_time": 711.7,
+      "end_time": 714.7,
+      "raw_caption": "A cozy room decorated for Christmas with a Santa Claus figure surrounded by gifts and festive decor.",
+      "attribute_caption_useful": "{'What': 'Christmas scene with decorations and gifts', 'Where': 'cozy room with wooden walls', 'When': 'Christmas season', 'Who': 'Santa Claus figure'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        21330,
+        21360,
+        21390
+      ],
+      "raw_section": {
+        "start": 21330,
+        "end": 21420
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 237
+    },
+    {
+      "start": 5220,
+      "end": 5310,
+      "start_time": 174.2,
+      "end_time": 177.2,
+      "raw_caption": "An adult and a child walk along a beautifully lit walkway in the evening.",
+      "attribute_caption_useful": "{'What': 'walking', 'Where': 'decorated walkway', 'When': 'evening', 'Who': 'adult and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        5220,
+        5250,
+        5280
+      ],
+      "raw_section": {
+        "start": 5220,
+        "end": 5310
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 58
+    },
+    {
+      "start": 8370,
+      "end": 8460,
+      "start_time": 279.3,
+      "end_time": 282.3,
+      "raw_caption": "A woman and child are admiring holiday lights in an outdoor garden during the evening.",
+      "attribute_caption_useful": "{'What': 'viewing holiday lights', 'Where': 'outdoor garden', 'When': 'evening', 'Who': 'woman and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.5;",
+      "sample_id_list": [
+        8370,
+        8400,
+        8430
+      ],
+      "raw_section": {
+        "start": 8370,
+        "end": 8460
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 93
+    },
+    {
+      "start": 8730,
+      "end": 8820,
+      "start_time": 291.3,
+      "end_time": 294.3,
+      "raw_caption": "Children and adults walk through a garden decorated with lights in the evening.",
+      "attribute_caption_useful": "{'What': 'walking under light decorations', 'Where': 'garden', 'When': 'evening', 'Who': 'children and adults'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+      "sample_id_list": [
+        8730,
+        8760,
+        8790
+      ],
+      "raw_section": {
+        "start": 8730,
+        "end": 8820
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 97
+    },
+    {
+      "start": 9000,
+      "end": 9090,
+      "start_time": 300.3,
+      "end_time": 303.3,
+      "raw_caption": "Several people walk through a garden adorned with decorative lights at night.",
+      "attribute_caption_useful": "{'What': 'walking through light display', 'Where': 'garden', 'When': 'night', 'Who': 'several people'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0.5; [Meaningless]: 0.3; [Highlight]: 0.6;",
+      "sample_id_list": [
+        9000,
+        9030,
+        9060
+      ],
+      "raw_section": {
+        "start": 9000,
+        "end": 9090
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0.6",
+      "clip_id": 100
+    },
+    {
+      "start": 20790,
+      "end": 20880,
+      "start_time": 693.7,
+      "end_time": 696.7,
+      "raw_caption": "A woman and child are shopping at a Christmas market in the evening.",
+      "attribute_caption_useful": "{'What': 'shopping', 'Where': 'Christmas market', 'When': 'evening', 'Who': 'woman and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+      "sample_id_list": [
+        20790,
+        20820,
+        20850
+      ],
+      "raw_section": {
+        "start": 20790,
+        "end": 20880
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 231
+    },
+    {
+      "start": 20970,
+      "end": 21060,
+      "start_time": 699.7,
+      "end_time": 702.7,
+      "raw_caption": "A man and a child are shopping in a Christmas market decorated with lights and festive items.",
+      "attribute_caption_useful": "{'What': 'shopping', 'Where': 'Christmas market', 'When': 'evening', 'Who': 'man and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.2;",
+      "sample_id_list": [
+        20970,
+        21000,
+        21030
+      ],
+      "raw_section": {
+        "start": 20970,
+        "end": 21060
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 233
+    },
+    {
+      "start": 21150,
+      "end": 21240,
+      "start_time": 705.7,
+      "end_time": 708.7,
+      "raw_caption": "A man and two children explore a Christmas market, looking at festive decorations.",
+      "attribute_caption_useful": "{'What': 'shopping', 'Where': 'Christmas market', 'When': 'evening', 'Who': 'man and two children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.2;",
+      "sample_id_list": [
+        21150,
+        21180,
+        21210
+      ],
+      "raw_section": {
+        "start": 21150,
+        "end": 21240
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 235
+    },
+    {
+      "start": 23310,
+      "end": 23400,
+      "start_time": 777.8,
+      "end_time": 780.8,
+      "raw_caption": "A child explores a Christmas shop, admiring festive decorations.",
+      "attribute_caption_useful": "{'What': 'viewing Christmas decorations', 'Where': 'Christmas shop', 'When': 'evening', 'Who': 'child in red coat'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.2;",
+      "sample_id_list": [
+        23310,
+        23340,
+        23370
+      ],
+      "raw_section": {
+        "start": 23310,
+        "end": 23400
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 259
+    },
+    {
+      "start": 27720,
+      "end": 27810,
+      "start_time": 924.9,
+      "end_time": 927.9,
+      "raw_caption": "A family with children is exploring a Christmas market during the day.",
+      "attribute_caption_useful": "{'What': 'shopping', 'Where': 'Christmas market', 'When': 'daytime', 'Who': 'family with children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+      "sample_id_list": [
+        27720,
+        27750,
+        27780
+      ],
+      "raw_section": {
+        "start": 27720,
+        "end": 27810
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 308
+    },
+    {
+      "start": 30870,
+      "end": 30960,
+      "start_time": 1030.0,
+      "end_time": 1033.0,
+      "raw_caption": "A family is shopping in a store during the day.",
+      "attribute_caption_useful": "{'What': 'shopping', 'Where': 'store', 'When': 'daytime', 'Who': 'woman, man, and children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0;",
+      "sample_id_list": [
+        30870,
+        30900,
+        30930
+      ],
+      "raw_section": {
+        "start": 30870,
+        "end": 30960
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 343
+    },
+    {
+      "start": 7920,
+      "end": 8010,
+      "start_time": 264.3,
+      "end_time": 267.3,
+      "raw_caption": "A woman walks through a beautifully lit garden at night.",
+      "attribute_caption_useful": "{'What': 'walking', 'Where': 'garden with lights', 'When': 'night', 'Who': 'woman in red coat'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+      "sample_id_list": [
+        7920,
+        7950,
+        7980
+      ],
+      "raw_section": {
+        "start": 7920,
+        "end": 8010
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-The_Semps/YoIkzzpQjKM.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 88
+    }
+  ]
+}

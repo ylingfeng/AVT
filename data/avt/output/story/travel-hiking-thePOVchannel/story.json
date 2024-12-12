@@ -1,0 +1,778 @@
+{
+  "choose_clip_info": "step2 story: use all. multi step1 (False), multi step2 (False), story choose: 33, all story video clip: 33, all useful video clip: 69, all video clip: 206",
+  "story_result": {
+    "section_id_list": [
+      3,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      20,
+      35,
+      36,
+      41,
+      43,
+      44,
+      47,
+      48,
+      49,
+      50,
+      69,
+      73,
+      108,
+      111,
+      112,
+      117,
+      119,
+      124,
+      142,
+      143,
+      144,
+      145,
+      153,
+      156,
+      170,
+      203
+    ],
+    "clip_caption": {
+      "3": "The video shows a walk through Buckskin Gulch during the daytime, which could serve as an introduction to the series by establishing the setting of canyon exploration.",
+      "10": "A walk through Wire Pass, a narrow canyon during the daytime, provides a sense of the narrow and challenging terrain, fitting well in the early sequence.",
+      "11": "A person navigates through a narrow slot canyon during the day, highlighting the intricacies of the terrain, suitable for the middle of the sequence to maintain engagement.",
+      "12": "An individual navigates through a narrow canyon during the day, emphasizing the solitary and adventurous nature of the journey, fitting for the middle of the sequence.",
+      "13": "The video shows a walk through a narrow slot canyon with towering rock walls on both sides, showcasing the grandeur and scale, suitable for the middle of the sequence.",
+      "14": "A narrow passage through a slot canyon during the day highlights the exploration aspect, fitting for a middle segment to emphasize the adventure.",
+      "15": "The video shows a narrow slot canyon with someone walking through it during the daytime, maintaining the continuity of canyon exploration.",
+      "20": "A kettle is placed on a portable stove, boiling water in a desert setting during the day, offering a break in the sequence to show a survival aspect.",
+      "35": "A person observes a lizard on a rocky surface in a desert during the day, providing a moment of interaction with wildlife, suitable for a middle section.",
+      "36": "A man tries to catch a lizard on a desert rock formation during the day, adding a dynamic wildlife encounter to the sequence.",
+      "41": "The video shows a walk through a narrow slot canyon during the daytime, continuing the theme of exploration.",
+      "43": "A person is walking through a canyon during the day, casting a shadow on the ground, which adds a dramatic visual element to the sequence.",
+      "44": "A person walks through a canyon during the day, casting a shadow on the ground, reinforcing the theme of solitary exploration.",
+      "47": "A person is walking through a narrow canyon during the day, maintaining the continuity of the exploration theme.",
+      "48": "A man is walking through a narrow canyon during the day, adding a human element to the landscape.",
+      "49": "A person walks through a narrow canyon during the day, contributing to the ongoing narrative of exploration.",
+      "50": "A man is walking through a narrow canyon during the day, emphasizing the human interaction with the environment.",
+      "69": "The video captures a walk through a narrow slot canyon, showcasing the unique rock formations, suitable for highlighting the natural beauty.",
+      "73": "The video shows a walk through a narrow desert canyon with detailed rock formations visible, emphasizing the geological features.",
+      "108": "An adult explores a narrow slot canyon, touching the rock walls, adding an interactive element to the exploration theme.",
+      "111": "A woman walks through a narrow slot canyon during the day, introducing a gender perspective to the exploration.",
+      "112": "A woman is hiking through a narrow canyon during the day, highlighting the physical effort involved in the journey.",
+      "117": "A woman is hiking through a scenic canyon during the day, adding a descriptive element to the sequence.",
+      "119": "Two people are walking through a canyon during the daytime, introducing a social aspect to the exploration.",
+      "124": "The video shows a canyon with ancient petroglyphs visible on the rock surface, introducing a historical and cultural element.",
+      "142": "A woman walks through a narrow slot canyon during the day, continuing the theme of exploration with a focus on individual experience.",
+      "143": "A woman explores a narrow slot canyon during the day, emphasizing the exploratory nature of the journey.",
+      "144": "A man is photographing a woman in a narrow slot canyon during the day, adding an artistic and personal documentation aspect.",
+      "145": "A woman is walking through a narrow slot canyon during the daytime, maintaining the theme of exploration.",
+      "153": "A person is walking through a narrow slot canyon during the day, contributing to the overall narrative of canyon exploration.",
+      "156": "An individual navigates through a narrow slot canyon during the day, using their hands for support, highlighting the physical challenge of the terrain.",
+      "170": "An individual walks through a narrow canyon, capturing the scene on their phone, introducing a modern documentation element.",
+      "203": "A person is paragliding over a canyon during sunset, capturing the expansive view, which could serve as a climactic or concluding scene due to its high highlight score and dramatic change in perspective."
+    },
+    "theme_caption": {
+      "[3, 10, 11, 12, 13, 14, 15, 41, 43, 44, 47, 48, 49, 50, 69, 73, 108, 111, 112, 117, 119, 142, 143, 145, 153, 156, 170]": "Canyon Exploration: This theme captures the journey through various canyons, emphasizing the narrow paths, towering rock walls, and the solitude or companionship of the explorers.",
+      "[20, 35, 36]": "Desert Survival and Wildlife: This theme highlights survival elements such as boiling water and interactions with desert wildlife, offering a break from the canyon exploration.",
+      "[124]": "Cultural and Historical Insights: This theme introduces the historical context with petroglyphs visible on the canyon walls, adding depth to the exploration narrative.",
+      "[144]": "Artistic Documentation: This theme focuses on capturing personal moments and the beauty of the canyon through photography, providing a personal touch to the journey.",
+      "[203]": "Aerial Perspective: Paragliding over the canyon during sunset offers a dramatic and expansive view, providing a unique and thrilling perspective to conclude the sequence."
+    },
+    "global_caption": "The video collection takes viewers on an immersive journey through the breathtaking canyons, starting with the exploration of narrow paths and towering rock formations. The narrative weaves in moments of desert survival and wildlife encounters, adding depth to the adventure. Cultural insights are offered through the viewing of ancient petroglyphs, while personal and artistic documentation captures the journey's essence. The sequence culminates in a dramatic aerial perspective of paragliding over the canyon at sunset, providing a fitting conclusion to this exploration narrative."
+  },
+  "output_section_info_list": [
+    {
+      "start": 540,
+      "end": 720,
+      "start_time": 9.0,
+      "end_time": 12.0,
+      "raw_caption": "The video shows a walk through Buckskin Gulch during the daytime.",
+      "attribute_caption_useful": "{'What': 'walking through canyon', 'Where': 'Buckskin Gulch', 'When': 'daytime', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+      "sample_id_list": [
+        540,
+        600,
+        660
+      ],
+      "raw_section": {
+        "start": 540,
+        "end": 720
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 3
+    },
+    {
+      "start": 1800,
+      "end": 1980,
+      "start_time": 30.0,
+      "end_time": 33.0,
+      "raw_caption": "The video shows a walk through Wire Pass, a narrow canyon, during the daytime.",
+      "attribute_caption_useful": "{'What': 'walking through canyon', 'Where': 'Wire Pass', 'When': 'daytime', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0",
+      "sample_id_list": [
+        1800,
+        1860,
+        1920
+      ],
+      "raw_section": {
+        "start": 1800,
+        "end": 1980
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 10
+    },
+    {
+      "start": 1980,
+      "end": 2160,
+      "start_time": 33.0,
+      "end_time": 36.0,
+      "raw_caption": "A person navigates through a narrow slot canyon during the day.",
+      "attribute_caption_useful": "{'What': 'walking through narrow canyon', 'Where': 'slot canyon', 'When': 'daytime', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+      "sample_id_list": [
+        1980,
+        2040,
+        2100
+      ],
+      "raw_section": {
+        "start": 1980,
+        "end": 2160
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 11
+    },
+    {
+      "start": 2160,
+      "end": 2340,
+      "start_time": 36.0,
+      "end_time": 39.0,
+      "raw_caption": "An individual navigates through a narrow canyon during the day.",
+      "attribute_caption_useful": "{'What': 'walking through narrow canyon', 'Where': 'canyon', 'When': 'daytime', 'Who': 'unknown individual'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.2;",
+      "sample_id_list": [
+        2160,
+        2220,
+        2280
+      ],
+      "raw_section": {
+        "start": 2160,
+        "end": 2340
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 12
+    },
+    {
+      "start": 2340,
+      "end": 2520,
+      "start_time": 39.0,
+      "end_time": 42.0,
+      "raw_caption": "The video shows a walk through a narrow slot canyon with towering rock walls on both sides.",
+      "attribute_caption_useful": "{'What': 'walking through narrow canyon', 'Where': 'slot canyon', 'When': 'daytime', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.2;",
+      "sample_id_list": [
+        2340,
+        2400,
+        2460
+      ],
+      "raw_section": {
+        "start": 2340,
+        "end": 2520
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 13
+    },
+    {
+      "start": 2520,
+      "end": 2700,
+      "start_time": 42.0,
+      "end_time": 45.0,
+      "raw_caption": "The video shows a narrow passage through a slot canyon during the day.",
+      "attribute_caption_useful": "{'What': 'exploring', 'Where': 'slot canyon', 'When': 'daytime', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+      "sample_id_list": [
+        2520,
+        2580,
+        2640
+      ],
+      "raw_section": {
+        "start": 2520,
+        "end": 2700
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 14
+    },
+    {
+      "start": 2700,
+      "end": 2880,
+      "start_time": 45.0,
+      "end_time": 48.0,
+      "raw_caption": "The video shows a narrow slot canyon with someone walking through it during the daytime.",
+      "attribute_caption_useful": "{'What': 'walking', 'Where': 'slot canyon', 'When': 'daytime', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+      "sample_id_list": [
+        2700,
+        2760,
+        2820
+      ],
+      "raw_section": {
+        "start": 2700,
+        "end": 2880
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 15
+    },
+    {
+      "start": 3600,
+      "end": 3780,
+      "start_time": 60.1,
+      "end_time": 63.1,
+      "raw_caption": "A kettle is placed on a portable stove, boiling water in a desert setting during the day.",
+      "attribute_caption_useful": "{'What': 'boiling water', 'Where': 'desert', 'When': 'daytime', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.4; [Highlight]: 0;",
+      "sample_id_list": [
+        3600,
+        3660,
+        3720
+      ],
+      "raw_section": {
+        "start": 3600,
+        "end": 3780
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 20
+    },
+    {
+      "start": 6300,
+      "end": 6480,
+      "start_time": 105.1,
+      "end_time": 108.1,
+      "raw_caption": "A person observes a lizard on a rocky surface in a desert during the day.",
+      "attribute_caption_useful": "{'What': 'observing a lizard', 'Where': 'rocky desert', 'When': 'daytime', 'Who': 'hand of a person'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.3;",
+      "sample_id_list": [
+        6300,
+        6360,
+        6420
+      ],
+      "raw_section": {
+        "start": 6300,
+        "end": 6480
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 35
+    },
+    {
+      "start": 6480,
+      "end": 6660,
+      "start_time": 108.1,
+      "end_time": 111.1,
+      "raw_caption": "A man tries to catch a lizard on a desert rock formation during the day.",
+      "attribute_caption_useful": "{'What': 'attempting to catch a lizard', 'Where': 'desert rock formation', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+      "sample_id_list": [
+        6480,
+        6540,
+        6600
+      ],
+      "raw_section": {
+        "start": 6480,
+        "end": 6660
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 36
+    },
+    {
+      "start": 7380,
+      "end": 7560,
+      "start_time": 123.1,
+      "end_time": 126.1,
+      "raw_caption": "The video shows a walk through a narrow slot canyon during the daytime.",
+      "attribute_caption_useful": "{'What': 'walking', 'Where': 'slot canyon', 'When': 'daytime', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+      "sample_id_list": [
+        7380,
+        7440,
+        7500
+      ],
+      "raw_section": {
+        "start": 7380,
+        "end": 7560
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 41
+    },
+    {
+      "start": 7740,
+      "end": 7920,
+      "start_time": 129.1,
+      "end_time": 132.1,
+      "raw_caption": "A person is walking through a canyon during the day, casting a shadow on the ground.",
+      "attribute_caption_useful": "{'What': 'walking', 'Where': 'canyon', 'When': 'daytime', 'Who': 'shadow of a person'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+      "sample_id_list": [
+        7740,
+        7800,
+        7860
+      ],
+      "raw_section": {
+        "start": 7740,
+        "end": 7920
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 43
+    },
+    {
+      "start": 7920,
+      "end": 8100,
+      "start_time": 132.1,
+      "end_time": 135.1,
+      "raw_caption": "A person walks through a canyon during the day, casting a shadow on the ground.",
+      "attribute_caption_useful": "{'What': 'walking', 'Where': 'canyon', 'When': 'daytime', 'Who': 'shadow of a person'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+      "sample_id_list": [
+        7920,
+        7980,
+        8040
+      ],
+      "raw_section": {
+        "start": 7920,
+        "end": 8100
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 44
+    },
+    {
+      "start": 8460,
+      "end": 8640,
+      "start_time": 141.1,
+      "end_time": 144.1,
+      "raw_caption": "A person is walking through a narrow canyon during the day.",
+      "attribute_caption_useful": "{'What': 'walking', 'Where': 'canyon', 'When': 'daytime', 'Who': 'shadow of a person'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+      "sample_id_list": [
+        8460,
+        8520,
+        8580
+      ],
+      "raw_section": {
+        "start": 8460,
+        "end": 8640
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 47
+    },
+    {
+      "start": 8640,
+      "end": 8820,
+      "start_time": 144.1,
+      "end_time": 147.1,
+      "raw_caption": "A man is walking through a narrow canyon during the day.",
+      "attribute_caption_useful": "{'What': 'walking', 'Where': 'canyon', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+      "sample_id_list": [
+        8640,
+        8700,
+        8760
+      ],
+      "raw_section": {
+        "start": 8640,
+        "end": 8820
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 48
+    },
+    {
+      "start": 8820,
+      "end": 9000,
+      "start_time": 147.1,
+      "end_time": 150.1,
+      "raw_caption": "A person walks through a narrow canyon during the day.",
+      "attribute_caption_useful": "{'What': 'walking', 'Where': 'canyon', 'When': 'daytime', 'Who': 'unidentified person'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+      "sample_id_list": [
+        8820,
+        8880,
+        8940
+      ],
+      "raw_section": {
+        "start": 8820,
+        "end": 9000
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 49
+    },
+    {
+      "start": 9000,
+      "end": 9180,
+      "start_time": 150.1,
+      "end_time": 153.2,
+      "raw_caption": "A man is walking through a narrow canyon during the day.",
+      "attribute_caption_useful": "{'What': 'walking', 'Where': 'canyon', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+      "sample_id_list": [
+        9000,
+        9060,
+        9120
+      ],
+      "raw_section": {
+        "start": 9000,
+        "end": 9180
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 50
+    },
+    {
+      "start": 12420,
+      "end": 12600,
+      "start_time": 207.2,
+      "end_time": 210.2,
+      "raw_caption": "The video captures a walk through a narrow slot canyon, showcasing the unique rock formations.",
+      "attribute_caption_useful": "{'What': 'walking through canyon', 'Where': 'slot canyon', 'When': 'daytime', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+      "sample_id_list": [
+        12420,
+        12480,
+        12540
+      ],
+      "raw_section": {
+        "start": 12420,
+        "end": 12600
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 69
+    },
+    {
+      "start": 13140,
+      "end": 13320,
+      "start_time": 219.2,
+      "end_time": 222.2,
+      "raw_caption": "The video shows a walk through a narrow desert canyon with detailed rock formations visible.",
+      "attribute_caption_useful": "{'What': 'walking through canyon', 'Where': 'narrow desert canyon', 'When': 'daytime', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+      "sample_id_list": [
+        13140,
+        13200,
+        13260
+      ],
+      "raw_section": {
+        "start": 13140,
+        "end": 13320
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 73
+    },
+    {
+      "start": 19440,
+      "end": 19620,
+      "start_time": 324.3,
+      "end_time": 327.3,
+      "raw_caption": "An adult explores a narrow slot canyon, touching the rock walls.",
+      "attribute_caption_useful": "{'What': 'exploring', 'Where': 'slot canyon', 'When': 'daytime', 'Who': 'hand of an adult'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.2;",
+      "sample_id_list": [
+        19440,
+        19500,
+        19560
+      ],
+      "raw_section": {
+        "start": 19440,
+        "end": 19620
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 108
+    },
+    {
+      "start": 19980,
+      "end": 20160,
+      "start_time": 333.3,
+      "end_time": 336.3,
+      "raw_caption": "A woman walks through a narrow slot canyon during the day.",
+      "attribute_caption_useful": "{'What': 'walking', 'Where': 'slot canyon', 'When': 'daytime', 'Who': 'woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+      "sample_id_list": [
+        19980,
+        20040,
+        20100
+      ],
+      "raw_section": {
+        "start": 19980,
+        "end": 20160
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 111
+    },
+    {
+      "start": 20160,
+      "end": 20340,
+      "start_time": 336.3,
+      "end_time": 339.3,
+      "raw_caption": "A woman is hiking through a narrow canyon during the day.",
+      "attribute_caption_useful": "{'What': 'hiking', 'Where': 'canyon', 'When': 'daytime', 'Who': 'woman with backpack'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+      "sample_id_list": [
+        20160,
+        20220,
+        20280
+      ],
+      "raw_section": {
+        "start": 20160,
+        "end": 20340
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 112
+    },
+    {
+      "start": 21060,
+      "end": 21240,
+      "start_time": 351.4,
+      "end_time": 354.4,
+      "raw_caption": "A woman is hiking through a scenic canyon during the day.",
+      "attribute_caption_useful": "{'What': 'hiking', 'Where': 'canyon', 'When': 'daytime', 'Who': 'woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+      "sample_id_list": [
+        21060,
+        21120,
+        21180
+      ],
+      "raw_section": {
+        "start": 21060,
+        "end": 21240
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 117
+    },
+    {
+      "start": 21420,
+      "end": 21600,
+      "start_time": 357.4,
+      "end_time": 360.4,
+      "raw_caption": "Two people are walking through a canyon during the daytime.",
+      "attribute_caption_useful": "{'What': 'walking', 'Where': 'canyon', 'When': 'daytime', 'Who': 'two people'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+      "sample_id_list": [
+        21420,
+        21480,
+        21540
+      ],
+      "raw_section": {
+        "start": 21420,
+        "end": 21600
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 119
+    },
+    {
+      "start": 22320,
+      "end": 22500,
+      "start_time": 372.4,
+      "end_time": 375.4,
+      "raw_caption": "The video shows a canyon with ancient petroglyphs visible on the rock surface.",
+      "attribute_caption_useful": "{'What': 'viewing petroglyphs', 'Where': 'canyon', 'When': 'daytime', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0;",
+      "sample_id_list": [
+        22320,
+        22380,
+        22440
+      ],
+      "raw_section": {
+        "start": 22320,
+        "end": 22500
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 124
+    },
+    {
+      "start": 25560,
+      "end": 25740,
+      "start_time": 426.4,
+      "end_time": 429.4,
+      "raw_caption": "A woman walks through a narrow slot canyon during the day.",
+      "attribute_caption_useful": "{'What': 'walking through narrow canyon', 'Where': 'slot canyon', 'When': 'daytime', 'Who': 'woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+      "sample_id_list": [
+        25560,
+        25620,
+        25680
+      ],
+      "raw_section": {
+        "start": 25560,
+        "end": 25740
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 142
+    },
+    {
+      "start": 25740,
+      "end": 25920,
+      "start_time": 429.4,
+      "end_time": 432.4,
+      "raw_caption": "A woman explores a narrow slot canyon during the day.",
+      "attribute_caption_useful": "{'What': 'exploring', 'Where': 'slot canyon', 'When': 'daytime', 'Who': 'woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+      "sample_id_list": [
+        25740,
+        25800,
+        25860
+      ],
+      "raw_section": {
+        "start": 25740,
+        "end": 25920
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 143
+    },
+    {
+      "start": 25920,
+      "end": 26100,
+      "start_time": 432.4,
+      "end_time": 435.4,
+      "raw_caption": "A man is photographing a woman in a narrow slot canyon during the day.",
+      "attribute_caption_useful": "{'What': 'photography', 'Where': 'slot canyon', 'When': 'daytime', 'Who': 'woman and man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+      "sample_id_list": [
+        25920,
+        25980,
+        26040
+      ],
+      "raw_section": {
+        "start": 25920,
+        "end": 26100
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 144
+    },
+    {
+      "start": 26100,
+      "end": 26280,
+      "start_time": 435.4,
+      "end_time": 438.4,
+      "raw_caption": "A woman is walking through a narrow slot canyon during the daytime.",
+      "attribute_caption_useful": "{'What': 'walking', 'Where': 'slot canyon', 'When': 'daytime', 'Who': 'woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+      "sample_id_list": [
+        26100,
+        26160,
+        26220
+      ],
+      "raw_section": {
+        "start": 26100,
+        "end": 26280
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 145
+    },
+    {
+      "start": 27540,
+      "end": 27720,
+      "start_time": 459.5,
+      "end_time": 462.5,
+      "raw_caption": "A person is walking through a narrow slot canyon during the day.",
+      "attribute_caption_useful": "{'What': 'walking through canyon', 'Where': 'slot canyon', 'When': 'daytime', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0",
+      "sample_id_list": [
+        27540,
+        27600,
+        27660
+      ],
+      "raw_section": {
+        "start": 27540,
+        "end": 27720
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 153
+    },
+    {
+      "start": 28080,
+      "end": 28260,
+      "start_time": 468.5,
+      "end_time": 471.5,
+      "raw_caption": "An individual navigates through a narrow slot canyon during the day, using their hands for support.",
+      "attribute_caption_useful": "{'What': 'navigating through narrow canyon', 'Where': 'slot canyon', 'When': 'daytime', 'Who': 'individual with visible hand'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+      "sample_id_list": [
+        28080,
+        28140,
+        28200
+      ],
+      "raw_section": {
+        "start": 28080,
+        "end": 28260
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 156
+    },
+    {
+      "start": 30600,
+      "end": 30780,
+      "start_time": 510.5,
+      "end_time": 513.5,
+      "raw_caption": "An individual walks through a narrow canyon, capturing the scene on their phone.",
+      "attribute_caption_useful": "{'What': 'walking through canyon', 'Where': 'narrow canyon', 'When': 'daytime', 'Who': 'unknown person holding phone'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0;",
+      "sample_id_list": [
+        30600,
+        30660,
+        30720
+      ],
+      "raw_section": {
+        "start": 30600,
+        "end": 30780
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 170
+    },
+    {
+      "start": 36540,
+      "end": 36720,
+      "start_time": 609.6,
+      "end_time": 612.6,
+      "raw_caption": "A person is paragliding over a canyon during sunset, capturing the expansive view.",
+      "attribute_caption_useful": "{'What': 'paragliding', 'Where': 'canyon', 'When': 'sunset', 'Who': 'unknown'}",
+      "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+      "sample_id_list": [
+        36540,
+        36600,
+        36660
+      ],
+      "raw_section": {
+        "start": 36540,
+        "end": 36720
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-hiking-thePOVchannel/I1gGZa4-h_U.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 203
+    }
+  ]
+}

@@ -1,0 +1,4475 @@
+[
+  {
+    "start": 0,
+    "end": 180,
+    "start_time": 0.0,
+    "end_time": 3.0,
+    "raw_caption": "The video shows an empty section of a water park with lounge chairs and a water slide during the daytime.",
+    "attribute_caption_useful": "{'What': 'empty water park area', 'Where': 'water park', 'When': 'daytime', 'Who': 'no one present'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+    "sample_id_list": [
+      0,
+      60,
+      120
+    ],
+    "raw_section": {
+      "start": 0,
+      "end": 180
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 0
+  },
+  {
+    "start": 180,
+    "end": 360,
+    "start_time": 3.0,
+    "end_time": 6.0,
+    "raw_caption": "The video shows an empty water slide area at a water park during the daytime.",
+    "attribute_caption_useful": "{'What': 'empty water slide area', 'Where': 'water park', 'When': 'daytime', 'Who': 'no people visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      180,
+      240,
+      300
+    ],
+    "raw_section": {
+      "start": 180,
+      "end": 360
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 1
+  },
+  {
+    "start": 360,
+    "end": 540,
+    "start_time": 6.0,
+    "end_time": 9.0,
+    "raw_caption": "An unknown person is seen holding an inflatable tube at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'holding inflatable tube', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      360,
+      420,
+      480
+    ],
+    "raw_section": {
+      "start": 360,
+      "end": 540
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 2
+  },
+  {
+    "start": 720,
+    "end": 900,
+    "start_time": 12.0,
+    "end_time": 15.0,
+    "raw_caption": "The video shows a walk through the entrance of a water park, featuring inflatable rings and a staircase.",
+    "attribute_caption_useful": "{'What': 'walking with inflatable rings', 'Where': 'water park entrance', 'When': 'daytime', 'Who': 'unseen individuals'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      720,
+      780,
+      840
+    ],
+    "raw_section": {
+      "start": 720,
+      "end": 900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 4
+  },
+  {
+    "start": 1080,
+    "end": 1260,
+    "start_time": 18.0,
+    "end_time": 21.0,
+    "raw_caption": "A man carries an inflatable up the stairs at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'carrying inflatable', 'Where': 'water park stairs', 'When': 'daytime', 'Who': 'man with wristband'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      1080,
+      1140,
+      1200
+    ],
+    "raw_section": {
+      "start": 1080,
+      "end": 1260
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 6
+  },
+  {
+    "start": 1260,
+    "end": 1440,
+    "start_time": 21.0,
+    "end_time": 24.0,
+    "raw_caption": "A woman descends stairs at a water park, carrying an inflatable tube.",
+    "attribute_caption_useful": "{'What': 'woman descending stairs with inflatable', 'Where': 'water park', 'When': 'daytime', 'Who': 'woman and man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      1260,
+      1320,
+      1380
+    ],
+    "raw_section": {
+      "start": 1260,
+      "end": 1440
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 7
+  },
+  {
+    "start": 1440,
+    "end": 1620,
+    "start_time": 24.0,
+    "end_time": 27.0,
+    "raw_caption": "A man is preparing to go down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing for water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man with blue wristband'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+    "sample_id_list": [
+      1440,
+      1500,
+      1560
+    ],
+    "raw_section": {
+      "start": 1440,
+      "end": 1620
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 8
+  },
+  {
+    "start": 1620,
+    "end": 1800,
+    "start_time": 27.0,
+    "end_time": 30.0,
+    "raw_caption": "A man is preparing to use a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing for water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+    "sample_id_list": [
+      1620,
+      1680,
+      1740
+    ],
+    "raw_section": {
+      "start": 1620,
+      "end": 1800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 9
+  },
+  {
+    "start": 1800,
+    "end": 1980,
+    "start_time": 30.0,
+    "end_time": 33.0,
+    "raw_caption": "A man is preparing to go down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing for water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man in white shirt'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      1800,
+      1860,
+      1920
+    ],
+    "raw_section": {
+      "start": 1800,
+      "end": 1980
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 10
+  },
+  {
+    "start": 1980,
+    "end": 2160,
+    "start_time": 33.0,
+    "end_time": 36.0,
+    "raw_caption": "A man is about to go down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      1980,
+      2040,
+      2100
+    ],
+    "raw_section": {
+      "start": 1980,
+      "end": 2160
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 11
+  },
+  {
+    "start": 2160,
+    "end": 2340,
+    "start_time": 36.0,
+    "end_time": 39.0,
+    "raw_caption": "A man is preparing to go down a colorful water slide with the help of an attendant at a water park.",
+    "attribute_caption_useful": "{'What': 'preparing to slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man and attendant'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      2160,
+      2220,
+      2280
+    ],
+    "raw_section": {
+      "start": 2160,
+      "end": 2340
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 12
+  },
+  {
+    "start": 2340,
+    "end": 2520,
+    "start_time": 39.0,
+    "end_time": 42.0,
+    "raw_caption": "A man is about to slide down a colorful waterslide at a water park on a sunny day.",
+    "attribute_caption_useful": "{'What': 'sliding down a waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man wearing blue water shoes'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      2340,
+      2400,
+      2460
+    ],
+    "raw_section": {
+      "start": 2340,
+      "end": 2520
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 13
+  },
+  {
+    "start": 2520,
+    "end": 2700,
+    "start_time": 42.0,
+    "end_time": 45.0,
+    "raw_caption": "A man is enjoying a thrilling ride down a colorful waterslide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'going down waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      2520,
+      2580,
+      2640
+    ],
+    "raw_section": {
+      "start": 2520,
+      "end": 2700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 14
+  },
+  {
+    "start": 2700,
+    "end": 2880,
+    "start_time": 45.0,
+    "end_time": 48.0,
+    "raw_caption": "A colorful water slide is shown at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      2700,
+      2760,
+      2820
+    ],
+    "raw_section": {
+      "start": 2700,
+      "end": 2880
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 15
+  },
+  {
+    "start": 2880,
+    "end": 3060,
+    "start_time": 48.0,
+    "end_time": 51.0,
+    "raw_caption": "An individual is riding down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'individual wearing blue shoes'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      2880,
+      2940,
+      3000
+    ],
+    "raw_section": {
+      "start": 2880,
+      "end": 3060
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 16
+  },
+  {
+    "start": 3060,
+    "end": 3240,
+    "start_time": 51.0,
+    "end_time": 54.0,
+    "raw_caption": "The video captures a ride down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      3060,
+      3120,
+      3180
+    ],
+    "raw_section": {
+      "start": 3060,
+      "end": 3240
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 17
+  },
+  {
+    "start": 3240,
+    "end": 3420,
+    "start_time": 54.0,
+    "end_time": 57.0,
+    "raw_caption": "A child is about to slide down a colorful water slide at a water park on a sunny day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'child'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      3240,
+      3300,
+      3360
+    ],
+    "raw_section": {
+      "start": 3240,
+      "end": 3420
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 18
+  },
+  {
+    "start": 3420,
+    "end": 3600,
+    "start_time": 57.0,
+    "end_time": 60.0,
+    "raw_caption": "The video shows a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.3;",
+    "sample_id_list": [
+      3420,
+      3480,
+      3540
+    ],
+    "raw_section": {
+      "start": 3420,
+      "end": 3600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 19
+  },
+  {
+    "start": 3600,
+    "end": 3780,
+    "start_time": 60.0,
+    "end_time": 63.0,
+    "raw_caption": "The scene shows a water park with colorful inflatable tubes and slides under clear daytime skies.",
+    "attribute_caption_useful": "{'What': 'water park', 'Where': 'water park', 'When': 'daytime', 'Who': 'no people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      3600,
+      3660,
+      3720
+    ],
+    "raw_section": {
+      "start": 3600,
+      "end": 3780
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 20
+  },
+  {
+    "start": 3780,
+    "end": 3960,
+    "start_time": 63.0,
+    "end_time": 66.0,
+    "raw_caption": "The video shows inflatable tubes stacked in a water park during the day.",
+    "attribute_caption_useful": "{'What': 'inflatable tubes', 'Where': 'water park', 'When': 'daytime', 'Who': 'no people visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.2;",
+    "sample_id_list": [
+      3780,
+      3840,
+      3900
+    ],
+    "raw_section": {
+      "start": 3780,
+      "end": 3960
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 21
+  },
+  {
+    "start": 5040,
+    "end": 5220,
+    "start_time": 84.0,
+    "end_time": 87.0,
+    "raw_caption": "Three men in uniform are preparing for a water slide activity at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'people preparing for water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'three men in uniform'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+    "sample_id_list": [
+      5040,
+      5100,
+      5160
+    ],
+    "raw_section": {
+      "start": 5040,
+      "end": 5220
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 28
+  },
+  {
+    "start": 5220,
+    "end": 5400,
+    "start_time": 87.0,
+    "end_time": 90.0,
+    "raw_caption": "Staff members at a water park prepare for visitors to use a large water slide.",
+    "attribute_caption_useful": "{'What': 'preparing for water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'staff in blue uniforms'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      5220,
+      5280,
+      5340
+    ],
+    "raw_section": {
+      "start": 5220,
+      "end": 5400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 29
+  },
+  {
+    "start": 5400,
+    "end": 5580,
+    "start_time": 90.0,
+    "end_time": 93.0,
+    "raw_caption": "A man prepares to slide down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing to slide down water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man with blue wristband'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      5400,
+      5460,
+      5520
+    ],
+    "raw_section": {
+      "start": 5400,
+      "end": 5580
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 30
+  },
+  {
+    "start": 5580,
+    "end": 5760,
+    "start_time": 93.0,
+    "end_time": 96.0,
+    "raw_caption": "A man enjoys sliding down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      5580,
+      5640,
+      5700
+    ],
+    "raw_section": {
+      "start": 5580,
+      "end": 5760
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 31
+  },
+  {
+    "start": 5760,
+    "end": 5940,
+    "start_time": 96.0,
+    "end_time": 99.0,
+    "raw_caption": "The video captures a descent down a water slide at a water park during the daytime.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.6;",
+    "sample_id_list": [
+      5760,
+      5820,
+      5880
+    ],
+    "raw_section": {
+      "start": 5760,
+      "end": 5940
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 32
+  },
+  {
+    "start": 6120,
+    "end": 6300,
+    "start_time": 102.0,
+    "end_time": 105.0,
+    "raw_caption": "An individual is climbing stairs with a float at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'climbing stairs with a float', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      6120,
+      6180,
+      6240
+    ],
+    "raw_section": {
+      "start": 6120,
+      "end": 6300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 34
+  },
+  {
+    "start": 6300,
+    "end": 6480,
+    "start_time": 105.0,
+    "end_time": 108.0,
+    "raw_caption": "A person is at a water park, holding a large inflatable tube and observing a city skyline.",
+    "attribute_caption_useful": "{'What': 'viewing cityscape', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      6300,
+      6360,
+      6420
+    ],
+    "raw_section": {
+      "start": 6300,
+      "end": 6480
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 35
+  },
+  {
+    "start": 6480,
+    "end": 6660,
+    "start_time": 108.0,
+    "end_time": 111.0,
+    "raw_caption": "A man is cleaning the deck area of a water park during the day.",
+    "attribute_caption_useful": "{'What': 'man cleaning', 'Where': 'water park deck', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0",
+    "sample_id_list": [
+      6480,
+      6540,
+      6600
+    ],
+    "raw_section": {
+      "start": 6480,
+      "end": 6660
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 36
+  },
+  {
+    "start": 6840,
+    "end": 7020,
+    "start_time": 114.0,
+    "end_time": 117.0,
+    "raw_caption": "A man is preparing a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing for water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      6840,
+      6900,
+      6960
+    ],
+    "raw_section": {
+      "start": 6840,
+      "end": 7020
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 38
+  },
+  {
+    "start": 7020,
+    "end": 7200,
+    "start_time": 117.0,
+    "end_time": 120.0,
+    "raw_caption": "A man is preparing to use a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing for water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man with inflatable tube'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+    "sample_id_list": [
+      7020,
+      7080,
+      7140
+    ],
+    "raw_section": {
+      "start": 7020,
+      "end": 7200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 39
+  },
+  {
+    "start": 7200,
+    "end": 7380,
+    "start_time": 120.0,
+    "end_time": 123.0,
+    "raw_caption": "A man is preparing to ride a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing to ride a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+    "sample_id_list": [
+      7200,
+      7260,
+      7320
+    ],
+    "raw_section": {
+      "start": 7200,
+      "end": 7380
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 40
+  },
+  {
+    "start": 7380,
+    "end": 7560,
+    "start_time": 123.0,
+    "end_time": 126.0,
+    "raw_caption": "A man is preparing to use a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing for water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      7380,
+      7440,
+      7500
+    ],
+    "raw_section": {
+      "start": 7380,
+      "end": 7560
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 41
+  },
+  {
+    "start": 7560,
+    "end": 7740,
+    "start_time": 126.0,
+    "end_time": 129.0,
+    "raw_caption": "A man is about to go down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide ride', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      7560,
+      7620,
+      7680
+    ],
+    "raw_section": {
+      "start": 7560,
+      "end": 7740
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 42
+  },
+  {
+    "start": 7740,
+    "end": 7920,
+    "start_time": 129.0,
+    "end_time": 132.0,
+    "raw_caption": "A man is riding down a green waterslide at a water park during the day, with a cityscape visible in the background.",
+    "attribute_caption_useful": "{'What': 'riding a waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      7740,
+      7800,
+      7860
+    ],
+    "raw_section": {
+      "start": 7740,
+      "end": 7920
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 43
+  },
+  {
+    "start": 7920,
+    "end": 8100,
+    "start_time": 132.0,
+    "end_time": 135.0,
+    "raw_caption": "A man rides a waterslide at a water park during the day, enjoying the thrilling experience.",
+    "attribute_caption_useful": "{'What': 'riding a waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      7920,
+      7980,
+      8040
+    ],
+    "raw_section": {
+      "start": 7920,
+      "end": 8100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 44
+  },
+  {
+    "start": 8100,
+    "end": 8280,
+    "start_time": 135.0,
+    "end_time": 138.0,
+    "raw_caption": "A man is enjoying a ride on a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man wearing blue shoes'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8100,
+      8160,
+      8220
+    ],
+    "raw_section": {
+      "start": 8100,
+      "end": 8280
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 45
+  },
+  {
+    "start": 8280,
+    "end": 8460,
+    "start_time": 138.0,
+    "end_time": 141.0,
+    "raw_caption": "A man is enjoying a thrilling ride on a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8280,
+      8340,
+      8400
+    ],
+    "raw_section": {
+      "start": 8280,
+      "end": 8460
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 46
+  },
+  {
+    "start": 8460,
+    "end": 8640,
+    "start_time": 141.0,
+    "end_time": 144.0,
+    "raw_caption": "A man is enjoying a ride down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      8460,
+      8520,
+      8580
+    ],
+    "raw_section": {
+      "start": 8460,
+      "end": 8640
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 47
+  },
+  {
+    "start": 8640,
+    "end": 8820,
+    "start_time": 144.0,
+    "end_time": 147.0,
+    "raw_caption": "A person is enjoying a ride down a water slide at a water park on a sunny day.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8640,
+      8700,
+      8760
+    ],
+    "raw_section": {
+      "start": 8640,
+      "end": 8820
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 48
+  },
+  {
+    "start": 8820,
+    "end": 9000,
+    "start_time": 147.0,
+    "end_time": 150.0,
+    "raw_caption": "A man is enjoying a thrilling ride down a colorful waterslide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding a waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      8820,
+      8880,
+      8940
+    ],
+    "raw_section": {
+      "start": 8820,
+      "end": 9000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 49
+  },
+  {
+    "start": 9000,
+    "end": 9180,
+    "start_time": 150.0,
+    "end_time": 153.0,
+    "raw_caption": "An individual slides down a colorful water slide in a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'individual wearing blue shoes'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      9000,
+      9060,
+      9120
+    ],
+    "raw_section": {
+      "start": 9000,
+      "end": 9180
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 50
+  },
+  {
+    "start": 9180,
+    "end": 9360,
+    "start_time": 153.0,
+    "end_time": 156.0,
+    "raw_caption": "A person is sliding down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding down water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      9180,
+      9240,
+      9300
+    ],
+    "raw_section": {
+      "start": 9180,
+      "end": 9360
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 51
+  },
+  {
+    "start": 9360,
+    "end": 9540,
+    "start_time": 156.0,
+    "end_time": 159.0,
+    "raw_caption": "An individual is enjoying a thrilling ride down a water slide at a water park on a sunny day.",
+    "attribute_caption_useful": "{'What': 'water slide ride', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown individual wearing blue shoes'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      9360,
+      9420,
+      9480
+    ],
+    "raw_section": {
+      "start": 9360,
+      "end": 9540
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 52
+  },
+  {
+    "start": 9540,
+    "end": 9720,
+    "start_time": 159.0,
+    "end_time": 162.0,
+    "raw_caption": "The video shows a vibrant water park with people enjoying swimming and using water slides under the sun.",
+    "attribute_caption_useful": "{'What': 'swimming and water slides', 'Where': 'water park', 'When': 'daytime', 'Who': 'children and adults'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      9540,
+      9600,
+      9660
+    ],
+    "raw_section": {
+      "start": 9540,
+      "end": 9720
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 53
+  },
+  {
+    "start": 9720,
+    "end": 9900,
+    "start_time": 162.0,
+    "end_time": 165.0,
+    "raw_caption": "The video showcases colorful water slides at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slides', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      9720,
+      9780,
+      9840
+    ],
+    "raw_section": {
+      "start": 9720,
+      "end": 9900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 54
+  },
+  {
+    "start": 9900,
+    "end": 10080,
+    "start_time": 165.0,
+    "end_time": 168.0,
+    "raw_caption": "An individual is floating on a tube in a water park pool during the day.",
+    "attribute_caption_useful": "{'What': 'floating in pool', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      9900,
+      9960,
+      10020
+    ],
+    "raw_section": {
+      "start": 9900,
+      "end": 10080
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 55
+  },
+  {
+    "start": 10080,
+    "end": 10260,
+    "start_time": 168.0,
+    "end_time": 171.0,
+    "raw_caption": "The video shows an empty water park with colorful slides on a sunny day.",
+    "attribute_caption_useful": "{'What': 'empty water park', 'Where': 'water park', 'When': 'daytime', 'Who': 'no people visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.2;",
+    "sample_id_list": [
+      10080,
+      10140,
+      10200
+    ],
+    "raw_section": {
+      "start": 10080,
+      "end": 10260
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 56
+  },
+  {
+    "start": 10260,
+    "end": 10440,
+    "start_time": 171.0,
+    "end_time": 174.0,
+    "raw_caption": "The video shows a colorful water park with slides and a pool during the day.",
+    "attribute_caption_useful": "{'What': 'water slides and pool', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      10260,
+      10320,
+      10380
+    ],
+    "raw_section": {
+      "start": 10260,
+      "end": 10440
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 57
+  },
+  {
+    "start": 10440,
+    "end": 10620,
+    "start_time": 174.0,
+    "end_time": 177.0,
+    "raw_caption": "The video shows a sunny day at a water park with a pool and a colorful umbrella.",
+    "attribute_caption_useful": "{'What': 'poolside scene', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      10440,
+      10500,
+      10560
+    ],
+    "raw_section": {
+      "start": 10440,
+      "end": 10620
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 58
+  },
+  {
+    "start": 10800,
+    "end": 10980,
+    "start_time": 180.0,
+    "end_time": 183.0,
+    "raw_caption": "A view of a water park with slides and a castle-like structure under a sunny sky.",
+    "attribute_caption_useful": "{'What': 'still scene', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0",
+    "sample_id_list": [
+      10800,
+      10860,
+      10920
+    ],
+    "raw_section": {
+      "start": 10800,
+      "end": 10980
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 60
+  },
+  {
+    "start": 10980,
+    "end": 11160,
+    "start_time": 183.0,
+    "end_time": 186.0,
+    "raw_caption": "The video showcases a water park with colorful slides on a clear day, but no people are present.",
+    "attribute_caption_useful": "{'What': 'water slides', 'Where': 'water park', 'When': 'daytime', 'Who': 'no people visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0",
+    "sample_id_list": [
+      10980,
+      11040,
+      11100
+    ],
+    "raw_section": {
+      "start": 10980,
+      "end": 11160
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 61
+  },
+  {
+    "start": 11160,
+    "end": 11340,
+    "start_time": 186.0,
+    "end_time": 189.0,
+    "raw_caption": "A man explores a water park with colorful slides during the day.",
+    "attribute_caption_useful": "{'What': 'exploring water park', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+    "sample_id_list": [
+      11160,
+      11220,
+      11280
+    ],
+    "raw_section": {
+      "start": 11160,
+      "end": 11340
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 62
+  },
+  {
+    "start": 11340,
+    "end": 11520,
+    "start_time": 189.0,
+    "end_time": 192.0,
+    "raw_caption": "A man prepares to enter a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing to enter water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+    "sample_id_list": [
+      11340,
+      11400,
+      11460
+    ],
+    "raw_section": {
+      "start": 11340,
+      "end": 11520
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 63
+  },
+  {
+    "start": 11520,
+    "end": 11700,
+    "start_time": 192.0,
+    "end_time": 195.0,
+    "raw_caption": "A man is preparing to enter a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing to enter water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man with sunglasses'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      11520,
+      11580,
+      11640
+    ],
+    "raw_section": {
+      "start": 11520,
+      "end": 11700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 64
+  },
+  {
+    "start": 11700,
+    "end": 11880,
+    "start_time": 195.0,
+    "end_time": 198.0,
+    "raw_caption": "A man prepares to enter a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing to enter water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man in blue shorts and white shirt'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      11700,
+      11760,
+      11820
+    ],
+    "raw_section": {
+      "start": 11700,
+      "end": 11880
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 65
+  },
+  {
+    "start": 11880,
+    "end": 12060,
+    "start_time": 198.0,
+    "end_time": 201.0,
+    "raw_caption": "A man is sliding down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      11880,
+      11940,
+      12000
+    ],
+    "raw_section": {
+      "start": 11880,
+      "end": 12060
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 66
+  },
+  {
+    "start": 12060,
+    "end": 12240,
+    "start_time": 201.0,
+    "end_time": 204.0,
+    "raw_caption": "A man is sliding down a brightly colored water slide at a water park during the daytime.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      12060,
+      12120,
+      12180
+    ],
+    "raw_section": {
+      "start": 12060,
+      "end": 12240
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 67
+  },
+  {
+    "start": 12240,
+    "end": 12420,
+    "start_time": 204.0,
+    "end_time": 207.0,
+    "raw_caption": "The video captures the experience of sliding down a brightly lit, colorful water slide.",
+    "attribute_caption_useful": "{'What': 'sliding down a colorful water slide', 'Where': 'water park', 'When': 'unknown', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      12240,
+      12300,
+      12360
+    ],
+    "raw_section": {
+      "start": 12240,
+      "end": 12420
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 68
+  },
+  {
+    "start": 12420,
+    "end": 12600,
+    "start_time": 207.0,
+    "end_time": 210.0,
+    "raw_caption": "A person is sliding down a brightly lit water slide, experiencing a thrilling ride.",
+    "attribute_caption_useful": "{'What': 'sliding in a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown person wearing blue shoes'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      12420,
+      12480,
+      12540
+    ],
+    "raw_section": {
+      "start": 12420,
+      "end": 12600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 69
+  },
+  {
+    "start": 12600,
+    "end": 12780,
+    "start_time": 210.0,
+    "end_time": 213.0,
+    "raw_caption": "The video captures the perspective of someone sliding down a brightly colored water slide at a water park.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown, likely an adult'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      12600,
+      12660,
+      12720
+    ],
+    "raw_section": {
+      "start": 12600,
+      "end": 12780
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 70
+  },
+  {
+    "start": 12780,
+    "end": 12960,
+    "start_time": 213.0,
+    "end_time": 216.0,
+    "raw_caption": "A man rides down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      12780,
+      12840,
+      12900
+    ],
+    "raw_section": {
+      "start": 12780,
+      "end": 12960
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 71
+  },
+  {
+    "start": 12960,
+    "end": 13140,
+    "start_time": 216.0,
+    "end_time": 219.0,
+    "raw_caption": "An individual is floating on a tube in a water park pool under a sunny sky.",
+    "attribute_caption_useful": "{'What': 'floating in pool', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      12960,
+      13020,
+      13080
+    ],
+    "raw_section": {
+      "start": 12960,
+      "end": 13140
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 72
+  },
+  {
+    "start": 13140,
+    "end": 13320,
+    "start_time": 219.0,
+    "end_time": 222.0,
+    "raw_caption": "An individual is floating in a pool at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'floating in pool', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      13140,
+      13200,
+      13260
+    ],
+    "raw_section": {
+      "start": 13140,
+      "end": 13320
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 73
+  },
+  {
+    "start": 13320,
+    "end": 13500,
+    "start_time": 222.0,
+    "end_time": 225.0,
+    "raw_caption": "The scene shows a water park with a lifeguard overseeing visitors relaxing by the pool.",
+    "attribute_caption_useful": "{'What': 'relaxing by the pool', 'Where': 'water park', 'When': 'daytime', 'Who': 'lifeguard and visitors'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      13320,
+      13380,
+      13440
+    ],
+    "raw_section": {
+      "start": 13320,
+      "end": 13500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 74
+  },
+  {
+    "start": 13500,
+    "end": 13680,
+    "start_time": 225.0,
+    "end_time": 228.0,
+    "raw_caption": "A water park scene showcasing colorful slides on a sunny day.",
+    "attribute_caption_useful": "{'What': 'water slides', 'Where': 'water park', 'When': 'daytime', 'Who': 'no people visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      13500,
+      13560,
+      13620
+    ],
+    "raw_section": {
+      "start": 13500,
+      "end": 13680
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 75
+  },
+  {
+    "start": 13680,
+    "end": 13860,
+    "start_time": 228.0,
+    "end_time": 231.0,
+    "raw_caption": "The video captures a scene at a water park with a lifeguard overseeing the area during the day.",
+    "attribute_caption_useful": "{'What': 'people at a water park', 'Where': 'water park', 'When': 'daytime', 'Who': 'lifeguard and visitors'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      13680,
+      13740,
+      13800
+    ],
+    "raw_section": {
+      "start": 13680,
+      "end": 13860
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 76
+  },
+  {
+    "start": 13860,
+    "end": 14040,
+    "start_time": 231.0,
+    "end_time": 234.0,
+    "raw_caption": "A man relaxes by a pool in a water park, equipped with pool gear on a sunny day.",
+    "attribute_caption_useful": "{'What': 'relaxing by pool', 'Where': 'water park', 'When': 'daytime', 'Who': 'man with pool equipment'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      13860,
+      13920,
+      13980
+    ],
+    "raw_section": {
+      "start": 13860,
+      "end": 14040
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 77
+  },
+  {
+    "start": 14040,
+    "end": 14220,
+    "start_time": 234.0,
+    "end_time": 237.0,
+    "raw_caption": "A man is preparing to go down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing for water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man with float'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      14040,
+      14100,
+      14160
+    ],
+    "raw_section": {
+      "start": 14040,
+      "end": 14220
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 78
+  },
+  {
+    "start": 14220,
+    "end": 14400,
+    "start_time": 237.0,
+    "end_time": 240.0,
+    "raw_caption": "A man is preparing to go down a water slide with an inflatable tube at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing for water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man with inflatable tube'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.6;",
+    "sample_id_list": [
+      14220,
+      14280,
+      14340
+    ],
+    "raw_section": {
+      "start": 14220,
+      "end": 14400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 79
+  },
+  {
+    "start": 14400,
+    "end": 14580,
+    "start_time": 240.0,
+    "end_time": 243.0,
+    "raw_caption": "A man is preparing to enter a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing to enter water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      14400,
+      14460,
+      14520
+    ],
+    "raw_section": {
+      "start": 14400,
+      "end": 14580
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 80
+  },
+  {
+    "start": 14580,
+    "end": 14760,
+    "start_time": 243.0,
+    "end_time": 246.0,
+    "raw_caption": "A man prepares to enter a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing to enter water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      14580,
+      14640,
+      14700
+    ],
+    "raw_section": {
+      "start": 14580,
+      "end": 14760
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 81
+  },
+  {
+    "start": 14760,
+    "end": 14940,
+    "start_time": 246.0,
+    "end_time": 249.0,
+    "raw_caption": "A man in blue prepares to go down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing to slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man in blue outfit'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      14760,
+      14820,
+      14880
+    ],
+    "raw_section": {
+      "start": 14760,
+      "end": 14940
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 82
+  },
+  {
+    "start": 14940,
+    "end": 15120,
+    "start_time": 249.0,
+    "end_time": 252.0,
+    "raw_caption": "An individual is about to slide down a large green waterslide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'going down a waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+    "sample_id_list": [
+      14940,
+      15000,
+      15060
+    ],
+    "raw_section": {
+      "start": 14940,
+      "end": 15120
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 83
+  },
+  {
+    "start": 15120,
+    "end": 15300,
+    "start_time": 252.0,
+    "end_time": 255.0,
+    "raw_caption": "An individual slides down a colorful, illuminated water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide ride', 'Where': 'water park', 'When': 'daytime', 'Who': 'individual with blue shoes'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      15120,
+      15180,
+      15240
+    ],
+    "raw_section": {
+      "start": 15120,
+      "end": 15300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 84
+  },
+  {
+    "start": 15300,
+    "end": 15480,
+    "start_time": 255.0,
+    "end_time": 258.0,
+    "raw_caption": "A thrilling ride down a colorful, illuminated water slide.",
+    "attribute_caption_useful": "{'What': 'sliding', 'Where': 'water slide', 'When': 'unknown', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      15300,
+      15360,
+      15420
+    ],
+    "raw_section": {
+      "start": 15300,
+      "end": 15480
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 85
+  },
+  {
+    "start": 15480,
+    "end": 15660,
+    "start_time": 258.0,
+    "end_time": 261.0,
+    "raw_caption": "The video captures a thrilling ride down a brightly lit waterslide at an indoor water park.",
+    "attribute_caption_useful": "{'What': 'riding a waterslide', 'Where': 'indoor water park', 'When': 'unknown', 'Who': 'unknown person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      15480,
+      15540,
+      15600
+    ],
+    "raw_section": {
+      "start": 15480,
+      "end": 15660
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 86
+  },
+  {
+    "start": 15660,
+    "end": 15840,
+    "start_time": 261.0,
+    "end_time": 264.0,
+    "raw_caption": "A person is enjoying a colorful waterslide ride at a water park on a sunny day.",
+    "attribute_caption_useful": "{'What': 'riding waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      15660,
+      15720,
+      15780
+    ],
+    "raw_section": {
+      "start": 15660,
+      "end": 15840
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 87
+  },
+  {
+    "start": 15840,
+    "end": 16020,
+    "start_time": 264.0,
+    "end_time": 267.0,
+    "raw_caption": "An individual slides down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding down water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      15840,
+      15900,
+      15960
+    ],
+    "raw_section": {
+      "start": 15840,
+      "end": 16020
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 88
+  },
+  {
+    "start": 16020,
+    "end": 16200,
+    "start_time": 267.0,
+    "end_time": 270.0,
+    "raw_caption": "A man is enjoying a ride down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      16020,
+      16080,
+      16140
+    ],
+    "raw_section": {
+      "start": 16020,
+      "end": 16200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 89
+  },
+  {
+    "start": 16200,
+    "end": 16380,
+    "start_time": 270.0,
+    "end_time": 273.0,
+    "raw_caption": "A man is enjoying a ride down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      16200,
+      16260,
+      16320
+    ],
+    "raw_section": {
+      "start": 16200,
+      "end": 16380
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 90
+  },
+  {
+    "start": 16380,
+    "end": 16560,
+    "start_time": 273.0,
+    "end_time": 276.0,
+    "raw_caption": "The video captures a ride down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide ride', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.5; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      16380,
+      16440,
+      16500
+    ],
+    "raw_section": {
+      "start": 16380,
+      "end": 16560
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 91
+  },
+  {
+    "start": 16560,
+    "end": 16740,
+    "start_time": 276.0,
+    "end_time": 279.0,
+    "raw_caption": "The video shows a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      16560,
+      16620,
+      16680
+    ],
+    "raw_section": {
+      "start": 16560,
+      "end": 16740
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 92
+  },
+  {
+    "start": 16740,
+    "end": 16920,
+    "start_time": 279.0,
+    "end_time": 282.0,
+    "raw_caption": "The video shows an empty water slide at a water park during the daytime.",
+    "attribute_caption_useful": "{'What': 'empty water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'none'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      16740,
+      16800,
+      16860
+    ],
+    "raw_section": {
+      "start": 16740,
+      "end": 16920
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 93
+  },
+  {
+    "start": 16920,
+    "end": 17100,
+    "start_time": 282.0,
+    "end_time": 285.0,
+    "raw_caption": "The video shows a colorful water park with various slides and inflatable tubes on a sunny day.",
+    "attribute_caption_useful": "{'What': 'water slides', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      16920,
+      16980,
+      17040
+    ],
+    "raw_section": {
+      "start": 16920,
+      "end": 17100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 94
+  },
+  {
+    "start": 17100,
+    "end": 17280,
+    "start_time": 285.0,
+    "end_time": 288.0,
+    "raw_caption": "A man prepares to go down a waterslide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing for waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man with an inflatable tube'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      17100,
+      17160,
+      17220
+    ],
+    "raw_section": {
+      "start": 17100,
+      "end": 17280
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 95
+  },
+  {
+    "start": 17280,
+    "end": 17460,
+    "start_time": 288.0,
+    "end_time": 291.0,
+    "raw_caption": "A man prepares to go down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing to slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man with a tube'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      17280,
+      17340,
+      17400
+    ],
+    "raw_section": {
+      "start": 17280,
+      "end": 17460
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 96
+  },
+  {
+    "start": 17460,
+    "end": 17640,
+    "start_time": 291.0,
+    "end_time": 294.0,
+    "raw_caption": "A man is preparing a tube for a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing for water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man with hat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      17460,
+      17520,
+      17580
+    ],
+    "raw_section": {
+      "start": 17460,
+      "end": 17640
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 97
+  },
+  {
+    "start": 17640,
+    "end": 17820,
+    "start_time": 294.0,
+    "end_time": 297.0,
+    "raw_caption": "The video shows a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      17640,
+      17700,
+      17760
+    ],
+    "raw_section": {
+      "start": 17640,
+      "end": 17820
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 98
+  },
+  {
+    "start": 17820,
+    "end": 18000,
+    "start_time": 297.0,
+    "end_time": 300.0,
+    "raw_caption": "A man is sliding down a colorful waterslide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'going down waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      17820,
+      17880,
+      17940
+    ],
+    "raw_section": {
+      "start": 17820,
+      "end": 18000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 99
+  },
+  {
+    "start": 18000,
+    "end": 18180,
+    "start_time": 300.0,
+    "end_time": 303.0,
+    "raw_caption": "A man is enjoying a ride down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding down water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      18000,
+      18060,
+      18120
+    ],
+    "raw_section": {
+      "start": 18000,
+      "end": 18180
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 100
+  },
+  {
+    "start": 18180,
+    "end": 18360,
+    "start_time": 303.0,
+    "end_time": 306.0,
+    "raw_caption": "A man is enjoying a ride down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      18180,
+      18240,
+      18300
+    ],
+    "raw_section": {
+      "start": 18180,
+      "end": 18360
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 101
+  },
+  {
+    "start": 18360,
+    "end": 18540,
+    "start_time": 306.0,
+    "end_time": 309.0,
+    "raw_caption": "A man is sliding down a colorful water slide at a water park during the day, with a city skyline visible in the background.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      18360,
+      18420,
+      18480
+    ],
+    "raw_section": {
+      "start": 18360,
+      "end": 18540
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 102
+  },
+  {
+    "start": 18540,
+    "end": 18720,
+    "start_time": 309.0,
+    "end_time": 312.0,
+    "raw_caption": "A man is enjoying a thrilling ride down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      18540,
+      18600,
+      18660
+    ],
+    "raw_section": {
+      "start": 18540,
+      "end": 18720
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 103
+  },
+  {
+    "start": 18720,
+    "end": 18900,
+    "start_time": 312.0,
+    "end_time": 315.0,
+    "raw_caption": "A man is enjoying a thrilling ride down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      18720,
+      18780,
+      18840
+    ],
+    "raw_section": {
+      "start": 18720,
+      "end": 18900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 104
+  },
+  {
+    "start": 18900,
+    "end": 19080,
+    "start_time": 315.0,
+    "end_time": 318.0,
+    "raw_caption": "A person is enjoying a ride down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      18900,
+      18960,
+      19020
+    ],
+    "raw_section": {
+      "start": 18900,
+      "end": 19080
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 105
+  },
+  {
+    "start": 19080,
+    "end": 19260,
+    "start_time": 318.0,
+    "end_time": 321.0,
+    "raw_caption": "A man is enjoying a thrilling ride down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      19080,
+      19140,
+      19200
+    ],
+    "raw_section": {
+      "start": 19080,
+      "end": 19260
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 106
+  },
+  {
+    "start": 19260,
+    "end": 19440,
+    "start_time": 321.0,
+    "end_time": 324.0,
+    "raw_caption": "An individual is riding down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      19260,
+      19320,
+      19380
+    ],
+    "raw_section": {
+      "start": 19260,
+      "end": 19440
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 107
+  },
+  {
+    "start": 19440,
+    "end": 19620,
+    "start_time": 324.0,
+    "end_time": 327.0,
+    "raw_caption": "An individual is enjoying a ride down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'individual wearing blue shorts and shoes'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      19440,
+      19500,
+      19560
+    ],
+    "raw_section": {
+      "start": 19440,
+      "end": 19620
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 108
+  },
+  {
+    "start": 19620,
+    "end": 19800,
+    "start_time": 327.0,
+    "end_time": 330.0,
+    "raw_caption": "A man is enjoying a ride down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      19620,
+      19680,
+      19740
+    ],
+    "raw_section": {
+      "start": 19620,
+      "end": 19800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 109
+  },
+  {
+    "start": 19800,
+    "end": 19980,
+    "start_time": 330.0,
+    "end_time": 333.0,
+    "raw_caption": "A man enjoys a thrilling ride down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.4; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      19800,
+      19860,
+      19920
+    ],
+    "raw_section": {
+      "start": 19800,
+      "end": 19980
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 110
+  },
+  {
+    "start": 19980,
+    "end": 20160,
+    "start_time": 333.0,
+    "end_time": 336.0,
+    "raw_caption": "The video shows a first-person perspective of sliding down a bright yellow water slide at a water park on a sunny day.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown, first-person view'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      19980,
+      20040,
+      20100
+    ],
+    "raw_section": {
+      "start": 19980,
+      "end": 20160
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 111
+  },
+  {
+    "start": 20160,
+    "end": 20340,
+    "start_time": 336.0,
+    "end_time": 339.0,
+    "raw_caption": "The video shows a vibrant water park with colorful water slides on a sunny day.",
+    "attribute_caption_useful": "{'What': 'water slides', 'Where': 'water park', 'When': 'daytime', 'Who': 'no people visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      20160,
+      20220,
+      20280
+    ],
+    "raw_section": {
+      "start": 20160,
+      "end": 20340
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 112
+  },
+  {
+    "start": 20340,
+    "end": 20520,
+    "start_time": 339.0,
+    "end_time": 342.0,
+    "raw_caption": "The video shows a person walking up stairs in a water park during the daytime.",
+    "attribute_caption_useful": "{'What': 'walking up stairs', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.2;",
+    "sample_id_list": [
+      20340,
+      20400,
+      20460
+    ],
+    "raw_section": {
+      "start": 20340,
+      "end": 20520
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 113
+  },
+  {
+    "start": 20700,
+    "end": 20880,
+    "start_time": 345.0,
+    "end_time": 348.0,
+    "raw_caption": "A man in a blue uniform stands near colorful structures with a view of a waterfront cityscape.",
+    "attribute_caption_useful": "{'What': 'observation', 'Where': 'waterfront cityscape', 'When': 'daytime', 'Who': 'man in blue uniform'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      20700,
+      20760,
+      20820
+    ],
+    "raw_section": {
+      "start": 20700,
+      "end": 20880
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 115
+  },
+  {
+    "start": 20880,
+    "end": 21060,
+    "start_time": 348.0,
+    "end_time": 351.0,
+    "raw_caption": "A man waves near a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'standing and waving', 'Where': 'water park', 'When': 'daytime', 'Who': 'man with hat and mask'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.2;",
+    "sample_id_list": [
+      20880,
+      20940,
+      21000
+    ],
+    "raw_section": {
+      "start": 20880,
+      "end": 21060
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 116
+  },
+  {
+    "start": 21060,
+    "end": 21240,
+    "start_time": 351.0,
+    "end_time": 354.0,
+    "raw_caption": "The video shows a view of a water slide at a water park during the daytime.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      21060,
+      21120,
+      21180
+    ],
+    "raw_section": {
+      "start": 21060,
+      "end": 21240
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 117
+  },
+  {
+    "start": 21240,
+    "end": 21420,
+    "start_time": 354.0,
+    "end_time": 357.0,
+    "raw_caption": "A man prepares to go down a large water slide in a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water park slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      21240,
+      21300,
+      21360
+    ],
+    "raw_section": {
+      "start": 21240,
+      "end": 21420
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 118
+  },
+  {
+    "start": 21420,
+    "end": 21600,
+    "start_time": 357.0,
+    "end_time": 360.0,
+    "raw_caption": "A man is going down a waterslide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'going down a waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      21420,
+      21480,
+      21540
+    ],
+    "raw_section": {
+      "start": 21420,
+      "end": 21600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 119
+  },
+  {
+    "start": 21600,
+    "end": 21780,
+    "start_time": 360.0,
+    "end_time": 363.0,
+    "raw_caption": "A man is sliding down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding in a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      21600,
+      21660,
+      21720
+    ],
+    "raw_section": {
+      "start": 21600,
+      "end": 21780
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 120
+  },
+  {
+    "start": 21960,
+    "end": 22140,
+    "start_time": 366.0,
+    "end_time": 369.0,
+    "raw_caption": "A man is enjoying a thrilling ride down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding down water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      21960,
+      22020,
+      22080
+    ],
+    "raw_section": {
+      "start": 21960,
+      "end": 22140
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 122
+  },
+  {
+    "start": 22140,
+    "end": 22320,
+    "start_time": 369.0,
+    "end_time": 372.0,
+    "raw_caption": "A man is enjoying a ride down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      22140,
+      22200,
+      22260
+    ],
+    "raw_section": {
+      "start": 22140,
+      "end": 22320
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 123
+  },
+  {
+    "start": 22320,
+    "end": 22500,
+    "start_time": 372.0,
+    "end_time": 375.0,
+    "raw_caption": "A park staff member prepares a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide preparation', 'Where': 'water park', 'When': 'daytime', 'Who': 'park staff'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      22320,
+      22380,
+      22440
+    ],
+    "raw_section": {
+      "start": 22320,
+      "end": 22500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 124
+  },
+  {
+    "start": 22500,
+    "end": 22680,
+    "start_time": 375.0,
+    "end_time": 378.0,
+    "raw_caption": "The video shows a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'view of water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.2;",
+    "sample_id_list": [
+      22500,
+      22560,
+      22620
+    ],
+    "raw_section": {
+      "start": 22500,
+      "end": 22680
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 125
+  },
+  {
+    "start": 22860,
+    "end": 23040,
+    "start_time": 381.0,
+    "end_time": 384.0,
+    "raw_caption": "The video shows an empty water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'empty water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'none'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      22860,
+      22920,
+      22980
+    ],
+    "raw_section": {
+      "start": 22860,
+      "end": 23040
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 127
+  },
+  {
+    "start": 23400,
+    "end": 23580,
+    "start_time": 390.0,
+    "end_time": 393.0,
+    "raw_caption": "A man at a water park is standing near two slides, overlooking the city skyline.",
+    "attribute_caption_useful": "{'What': 'viewing slides', 'Where': 'water park', 'When': 'daytime', 'Who': 'man with hat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.2;",
+    "sample_id_list": [
+      23400,
+      23460,
+      23520
+    ],
+    "raw_section": {
+      "start": 23400,
+      "end": 23580
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 130
+  },
+  {
+    "start": 23580,
+    "end": 23760,
+    "start_time": 393.0,
+    "end_time": 396.0,
+    "raw_caption": "The video clip shows a view from the top of a water slide at a water park overlooking a cityscape.",
+    "attribute_caption_useful": "{'What': 'view of water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.2;",
+    "sample_id_list": [
+      23580,
+      23640,
+      23700
+    ],
+    "raw_section": {
+      "start": 23580,
+      "end": 23760
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 131
+  },
+  {
+    "start": 23760,
+    "end": 23940,
+    "start_time": 396.0,
+    "end_time": 399.0,
+    "raw_caption": "The video shows a thrilling descent down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide descent', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      23760,
+      23820,
+      23880
+    ],
+    "raw_section": {
+      "start": 23760,
+      "end": 23940
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 132
+  },
+  {
+    "start": 23940,
+    "end": 24120,
+    "start_time": 399.0,
+    "end_time": 402.0,
+    "raw_caption": "A man is about to slide down a colorful waterslide at a water park.",
+    "attribute_caption_useful": "{'What': 'going down a waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      23940,
+      24000,
+      24060
+    ],
+    "raw_section": {
+      "start": 23940,
+      "end": 24120
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 133
+  },
+  {
+    "start": 24120,
+    "end": 24300,
+    "start_time": 402.0,
+    "end_time": 405.0,
+    "raw_caption": "An individual slides down a water slide at a water park during the day, capturing the thrilling descent.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'individual, likely an adult'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      24120,
+      24180,
+      24240
+    ],
+    "raw_section": {
+      "start": 24120,
+      "end": 24300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 134
+  },
+  {
+    "start": 24300,
+    "end": 24480,
+    "start_time": 405.0,
+    "end_time": 408.0,
+    "raw_caption": "A person is experiencing a thrilling ride down a water slide at a water park.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.8; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      24300,
+      24360,
+      24420
+    ],
+    "raw_section": {
+      "start": 24300,
+      "end": 24480
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 135
+  },
+  {
+    "start": 24480,
+    "end": 24660,
+    "start_time": 408.0,
+    "end_time": 411.0,
+    "raw_caption": "A man is enjoying a ride down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      24480,
+      24540,
+      24600
+    ],
+    "raw_section": {
+      "start": 24480,
+      "end": 24660
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 136
+  },
+  {
+    "start": 24660,
+    "end": 24840,
+    "start_time": 411.0,
+    "end_time": 414.0,
+    "raw_caption": "A man is enjoying a ride down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      24660,
+      24720,
+      24780
+    ],
+    "raw_section": {
+      "start": 24660,
+      "end": 24840
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 137
+  },
+  {
+    "start": 24840,
+    "end": 25020,
+    "start_time": 414.0,
+    "end_time": 417.0,
+    "raw_caption": "The scene shows a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      24840,
+      24900,
+      24960
+    ],
+    "raw_section": {
+      "start": 24840,
+      "end": 25020
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 138
+  },
+  {
+    "start": 25020,
+    "end": 25200,
+    "start_time": 417.0,
+    "end_time": 420.0,
+    "raw_caption": "The video shows an empty water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'empty water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'no people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.2;",
+    "sample_id_list": [
+      25020,
+      25080,
+      25140
+    ],
+    "raw_section": {
+      "start": 25020,
+      "end": 25200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 139
+  },
+  {
+    "start": 25740,
+    "end": 25920,
+    "start_time": 429.0,
+    "end_time": 432.0,
+    "raw_caption": "A woman is preparing to go down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing for water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.2;",
+    "sample_id_list": [
+      25740,
+      25800,
+      25860
+    ],
+    "raw_section": {
+      "start": 25740,
+      "end": 25920
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 143
+  },
+  {
+    "start": 25920,
+    "end": 26100,
+    "start_time": 432.0,
+    "end_time": 435.0,
+    "raw_caption": "A woman stands near a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'standing near water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      25920,
+      25980,
+      26040
+    ],
+    "raw_section": {
+      "start": 25920,
+      "end": 26100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 144
+  },
+  {
+    "start": 26100,
+    "end": 26280,
+    "start_time": 435.0,
+    "end_time": 438.0,
+    "raw_caption": "A man is preparing to go down a water slide at a water park with a city view in the background.",
+    "attribute_caption_useful": "{'What': 'preparing to slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      26100,
+      26160,
+      26220
+    ],
+    "raw_section": {
+      "start": 26100,
+      "end": 26280
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 145
+  },
+  {
+    "start": 26280,
+    "end": 26460,
+    "start_time": 438.0,
+    "end_time": 441.0,
+    "raw_caption": "A man slides down a colorful waterslide at a water park, experiencing a thrilling ride.",
+    "attribute_caption_useful": "{'What': 'sliding down a waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      26280,
+      26340,
+      26400
+    ],
+    "raw_section": {
+      "start": 26280,
+      "end": 26460
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 146
+  },
+  {
+    "start": 26640,
+    "end": 26820,
+    "start_time": 444.0,
+    "end_time": 447.0,
+    "raw_caption": "A person slides down a colorful indoor water slide.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'indoor water park', 'When': 'unknown', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      26640,
+      26700,
+      26760
+    ],
+    "raw_section": {
+      "start": 26640,
+      "end": 26820
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 148
+  },
+  {
+    "start": 26820,
+    "end": 27000,
+    "start_time": 447.0,
+    "end_time": 450.0,
+    "raw_caption": "The video depicts someone sliding down a dark, enclosed water slide at a water park.",
+    "attribute_caption_useful": "{'What': 'sliding down water slide', 'Where': 'water park', 'When': 'unknown', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.3; [Exposure]: 0.5; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.7;",
+    "sample_id_list": [
+      26820,
+      26880,
+      26940
+    ],
+    "raw_section": {
+      "start": 26820,
+      "end": 27000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 149
+  },
+  {
+    "start": 27000,
+    "end": 27180,
+    "start_time": 450.0,
+    "end_time": 453.0,
+    "raw_caption": "An individual enjoys a thrilling ride down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0.8; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      27000,
+      27060,
+      27120
+    ],
+    "raw_section": {
+      "start": 27000,
+      "end": 27180
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 150
+  },
+  {
+    "start": 27180,
+    "end": 27360,
+    "start_time": 453.0,
+    "end_time": 456.0,
+    "raw_caption": "A man enjoys riding down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      27180,
+      27240,
+      27300
+    ],
+    "raw_section": {
+      "start": 27180,
+      "end": 27360
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 151
+  },
+  {
+    "start": 27720,
+    "end": 27900,
+    "start_time": 462.0,
+    "end_time": 465.0,
+    "raw_caption": "The video shows a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      27720,
+      27780,
+      27840
+    ],
+    "raw_section": {
+      "start": 27720,
+      "end": 27900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 154
+  },
+  {
+    "start": 28080,
+    "end": 28260,
+    "start_time": 468.0,
+    "end_time": 471.0,
+    "raw_caption": "The video shows an empty water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'empty water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'no one visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      28080,
+      28140,
+      28200
+    ],
+    "raw_section": {
+      "start": 28080,
+      "end": 28260
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 156
+  },
+  {
+    "start": 28620,
+    "end": 28800,
+    "start_time": 477.0,
+    "end_time": 480.0,
+    "raw_caption": "A man stands inside a tower with decorative windows during the day.",
+    "attribute_caption_useful": "{'What': 'standing', 'Where': 'inside tower', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.4; [Highlight]: 0.2;",
+    "sample_id_list": [
+      28620,
+      28680,
+      28740
+    ],
+    "raw_section": {
+      "start": 28620,
+      "end": 28800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 159
+  },
+  {
+    "start": 29160,
+    "end": 29340,
+    "start_time": 486.0,
+    "end_time": 489.0,
+    "raw_caption": "A woman approaches a slide at a water park, preparing to use it.",
+    "attribute_caption_useful": "{'What': 'woman preparing to use a slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      29160,
+      29220,
+      29280
+    ],
+    "raw_section": {
+      "start": 29160,
+      "end": 29340
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 162
+  },
+  {
+    "start": 29340,
+    "end": 29520,
+    "start_time": 489.0,
+    "end_time": 492.0,
+    "raw_caption": "A man is preparing to enter a yellow water slide at a water park.",
+    "attribute_caption_useful": "{'What': 'preparing to enter water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man with sunglasses'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      29340,
+      29400,
+      29460
+    ],
+    "raw_section": {
+      "start": 29340,
+      "end": 29520
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 163
+  },
+  {
+    "start": 29520,
+    "end": 29700,
+    "start_time": 492.0,
+    "end_time": 495.0,
+    "raw_caption": "A man is sliding down a blue water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      29520,
+      29580,
+      29640
+    ],
+    "raw_section": {
+      "start": 29520,
+      "end": 29700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 164
+  },
+  {
+    "start": 29700,
+    "end": 29880,
+    "start_time": 495.0,
+    "end_time": 498.0,
+    "raw_caption": "The video captures the experience of sliding down a colorful water slide at a water park.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      29700,
+      29760,
+      29820
+    ],
+    "raw_section": {
+      "start": 29700,
+      "end": 29880
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 165
+  },
+  {
+    "start": 29880,
+    "end": 30060,
+    "start_time": 498.0,
+    "end_time": 501.0,
+    "raw_caption": "An individual is experiencing a thrilling ride down a water slide in a water park during the daytime.",
+    "attribute_caption_useful": "{'What': 'water slide ride', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0.6; [Shaking or Jittering]: 0.4; [Exposure]: 0.7; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      29880,
+      29940,
+      30000
+    ],
+    "raw_section": {
+      "start": 29880,
+      "end": 30060
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 166
+  },
+  {
+    "start": 30060,
+    "end": 30240,
+    "start_time": 501.0,
+    "end_time": 504.0,
+    "raw_caption": "A man enjoys a thrilling ride down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide ride', 'Where': 'water park', 'When': 'daytime', 'Who': 'man in blue shorts'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      30060,
+      30120,
+      30180
+    ],
+    "raw_section": {
+      "start": 30060,
+      "end": 30240
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 167
+  },
+  {
+    "start": 30240,
+    "end": 30420,
+    "start_time": 504.0,
+    "end_time": 507.0,
+    "raw_caption": "A man enjoys riding down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      30240,
+      30300,
+      30360
+    ],
+    "raw_section": {
+      "start": 30240,
+      "end": 30420
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 168
+  },
+  {
+    "start": 30420,
+    "end": 30600,
+    "start_time": 507.0,
+    "end_time": 510.0,
+    "raw_caption": "The video shows a colorful water slide at a water park during the daytime.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'no people visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      30420,
+      30480,
+      30540
+    ],
+    "raw_section": {
+      "start": 30420,
+      "end": 30600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 169
+  },
+  {
+    "start": 30600,
+    "end": 30780,
+    "start_time": 510.0,
+    "end_time": 513.0,
+    "raw_caption": "The video shows colorful water slides at a water park during the daytime with no people present.",
+    "attribute_caption_useful": "{'What': 'empty water slides', 'Where': 'water park', 'When': 'daytime', 'Who': 'no people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      30600,
+      30660,
+      30720
+    ],
+    "raw_section": {
+      "start": 30600,
+      "end": 30780
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 170
+  },
+  {
+    "start": 30780,
+    "end": 30960,
+    "start_time": 513.0,
+    "end_time": 516.0,
+    "raw_caption": "The video shows an empty water slide at a water park during the daytime.",
+    "attribute_caption_useful": "{'What': 'empty water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'no one present'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.2;",
+    "sample_id_list": [
+      30780,
+      30840,
+      30900
+    ],
+    "raw_section": {
+      "start": 30780,
+      "end": 30960
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 171
+  },
+  {
+    "start": 31140,
+    "end": 31320,
+    "start_time": 519.0,
+    "end_time": 522.0,
+    "raw_caption": "Three people are standing and talking at a water park under an umbrella on a sunny day.",
+    "attribute_caption_useful": "{'What': 'standing and talking', 'Where': 'water park', 'When': 'daytime', 'Who': 'three people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0;",
+    "sample_id_list": [
+      31140,
+      31200,
+      31260
+    ],
+    "raw_section": {
+      "start": 31140,
+      "end": 31320
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 173
+  },
+  {
+    "start": 31320,
+    "end": 31500,
+    "start_time": 522.0,
+    "end_time": 525.0,
+    "raw_caption": "Three lifeguards are preparing and checking the water slides at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'three lifeguards'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      31320,
+      31380,
+      31440
+    ],
+    "raw_section": {
+      "start": 31320,
+      "end": 31500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 174
+  },
+  {
+    "start": 31680,
+    "end": 31860,
+    "start_time": 528.0,
+    "end_time": 531.0,
+    "raw_caption": "An individual is about to go down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'approaching a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      31680,
+      31740,
+      31800
+    ],
+    "raw_section": {
+      "start": 31680,
+      "end": 31860
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 176
+  },
+  {
+    "start": 31860,
+    "end": 32040,
+    "start_time": 531.0,
+    "end_time": 534.0,
+    "raw_caption": "The video shows a water slide at a water park during the daytime.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      31860,
+      31920,
+      31980
+    ],
+    "raw_section": {
+      "start": 31860,
+      "end": 32040
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 177
+  },
+  {
+    "start": 32040,
+    "end": 32220,
+    "start_time": 534.0,
+    "end_time": 537.0,
+    "raw_caption": "A man slides down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      32040,
+      32100,
+      32160
+    ],
+    "raw_section": {
+      "start": 32040,
+      "end": 32220
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 178
+  },
+  {
+    "start": 32220,
+    "end": 32400,
+    "start_time": 537.0,
+    "end_time": 540.0,
+    "raw_caption": "A thrilling ride down a brightly lit water slide with colorful patterns.",
+    "attribute_caption_useful": "{'What': 'water slide ride', 'Where': 'water park', 'When': 'unknown', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      32220,
+      32280,
+      32340
+    ],
+    "raw_section": {
+      "start": 32220,
+      "end": 32400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 179
+  },
+  {
+    "start": 32400,
+    "end": 32580,
+    "start_time": 540.0,
+    "end_time": 543.0,
+    "raw_caption": "The video captures an exciting descent down a water slide with colorful lighting effects.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'unknown', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.1; [Exposure]: 0.6; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.9;",
+    "sample_id_list": [
+      32400,
+      32460,
+      32520
+    ],
+    "raw_section": {
+      "start": 32400,
+      "end": 32580
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 180
+  },
+  {
+    "start": 32580,
+    "end": 32760,
+    "start_time": 543.0,
+    "end_time": 546.0,
+    "raw_caption": "An individual is enjoying a ride on a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown individual'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      32580,
+      32640,
+      32700
+    ],
+    "raw_section": {
+      "start": 32580,
+      "end": 32760
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 181
+  },
+  {
+    "start": 32760,
+    "end": 32940,
+    "start_time": 546.0,
+    "end_time": 549.0,
+    "raw_caption": "A man is riding a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      32760,
+      32820,
+      32880
+    ],
+    "raw_section": {
+      "start": 32760,
+      "end": 32940
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 182
+  },
+  {
+    "start": 32940,
+    "end": 33120,
+    "start_time": 549.0,
+    "end_time": 552.0,
+    "raw_caption": "A man slides down a colorful waterslide and splashes into the pool below.",
+    "attribute_caption_useful": "{'What': 'going down a waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      32940,
+      33000,
+      33060
+    ],
+    "raw_section": {
+      "start": 32940,
+      "end": 33120
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 183
+  },
+  {
+    "start": 33120,
+    "end": 33300,
+    "start_time": 552.0,
+    "end_time": 555.0,
+    "raw_caption": "The video shows water splashing in a water park during the daytime.",
+    "attribute_caption_useful": "{'What': 'water splashing', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      33120,
+      33180,
+      33240
+    ],
+    "raw_section": {
+      "start": 33120,
+      "end": 33300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 184
+  },
+  {
+    "start": 33480,
+    "end": 33660,
+    "start_time": 558.0,
+    "end_time": 561.0,
+    "raw_caption": "The video shows a water slide at a water park with splashing water during the daytime.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.7;",
+    "sample_id_list": [
+      33480,
+      33540,
+      33600
+    ],
+    "raw_section": {
+      "start": 33480,
+      "end": 33660
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 186
+  },
+  {
+    "start": 33660,
+    "end": 33840,
+    "start_time": 561.0,
+    "end_time": 564.0,
+    "raw_caption": "Water rushes down a colorful slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      33660,
+      33720,
+      33780
+    ],
+    "raw_section": {
+      "start": 33660,
+      "end": 33840
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 187
+  },
+  {
+    "start": 33840,
+    "end": 34020,
+    "start_time": 564.0,
+    "end_time": 567.0,
+    "raw_caption": "A water slide at a water park is shown with water splashing into the pool below.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      33840,
+      33900,
+      33960
+    ],
+    "raw_section": {
+      "start": 33840,
+      "end": 34020
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 188
+  },
+  {
+    "start": 34020,
+    "end": 34200,
+    "start_time": 567.0,
+    "end_time": 570.0,
+    "raw_caption": "The video shows a water slide at a water park with water flowing into a pool.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.2;",
+    "sample_id_list": [
+      34020,
+      34080,
+      34140
+    ],
+    "raw_section": {
+      "start": 34020,
+      "end": 34200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 189
+  },
+  {
+    "start": 34200,
+    "end": 34380,
+    "start_time": 570.0,
+    "end_time": 573.0,
+    "raw_caption": "The video shows a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide activity', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      34200,
+      34260,
+      34320
+    ],
+    "raw_section": {
+      "start": 34200,
+      "end": 34380
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 190
+  },
+  {
+    "start": 34380,
+    "end": 34560,
+    "start_time": 573.0,
+    "end_time": 576.0,
+    "raw_caption": "A man is sitting beside a water slide at a water park, monitoring the area during the daytime.",
+    "attribute_caption_useful": "{'What': 'monitoring water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man sitting'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      34380,
+      34440,
+      34500
+    ],
+    "raw_section": {
+      "start": 34380,
+      "end": 34560
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 191
+  },
+  {
+    "start": 34560,
+    "end": 34740,
+    "start_time": 576.0,
+    "end_time": 579.0,
+    "raw_caption": "A man sits near a large water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      34560,
+      34620,
+      34680
+    ],
+    "raw_section": {
+      "start": 34560,
+      "end": 34740
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 192
+  },
+  {
+    "start": 34740,
+    "end": 34920,
+    "start_time": 579.0,
+    "end_time": 582.0,
+    "raw_caption": "A man approaches the entrance of a waterslide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'approaching waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      34740,
+      34800,
+      34860
+    ],
+    "raw_section": {
+      "start": 34740,
+      "end": 34920
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 193
+  },
+  {
+    "start": 34920,
+    "end": 35100,
+    "start_time": 582.0,
+    "end_time": 585.0,
+    "raw_caption": "A man is preparing to use a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'man preparing for water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.2;",
+    "sample_id_list": [
+      34920,
+      34980,
+      35040
+    ],
+    "raw_section": {
+      "start": 34920,
+      "end": 35100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 194
+  },
+  {
+    "start": 35100,
+    "end": 35280,
+    "start_time": 585.0,
+    "end_time": 588.0,
+    "raw_caption": "A man is preparing to go down a waterslide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing to enter waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      35100,
+      35160,
+      35220
+    ],
+    "raw_section": {
+      "start": 35100,
+      "end": 35280
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 195
+  },
+  {
+    "start": 35280,
+    "end": 35460,
+    "start_time": 588.0,
+    "end_time": 591.0,
+    "raw_caption": "A man at a water park is about to ride down a colorful waterslide on a sunny day.",
+    "attribute_caption_useful": "{'What': 'preparing to ride a waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man with wristband'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      35280,
+      35340,
+      35400
+    ],
+    "raw_section": {
+      "start": 35280,
+      "end": 35460
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 196
+  },
+  {
+    "start": 35460,
+    "end": 35640,
+    "start_time": 591.0,
+    "end_time": 594.0,
+    "raw_caption": "A man slides down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding down water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      35460,
+      35520,
+      35580
+    ],
+    "raw_section": {
+      "start": 35460,
+      "end": 35640
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 197
+  },
+  {
+    "start": 35820,
+    "end": 36000,
+    "start_time": 597.0,
+    "end_time": 600.0,
+    "raw_caption": "A person slides down a brightly lit water slide, creating a dynamic and colorful experience.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'unknown', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.9;",
+    "sample_id_list": [
+      35820,
+      35880,
+      35940
+    ],
+    "raw_section": {
+      "start": 35820,
+      "end": 36000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 199
+  },
+  {
+    "start": 36000,
+    "end": 36180,
+    "start_time": 600.0,
+    "end_time": 603.0,
+    "raw_caption": "A man is riding down a brightly lit water slide at a water park.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      36000,
+      36060,
+      36120
+    ],
+    "raw_section": {
+      "start": 36000,
+      "end": 36180
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 200
+  },
+  {
+    "start": 36180,
+    "end": 36360,
+    "start_time": 603.0,
+    "end_time": 606.0,
+    "raw_caption": "A person rides a colorful, illuminated water slide at a water park.",
+    "attribute_caption_useful": "{'What': 'riding water slide', 'Where': 'water park', 'When': 'unknown', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      36180,
+      36240,
+      36300
+    ],
+    "raw_section": {
+      "start": 36180,
+      "end": 36360
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 201
+  },
+  {
+    "start": 36360,
+    "end": 36540,
+    "start_time": 606.0,
+    "end_time": 609.0,
+    "raw_caption": "The video shows a thrilling ride down a brightly lit water slide at a water park.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'unknown', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      36360,
+      36420,
+      36480
+    ],
+    "raw_section": {
+      "start": 36360,
+      "end": 36540
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 202
+  },
+  {
+    "start": 36540,
+    "end": 36720,
+    "start_time": 609.0,
+    "end_time": 612.0,
+    "raw_caption": "A man slides down a brightly lit waterslide at an indoor water park.",
+    "attribute_caption_useful": "{'What': 'riding a waterslide', 'Where': 'indoor water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      36540,
+      36600,
+      36660
+    ],
+    "raw_section": {
+      "start": 36540,
+      "end": 36720
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 203
+  },
+  {
+    "start": 36720,
+    "end": 36900,
+    "start_time": 612.0,
+    "end_time": 615.0,
+    "raw_caption": "A person slides down a waterslide and splashes into a pool.",
+    "attribute_caption_useful": "{'What': 'going down a waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown person'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      36720,
+      36780,
+      36840
+    ],
+    "raw_section": {
+      "start": 36720,
+      "end": 36900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 204
+  },
+  {
+    "start": 36900,
+    "end": 37080,
+    "start_time": 615.0,
+    "end_time": 618.0,
+    "raw_caption": "The video captures a water slide at a water park during the day, showcasing the slides and the water splash.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      36900,
+      36960,
+      37020
+    ],
+    "raw_section": {
+      "start": 36900,
+      "end": 37080
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 205
+  },
+  {
+    "start": 37080,
+    "end": 37260,
+    "start_time": 618.0,
+    "end_time": 621.0,
+    "raw_caption": "The video shows a series of colorful water slides at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slides', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      37080,
+      37140,
+      37200
+    ],
+    "raw_section": {
+      "start": 37080,
+      "end": 37260
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 206
+  },
+  {
+    "start": 37260,
+    "end": 37440,
+    "start_time": 621.0,
+    "end_time": 624.0,
+    "raw_caption": "The video shows a water slide area in a water park during the day with no people present.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'nobody visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      37260,
+      37320,
+      37380
+    ],
+    "raw_section": {
+      "start": 37260,
+      "end": 37440
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 207
+  },
+  {
+    "start": 37440,
+    "end": 37620,
+    "start_time": 624.0,
+    "end_time": 627.0,
+    "raw_caption": "A man is preparing to go down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      37440,
+      37500,
+      37560
+    ],
+    "raw_section": {
+      "start": 37440,
+      "end": 37620
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 208
+  },
+  {
+    "start": 37620,
+    "end": 37800,
+    "start_time": 627.0,
+    "end_time": 630.0,
+    "raw_caption": "A woman is overseeing a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'monitoring water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      37620,
+      37680,
+      37740
+    ],
+    "raw_section": {
+      "start": 37620,
+      "end": 37800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 209
+  },
+  {
+    "start": 37800,
+    "end": 37980,
+    "start_time": 630.0,
+    "end_time": 633.0,
+    "raw_caption": "A woman in uniform is preparing to assist guests at a water slide in a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing for water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'woman in uniform'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      37800,
+      37860,
+      37920
+    ],
+    "raw_section": {
+      "start": 37800,
+      "end": 37980
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 210
+  },
+  {
+    "start": 37980,
+    "end": 38160,
+    "start_time": 633.0,
+    "end_time": 636.0,
+    "raw_caption": "The video shows a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'none visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      37980,
+      38040,
+      38100
+    ],
+    "raw_section": {
+      "start": 37980,
+      "end": 38160
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 211
+  },
+  {
+    "start": 38160,
+    "end": 38340,
+    "start_time": 636.0,
+    "end_time": 639.0,
+    "raw_caption": "The video clip shows an approach to a waterslide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'approaching waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      38160,
+      38220,
+      38280
+    ],
+    "raw_section": {
+      "start": 38160,
+      "end": 38340
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 212
+  },
+  {
+    "start": 38340,
+    "end": 38520,
+    "start_time": 639.0,
+    "end_time": 642.0,
+    "raw_caption": "A man prepares to slide down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'going down water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man with blue wristband'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      38340,
+      38400,
+      38460
+    ],
+    "raw_section": {
+      "start": 38340,
+      "end": 38520
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 213
+  },
+  {
+    "start": 38520,
+    "end": 38700,
+    "start_time": 642.0,
+    "end_time": 645.0,
+    "raw_caption": "A man in blue shorts slides down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man in blue shorts'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      38520,
+      38580,
+      38640
+    ],
+    "raw_section": {
+      "start": 38520,
+      "end": 38700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 214
+  },
+  {
+    "start": 38700,
+    "end": 38880,
+    "start_time": 645.0,
+    "end_time": 648.0,
+    "raw_caption": "A man slides down a colorful waterslide at a water park, splashing into the pool below.",
+    "attribute_caption_useful": "{'What': 'sliding down a waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      38700,
+      38760,
+      38820
+    ],
+    "raw_section": {
+      "start": 38700,
+      "end": 38880
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 215
+  },
+  {
+    "start": 39060,
+    "end": 39240,
+    "start_time": 651.0,
+    "end_time": 654.0,
+    "raw_caption": "A water slide at a water park with clear blue water is shown during the daytime.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      39060,
+      39120,
+      39180
+    ],
+    "raw_section": {
+      "start": 39060,
+      "end": 39240
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 217
+  },
+  {
+    "start": 39240,
+    "end": 39420,
+    "start_time": 654.0,
+    "end_time": 657.0,
+    "raw_caption": "The video shows a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      39240,
+      39300,
+      39360
+    ],
+    "raw_section": {
+      "start": 39240,
+      "end": 39420
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 218
+  },
+  {
+    "start": 39420,
+    "end": 39600,
+    "start_time": 657.0,
+    "end_time": 660.0,
+    "raw_caption": "A vibrant water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      39420,
+      39480,
+      39540
+    ],
+    "raw_section": {
+      "start": 39420,
+      "end": 39600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 219
+  },
+  {
+    "start": 39600,
+    "end": 39780,
+    "start_time": 660.0,
+    "end_time": 663.0,
+    "raw_caption": "A man is preparing to go down a waterslide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing to slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      39600,
+      39660,
+      39720
+    ],
+    "raw_section": {
+      "start": 39600,
+      "end": 39780
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 220
+  },
+  {
+    "start": 39780,
+    "end": 39960,
+    "start_time": 663.0,
+    "end_time": 666.0,
+    "raw_caption": "A man prepares to go down a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing to slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.6;",
+    "sample_id_list": [
+      39780,
+      39840,
+      39900
+    ],
+    "raw_section": {
+      "start": 39780,
+      "end": 39960
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.6",
+    "clip_id": 221
+  },
+  {
+    "start": 39960,
+    "end": 40140,
+    "start_time": 666.0,
+    "end_time": 669.0,
+    "raw_caption": "A man slides down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      39960,
+      40020,
+      40080
+    ],
+    "raw_section": {
+      "start": 39960,
+      "end": 40140
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 222
+  },
+  {
+    "start": 40140,
+    "end": 40320,
+    "start_time": 669.0,
+    "end_time": 672.0,
+    "raw_caption": "A man slides down a water slide at a water park during the day, ending with a splash into the pool.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      40140,
+      40200,
+      40260
+    ],
+    "raw_section": {
+      "start": 40140,
+      "end": 40320
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 223
+  },
+  {
+    "start": 40320,
+    "end": 40500,
+    "start_time": 672.0,
+    "end_time": 675.0,
+    "raw_caption": "The video captures a water slide experience at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.7;",
+    "sample_id_list": [
+      40320,
+      40380,
+      40440
+    ],
+    "raw_section": {
+      "start": 40320,
+      "end": 40500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 224
+  },
+  {
+    "start": 40500,
+    "end": 40680,
+    "start_time": 675.0,
+    "end_time": 678.0,
+    "raw_caption": "The video shows a series of colorful water slides at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slides', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      40500,
+      40560,
+      40620
+    ],
+    "raw_section": {
+      "start": 40500,
+      "end": 40680
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 225
+  },
+  {
+    "start": 40680,
+    "end": 40860,
+    "start_time": 678.0,
+    "end_time": 681.0,
+    "raw_caption": "The video shows a water park with colorful slides, likely capturing a fun and lively atmosphere on a sunny day.",
+    "attribute_caption_useful": "{'What': 'water slides', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.7;",
+    "sample_id_list": [
+      40680,
+      40740,
+      40800
+    ],
+    "raw_section": {
+      "start": 40680,
+      "end": 40860
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 226
+  },
+  {
+    "start": 40860,
+    "end": 41040,
+    "start_time": 681.0,
+    "end_time": 684.0,
+    "raw_caption": "The video shows colorful water slides at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slides', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      40860,
+      40920,
+      40980
+    ],
+    "raw_section": {
+      "start": 40860,
+      "end": 41040
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 227
+  },
+  {
+    "start": 41040,
+    "end": 41220,
+    "start_time": 684.0,
+    "end_time": 687.0,
+    "raw_caption": "The video captures colorful water slides at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slides', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      41040,
+      41100,
+      41160
+    ],
+    "raw_section": {
+      "start": 41040,
+      "end": 41220
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 228
+  },
+  {
+    "start": 41220,
+    "end": 41400,
+    "start_time": 687.0,
+    "end_time": 690.0,
+    "raw_caption": "Two men are sitting near the entrance of a water slide at a water park, appearing to wait for their turn.",
+    "attribute_caption_useful": "{'What': 'waiting at water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'two men'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      41220,
+      41280,
+      41340
+    ],
+    "raw_section": {
+      "start": 41220,
+      "end": 41400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 229
+  },
+  {
+    "start": 41400,
+    "end": 41580,
+    "start_time": 690.0,
+    "end_time": 693.0,
+    "raw_caption": "A man is preparing to go down a waterslide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'preparing for waterslide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man in hat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+    "sample_id_list": [
+      41400,
+      41460,
+      41520
+    ],
+    "raw_section": {
+      "start": 41400,
+      "end": 41580
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 230
+  },
+  {
+    "start": 41580,
+    "end": 41760,
+    "start_time": 693.0,
+    "end_time": 696.0,
+    "raw_caption": "The video shows a view from the top of a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      41580,
+      41640,
+      41700
+    ],
+    "raw_section": {
+      "start": 41580,
+      "end": 41760
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 231
+  },
+  {
+    "start": 41760,
+    "end": 41940,
+    "start_time": 696.0,
+    "end_time": 699.0,
+    "raw_caption": "An individual enjoys a thrilling ride down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide ride', 'Where': 'water park', 'When': 'daytime', 'Who': 'individual with blue shoes'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      41760,
+      41820,
+      41880
+    ],
+    "raw_section": {
+      "start": 41760,
+      "end": 41940
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 232
+  },
+  {
+    "start": 41940,
+    "end": 42120,
+    "start_time": 699.0,
+    "end_time": 702.0,
+    "raw_caption": "A man rides down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      41940,
+      42000,
+      42060
+    ],
+    "raw_section": {
+      "start": 41940,
+      "end": 42120
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 233
+  },
+  {
+    "start": 42120,
+    "end": 42300,
+    "start_time": 702.0,
+    "end_time": 705.0,
+    "raw_caption": "A man is sliding down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      42120,
+      42180,
+      42240
+    ],
+    "raw_section": {
+      "start": 42120,
+      "end": 42300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 234
+  },
+  {
+    "start": 42300,
+    "end": 42480,
+    "start_time": 705.0,
+    "end_time": 708.0,
+    "raw_caption": "A man is sliding down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'going down a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      42300,
+      42360,
+      42420
+    ],
+    "raw_section": {
+      "start": 42300,
+      "end": 42480
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 235
+  },
+  {
+    "start": 42480,
+    "end": 42660,
+    "start_time": 708.0,
+    "end_time": 711.0,
+    "raw_caption": "A man is enjoying a ride down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding a water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+    "sample_id_list": [
+      42480,
+      42540,
+      42600
+    ],
+    "raw_section": {
+      "start": 42480,
+      "end": 42660
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 236
+  },
+  {
+    "start": 42660,
+    "end": 42840,
+    "start_time": 711.0,
+    "end_time": 714.0,
+    "raw_caption": "A man is enjoying a ride down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'riding water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+    "sample_id_list": [
+      42660,
+      42720,
+      42780
+    ],
+    "raw_section": {
+      "start": 42660,
+      "end": 42840
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.9",
+    "clip_id": 237
+  },
+  {
+    "start": 42840,
+    "end": 43020,
+    "start_time": 714.0,
+    "end_time": 717.0,
+    "raw_caption": "A man slides down a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'sliding down water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'man wearing blue shorts'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+    "sample_id_list": [
+      42840,
+      42900,
+      42960
+    ],
+    "raw_section": {
+      "start": 42840,
+      "end": 43020
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 238
+  },
+  {
+    "start": 43020,
+    "end": 43200,
+    "start_time": 717.0,
+    "end_time": 720.0,
+    "raw_caption": "The video captures a water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      43020,
+      43080,
+      43140
+    ],
+    "raw_section": {
+      "start": 43020,
+      "end": 43200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 239
+  },
+  {
+    "start": 43200,
+    "end": 43380,
+    "start_time": 720.0,
+    "end_time": 723.0,
+    "raw_caption": "The video shows a colorful water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.5;",
+    "sample_id_list": [
+      43200,
+      43260,
+      43320
+    ],
+    "raw_section": {
+      "start": 43200,
+      "end": 43380
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 240
+  },
+  {
+    "start": 43380,
+    "end": 43560,
+    "start_time": 723.0,
+    "end_time": 726.0,
+    "raw_caption": "The video captures a vibrant water slide at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slide activity', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+    "sample_id_list": [
+      43380,
+      43440,
+      43500
+    ],
+    "raw_section": {
+      "start": 43380,
+      "end": 43560
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0.8",
+    "clip_id": 241
+  },
+  {
+    "start": 43560,
+    "end": 43740,
+    "start_time": 726.0,
+    "end_time": 729.0,
+    "raw_caption": "The video shows colorful water slides at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slides', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      43560,
+      43620,
+      43680
+    ],
+    "raw_section": {
+      "start": 43560,
+      "end": 43740
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 242
+  },
+  {
+    "start": 43740,
+    "end": 43920,
+    "start_time": 729.0,
+    "end_time": 732.0,
+    "raw_caption": "The video shows colorful water slides at a water park during the day.",
+    "attribute_caption_useful": "{'What': 'water slides', 'Where': 'water park', 'When': 'daytime', 'Who': 'none visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+    "sample_id_list": [
+      43740,
+      43800,
+      43860
+    ],
+    "raw_section": {
+      "start": 43740,
+      "end": 43920
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 243
+  },
+  {
+    "start": 43920,
+    "end": 44100,
+    "start_time": 732.0,
+    "end_time": 735.0,
+    "raw_caption": "The video shows colorful water slides at a water park during daytime.",
+    "attribute_caption_useful": "{'What': 'water slides', 'Where': 'water park', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.2;",
+    "sample_id_list": [
+      43920,
+      43980,
+      44040
+    ],
+    "raw_section": {
+      "start": 43920,
+      "end": 44100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-water_park-Gezen_Adam/3iz5SmEQj9A.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 244
+  }
+]

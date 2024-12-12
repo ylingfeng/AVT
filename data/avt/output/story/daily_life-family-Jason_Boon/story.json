@@ -1,0 +1,361 @@
+{
+  "choose_clip_info": "step2 story: use merge. multi step1 (False), multi step2 (False), story choose: 15, all story video clip: 19, all useful video clip: 49, all video clip: 101",
+  "story_result": {
+    "section_id_list": [
+      12,
+      28,
+      32,
+      34,
+      40,
+      43,
+      44,
+      50,
+      51,
+      88,
+      89,
+      93,
+      94,
+      95,
+      96
+    ],
+    "clip_caption": {
+      "12": "A child feeds a woman in a cafe during the day, which can serve as a gentle introduction to the sequence, setting a personal and intimate tone.",
+      "28": "A family is walking and posing in a park during the day, capturing a moment of leisure and togetherness, fitting well in the middle of the sequence.",
+      "32": "A family walks through a park with colorful arches and palm trees on a sunny day, adding a vibrant and lively element to the sequence.",
+      "34": "Visitors are enjoying a stroll along a waterfront park with a welcoming sign, providing a transitional scene that connects various outdoor activities.",
+      "40": "A woman and child walk along a coastal walkway during the day, enjoying the view of the water and mountains, which could be used to transition into more scenic clips.",
+      "43": "A woman and child walk towards a colorful structure by the seaside during the day, serving as a potential lead-in to more dynamic activities like swinging.",
+      "44": "A woman and a child are walking up colorful stairs by the beach during the day, which can mark a transition towards more active engagements.",
+      "50": "A woman and a child are enjoying swinging together in a park during the day, a highlight moment that captures joy and playfulness.",
+      "51": "A woman and a child enjoy swinging in a park on a sunny day, reinforcing the theme of enjoyment and leisure, suitable for a climactic position.",
+      "88": "A crowd gathers at a shopping center for a car event featuring various vehicles on display, introducing the theme of public gatherings and events.",
+      "89": "A crowd gathers around a yellow car at an outdoor car show in an urban setting during the day, providing a detailed view of the car show theme.",
+      "93": "People are gathered at an outdoor event featuring cars and motorcycles during the day, further exploring the community aspect of the car event.",
+      "94": "The video shows a car exhibition with various colorful off-road vehicles displayed outdoors during the day, adding diversity to the car show scenes.",
+      "95": "A crowd of men and women gather at an outdoor event during the day, with colorful cars and a stage visible, hinting at a larger festival atmosphere.",
+      "96": "A large crowd gathers at a city square for a daytime festival or event with people in costumes, serving as a grand finale to the sequence with its festive and vibrant energy."
+    },
+    "theme_caption": {
+      "[12, 28, 32, 34, 40, 43, 44, 50, 51]": "Family and Leisure Activities: This theme captures various moments of family interactions and leisure activities, from intimate cafe scenes to playful swings in the park, emphasizing the joy and togetherness of family life.",
+      "[88, 89, 93, 94, 95, 96]": "Public Gatherings and Events: This theme focuses on the excitement and community spirit of public gatherings, particularly car shows and festivals, showcasing the vibrant and social aspects of urban life."
+    },
+    "global_caption": "The video collection presents a vivid tapestry of daytime activities, beginning with intimate family moments in cafes and parks, where the warmth and joy of family life are highlighted. As the sequence progresses, it transitions into the bustling energy of public events, where crowds gather to enjoy car shows and festive activities, culminating in a lively city square festival that encapsulates the communal and celebratory spirit of the collection."
+  },
+  "output_section_info_list": [
+    {
+      "start": 1080,
+      "end": 1170,
+      "start_time": 36.0,
+      "end_time": 39.0,
+      "raw_caption": "A child feeds a woman in a cafe during the day.",
+      "attribute_caption_useful": "{'What': 'feeding', 'Where': 'cafe', 'When': 'daytime', 'Who': 'woman and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+      "sample_id_list": [
+        1080,
+        1110,
+        1140
+      ],
+      "raw_section": {
+        "start": 1080,
+        "end": 1170
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Jason_Boon/PcxuFef17PY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 12
+    },
+    {
+      "start": 2520,
+      "end": 2610,
+      "start_time": 84.0,
+      "end_time": 87.0,
+      "raw_caption": "A family is walking and posing in a park during the day.",
+      "attribute_caption_useful": "{'What': 'walking and posing', 'Where': 'park', 'When': 'daytime', 'Who': 'man, woman, and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+      "sample_id_list": [
+        2520,
+        2550,
+        2580
+      ],
+      "raw_section": {
+        "start": 2520,
+        "end": 2610
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Jason_Boon/PcxuFef17PY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 28
+    },
+    {
+      "start": 2880,
+      "end": 2970,
+      "start_time": 96.0,
+      "end_time": 99.0,
+      "raw_caption": "A family walks through a park with colorful arches and palm trees on a sunny day.",
+      "attribute_caption_useful": "{'What': 'walking', 'Where': 'park', 'When': 'daytime', 'Who': 'man, woman, and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+      "sample_id_list": [
+        2880,
+        2910,
+        2940
+      ],
+      "raw_section": {
+        "start": 2880,
+        "end": 2970
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Jason_Boon/PcxuFef17PY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 32
+    },
+    {
+      "start": 3060,
+      "end": 3150,
+      "start_time": 102.0,
+      "end_time": 105.0,
+      "raw_caption": "Visitors are enjoying a stroll along a waterfront park with a welcoming sign.",
+      "attribute_caption_useful": "{'What': 'sightseeing', 'Where': 'waterfront park', 'When': 'daytime', 'Who': 'families and visitors'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+      "sample_id_list": [
+        3060,
+        3090,
+        3120
+      ],
+      "raw_section": {
+        "start": 3060,
+        "end": 3150
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Jason_Boon/PcxuFef17PY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 34
+    },
+    {
+      "start": 3600,
+      "end": 3690,
+      "start_time": 120.0,
+      "end_time": 123.0,
+      "raw_caption": "A woman and child walk along a coastal walkway during the day, enjoying the view of the water and mountains.",
+      "attribute_caption_useful": "{'What': 'walking along the waterfront', 'Where': 'coastal walkway', 'When': 'daytime', 'Who': 'woman and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0",
+      "sample_id_list": [
+        3600,
+        3630,
+        3660
+      ],
+      "raw_section": {
+        "start": 3600,
+        "end": 3690
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Jason_Boon/PcxuFef17PY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 40
+    },
+    {
+      "start": 3870,
+      "end": 3960,
+      "start_time": 129.0,
+      "end_time": 132.0,
+      "raw_caption": "A woman and child walk towards a colorful structure by the seaside during the day.",
+      "attribute_caption_useful": "{'What': 'walking towards structure', 'Where': 'seaside', 'When': 'daytime', 'Who': 'woman and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+      "sample_id_list": [
+        3870,
+        3900,
+        3930
+      ],
+      "raw_section": {
+        "start": 3870,
+        "end": 3960
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Jason_Boon/PcxuFef17PY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 43
+    },
+    {
+      "start": 3960,
+      "end": 4050,
+      "start_time": 132.0,
+      "end_time": 135.0,
+      "raw_caption": "A woman and a child are walking up colorful stairs by the beach during the day.",
+      "attribute_caption_useful": "{'What': 'walking up colorful stairs', 'Where': 'beachfront', 'When': 'daytime', 'Who': 'woman and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+      "sample_id_list": [
+        3960,
+        3990,
+        4020
+      ],
+      "raw_section": {
+        "start": 3960,
+        "end": 4050
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Jason_Boon/PcxuFef17PY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 44
+    },
+    {
+      "start": 4500,
+      "end": 4590,
+      "start_time": 150.0,
+      "end_time": 153.0,
+      "raw_caption": "A woman and a child are enjoying swinging together in a park during the day.",
+      "attribute_caption_useful": "{'What': 'swinging', 'Where': 'park', 'When': 'daytime', 'Who': 'woman and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        4500,
+        4530,
+        4560
+      ],
+      "raw_section": {
+        "start": 4500,
+        "end": 4590
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Jason_Boon/PcxuFef17PY.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 50
+    },
+    {
+      "start": 4590,
+      "end": 4680,
+      "start_time": 153.0,
+      "end_time": 156.0,
+      "raw_caption": "A woman and a child enjoy swinging in a park on a sunny day.",
+      "attribute_caption_useful": "{'What': 'swinging', 'Where': 'park', 'When': 'daytime', 'Who': 'woman and child'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.7;",
+      "sample_id_list": [
+        4590,
+        4620,
+        4650
+      ],
+      "raw_section": {
+        "start": 4590,
+        "end": 4680
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Jason_Boon/PcxuFef17PY.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 51
+    },
+    {
+      "start": 7920,
+      "end": 8010,
+      "start_time": 264.0,
+      "end_time": 267.0,
+      "raw_caption": "A crowd gathers at a shopping center for a car event featuring various vehicles on display.",
+      "attribute_caption_useful": "{'What': 'car gathering', 'Where': 'shopping center', 'When': 'daytime', 'Who': 'crowd of people'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+      "sample_id_list": [
+        7920,
+        7950,
+        7980
+      ],
+      "raw_section": {
+        "start": 7920,
+        "end": 8010
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Jason_Boon/PcxuFef17PY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 88
+    },
+    {
+      "start": 8010,
+      "end": 8100,
+      "start_time": 267.0,
+      "end_time": 270.0,
+      "raw_caption": "A crowd gathers around a yellow car at an outdoor car show in an urban setting during the day.",
+      "attribute_caption_useful": "{'What': 'car show', 'Where': 'urban area', 'When': 'daytime', 'Who': 'crowd of people'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+      "sample_id_list": [
+        8010,
+        8040,
+        8070
+      ],
+      "raw_section": {
+        "start": 8010,
+        "end": 8100
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Jason_Boon/PcxuFef17PY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 89
+    },
+    {
+      "start": 8370,
+      "end": 8460,
+      "start_time": 279.0,
+      "end_time": 282.0,
+      "raw_caption": "People are gathered at an outdoor event featuring cars and motorcycles during the day.",
+      "attribute_caption_useful": "{'What': 'people attending a car and motorcycle show', 'Where': 'urban outdoor area', 'When': 'daytime', 'Who': 'men, women, and children'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+      "sample_id_list": [
+        8370,
+        8400,
+        8430
+      ],
+      "raw_section": {
+        "start": 8370,
+        "end": 8460
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Jason_Boon/PcxuFef17PY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 93
+    },
+    {
+      "start": 8460,
+      "end": 8550,
+      "start_time": 282.0,
+      "end_time": 285.0,
+      "raw_caption": "The video shows a car exhibition with various colorful off-road vehicles displayed outdoors during the day, attended by men and women.",
+      "attribute_caption_useful": "{'What': 'car exhibition', 'Where': 'outdoor event space', 'When': 'daytime', 'Who': 'men and women attending'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+      "sample_id_list": [
+        8460,
+        8490,
+        8520
+      ],
+      "raw_section": {
+        "start": 8460,
+        "end": 8550
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Jason_Boon/PcxuFef17PY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 94
+    },
+    {
+      "start": 8550,
+      "end": 8640,
+      "start_time": 285.0,
+      "end_time": 288.0,
+      "raw_caption": "A crowd of men and women gather at an outdoor event during the day, with colorful cars and a stage visible.",
+      "attribute_caption_useful": "{'What': 'crowd gathering', 'Where': 'outdoor event', 'When': 'daytime', 'Who': 'men and women'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.5;",
+      "sample_id_list": [
+        8550,
+        8580,
+        8610
+      ],
+      "raw_section": {
+        "start": 8550,
+        "end": 8640
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Jason_Boon/PcxuFef17PY.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 95
+    },
+    {
+      "start": 8640,
+      "end": 8730,
+      "start_time": 288.0,
+      "end_time": 291.0,
+      "raw_caption": "A large crowd gathers at a city square for a daytime festival or event with people in costumes.",
+      "attribute_caption_useful": "{'What': 'festival or event', 'Where': 'city square', 'When': 'daytime', 'Who': 'crowd of people, some in costumes'}",
+      "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+      "sample_id_list": [
+        8640,
+        8670,
+        8700
+      ],
+      "raw_section": {
+        "start": 8640,
+        "end": 8730
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-family-Jason_Boon/PcxuFef17PY.json",
+      "Highlight": "['Highlight Score']: 0.7",
+      "clip_id": 96
+    }
+  ]
+}

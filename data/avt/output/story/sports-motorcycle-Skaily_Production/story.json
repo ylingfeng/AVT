@@ -1,0 +1,478 @@
+{
+  "choose_clip_info": "step2 story: use merge. multi step1 (False), multi step2 (False), story choose: 20, all story video clip: 47, all useful video clip: 98, all video clip: 111",
+  "story_result": {
+    "section_id_list": [
+      1,
+      4,
+      11,
+      15,
+      25,
+      26,
+      29,
+      32,
+      40,
+      45,
+      47,
+      54,
+      62,
+      81,
+      92,
+      95,
+      99,
+      102,
+      105,
+      91
+    ],
+    "clip_caption": {
+      "1": "The clip shows two motorcyclists preparing to ride on a dirt track on a sunny day, setting the stage for the upcoming action and serving as a suitable beginning for the sequence.",
+      "4": "This clip features a rider racing on a dirt track under a bright sky, highlighting the excitement of motorbike racing and providing an early glimpse of the action.",
+      "11": "Two motorcyclists are seen racing on a dirt track under a clear blue sky, showcasing a dynamic racing scene that fits well in the middle of the sequence.",
+      "15": "In this clip, two motorcyclists race on a dirt track during the day, demonstrating their skills and maintaining the momentum of the racing theme.",
+      "25": "A rider navigates a dirt track on a motorcycle during the day, showcasing their skills, which adds to the ongoing display of racing prowess.",
+      "26": "The clip shows a rider navigating a dirt track with dynamic movements and control, contributing to the theme of skillful riding in the sequence.",
+      "29": "A rider navigates a dirt bike through a forest trail during the day, introducing a change of scenery while maintaining the off-road theme.",
+      "32": "This clip features a rider navigating a motorcycle along a dirt road, offering an exciting off-road experience that complements the sequence.",
+      "40": "A motorcycle rider navigates a dirt track at high speed during the day, emphasizing the thrill and speed of the racing activities.",
+      "45": "A motorcyclist navigates a dirt trail during the day, showcasing off-road riding skills, which adds variety to the riding scenes.",
+      "47": "The clip shows a motorbike rider navigating a dirt track at high speed, showcasing impressive handling skills, and reinforcing the racing theme.",
+      "54": "A motorcyclist navigates a dirt trail during the day, showcasing off-road riding skills, which continues the exploration of diverse terrains.",
+      "62": "The clip features a biker riding on a dirt track during the day, showcasing thrilling maneuvers, and maintaining the energy of the sequence.",
+      "81": "Motorcyclists are riding on a dirt track during the day, showcasing thrilling biking action, which highlights the collective excitement of the event.",
+      "92": "A motorbike rider navigates a dirt track, showcasing skillful racing maneuvers, contributing to the competitive aspect of the sequence.",
+      "95": "An individual rides a dirt bike on a dirt track during the daytime, showcasing a thrilling biking experience, which adds to the overall excitement.",
+      "99": "Two motorcyclists are racing on a dirt track during the day, providing a vibrant racing scene that fits well in the middle of the sequence.",
+      "102": "The video captures riders dirt biking on a track, featuring action-packed moments that encapsulate the excitement of the event.",
+      "105": "Two motorcyclists are racing on a dirt track during the day, showcasing thrilling motocross action, which highlights the peak of the racing excitement.",
+      "91": "Two men are riding dirt bikes on a dirt track during the day, offering a fitting conclusion to the sequence by encapsulating the essence of the event."
+    },
+    "theme_caption": {
+      "[1, 4, 11, 15, 25, 26]": "Racing Preparation and Initial Action: These clips introduce the riders and the dirt track, setting the stage for the racing activities with initial showcases of speed and skill.",
+      "[29, 32, 40, 45, 47, 54]": "Off-road Exploration: This theme highlights the diversity of terrains, featuring riders navigating forest trails and dirt roads, emphasizing off-road skills and adventure.",
+      "[62, 81, 92, 95, 99, 102]": "Thrilling Racing Showcase: These clips capture the essence of motorbike racing with high-speed maneuvers, competitive scenes, and action-packed moments on the dirt track.",
+      "[105, 91]": "Climactic Racing and Conclusion: The final clips focus on thrilling motocross action and the essence of dirt biking, providing a fitting conclusion to the sequence."
+    },
+    "global_caption": "The video sequence begins with two motorcyclists preparing to ride on a dirt track, setting the stage for an action-packed display of motorbike racing. Riders are captured racing under bright skies, showcasing impressive skills and thrilling maneuvers. The narrative transitions to off-road exploration, where riders navigate diverse terrains including forest trails and dirt roads, emphasizing adventure and control. The sequence then returns to the dirt track, highlighting competitive racing scenes and high-speed action. The climax features thrilling motocross action, encapsulating the excitement and skill of the riders, and concluding with a vibrant display of dirt biking on the track."
+  },
+  "output_section_info_list": [
+    {
+      "start": 90,
+      "end": 180,
+      "start_time": 3.0,
+      "end_time": 6.0,
+      "raw_caption": "Two motorcyclists prepare to ride on a dirt track on a sunny day.",
+      "attribute_caption_useful": "{'What': 'motorcycling', 'Where': 'dirt track', 'When': 'daytime', 'Who': 'two motorcyclists'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        90,
+        120,
+        150
+      ],
+      "raw_section": {
+        "start": 90,
+        "end": 180
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 1
+    },
+    {
+      "start": 360,
+      "end": 450,
+      "start_time": 12.0,
+      "end_time": 15.0,
+      "raw_caption": "A rider is racing on a dirt track under a bright sky, showcasing an exciting motorbike activity.",
+      "attribute_caption_useful": "{'What': 'motorbike racing', 'Where': 'dirt track', 'When': 'daytime', 'Who': 'rider'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        360,
+        390,
+        420
+      ],
+      "raw_section": {
+        "start": 360,
+        "end": 450
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 4
+    },
+    {
+      "start": 990,
+      "end": 1080,
+      "start_time": 33.0,
+      "end_time": 36.0,
+      "raw_caption": "Two motorcyclists race on a dirt track under a clear blue sky.",
+      "attribute_caption_useful": "{'What': 'motorbike racing', 'Where': 'dirt track', 'When': 'daytime', 'Who': 'two motorcyclists'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        990,
+        1020,
+        1050
+      ],
+      "raw_section": {
+        "start": 990,
+        "end": 1080
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 11
+    },
+    {
+      "start": 1350,
+      "end": 1440,
+      "start_time": 45.0,
+      "end_time": 48.0,
+      "raw_caption": "Two motorcyclists race on a dirt track during the day, showcasing their skills.",
+      "attribute_caption_useful": "{'What': 'motorcycle racing', 'Where': 'dirt track', 'When': 'daytime', 'Who': 'two motorcyclists'}",
+      "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        1350,
+        1380,
+        1410
+      ],
+      "raw_section": {
+        "start": 1350,
+        "end": 1440
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 15
+    },
+    {
+      "start": 2250,
+      "end": 2340,
+      "start_time": 75.1,
+      "end_time": 78.1,
+      "raw_caption": "A rider navigates a dirt track on a motorcycle during the day, showcasing their skills.",
+      "attribute_caption_useful": "{'What': 'motorcycle riding', 'Where': 'dirt track', 'When': 'daytime', 'Who': 'rider'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        2250,
+        2280,
+        2310
+      ],
+      "raw_section": {
+        "start": 2250,
+        "end": 2340
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 25
+    },
+    {
+      "start": 2340,
+      "end": 2430,
+      "start_time": 78.1,
+      "end_time": 81.1,
+      "raw_caption": "A rider is navigating a dirt track on a motorcycle, showcasing dynamic movements and control.",
+      "attribute_caption_useful": "{'What': 'motorcycle riding', 'Where': 'dirt track', 'When': 'daytime', 'Who': 'rider'}",
+      "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.6; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        2340,
+        2370,
+        2400
+      ],
+      "raw_section": {
+        "start": 2340,
+        "end": 2430
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 26
+    },
+    {
+      "start": 2610,
+      "end": 2700,
+      "start_time": 87.1,
+      "end_time": 90.1,
+      "raw_caption": "A rider navigates a dirt bike through a forest trail during the day.",
+      "attribute_caption_useful": "{'What': 'dirt biking', 'Where': 'forest trail', 'When': 'daytime', 'Who': 'unknown rider'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        2610,
+        2640,
+        2670
+      ],
+      "raw_section": {
+        "start": 2610,
+        "end": 2700
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 29
+    },
+    {
+      "start": 2880,
+      "end": 2970,
+      "start_time": 96.1,
+      "end_time": 99.1,
+      "raw_caption": "A rider is navigating a motorcycle along a dirt road during the day, showcasing an exciting off-road experience.",
+      "attribute_caption_useful": "{'What': 'motorcycle riding', 'Where': 'dirt road', 'When': 'daytime', 'Who': 'unknown rider'}",
+      "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.1; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        2880,
+        2910,
+        2940
+      ],
+      "raw_section": {
+        "start": 2880,
+        "end": 2970
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 32
+    },
+    {
+      "start": 3600,
+      "end": 3690,
+      "start_time": 120.1,
+      "end_time": 123.1,
+      "raw_caption": "A motorcycle rider navigates a dirt track at high speed during the day.",
+      "attribute_caption_useful": "{'What': 'motorcycle racing', 'Where': 'dirt track', 'When': 'daytime', 'Who': 'rider'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        3600,
+        3630,
+        3660
+      ],
+      "raw_section": {
+        "start": 3600,
+        "end": 3690
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 40
+    },
+    {
+      "start": 4050,
+      "end": 4140,
+      "start_time": 135.1,
+      "end_time": 138.1,
+      "raw_caption": "A motorcyclist navigates a dirt trail during the day, showcasing off-road riding skills.",
+      "attribute_caption_useful": "{'What': 'motorcycling', 'Where': 'dirt trail', 'When': 'daytime', 'Who': 'motorcyclist'}",
+      "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        4050,
+        4080,
+        4110
+      ],
+      "raw_section": {
+        "start": 4050,
+        "end": 4140
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 45
+    },
+    {
+      "start": 4230,
+      "end": 4320,
+      "start_time": 141.1,
+      "end_time": 144.1,
+      "raw_caption": "A motorbike rider navigates a dirt track at high speed, showcasing impressive handling skills.",
+      "attribute_caption_useful": "{'What': 'motorbike racing', 'Where': 'dirt track', 'When': 'daytime', 'Who': 'rider'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        4230,
+        4260,
+        4290
+      ],
+      "raw_section": {
+        "start": 4230,
+        "end": 4320
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 47
+    },
+    {
+      "start": 4860,
+      "end": 4950,
+      "start_time": 162.2,
+      "end_time": 165.2,
+      "raw_caption": "A motorcyclist navigates a dirt trail during the day, showcasing off-road riding skills.",
+      "attribute_caption_useful": "{'What': 'motorcycle riding', 'Where': 'dirt trail', 'When': 'daytime', 'Who': 'motorcyclist'}",
+      "attribute_caption_useless": "[Occlusion]: 0.1; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        4860,
+        4890,
+        4920
+      ],
+      "raw_section": {
+        "start": 4860,
+        "end": 4950
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 54
+    },
+    {
+      "start": 5580,
+      "end": 5670,
+      "start_time": 186.2,
+      "end_time": 189.2,
+      "raw_caption": "A biker is riding on a dirt track during the day, showcasing some thrilling maneuvers.",
+      "attribute_caption_useful": "{'What': 'dirt biking', 'Where': 'dirt track', 'When': 'daytime', 'Who': 'biker'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        5580,
+        5610,
+        5640
+      ],
+      "raw_section": {
+        "start": 5580,
+        "end": 5670
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 62
+    },
+    {
+      "start": 7290,
+      "end": 7380,
+      "start_time": 243.2,
+      "end_time": 246.2,
+      "raw_caption": "Motorcyclists are riding on a dirt track during the day, showcasing thrilling biking action.",
+      "attribute_caption_useful": "{'What': 'dirt biking', 'Where': 'dirt track', 'When': 'daytime', 'Who': 'motorcyclists'}",
+      "attribute_caption_useless": "[Occlusion]: 0.8; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        7290,
+        7320,
+        7350
+      ],
+      "raw_section": {
+        "start": 7290,
+        "end": 7380
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 81
+    },
+    {
+      "start": 8280,
+      "end": 8370,
+      "start_time": 276.3,
+      "end_time": 279.3,
+      "raw_caption": "A motorbike rider navigates a dirt track, showcasing skillful racing maneuvers.",
+      "attribute_caption_useful": "{'What': 'motorbike racing', 'Where': 'dirt track', 'When': 'daytime', 'Who': 'rider'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        8280,
+        8310,
+        8340
+      ],
+      "raw_section": {
+        "start": 8280,
+        "end": 8370
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 92
+    },
+    {
+      "start": 8550,
+      "end": 8640,
+      "start_time": 285.3,
+      "end_time": 288.3,
+      "raw_caption": "An individual rides a dirt bike on a dirt track during the daytime, showcasing a thrilling biking experience.",
+      "attribute_caption_useful": "{'What': 'riding a dirt bike', 'Where': 'dirt track', 'When': 'daytime', 'Who': 'individual in riding gear'}",
+      "attribute_caption_useless": "[Occlusion]: 0.4; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        8550,
+        8580,
+        8610
+      ],
+      "raw_section": {
+        "start": 8550,
+        "end": 8640
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 95
+    },
+    {
+      "start": 8910,
+      "end": 9000,
+      "start_time": 297.3,
+      "end_time": 300.3,
+      "raw_caption": "Two motorcyclists are racing on a dirt track during the day.",
+      "attribute_caption_useful": "{'What': 'dirt bike racing', 'Where': 'dirt track', 'When': 'daytime', 'Who': 'two motorcyclists'}",
+      "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0.4; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        8910,
+        8940,
+        8970
+      ],
+      "raw_section": {
+        "start": 8910,
+        "end": 9000
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 99
+    },
+    {
+      "start": 9180,
+      "end": 9270,
+      "start_time": 306.3,
+      "end_time": 309.3,
+      "raw_caption": "The video shows riders dirt biking on a track, capturing action-packed moments.",
+      "attribute_caption_useful": "{'What': 'dirt biking', 'Where': 'dirt track', 'When': 'daytime', 'Who': 'riders'}",
+      "attribute_caption_useless": "[Occlusion]: 0.6; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        9180,
+        9210,
+        9240
+      ],
+      "raw_section": {
+        "start": 9180,
+        "end": 9270
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 102
+    },
+    {
+      "start": 9450,
+      "end": 9540,
+      "start_time": 315.3,
+      "end_time": 318.3,
+      "raw_caption": "Two motorcyclists are racing on a dirt track during the day, showcasing thrilling motocross action.",
+      "attribute_caption_useful": "{'What': 'motocross racing', 'Where': 'dirt track', 'When': 'daytime', 'Who': 'two motorcyclists'}",
+      "attribute_caption_useless": "[Occlusion]: 0.6; [Shaking or Jittering]: 0.7; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+      "sample_id_list": [
+        9450,
+        9480,
+        9510
+      ],
+      "raw_section": {
+        "start": 9450,
+        "end": 9540
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 105
+    },
+    {
+      "start": 8190,
+      "end": 8280,
+      "start_time": 273.3,
+      "end_time": 276.3,
+      "raw_caption": "Two men are riding dirt bikes on a dirt track during the day.",
+      "attribute_caption_useful": "{'What': 'dirt biking', 'Where': 'dirt track', 'When': 'daytime', 'Who': 'two men'}",
+      "attribute_caption_useless": "[Occlusion]: 0.7; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        8190,
+        8220,
+        8250
+      ],
+      "raw_section": {
+        "start": 8190,
+        "end": 8280
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-motorcycle-Skaily_Production/MXAzBe7PZOQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 91
+    }
+  ]
+}

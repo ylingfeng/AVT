@@ -1,0 +1,926 @@
+[
+  {
+    "start": 216,
+    "end": 288,
+    "start_time": 9.0,
+    "end_time": 12.0,
+    "raw_caption": "A woman and a man are driving in a car, engaging in conversation during the daytime.",
+    "attribute_caption_useful": "{'What': 'driving and talking', 'Where': 'inside a car', 'When': 'daytime', 'Who': 'woman and man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0",
+    "sample_id_list": [
+      216,
+      240,
+      264
+    ],
+    "raw_section": {
+      "start": 216,
+      "end": 288
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 3
+  },
+  {
+    "start": 288,
+    "end": 360,
+    "start_time": 12.0,
+    "end_time": 15.0,
+    "raw_caption": "A woman and a man are driving in a car and having a conversation during the day.",
+    "attribute_caption_useful": "{'What': 'driving and talking', 'Where': 'inside a car', 'When': 'daytime', 'Who': 'woman and man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+    "sample_id_list": [
+      288,
+      312,
+      336
+    ],
+    "raw_section": {
+      "start": 288,
+      "end": 360
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 4
+  },
+  {
+    "start": 432,
+    "end": 504,
+    "start_time": 18.0,
+    "end_time": 21.0,
+    "raw_caption": "A woman and a man are driving and having a conversation inside a car during the day.",
+    "attribute_caption_useful": "{'What': 'driving and talking', 'Where': 'inside a car', 'When': 'daytime', 'Who': 'woman and man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.3;",
+    "sample_id_list": [
+      432,
+      456,
+      480
+    ],
+    "raw_section": {
+      "start": 432,
+      "end": 504
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 6
+  },
+  {
+    "start": 504,
+    "end": 576,
+    "start_time": 21.0,
+    "end_time": 24.0,
+    "raw_caption": "A woman and man are driving together in a car during sunset.",
+    "attribute_caption_useful": "{'What': 'driving', 'Where': 'inside a car', 'When': 'sunset', 'Who': 'woman and man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.6; [Exposure]: 0.3; [Edited]: 0.2; [Meaningless]: 0.5; [Highlight]: 0.2;",
+    "sample_id_list": [
+      504,
+      528,
+      552
+    ],
+    "raw_section": {
+      "start": 504,
+      "end": 576
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 7
+  },
+  {
+    "start": 648,
+    "end": 720,
+    "start_time": 27.0,
+    "end_time": 30.0,
+    "raw_caption": "A man is attempting to repair a car in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'attempting car repair', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.5; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+    "sample_id_list": [
+      648,
+      672,
+      696
+    ],
+    "raw_section": {
+      "start": 648,
+      "end": 720
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 9
+  },
+  {
+    "start": 720,
+    "end": 792,
+    "start_time": 30.0,
+    "end_time": 33.0,
+    "raw_caption": "A man is attempting to change a tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0.1; [Meaningless]: 0.3; [Highlight]: 0.1;",
+    "sample_id_list": [
+      720,
+      744,
+      768
+    ],
+    "raw_section": {
+      "start": 720,
+      "end": 792
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 10
+  },
+  {
+    "start": 3096,
+    "end": 3168,
+    "start_time": 129.1,
+    "end_time": 132.1,
+    "raw_caption": "A woman is sitting in a car showing a bag of candy and smiling.",
+    "attribute_caption_useful": "{'What': 'showing candy', 'Where': 'inside car', 'When': 'daytime', 'Who': 'woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      3096,
+      3120,
+      3144
+    ],
+    "raw_section": {
+      "start": 3096,
+      "end": 3168
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 43
+  },
+  {
+    "start": 4608,
+    "end": 4680,
+    "start_time": 192.2,
+    "end_time": 195.2,
+    "raw_caption": "A man is checking the trunk of a car in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'looking into car trunk', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+    "sample_id_list": [
+      4608,
+      4632,
+      4656
+    ],
+    "raw_section": {
+      "start": 4608,
+      "end": 4680
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 64
+  },
+  {
+    "start": 4824,
+    "end": 4896,
+    "start_time": 201.2,
+    "end_time": 204.2,
+    "raw_caption": "A man is retrieving items from the trunk of a car in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'retrieving items from car trunk', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.1;",
+    "sample_id_list": [
+      4824,
+      4848,
+      4872
+    ],
+    "raw_section": {
+      "start": 4824,
+      "end": 4896
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 67
+  },
+  {
+    "start": 5544,
+    "end": 5616,
+    "start_time": 231.2,
+    "end_time": 234.2,
+    "raw_caption": "A woman and a man are in a parking lot, posing and smiling at the camera.",
+    "attribute_caption_useful": "{'What': 'posing and smiling', 'Where': 'parking lot', 'When': 'evening', 'Who': 'woman and man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.4; [Highlight]: 0.1;",
+    "sample_id_list": [
+      5544,
+      5568,
+      5592
+    ],
+    "raw_section": {
+      "start": 5544,
+      "end": 5616
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 77
+  },
+  {
+    "start": 5760,
+    "end": 5832,
+    "start_time": 240.2,
+    "end_time": 243.2,
+    "raw_caption": "A man is changing a flat tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing a tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      5760,
+      5784,
+      5808
+    ],
+    "raw_section": {
+      "start": 5760,
+      "end": 5832
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 80
+  },
+  {
+    "start": 5832,
+    "end": 5904,
+    "start_time": 243.2,
+    "end_time": 246.2,
+    "raw_caption": "A man is changing a car tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing a tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      5832,
+      5856,
+      5880
+    ],
+    "raw_section": {
+      "start": 5832,
+      "end": 5904
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 81
+  },
+  {
+    "start": 6408,
+    "end": 6480,
+    "start_time": 267.3,
+    "end_time": 270.3,
+    "raw_caption": "A man is changing a car tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing car tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man and woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.5; [Exposure]: 0; [Edited]: 0.2; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      6408,
+      6432,
+      6456
+    ],
+    "raw_section": {
+      "start": 6408,
+      "end": 6480
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 89
+  },
+  {
+    "start": 6480,
+    "end": 6552,
+    "start_time": 270.3,
+    "end_time": 273.3,
+    "raw_caption": "A man is changing a flat tire on the roadside during the day.",
+    "attribute_caption_useful": "{'What': 'changing a car tire', 'Where': 'roadside', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0",
+    "sample_id_list": [
+      6480,
+      6504,
+      6528
+    ],
+    "raw_section": {
+      "start": 6480,
+      "end": 6552
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 90
+  },
+  {
+    "start": 7128,
+    "end": 7200,
+    "start_time": 297.3,
+    "end_time": 300.3,
+    "raw_caption": "A man is changing a car tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing car tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+    "sample_id_list": [
+      7128,
+      7152,
+      7176
+    ],
+    "raw_section": {
+      "start": 7128,
+      "end": 7200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 99
+  },
+  {
+    "start": 7200,
+    "end": 7272,
+    "start_time": 300.3,
+    "end_time": 303.3,
+    "raw_caption": "A man is changing a car tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing a car tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      7200,
+      7224,
+      7248
+    ],
+    "raw_section": {
+      "start": 7200,
+      "end": 7272
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 100
+  },
+  {
+    "start": 7272,
+    "end": 7344,
+    "start_time": 303.3,
+    "end_time": 306.3,
+    "raw_caption": "A man is sitting on the ground in a parking lot, working on changing a car tire.",
+    "attribute_caption_useful": "{'What': 'changing a tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0.2; [Meaningless]: 0.2; [Highlight]: 0",
+    "sample_id_list": [
+      7272,
+      7296,
+      7320
+    ],
+    "raw_section": {
+      "start": 7272,
+      "end": 7344
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 101
+  },
+  {
+    "start": 7344,
+    "end": 7416,
+    "start_time": 306.3,
+    "end_time": 309.3,
+    "raw_caption": "A man is changing a car tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing a tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0.1; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      7344,
+      7368,
+      7392
+    ],
+    "raw_section": {
+      "start": 7344,
+      "end": 7416
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 102
+  },
+  {
+    "start": 7416,
+    "end": 7488,
+    "start_time": 309.3,
+    "end_time": 312.3,
+    "raw_caption": "A man is changing a car tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing a tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      7416,
+      7440,
+      7464
+    ],
+    "raw_section": {
+      "start": 7416,
+      "end": 7488
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 103
+  },
+  {
+    "start": 7704,
+    "end": 7776,
+    "start_time": 321.3,
+    "end_time": 324.3,
+    "raw_caption": "A man and a woman are working together to remove a tire from a car in a parking lot.",
+    "attribute_caption_useful": "{'What': 'removing car tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man and woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.5;",
+    "sample_id_list": [
+      7704,
+      7728,
+      7752
+    ],
+    "raw_section": {
+      "start": 7704,
+      "end": 7776
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 107
+  },
+  {
+    "start": 7776,
+    "end": 7848,
+    "start_time": 324.3,
+    "end_time": 327.3,
+    "raw_caption": "A man and a woman are changing a tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing a tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man and woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.3;",
+    "sample_id_list": [
+      7776,
+      7800,
+      7824
+    ],
+    "raw_section": {
+      "start": 7776,
+      "end": 7848
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 108
+  },
+  {
+    "start": 7848,
+    "end": 7920,
+    "start_time": 327.3,
+    "end_time": 330.3,
+    "raw_caption": "A woman and a man are changing a tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing a tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'woman and man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.3;",
+    "sample_id_list": [
+      7848,
+      7872,
+      7896
+    ],
+    "raw_section": {
+      "start": 7848,
+      "end": 7920
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 109
+  },
+  {
+    "start": 8064,
+    "end": 8136,
+    "start_time": 336.3,
+    "end_time": 339.3,
+    "raw_caption": "A man is changing a tire on a car in a parking lot during the evening.",
+    "attribute_caption_useful": "{'What': 'changing a tire', 'Where': 'parking lot', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0.1; [Meaningless]: 0.1; [Highlight]: 0.2;",
+    "sample_id_list": [
+      8064,
+      8088,
+      8112
+    ],
+    "raw_section": {
+      "start": 8064,
+      "end": 8136
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 112
+  },
+  {
+    "start": 8136,
+    "end": 8208,
+    "start_time": 339.3,
+    "end_time": 342.3,
+    "raw_caption": "A man is changing a car tire in a parking lot during the evening.",
+    "attribute_caption_useful": "{'What': 'changing car tire', 'Where': 'parking lot', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      8136,
+      8160,
+      8184
+    ],
+    "raw_section": {
+      "start": 8136,
+      "end": 8208
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 113
+  },
+  {
+    "start": 8280,
+    "end": 8352,
+    "start_time": 345.3,
+    "end_time": 348.3,
+    "raw_caption": "A man is changing a tire on a car in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing car tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0.2; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      8280,
+      8304,
+      8328
+    ],
+    "raw_section": {
+      "start": 8280,
+      "end": 8352
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 115
+  },
+  {
+    "start": 8352,
+    "end": 8424,
+    "start_time": 348.3,
+    "end_time": 351.4,
+    "raw_caption": "A man is changing a car tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing a car tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0.2; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      8352,
+      8376,
+      8400
+    ],
+    "raw_section": {
+      "start": 8352,
+      "end": 8424
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 116
+  },
+  {
+    "start": 8424,
+    "end": 8496,
+    "start_time": 351.4,
+    "end_time": 354.4,
+    "raw_caption": "A man is changing a car tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing car tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0.5; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      8424,
+      8448,
+      8472
+    ],
+    "raw_section": {
+      "start": 8424,
+      "end": 8496
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 117
+  },
+  {
+    "start": 8496,
+    "end": 8568,
+    "start_time": 354.4,
+    "end_time": 357.4,
+    "raw_caption": "A man is changing a car tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing a tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.7;",
+    "sample_id_list": [
+      8496,
+      8520,
+      8544
+    ],
+    "raw_section": {
+      "start": 8496,
+      "end": 8568
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0.7",
+    "clip_id": 118
+  },
+  {
+    "start": 8568,
+    "end": 8640,
+    "start_time": 357.4,
+    "end_time": 360.4,
+    "raw_caption": "A man and a woman are changing a car tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing car tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man and woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.2;",
+    "sample_id_list": [
+      8568,
+      8592,
+      8616
+    ],
+    "raw_section": {
+      "start": 8568,
+      "end": 8640
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 119
+  },
+  {
+    "start": 8640,
+    "end": 8712,
+    "start_time": 360.4,
+    "end_time": 363.4,
+    "raw_caption": "A woman and a man are changing a tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing a car tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'woman and man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0.5; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      8640,
+      8664,
+      8688
+    ],
+    "raw_section": {
+      "start": 8640,
+      "end": 8712
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 120
+  },
+  {
+    "start": 8712,
+    "end": 8784,
+    "start_time": 363.4,
+    "end_time": 366.4,
+    "raw_caption": "A woman and a man are changing a tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing a tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'woman and man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.5;",
+    "sample_id_list": [
+      8712,
+      8736,
+      8760
+    ],
+    "raw_section": {
+      "start": 8712,
+      "end": 8784
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 121
+  },
+  {
+    "start": 8784,
+    "end": 8856,
+    "start_time": 366.4,
+    "end_time": 369.4,
+    "raw_caption": "A woman and a man are changing a tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing a tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'woman and man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.3;",
+    "sample_id_list": [
+      8784,
+      8808,
+      8832
+    ],
+    "raw_section": {
+      "start": 8784,
+      "end": 8856
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 122
+  },
+  {
+    "start": 9000,
+    "end": 9072,
+    "start_time": 375.4,
+    "end_time": 378.4,
+    "raw_caption": "A man is changing a car tire in a parking lot during the day.",
+    "attribute_caption_useful": "{'What': 'changing a car tire', 'Where': 'parking lot', 'When': 'daytime', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      9000,
+      9024,
+      9048
+    ],
+    "raw_section": {
+      "start": 9000,
+      "end": 9072
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 125
+  },
+  {
+    "start": 9144,
+    "end": 9216,
+    "start_time": 381.4,
+    "end_time": 384.4,
+    "raw_caption": "A man is inspecting a car tire in a parking lot during the evening.",
+    "attribute_caption_useful": "{'What': 'checking car tire', 'Where': 'parking lot', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0;",
+    "sample_id_list": [
+      9144,
+      9168,
+      9192
+    ],
+    "raw_section": {
+      "start": 9144,
+      "end": 9216
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 127
+  },
+  {
+    "start": 9288,
+    "end": 9360,
+    "start_time": 387.4,
+    "end_time": 390.4,
+    "raw_caption": "A man is changing a car tire in a parking lot during the evening.",
+    "attribute_caption_useful": "{'What': 'changing a car tire', 'Where': 'parking lot', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+    "sample_id_list": [
+      9288,
+      9312,
+      9336
+    ],
+    "raw_section": {
+      "start": 9288,
+      "end": 9360
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 129
+  },
+  {
+    "start": 9360,
+    "end": 9432,
+    "start_time": 390.4,
+    "end_time": 393.4,
+    "raw_caption": "A man is changing a tire on a car in a parking lot during the evening.",
+    "attribute_caption_useful": "{'What': 'changing a tire', 'Where': 'parking lot', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0",
+    "sample_id_list": [
+      9360,
+      9384,
+      9408
+    ],
+    "raw_section": {
+      "start": 9360,
+      "end": 9432
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 130
+  },
+  {
+    "start": 9432,
+    "end": 9504,
+    "start_time": 393.4,
+    "end_time": 396.4,
+    "raw_caption": "A man is changing a tire in a parking lot during the evening.",
+    "attribute_caption_useful": "{'What': 'changing a tire', 'Where': 'parking lot', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0.1; [Meaningless]: 0.2; [Highlight]: 0",
+    "sample_id_list": [
+      9432,
+      9456,
+      9480
+    ],
+    "raw_section": {
+      "start": 9432,
+      "end": 9504
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 131
+  },
+  {
+    "start": 9576,
+    "end": 9648,
+    "start_time": 399.4,
+    "end_time": 402.4,
+    "raw_caption": "A man is seen fixing a car tire in a parking lot during the evening.",
+    "attribute_caption_useful": "{'What': 'fixing a car tire', 'Where': 'parking lot', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0.1; [Meaningless]: 0.5; [Highlight]: 0.2;",
+    "sample_id_list": [
+      9576,
+      9600,
+      9624
+    ],
+    "raw_section": {
+      "start": 9576,
+      "end": 9648
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 133
+  },
+  {
+    "start": 9720,
+    "end": 9792,
+    "start_time": 405.4,
+    "end_time": 408.4,
+    "raw_caption": "A man is changing a tire in a parking lot during the evening.",
+    "attribute_caption_useful": "{'What': 'changing a tire', 'Where': 'parking lot', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0",
+    "sample_id_list": [
+      9720,
+      9744,
+      9768
+    ],
+    "raw_section": {
+      "start": 9720,
+      "end": 9792
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 135
+  },
+  {
+    "start": 9792,
+    "end": 9864,
+    "start_time": 408.4,
+    "end_time": 411.4,
+    "raw_caption": "A man is changing a tire in a parking lot during the evening.",
+    "attribute_caption_useful": "{'What': 'changing a tire', 'Where': 'parking lot', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.7; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      9792,
+      9816,
+      9840
+    ],
+    "raw_section": {
+      "start": 9792,
+      "end": 9864
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 136
+  },
+  {
+    "start": 10080,
+    "end": 10152,
+    "start_time": 420.4,
+    "end_time": 423.4,
+    "raw_caption": "A woman is standing by a car in a parking lot, smiling during the evening.",
+    "attribute_caption_useful": "{'What': 'woman smiling by car', 'Where': 'parking lot', 'When': 'evening', 'Who': 'woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0",
+    "sample_id_list": [
+      10080,
+      10104,
+      10128
+    ],
+    "raw_section": {
+      "start": 10080,
+      "end": 10152
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 140
+  },
+  {
+    "start": 11088,
+    "end": 11160,
+    "start_time": 462.5,
+    "end_time": 465.5,
+    "raw_caption": "A man is sitting by a car in a parking lot during the evening.",
+    "attribute_caption_useful": "{'What': 'sitting by car', 'Where': 'parking lot', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0.1; [Meaningless]: 0.4; [Highlight]: 0;",
+    "sample_id_list": [
+      11088,
+      11112,
+      11136
+    ],
+    "raw_section": {
+      "start": 11088,
+      "end": 11160
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 154
+  },
+  {
+    "start": 11664,
+    "end": 11736,
+    "start_time": 486.5,
+    "end_time": 489.5,
+    "raw_caption": "A man dances energetically in a parking lot next to a car with its hood open during the evening.",
+    "attribute_caption_useful": "{'What': 'dancing', 'Where': 'parking lot', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0.2;",
+    "sample_id_list": [
+      11664,
+      11688,
+      11712
+    ],
+    "raw_section": {
+      "start": 11664,
+      "end": 11736
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 162
+  },
+  {
+    "start": 11808,
+    "end": 11880,
+    "start_time": 492.5,
+    "end_time": 495.5,
+    "raw_caption": "A man dances energetically in a parking lot during the evening.",
+    "attribute_caption_useful": "{'What': 'dancing', 'Where': 'parking lot', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0.3;",
+    "sample_id_list": [
+      11808,
+      11832,
+      11856
+    ],
+    "raw_section": {
+      "start": 11808,
+      "end": 11880
+    },
+    "raw_caption_path": "data/avt/caption_saliency/daily_life-friend-Shawn_Roscoe/J0nA4VgnoCo.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 164
+  }
+]

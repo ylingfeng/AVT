@@ -1,0 +1,48 @@
+n_jobs: 4
+
+config_path_step1: "config/get_story_step1.yaml"
+config_path_step2: "config/get_story_step2.yaml"
+config_path_step3: "config/get_story_step3.yaml"
+
+group_mode: true
+
+group_name:
+  - daily_life-family-CapperCoolCooper
+  - daily_life-family-Earls_Family_Vlogs
+  - daily_life-family-Jason_Boon
+  - daily_life-family-The_Semps
+  - daily_life-food-Soon_Films_순필름
+  - daily_life-friend-Shawn_Roscoe
+  - daily_life-light_show-World_In_Nature_自然
+  - daily_life-pets-Cats_with_GoPro
+  - daily_life-pets-Gone_to_the_Snow_Dogs
+  - daily_life-pets-Ms_Kendall_G
+  - sports-badminton-SHUTTLE&MORE
+  - sports-basketball-June_young_Kim
+  - sports-cycling-Erkan_Sakallioglu
+  - sports-cycling-Richard_Whittle
+  - sports-motorcycle-Skaily_Production
+  - sports-skateboard-TOW_TRUCK_BOB
+  - sports-skating-HC+
+  - sports-skiing-Alex_E
+  - sports-skiing-Emerson_Nishi
+  - sports-skiing-ecosnowsportsTV
+  - travel-amusement_park-Informative_Topics_Vlogs
+  - travel-city_walk-Jahaar_views
+  - travel-hiking-thePOVchannel
+  - travel-luge-Travel&Adventure_Junkies
+  - travel-mountaineering-stivn
+  - travel-rafting-All_About_Shenzhen
+  - travel-road_trip-Mojo_Rides
+  - travel-show-HetfieldMustaine22
+  - travel-show-KriyaLv
+  - travel-water_park-Gezen_Adam
+
+data:
+  test_data:
+    raw_caption_dir: "./data/avt/caption"
+    story_dir: "./data/avt/output/story"
+    caption_dir: "./data/avt/output/caption"
+
+skip_story: false
+overwrite: true

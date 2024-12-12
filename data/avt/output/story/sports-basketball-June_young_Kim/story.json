@@ -1,0 +1,477 @@
+{
+  "choose_clip_info": "step2 story: use merge. multi step1 (True), multi step2 (False), story choose: 20, all story video clip: 96, all useful video clip: 394, all video clip: 399",
+  "story_result": {
+    "section_id_list": [
+      2,
+      3,
+      17,
+      60,
+      79,
+      86,
+      98,
+      109,
+      148,
+      164,
+      171,
+      251,
+      266,
+      294,
+      310,
+      316,
+      329,
+      344,
+      345,
+      369
+    ],
+    "clip_caption": {
+      "2": "This clip introduces the setting of an indoor basketball game in the evening, showcasing active gameplay and teamwork, making it an ideal opening for setting the scene.",
+      "3": "A dynamic game moment is captured in this clip, which serves well to maintain the energy of the sequence.",
+      "17": "The clip highlights dynamic gameplay in an indoor gym, contributing to the ongoing narrative of the basketball game.",
+      "60": "This clip features a successful shot, offering a climactic moment that could be placed towards the end to demonstrate skill and achievement.",
+      "79": "Dynamic action and teamwork are showcased, reinforcing the theme of collaboration and effort in the game.",
+      "86": "An exciting game moment is captured, maintaining the high energy and intensity of the sequence.",
+      "98": "An action-packed moment with a successful shot is shown, providing a highlight that could serve as a concluding point in the sequence.",
+      "109": "Dynamic movements and teamwork are showcased, emphasizing the collaborative aspect of the game.",
+      "148": "The clip captures active gameplay at night, adding variety to the sequence by showing different times of play.",
+      "164": "A successful shot is showcased, adding to the highlights of the game and suitable for a climactic moment.",
+      "171": "This clip emphasizes dynamic movements and teamwork, reinforcing the theme of collaboration.",
+      "251": "A dunking action is showcased, providing a thrilling highlight that can serve as a peak moment in the sequence.",
+      "266": "An intense basketball game is depicted, adding to the competitive atmosphere of the sequence.",
+      "294": "A competitive game is highlighted, contributing to the overall theme of competition and effort.",
+      "310": "Fast-paced action and teamwork are showcased, emphasizing the youthful energy and skill in the game.",
+      "316": "A successful shot is made, providing a moment of achievement and skill within the sequence.",
+      "329": "Energetic gameplay is showcased, maintaining the high intensity of the basketball sequence.",
+      "344": "Active gameplay in an indoor gym is captured, contributing to the ongoing narrative of the basketball game.",
+      "345": "Dynamic and competitive gameplay is showcased, emphasizing the intensity and skill of the players.",
+      "369": "The clip captures a basketball game in the evening, providing a fitting conclusion to the sequence by returning to the evening setting."
+    },
+    "theme_caption": {
+      "[2, 3, 17, 79, 86, 109, 171, 310, 329, 344]": "Dynamic Gameplay and Teamwork: These clips collectively emphasize the dynamic movements and teamwork involved in the basketball game, showcasing the players' coordination and energy.",
+      "[60, 98, 164, 251, 316]": "Highlight Moments: This theme captures the peak moments of the game, including successful shots and dunking actions, highlighting the skill and excitement of the players.",
+      "[148, 266, 294, 345, 369]": "Competition and Intensity: These clips focus on the competitive and intense nature of the game, showcasing the players' determination and effort across different times of play."
+    },
+    "global_caption": "The video collection presents a comprehensive view of an indoor basketball game, capturing the dynamic gameplay and teamwork of the players. Highlight moments such as successful shots and dunking actions add excitement and demonstrate the players' skills. The sequence is rounded out by clips that emphasize the competitive and intense nature of the game, providing a cohesive narrative of a spirited sporting event."
+  },
+  "output_section_info_list": [
+    {
+      "start": 360,
+      "end": 540,
+      "start_time": 6.0,
+      "end_time": 9.0,
+      "raw_caption": "A group of men are playing basketball in an indoor court, showcasing active gameplay and teamwork.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor basketball court', 'When': 'evening', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        360,
+        420,
+        480
+      ],
+      "raw_section": {
+        "start": 360,
+        "end": 540
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 2
+    },
+    {
+      "start": 540,
+      "end": 720,
+      "start_time": 9.0,
+      "end_time": 12.0,
+      "raw_caption": "A group of men are playing basketball in an indoor court, showcasing a dynamic game moment.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor basketball court', 'When': 'evening', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        540,
+        600,
+        660
+      ],
+      "raw_section": {
+        "start": 540,
+        "end": 720
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 3
+    },
+    {
+      "start": 3060,
+      "end": 3240,
+      "start_time": 51.1,
+      "end_time": 54.1,
+      "raw_caption": "A group of men are playing basketball in an indoor gym, showcasing a dynamic game.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor gym', 'When': 'evening', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        3060,
+        3120,
+        3180
+      ],
+      "raw_section": {
+        "start": 3060,
+        "end": 3240
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 17
+    },
+    {
+      "start": 10800,
+      "end": 10980,
+      "start_time": 180.2,
+      "end_time": 183.2,
+      "raw_caption": "A group of men are playing basketball in an indoor court, showcasing a successful shot.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor basketball court', 'When': 'evening', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        10800,
+        10860,
+        10920
+      ],
+      "raw_section": {
+        "start": 10800,
+        "end": 10980
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 60
+    },
+    {
+      "start": 14220,
+      "end": 14400,
+      "start_time": 237.2,
+      "end_time": 240.2,
+      "raw_caption": "A group of men are playing basketball in an indoor court, showcasing dynamic action and teamwork.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor basketball court', 'When': 'evening', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        14220,
+        14280,
+        14340
+      ],
+      "raw_section": {
+        "start": 14220,
+        "end": 14400
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 79
+    },
+    {
+      "start": 15480,
+      "end": 15660,
+      "start_time": 258.3,
+      "end_time": 261.3,
+      "raw_caption": "A group of men are playing basketball in an indoor court, showcasing an exciting moment of the game.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor basketball court', 'When': 'evening', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        15480,
+        15540,
+        15600
+      ],
+      "raw_section": {
+        "start": 15480,
+        "end": 15660
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 86
+    },
+    {
+      "start": 17640,
+      "end": 17820,
+      "start_time": 294.3,
+      "end_time": 297.3,
+      "raw_caption": "A group of men are playing basketball in an indoor gym, capturing an action-packed moment with a successful shot.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor gym', 'When': 'daytime', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        17640,
+        17700,
+        17760
+      ],
+      "raw_section": {
+        "start": 17640,
+        "end": 17820
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 98
+    },
+    {
+      "start": 19620,
+      "end": 19800,
+      "start_time": 327.3,
+      "end_time": 330.3,
+      "raw_caption": "A group of men are playing basketball in an indoor gym, showcasing dynamic movements and teamwork.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor gym', 'When': 'daytime', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        19620,
+        19680,
+        19740
+      ],
+      "raw_section": {
+        "start": 19620,
+        "end": 19800
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 109
+    },
+    {
+      "start": 26640,
+      "end": 26820,
+      "start_time": 444.4,
+      "end_time": 447.4,
+      "raw_caption": "A group of men are actively playing basketball in an indoor gym at night.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor gym', 'When': 'nighttime', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        26640,
+        26700,
+        26760
+      ],
+      "raw_section": {
+        "start": 26640,
+        "end": 26820
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 148
+    },
+    {
+      "start": 29520,
+      "end": 29700,
+      "start_time": 492.5,
+      "end_time": 495.5,
+      "raw_caption": "A group of men are playing basketball in an indoor gym, showcasing a successful shot.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor gym', 'When': 'evening', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        29520,
+        29580,
+        29640
+      ],
+      "raw_section": {
+        "start": 29520,
+        "end": 29700
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 164
+    },
+    {
+      "start": 30780,
+      "end": 30960,
+      "start_time": 513.5,
+      "end_time": 516.5,
+      "raw_caption": "A group of men are playing basketball in an indoor gym, showcasing dynamic movements and teamwork.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor gym', 'When': 'daytime', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        30780,
+        30840,
+        30900
+      ],
+      "raw_section": {
+        "start": 30780,
+        "end": 30960
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 171
+    },
+    {
+      "start": 45180,
+      "end": 45360,
+      "start_time": 753.8,
+      "end_time": 756.8,
+      "raw_caption": "A group of men are playing basketball in an indoor gym, showcasing a dunking action.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor gym', 'When': 'evening', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        45180,
+        45240,
+        45300
+      ],
+      "raw_section": {
+        "start": 45180,
+        "end": 45360
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 251
+    },
+    {
+      "start": 47880,
+      "end": 48060,
+      "start_time": 798.8,
+      "end_time": 801.8,
+      "raw_caption": "A group of men are playing an intense basketball game on an indoor court.",
+      "attribute_caption_useful": "{'What': 'basketball game', 'Where': 'indoor court', 'When': 'evening', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0.2; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        47880,
+        47940,
+        48000
+      ],
+      "raw_section": {
+        "start": 47880,
+        "end": 48060
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 266
+    },
+    {
+      "start": 52920,
+      "end": 53100,
+      "start_time": 882.9,
+      "end_time": 885.9,
+      "raw_caption": "A group of men are playing a competitive basketball game on an indoor court.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor basketball court', 'When': 'evening', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        52920,
+        52980,
+        53040
+      ],
+      "raw_section": {
+        "start": 52920,
+        "end": 53100
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 294
+    },
+    {
+      "start": 55800,
+      "end": 55980,
+      "start_time": 930.9,
+      "end_time": 933.9,
+      "raw_caption": "A group of young men are playing basketball in an indoor gym, showcasing fast-paced action and teamwork.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor gym', 'When': 'daytime', 'Who': 'group of young men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        55800,
+        55860,
+        55920
+      ],
+      "raw_section": {
+        "start": 55800,
+        "end": 55980
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 310
+    },
+    {
+      "start": 56880,
+      "end": 57060,
+      "start_time": 948.9,
+      "end_time": 952.0,
+      "raw_caption": "A group of men are playing a basketball game indoors, with a successful shot being made.",
+      "attribute_caption_useful": "{'What': 'basketball game', 'Where': 'indoor basketball court', 'When': 'evening', 'Who': 'men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        56880,
+        56940,
+        57000
+      ],
+      "raw_section": {
+        "start": 56880,
+        "end": 57060
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 316
+    },
+    {
+      "start": 59220,
+      "end": 59400,
+      "start_time": 988.0,
+      "end_time": 991.0,
+      "raw_caption": "A group of men are playing basketball in an indoor court, showcasing an energetic game.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor basketball court', 'When': 'evening', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        59220,
+        59280,
+        59340
+      ],
+      "raw_section": {
+        "start": 59220,
+        "end": 59400
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 329
+    },
+    {
+      "start": 61920,
+      "end": 62100,
+      "start_time": 1033.0,
+      "end_time": 1036.0,
+      "raw_caption": "A group of men are playing basketball in an indoor gym, showcasing active gameplay.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor gym', 'When': 'evening', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        61920,
+        61980,
+        62040
+      ],
+      "raw_section": {
+        "start": 61920,
+        "end": 62100
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 344
+    },
+    {
+      "start": 62100,
+      "end": 62280,
+      "start_time": 1036.0,
+      "end_time": 1039.0,
+      "raw_caption": "A group of men are playing basketball in an indoor court, showcasing dynamic and competitive gameplay.",
+      "attribute_caption_useful": "{'What': 'playing basketball', 'Where': 'indoor basketball court', 'When': 'daytime', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        62100,
+        62160,
+        62220
+      ],
+      "raw_section": {
+        "start": 62100,
+        "end": 62280
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 345
+    },
+    {
+      "start": 66420,
+      "end": 66600,
+      "start_time": 1108.1,
+      "end_time": 1111.1,
+      "raw_caption": "A group of men are playing a basketball game in an indoor gym during the evening.",
+      "attribute_caption_useful": "{'What': 'basketball game', 'Where': 'indoor gym', 'When': 'evening', 'Who': 'group of men'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        66420,
+        66480,
+        66540
+      ],
+      "raw_section": {
+        "start": 66420,
+        "end": 66600
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-basketball-June_young_Kim/UNemjRp6YJg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 369
+    }
+  ]
+}

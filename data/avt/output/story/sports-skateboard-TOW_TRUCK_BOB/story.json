@@ -1,0 +1,480 @@
+{
+  "choose_clip_info": "step2 story: use merge. multi step1 (True), multi step2 (False), story choose: 20, all story video clip: 110, all useful video clip: 339, all video clip: 351",
+  "story_result": {
+    "section_id_list": [
+      2,
+      10,
+      24,
+      27,
+      31,
+      46,
+      47,
+      48,
+      50,
+      54,
+      65,
+      140,
+      147,
+      219,
+      228,
+      229,
+      230,
+      267,
+      312,
+      333
+    ],
+    "clip_caption": {
+      "2": "This clip features a man skateboarding towards the beach at sunset, passing a woman on a bicycle. It serves as a natural beginning due to the transition from a residential area to the beach, setting the scene for a coastal journey.",
+      "10": "A man skateboards along a coastal path at dusk, heading towards the ocean, suggesting a continuation of the journey towards the ocean, fitting well in the middle of the sequence.",
+      "24": "Showcasing a smooth ride, this clip of a man skateboarding along a beachside path at dusk highlights the skill and ease of skateboarding, making it suitable for the middle of the sequence.",
+      "27": "This clip, featuring a man skateboarding along a beachfront path at dusk while passing cyclists and pedestrians, emphasizes the shared use of the path, fitting into the sequence as part of the ongoing journey.",
+      "31": "A man skateboards along a beachfront path at sunset, which could serve as a transition from the beach to more populated areas, fitting towards the middle or end of the sequence.",
+      "46": "The clip of a skateboarder passing cyclists and pedestrians at dusk on a beachside path suggests a vibrant, shared space, suitable for the middle of the sequence.",
+      "47": "Capturing a man skateboarding alongside cyclists on a beachside path at dusk, this clip emphasizes community and shared experiences, ideal for the middle of the sequence.",
+      "48": "With a woman and man biking and skateboarding along a beachside path at dusk, this clip highlights the harmonious coexistence of different activities, fitting well in the middle of the sequence.",
+      "50": "A man skateboarding along a beachside path at dusk captures the serene atmosphere, making it suitable for the middle of the sequence.",
+      "54": "This clip features a man skateboarding past modern buildings at dusk, adding an urban touch to the beachside path, fitting well in the middle of the sequence.",
+      "65": "A man skateboarding along a beachfront promenade at dusk captures the lively environment, suitable for the middle of the sequence.",
+      "140": "The clip of a skateboarder and two cyclists on a boardwalk at dusk highlights the diversity of activities, fitting well in the middle of the sequence.",
+      "147": "Featuring a man skateboarding alongside a woman cycling on a seaside promenade, this clip emphasizes the shared space at dusk, suitable for the middle of the sequence.",
+      "219": "A group of people skateboarding and cycling along a seaside promenade at dusk captures the communal vibe, fitting well in the middle of the sequence.",
+      "228": "This clip, with a man skateboarding on a seaside promenade at dusk, captures the motion and environment, suitable for the middle of the sequence.",
+      "229": "An individual skateboarding along a beachside path at dusk, with palm trees in the background, adds a scenic element, fitting well in the middle of the sequence.",
+      "230": "A man skateboarding along a beachside promenade at dusk captures the serene atmosphere, suitable for the middle of the sequence.",
+      "267": "Capturing a dynamic and engaging moment, this clip of a man skateboarding down an urban street at dusk introduces a new setting, suitable for the middle or towards the end of the sequence.",
+      "312": "This clip, featuring a person skateboarding down a residential street at dusk, captures the transition from urban to residential settings, fitting towards the end of the sequence.",
+      "333": "A man skateboarding down a residential street in the evening, passing by houses, provides a natural conclusion to the sequence, bringing it back to a residential setting."
+    },
+    "theme_caption": {
+      "[2, 10, 31]": "Transition from Residential to Coastal. These clips depict the journey from residential areas to the beach, capturing the transition from sunset to dusk.",
+      "[24, 46, 50, 65, 230]": "Skateboarding at Dusk. This theme captures individuals skateboarding along beachside paths and promenades, emphasizing the serene and smooth rides at dusk.",
+      "[27, 47, 140, 219]": "Shared Spaces at Dusk. Featuring skateboarders and cyclists, these clips highlight the shared use of paths and promenades, showcasing community interactions.",
+      "[48, 147, 229]": "Biking and Skateboarding Harmony. These clips focus on the harmony between biking and skateboarding activities along seaside paths at dusk.",
+      "[54, 228, 267]": "Urban and Modern Elements. These clips introduce urban and modern settings, integrating cityscapes with the skateboarding journey.",
+      "[312, 333]": "Return to Residential. Concluding the sequence, these clips capture the transition back to residential streets, providing a sense of closure."
+    },
+    "global_caption": "The video collection captures a journey that begins in residential streets at sunset, transitions through coastal paths and beachfront promenades at dusk, and showcases a variety of skateboarding and cycling activities. The sequence emphasizes the harmony between different forms of transportation and the shared use of public spaces. It integrates urban and modern elements before returning to residential settings, providing a complete narrative arc that highlights both the skill of skateboarding and the beauty of the coastal environment."
+  },
+  "output_section_info_list": [
+    {
+      "start": 180,
+      "end": 270,
+      "start_time": 6.0,
+      "end_time": 9.0,
+      "raw_caption": "A man skateboards down a residential street towards the beach at sunset, passing a woman on a bicycle.",
+      "attribute_caption_useful": "{'What': 'skateboarding', 'Where': 'residential street near the beach', 'When': 'sunset', 'Who': 'man on skateboard, woman on bicycle'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        180,
+        210,
+        240
+      ],
+      "raw_section": {
+        "start": 180,
+        "end": 270
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 2
+    },
+    {
+      "start": 900,
+      "end": 990,
+      "start_time": 30.0,
+      "end_time": 33.0,
+      "raw_caption": "A man is skateboarding along a coastal path at dusk, heading towards the ocean.",
+      "attribute_caption_useful": "{'What': 'skateboarding', 'Where': 'coastal path', 'When': 'dusk', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        900,
+        930,
+        960
+      ],
+      "raw_section": {
+        "start": 900,
+        "end": 990
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 10
+    },
+    {
+      "start": 2160,
+      "end": 2250,
+      "start_time": 72.1,
+      "end_time": 75.1,
+      "raw_caption": "A man is skateboarding along a beachside path at dusk, showcasing a smooth ride.",
+      "attribute_caption_useful": "{'What': 'skateboarding', 'Where': 'beachside path', 'When': 'dusk', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        2160,
+        2190,
+        2220
+      ],
+      "raw_section": {
+        "start": 2160,
+        "end": 2250
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 24
+    },
+    {
+      "start": 2430,
+      "end": 2520,
+      "start_time": 81.1,
+      "end_time": 84.1,
+      "raw_caption": "A man skateboards along a beachfront path at dusk, passing cyclists and pedestrians.",
+      "attribute_caption_useful": "{'What': 'skateboarding', 'Where': 'beachfront path', 'When': 'dusk', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        2430,
+        2460,
+        2490
+      ],
+      "raw_section": {
+        "start": 2430,
+        "end": 2520
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 27
+    },
+    {
+      "start": 2790,
+      "end": 2880,
+      "start_time": 93.1,
+      "end_time": 96.1,
+      "raw_caption": "A man skateboards along a beachfront path at sunset.",
+      "attribute_caption_useful": "{'What': 'skateboarding', 'Where': 'beachfront path', 'When': 'sunset', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+      "sample_id_list": [
+        2790,
+        2820,
+        2850
+      ],
+      "raw_section": {
+        "start": 2790,
+        "end": 2880
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 31
+    },
+    {
+      "start": 4140,
+      "end": 4230,
+      "start_time": 138.1,
+      "end_time": 141.1,
+      "raw_caption": "A skateboarder rides along a beachside path at dusk, passing by cyclists and pedestrians.",
+      "attribute_caption_useful": "{'What': 'skateboarding', 'Where': 'beachside path', 'When': 'dusk', 'Who': 'skateboarder and cyclists'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.3; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        4140,
+        4170,
+        4200
+      ],
+      "raw_section": {
+        "start": 4140,
+        "end": 4230
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 46
+    },
+    {
+      "start": 4230,
+      "end": 4320,
+      "start_time": 141.1,
+      "end_time": 144.1,
+      "raw_caption": "A man skateboards alongside a woman and man cycling on a beachside path at dusk.",
+      "attribute_caption_useful": "{'What': 'skateboarding and cycling', 'Where': 'beachside path', 'When': 'dusk', 'Who': 'man on skateboard, woman and man on bicycles'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        4230,
+        4260,
+        4290
+      ],
+      "raw_section": {
+        "start": 4230,
+        "end": 4320
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 47
+    },
+    {
+      "start": 4320,
+      "end": 4410,
+      "start_time": 144.1,
+      "end_time": 147.1,
+      "raw_caption": "A woman and a man are biking and skateboarding along a beachside path at dusk.",
+      "attribute_caption_useful": "{'What': 'biking and skateboarding', 'Where': 'beachside path', 'When': 'dusk', 'Who': 'woman and man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        4320,
+        4350,
+        4380
+      ],
+      "raw_section": {
+        "start": 4320,
+        "end": 4410
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 48
+    },
+    {
+      "start": 4500,
+      "end": 4590,
+      "start_time": 150.2,
+      "end_time": 153.2,
+      "raw_caption": "A man is skateboarding along a beachside path at dusk.",
+      "attribute_caption_useful": "{'What': 'skateboarding', 'Where': 'beachside path', 'When': 'dusk', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        4500,
+        4530,
+        4560
+      ],
+      "raw_section": {
+        "start": 4500,
+        "end": 4590
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 50
+    },
+    {
+      "start": 4860,
+      "end": 4950,
+      "start_time": 162.2,
+      "end_time": 165.2,
+      "raw_caption": "A man is skateboarding along a beachside path at dusk, passing by modern buildings.",
+      "attribute_caption_useful": "{'What': 'skateboarding', 'Where': 'beachside path', 'When': 'dusk', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        4860,
+        4890,
+        4920
+      ],
+      "raw_section": {
+        "start": 4860,
+        "end": 4950
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 54
+    },
+    {
+      "start": 5850,
+      "end": 5940,
+      "start_time": 195.2,
+      "end_time": 198.2,
+      "raw_caption": "A man is skateboarding along a beachfront promenade at dusk.",
+      "attribute_caption_useful": "{'What': 'skateboarding', 'Where': 'beachfront promenade', 'When': 'dusk', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+      "sample_id_list": [
+        5850,
+        5880,
+        5910
+      ],
+      "raw_section": {
+        "start": 5850,
+        "end": 5940
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 65
+    },
+    {
+      "start": 12600,
+      "end": 12690,
+      "start_time": 420.4,
+      "end_time": 423.4,
+      "raw_caption": "A skateboarder and two cyclists are riding along a boardwalk at dusk.",
+      "attribute_caption_useful": "{'What': 'skateboarding and cycling', 'Where': 'boardwalk', 'When': 'dusk', 'Who': 'two cyclists and a skateboarder'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        12600,
+        12630,
+        12660
+      ],
+      "raw_section": {
+        "start": 12600,
+        "end": 12690
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 140
+    },
+    {
+      "start": 13230,
+      "end": 13320,
+      "start_time": 441.4,
+      "end_time": 444.4,
+      "raw_caption": "A man is skateboarding alongside a woman cycling on a seaside promenade during dusk.",
+      "attribute_caption_useful": "{'What': 'skateboarding and cycling', 'Where': 'seaside promenade', 'When': 'dusk', 'Who': 'man on skateboard, woman on bicycle'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+      "sample_id_list": [
+        13230,
+        13260,
+        13290
+      ],
+      "raw_section": {
+        "start": 13230,
+        "end": 13320
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 147
+    },
+    {
+      "start": 19710,
+      "end": 19800,
+      "start_time": 657.7,
+      "end_time": 660.7,
+      "raw_caption": "A group of people are skateboarding and cycling along a seaside promenade at dusk.",
+      "attribute_caption_useful": "{'What': 'skateboarding and cycling', 'Where': 'seaside promenade', 'When': 'dusk', 'Who': 'group of people'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        19710,
+        19740,
+        19770
+      ],
+      "raw_section": {
+        "start": 19710,
+        "end": 19800
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 219
+    },
+    {
+      "start": 20520,
+      "end": 20610,
+      "start_time": 684.7,
+      "end_time": 687.7,
+      "raw_caption": "A man skateboards along a seaside promenade at dusk, capturing the motion and environment.",
+      "attribute_caption_useful": "{'What': 'skateboarding', 'Where': 'seaside promenade', 'When': 'dusk', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+      "sample_id_list": [
+        20520,
+        20550,
+        20580
+      ],
+      "raw_section": {
+        "start": 20520,
+        "end": 20610
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 228
+    },
+    {
+      "start": 20610,
+      "end": 20700,
+      "start_time": 687.7,
+      "end_time": 690.7,
+      "raw_caption": "An individual is skateboarding along a beachside path at dusk, with palm trees visible in the background.",
+      "attribute_caption_useful": "{'What': 'skateboarding', 'Where': 'beachside path', 'When': 'dusk', 'Who': 'unknown individual'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        20610,
+        20640,
+        20670
+      ],
+      "raw_section": {
+        "start": 20610,
+        "end": 20700
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 229
+    },
+    {
+      "start": 20700,
+      "end": 20790,
+      "start_time": 690.7,
+      "end_time": 693.7,
+      "raw_caption": "A man is skateboarding along a beachside promenade at dusk.",
+      "attribute_caption_useful": "{'What': 'skateboarding', 'Where': 'beachside promenade', 'When': 'dusk', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        20700,
+        20730,
+        20760
+      ],
+      "raw_section": {
+        "start": 20700,
+        "end": 20790
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 230
+    },
+    {
+      "start": 24030,
+      "end": 24120,
+      "start_time": 801.8,
+      "end_time": 804.8,
+      "raw_caption": "A man is skateboarding down an urban street at dusk, capturing a dynamic and engaging moment.",
+      "attribute_caption_useful": "{'What': 'skateboarding', 'Where': 'urban street', 'When': 'dusk', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        24030,
+        24060,
+        24090
+      ],
+      "raw_section": {
+        "start": 24030,
+        "end": 24120
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 267
+    },
+    {
+      "start": 28080,
+      "end": 28170,
+      "start_time": 936.9,
+      "end_time": 939.9,
+      "raw_caption": "A person is skateboarding down a residential street at dusk, capturing the motion and surroundings.",
+      "attribute_caption_useful": "{'What': 'skateboarding', 'Where': 'residential street', 'When': 'dusk', 'Who': 'unknown, likely a man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.9;",
+      "sample_id_list": [
+        28080,
+        28110,
+        28140
+      ],
+      "raw_section": {
+        "start": 28080,
+        "end": 28170
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 312
+    },
+    {
+      "start": 29970,
+      "end": 30060,
+      "start_time": 1000.0,
+      "end_time": 1003.0,
+      "raw_caption": "A man is skateboarding down a residential street in the evening, passing by houses.",
+      "attribute_caption_useful": "{'What': 'skateboarding', 'Where': 'residential street', 'When': 'evening', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        29970,
+        30000,
+        30030
+      ],
+      "raw_section": {
+        "start": 29970,
+        "end": 30060
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skateboard-TOW_TRUCK_BOB/VVK1KkIKCYQ.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 333
+    }
+  ]
+}

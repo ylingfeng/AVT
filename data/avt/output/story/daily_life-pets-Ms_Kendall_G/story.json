@@ -1,0 +1,478 @@
+{
+  "choose_clip_info": "step2 story: use merge. multi step1 (True), multi step2 (False), story choose: 20, all story video clip: 41, all useful video clip: 150, all video clip: 150",
+  "story_result": {
+    "section_id_list": [
+      2,
+      3,
+      39,
+      40,
+      41,
+      42,
+      49,
+      50,
+      51,
+      54,
+      67,
+      68,
+      70,
+      72,
+      75,
+      81,
+      125,
+      126,
+      127,
+      129
+    ],
+    "clip_caption": {
+      "2": "The vlog begins with a woman introducing her vlog against a city skyline backdrop, transitioning into her kitchen, setting the stage for the rest of the sequence.",
+      "3": "A woman is seen preparing or organizing items in her kitchen during the day, which could serve as a continuation of her daily routine.",
+      "39": "The scene shows a woman petting a fluffy white dog in the kitchen during the day, adding a personal touch to the vlog.",
+      "40": "A woman is petting a fluffy white dog on a kitchen counter, highlighting her affection for the pet.",
+      "41": "A dog attempts to reach food on the kitchen counter, introducing a playful and mischievous moment.",
+      "42": "The dog explores items on the kitchen countertop during the day, continuing the playful theme.",
+      "49": "A woman grooms a dog in the kitchen, showing the care and attention given to the pet.",
+      "50": "A small white dog is being fed on a kitchen counter, surrounded by various items, illustrating a nurturing moment.",
+      "51": "A dog is being washed in a kitchen sink by a person, demonstrating care and hygiene practices.",
+      "54": "A small white dog is groomed on a kitchen counter, interacting with a person, emphasizing the grooming process.",
+      "67": "The woman makes a surprised face in an elevator after walking through a parking garage, possibly marking a transition or unexpected event.",
+      "68": "A woman reacts dramatically inside a building during daytime, suggesting a moment of surprise or excitement.",
+      "70": "A woman walks through a shopping mall during the day, observing her surroundings, which could indicate leisure or exploration.",
+      "72": "The woman walks along a city street during the daytime, capturing a moment of urban exploration.",
+      "75": "A woman walks and talks on an urban street during the day, indicating social interaction.",
+      "81": "A woman walks and talks at an outdoor cafe during the day, possibly engaging in a casual conversation.",
+      "125": "A woman plays with her dog in the living room during the day, showing a relaxed and joyful interaction.",
+      "126": "A small dog plays in a living room, surrounded by toys and shoes, capturing a carefree moment.",
+      "127": "A person plays with a fluffy white dog in a living room, surrounded by toys and shoes, adding to the playful atmosphere.",
+      "129": "A small white dog energetically plays in a living room, closing the sequence with a lively and cheerful scene."
+    },
+    "theme_caption": {
+      "[2]": "Vlog Introduction: The vlog starts with a woman introducing her vlog with a city skyline, setting the tone for a personal and engaging narrative.",
+      "[3, 39, 40, 41, 42, 49, 50, 51, 54]": "Kitchen Activities and Pet Care: Various clips depict the woman engaging in kitchen activities, from organizing and preparing to interacting with her dog, showcasing a blend of daily routine and pet care.",
+      "[67, 68, 70, 72, 75, 81]": "Urban Exploration and Interaction: The woman is seen exploring urban spaces, reacting to her environment, and engaging in social interactions, highlighting a day in the city.",
+      "[125, 126, 127, 129]": "Playtime in the Living Room: The final theme revolves around the playful interactions between the woman and her dog in the living room, ending the sequence on a joyful note."
+    },
+    "global_caption": "The video collection follows a woman as she introduces her vlog, engages in daily kitchen activities, and cares for her pet dog. Transitioning from indoor scenes to urban exploration, the narrative captures her reactions and interactions in various city settings. The sequence concludes with playful moments in the living room, leaving viewers with a sense of warmth and joy."
+  },
+  "output_section_info_list": [
+    {
+      "start": 180,
+      "end": 270,
+      "start_time": 6.0,
+      "end_time": 9.0,
+      "raw_caption": "A woman introduces her vlog with a city skyline and continues speaking in her kitchen.",
+      "attribute_caption_useful": "{'What': 'vlogging introduction', 'Where': 'kitchen', 'When': 'evening', 'Who': 'woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+      "sample_id_list": [
+        180,
+        210,
+        240
+      ],
+      "raw_section": {
+        "start": 180,
+        "end": 270
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 2
+    },
+    {
+      "start": 270,
+      "end": 360,
+      "start_time": 9.0,
+      "end_time": 12.0,
+      "raw_caption": "A woman is in the kitchen, seemingly preparing or organizing items during the day.",
+      "attribute_caption_useful": "{'What': 'preparing in kitchen', 'Where': 'kitchen', 'When': 'daytime', 'Who': 'woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+      "sample_id_list": [
+        270,
+        300,
+        330
+      ],
+      "raw_section": {
+        "start": 270,
+        "end": 360
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 3
+    },
+    {
+      "start": 3510,
+      "end": 3600,
+      "start_time": 117.1,
+      "end_time": 120.1,
+      "raw_caption": "A woman is petting a fluffy white dog in a kitchen during the day.",
+      "attribute_caption_useful": "{'What': 'petting a dog', 'Where': 'kitchen', 'When': 'daytime', 'Who': 'woman and dog'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+      "sample_id_list": [
+        3510,
+        3540,
+        3570
+      ],
+      "raw_section": {
+        "start": 3510,
+        "end": 3600
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 39
+    },
+    {
+      "start": 3600,
+      "end": 3690,
+      "start_time": 120.1,
+      "end_time": 123.1,
+      "raw_caption": "A woman is petting a fluffy white dog on a kitchen counter.",
+      "attribute_caption_useful": "{'What': 'petting a dog', 'Where': 'kitchen counter', 'When': 'unknown', 'Who': 'woman and dog'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+      "sample_id_list": [
+        3600,
+        3630,
+        3660
+      ],
+      "raw_section": {
+        "start": 3600,
+        "end": 3690
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 40
+    },
+    {
+      "start": 3690,
+      "end": 3780,
+      "start_time": 123.1,
+      "end_time": 126.1,
+      "raw_caption": "A dog is trying to reach food on a kitchen counter.",
+      "attribute_caption_useful": "{'What': 'dog reaching for food', 'Where': 'kitchen counter', 'When': 'indeterminate', 'Who': 'dog'}",
+      "attribute_caption_useless": "[Occlusion]: 0.6; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0",
+      "sample_id_list": [
+        3690,
+        3720,
+        3750
+      ],
+      "raw_section": {
+        "start": 3690,
+        "end": 3780
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 41
+    },
+    {
+      "start": 3780,
+      "end": 3870,
+      "start_time": 126.1,
+      "end_time": 129.1,
+      "raw_caption": "A dog is exploring items on a kitchen countertop during the day.",
+      "attribute_caption_useful": "{'What': 'dog exploring countertop', 'Where': 'kitchen', 'When': 'indoor daytime', 'Who': 'dog'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.5; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+      "sample_id_list": [
+        3780,
+        3810,
+        3840
+      ],
+      "raw_section": {
+        "start": 3780,
+        "end": 3870
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 42
+    },
+    {
+      "start": 4410,
+      "end": 4500,
+      "start_time": 147.1,
+      "end_time": 150.2,
+      "raw_caption": "A woman is grooming a dog in the kitchen.",
+      "attribute_caption_useful": "{'What': 'pet grooming', 'Where': 'kitchen', 'When': 'unknown', 'Who': 'woman and dog'}",
+      "attribute_caption_useless": "[Occlusion]: 0.3; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0.1;",
+      "sample_id_list": [
+        4410,
+        4440,
+        4470
+      ],
+      "raw_section": {
+        "start": 4410,
+        "end": 4500
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 49
+    },
+    {
+      "start": 4500,
+      "end": 4590,
+      "start_time": 150.2,
+      "end_time": 153.2,
+      "raw_caption": "A small white dog is being fed on a kitchen counter with various items around.",
+      "attribute_caption_useful": "{'What': 'pet being fed', 'Where': 'kitchen counter', 'When': 'unknown', 'Who': 'small white dog'}",
+      "attribute_caption_useless": "[Occlusion]: 0.4; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0",
+      "sample_id_list": [
+        4500,
+        4530,
+        4560
+      ],
+      "raw_section": {
+        "start": 4500,
+        "end": 4590
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 50
+    },
+    {
+      "start": 4590,
+      "end": 4680,
+      "start_time": 153.2,
+      "end_time": 156.2,
+      "raw_caption": "A dog is being washed in a kitchen sink by a person.",
+      "attribute_caption_useful": "{'What': 'dog being washed', 'Where': 'kitchen sink', 'When': 'indeterminate', 'Who': 'dog and person'}",
+      "attribute_caption_useless": "[Occlusion]: 0.6; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0;",
+      "sample_id_list": [
+        4590,
+        4620,
+        4650
+      ],
+      "raw_section": {
+        "start": 4590,
+        "end": 4680
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 51
+    },
+    {
+      "start": 4860,
+      "end": 4950,
+      "start_time": 162.2,
+      "end_time": 165.2,
+      "raw_caption": "A small white dog is being groomed on a kitchen counter, interacting with a person.",
+      "attribute_caption_useful": "{'What': 'pet grooming', 'Where': 'kitchen', 'When': 'daytime', 'Who': 'small white dog and a person'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+      "sample_id_list": [
+        4860,
+        4890,
+        4920
+      ],
+      "raw_section": {
+        "start": 4860,
+        "end": 4950
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 54
+    },
+    {
+      "start": 6030,
+      "end": 6120,
+      "start_time": 201.2,
+      "end_time": 204.2,
+      "raw_caption": "A woman makes a surprised face in an elevator after walking through a parking garage.",
+      "attribute_caption_useful": "{'What': 'woman making a surprised face', 'Where': 'parking garage and elevator', 'When': 'unclear', 'Who': 'woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.5; [Exposure]: 0; [Edited]: 0.8; [Meaningless]: 0.7; [Highlight]: 0",
+      "sample_id_list": [
+        6030,
+        6060,
+        6090
+      ],
+      "raw_section": {
+        "start": 6030,
+        "end": 6120
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 67
+    },
+    {
+      "start": 6120,
+      "end": 6210,
+      "start_time": 204.2,
+      "end_time": 207.2,
+      "raw_caption": "A woman reacts dramatically inside a building during daytime.",
+      "attribute_caption_useful": "{'What': 'woman reacting', 'Where': 'inside building', 'When': 'daytime', 'Who': 'woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.8; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+      "sample_id_list": [
+        6120,
+        6150,
+        6180
+      ],
+      "raw_section": {
+        "start": 6120,
+        "end": 6210
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 68
+    },
+    {
+      "start": 6300,
+      "end": 6390,
+      "start_time": 210.2,
+      "end_time": 213.2,
+      "raw_caption": "A woman is walking through a shopping mall during the day, observing the surroundings.",
+      "attribute_caption_useful": "{'What': 'walking through a mall', 'Where': 'shopping mall', 'When': 'daytime', 'Who': 'woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+      "sample_id_list": [
+        6300,
+        6330,
+        6360
+      ],
+      "raw_section": {
+        "start": 6300,
+        "end": 6390
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 70
+    },
+    {
+      "start": 6480,
+      "end": 6570,
+      "start_time": 216.2,
+      "end_time": 219.2,
+      "raw_caption": "A woman is walking along a city street during the daytime.",
+      "attribute_caption_useful": "{'What': 'walking', 'Where': 'city street', 'When': 'daytime', 'Who': 'woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.8; [Highlight]: 0;",
+      "sample_id_list": [
+        6480,
+        6510,
+        6540
+      ],
+      "raw_section": {
+        "start": 6480,
+        "end": 6570
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 72
+    },
+    {
+      "start": 6750,
+      "end": 6840,
+      "start_time": 225.2,
+      "end_time": 228.2,
+      "raw_caption": "A woman is walking on an urban street during the day, engaged in conversation.",
+      "attribute_caption_useful": "{'What': 'walking and talking', 'Where': 'urban street', 'When': 'daytime', 'Who': 'woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.2; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+      "sample_id_list": [
+        6750,
+        6780,
+        6810
+      ],
+      "raw_section": {
+        "start": 6750,
+        "end": 6840
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 75
+    },
+    {
+      "start": 7290,
+      "end": 7380,
+      "start_time": 243.2,
+      "end_time": 246.2,
+      "raw_caption": "A woman is walking and talking at an outdoor cafe during the day.",
+      "attribute_caption_useful": "{'What': 'walking and talking', 'Where': 'outdoor cafe', 'When': 'daytime', 'Who': 'woman'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.3; [Edited]: 0; [Meaningless]: 0.6; [Highlight]: 0;",
+      "sample_id_list": [
+        7290,
+        7320,
+        7350
+      ],
+      "raw_section": {
+        "start": 7290,
+        "end": 7380
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 81
+    },
+    {
+      "start": 11250,
+      "end": 11340,
+      "start_time": 375.4,
+      "end_time": 378.4,
+      "raw_caption": "A woman is playing with her dog in the living room during the day.",
+      "attribute_caption_useful": "{'What': 'playing with dog', 'Where': 'living room', 'When': 'daytime', 'Who': 'woman and dog'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.6; [Highlight]: 0",
+      "sample_id_list": [
+        11250,
+        11280,
+        11310
+      ],
+      "raw_section": {
+        "start": 11250,
+        "end": 11340
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 125
+    },
+    {
+      "start": 11340,
+      "end": 11430,
+      "start_time": 378.4,
+      "end_time": 381.4,
+      "raw_caption": "A small dog plays in a living room, surrounded by toys and shoes.",
+      "attribute_caption_useful": "{'What': 'dog playing', 'Where': 'living room', 'When': 'unknown', 'Who': 'dog'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0",
+      "sample_id_list": [
+        11340,
+        11370,
+        11400
+      ],
+      "raw_section": {
+        "start": 11340,
+        "end": 11430
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 126
+    },
+    {
+      "start": 11430,
+      "end": 11520,
+      "start_time": 381.4,
+      "end_time": 384.4,
+      "raw_caption": "A person plays with a fluffy white dog in a living room, surrounded by toys and shoes.",
+      "attribute_caption_useful": "{'What': 'playing with dog', 'Where': 'living room', 'When': 'unknown', 'Who': 'dog and person'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0.1;",
+      "sample_id_list": [
+        11430,
+        11460,
+        11490
+      ],
+      "raw_section": {
+        "start": 11430,
+        "end": 11520
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 127
+    },
+    {
+      "start": 11610,
+      "end": 11700,
+      "start_time": 387.4,
+      "end_time": 390.4,
+      "raw_caption": "A small white dog is energetically playing in a living room.",
+      "attribute_caption_useful": "{'What': 'dog playing', 'Where': 'living room', 'When': 'indeterminate', 'Who': 'small white dog'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.8; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+      "sample_id_list": [
+        11610,
+        11640,
+        11670
+      ],
+      "raw_section": {
+        "start": 11610,
+        "end": 11700
+      },
+      "raw_caption_path": "data/avt/caption_saliency/daily_life-pets-Ms_Kendall_G/Bhxk-O1Y7Ho.json",
+      "Highlight": "['Highlight Score']: 0",
+      "clip_id": 129
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "choose_clip_info": "step2 story: use merge. multi step1 (True), multi step2 (False), story choose: 30, all story video clip: 428, all useful video clip: 923, all video clip: 951",
+  "story_result": {
+    "section_id_list": [
+      0,
+      1,
+      7,
+      11,
+      13,
+      19,
+      20,
+      22,
+      27,
+      28,
+      29,
+      35,
+      37,
+      40,
+      42,
+      46,
+      48,
+      50,
+      52,
+      55,
+      56,
+      64,
+      70,
+      71,
+      72,
+      74,
+      76,
+      81,
+      84,
+      85
+    ],
+    "clip_caption": {
+      "0": "A man is preparing to ski on a snowy slope during the day, setting the stage for the skiing activities to follow and serving as a potential beginning of the sequence.",
+      "1": "A man is skiing on a snowy mountain while another person sits nearby, introducing the action and interaction on the slopes, suitable for early in the sequence.",
+      "7": "A group of adults are skiing and snowboarding on a snowy mountain during the day, highlighting diverse winter sports and can be placed in the middle to showcase group activities.",
+      "11": "A group of skiers is preparing to descend a snowy mountain slope during the day, which can serve as a transitional clip between preparation and action.",
+      "13": "A man is skiing down a snowy mountain slope during the day, marking the transition to individual skiing action.",
+      "19": "A man is skiing down a mountain slope during the day, continuing the individual skiing narrative.",
+      "20": "A man is skiing down a snowy mountain during the day, maintaining the focus on individual skiing.",
+      "22": "A man is skiing down a snowy mountain during the daytime, showcasing impressive skiing skills, which can highlight the peak of individual performance.",
+      "27": "A man is skiing down a mountain during the day, capturing an exciting moment on the slopes, adding to the thrill of the sequence.",
+      "28": "A man is skiing down a snowy mountain slope during the day, reinforcing the skiing action.",
+      "29": "A man is skiing down a mountain slope during the day, contributing to the ongoing narrative of skiing.",
+      "35": "A man is skiing on a snowy mountain during the daytime, providing a consistent view of the skiing experience.",
+      "37": "A man is skiing down a snowy mountain during the day, continuing the skiing journey.",
+      "40": "A man is skiing down a snowy mountain during the day, adding to the sequence of skiing clips.",
+      "42": "A man is skiing down a snowy mountain during the day, maintaining the skiing theme.",
+      "46": "A person is skiing down a snowy mountain during the day, offering a slight variation in perspective with a focus on skiing gear.",
+      "48": "A man is skiing down a snowy mountain slope during the day, showcasing skillful maneuvers, emphasizing expertise.",
+      "50": "A man is skiing down a mountain slope on a clear day at a ski resort, highlighting the scenic and recreational aspects of skiing.",
+      "52": "A group of skiers enjoy skiing down a mountain slope on a clear day, returning to group activities on the slopes.",
+      "55": "A man is skiing down a mountain slope on a sunny day, underscoring the pleasant weather conditions during the activity.",
+      "56": "Two skiers are enjoying a sunny day on a snowy mountain slope, adding companionship to the skiing experience.",
+      "64": "A man is skiing down a snowy mountain during the day, sustaining the individual skiing focus.",
+      "70": "A man is skiing down a snowy mountain slope during the day, reinforcing the skiing narrative.",
+      "71": "A man is skiing down a mountain slope during the daytime, showcasing an exciting winter sports activity, highlighting the thrill of skiing.",
+      "72": "Two people are skiing down a slope at a ski resort during the day, emphasizing the social aspect of skiing.",
+      "74": "A man is skiing down a snowy slope during the daytime, continuing the skiing theme.",
+      "76": "A man is skiing down a snowy slope at a ski resort during the day, integrating the resort setting into the sequence.",
+      "81": "A man is skiing down a mountain slope during the day, maintaining the skiing focus.",
+      "84": "A man is skiing down a snowy mountain slope during the day, contributing to the skiing action.",
+      "85": "Several skiers are enjoying a run down a snowy mountain slope during the day, offering a communal and joyful conclusion to the sequence."
+    },
+    "theme_caption": {
+      "[0, 11]": "Preparation and Anticipation: These clips depict individuals and groups preparing to ski, setting the stage for the action to follow.",
+      "[1, 7, 52, 72]": "Group and Social Skiing: These clips highlight group skiing and snowboarding activities, emphasizing the social and communal aspects of winter sports.",
+      "[13, 19, 20, 22, 27, 28, 29, 35, 37, 40, 42, 46, 48, 50, 55, 56, 64, 70, 71, 74, 76, 81, 84, 85]": "Individual Skiing Action: A series of clips showcasing individuals skiing down various slopes, capturing the thrill and skill involved in the sport."
+    },
+    "global_caption": "The video collection captures the essence of a day on snowy mountain slopes, beginning with preparation and anticipation as skiers gear up for the adventure ahead. It then transitions into group and social skiing, where camaraderie and shared experiences are highlighted. The sequence predominantly focuses on individual skiing action, showcasing the thrill, skill, and joy of skiing down the mountain slopes, with a few clips emphasizing the scenic beauty and social aspects of skiing at a resort. The collection concludes with a sense of communal enjoyment, as several skiers make their way down the slopes, encapsulating a day filled with excitement and winter sports activities."
+  },
+  "output_section_info_list": [
+    {
+      "start": 0,
+      "end": 90,
+      "start_time": 0.0,
+      "end_time": 3.0,
+      "raw_caption": "A man is preparing to ski on a snowy slope during the day.",
+      "attribute_caption_useful": "{'What': 'skiing preparation', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+      "sample_id_list": [
+        0,
+        30,
+        60
+      ],
+      "raw_section": {
+        "start": 0,
+        "end": 90
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 0
+    },
+    {
+      "start": 90,
+      "end": 180,
+      "start_time": 3.0,
+      "end_time": 6.0,
+      "raw_caption": "A man is skiing on a snowy mountain while another person sits nearby.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man and person sitting'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.8;",
+      "sample_id_list": [
+        90,
+        120,
+        150
+      ],
+      "raw_section": {
+        "start": 90,
+        "end": 180
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 1
+    },
+    {
+      "start": 630,
+      "end": 720,
+      "start_time": 21.0,
+      "end_time": 24.0,
+      "raw_caption": "A group of adults are skiing and snowboarding on a snowy mountain during the day.",
+      "attribute_caption_useful": "{'What': 'skiing and snowboarding', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'group of adults'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        630,
+        660,
+        690
+      ],
+      "raw_section": {
+        "start": 630,
+        "end": 720
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 7
+    },
+    {
+      "start": 990,
+      "end": 1080,
+      "start_time": 33.0,
+      "end_time": 36.0,
+      "raw_caption": "A group of skiers is preparing to descend a snowy mountain slope during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'group of skiers'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        990,
+        1020,
+        1050
+      ],
+      "raw_section": {
+        "start": 990,
+        "end": 1080
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 11
+    },
+    {
+      "start": 1170,
+      "end": 1260,
+      "start_time": 39.0,
+      "end_time": 42.0,
+      "raw_caption": "A man is skiing down a snowy mountain slope during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain resort', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.8;",
+      "sample_id_list": [
+        1170,
+        1200,
+        1230
+      ],
+      "raw_section": {
+        "start": 1170,
+        "end": 1260
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 13
+    },
+    {
+      "start": 1710,
+      "end": 1800,
+      "start_time": 57.1,
+      "end_time": 60.1,
+      "raw_caption": "A man is skiing down a mountain slope during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        1710,
+        1740,
+        1770
+      ],
+      "raw_section": {
+        "start": 1710,
+        "end": 1800
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 19
+    },
+    {
+      "start": 1800,
+      "end": 1890,
+      "start_time": 60.1,
+      "end_time": 63.1,
+      "raw_caption": "A man is skiing down a snowy mountain during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        1800,
+        1830,
+        1860
+      ],
+      "raw_section": {
+        "start": 1800,
+        "end": 1890
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 20
+    },
+    {
+      "start": 1980,
+      "end": 2070,
+      "start_time": 66.1,
+      "end_time": 69.1,
+      "raw_caption": "A man is skiing down a snowy mountain during the daytime, showcasing impressive skiing skills.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        1980,
+        2010,
+        2040
+      ],
+      "raw_section": {
+        "start": 1980,
+        "end": 2070
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 22
+    },
+    {
+      "start": 2430,
+      "end": 2520,
+      "start_time": 81.1,
+      "end_time": 84.1,
+      "raw_caption": "A man is skiing down a mountain during the day, capturing an exciting moment on the slopes.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        2430,
+        2460,
+        2490
+      ],
+      "raw_section": {
+        "start": 2430,
+        "end": 2520
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 27
+    },
+    {
+      "start": 2520,
+      "end": 2610,
+      "start_time": 84.1,
+      "end_time": 87.1,
+      "raw_caption": "A man is skiing down a snowy mountain slope during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        2520,
+        2550,
+        2580
+      ],
+      "raw_section": {
+        "start": 2520,
+        "end": 2610
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 28
+    },
+    {
+      "start": 2610,
+      "end": 2700,
+      "start_time": 87.1,
+      "end_time": 90.1,
+      "raw_caption": "A man is skiing down a mountain slope during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        2610,
+        2640,
+        2670
+      ],
+      "raw_section": {
+        "start": 2610,
+        "end": 2700
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 29
+    },
+    {
+      "start": 3150,
+      "end": 3240,
+      "start_time": 105.1,
+      "end_time": 108.1,
+      "raw_caption": "A man is skiing on a snowy mountain during the daytime.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        3150,
+        3180,
+        3210
+      ],
+      "raw_section": {
+        "start": 3150,
+        "end": 3240
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 35
+    },
+    {
+      "start": 3330,
+      "end": 3420,
+      "start_time": 111.1,
+      "end_time": 114.1,
+      "raw_caption": "A man is skiing down a snowy mountain during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        3330,
+        3360,
+        3390
+      ],
+      "raw_section": {
+        "start": 3330,
+        "end": 3420
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 37
+    },
+    {
+      "start": 3600,
+      "end": 3690,
+      "start_time": 120.1,
+      "end_time": 123.1,
+      "raw_caption": "A man is skiing down a snowy mountain during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        3600,
+        3630,
+        3660
+      ],
+      "raw_section": {
+        "start": 3600,
+        "end": 3690
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 40
+    },
+    {
+      "start": 3780,
+      "end": 3870,
+      "start_time": 126.1,
+      "end_time": 129.1,
+      "raw_caption": "A man is skiing down a snowy mountain during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0.1; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        3780,
+        3810,
+        3840
+      ],
+      "raw_section": {
+        "start": 3780,
+        "end": 3870
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 42
+    },
+    {
+      "start": 4140,
+      "end": 4230,
+      "start_time": 138.1,
+      "end_time": 141.1,
+      "raw_caption": "A person is skiing down a snowy mountain during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'person in skiing gear'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        4140,
+        4170,
+        4200
+      ],
+      "raw_section": {
+        "start": 4140,
+        "end": 4230
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 46
+    },
+    {
+      "start": 4320,
+      "end": 4410,
+      "start_time": 144.1,
+      "end_time": 147.1,
+      "raw_caption": "A man is skiing down a snowy mountain slope during the day, showcasing skillful maneuvers.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        4320,
+        4350,
+        4380
+      ],
+      "raw_section": {
+        "start": 4320,
+        "end": 4410
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 48
+    },
+    {
+      "start": 4500,
+      "end": 4590,
+      "start_time": 150.2,
+      "end_time": 153.2,
+      "raw_caption": "A man is skiing down a mountain slope on a clear day at a ski resort.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain ski resort', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        4500,
+        4530,
+        4560
+      ],
+      "raw_section": {
+        "start": 4500,
+        "end": 4590
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 50
+    },
+    {
+      "start": 4680,
+      "end": 4770,
+      "start_time": 156.2,
+      "end_time": 159.2,
+      "raw_caption": "A group of skiers enjoy skiing down a mountain slope on a clear day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'group of skiers'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        4680,
+        4710,
+        4740
+      ],
+      "raw_section": {
+        "start": 4680,
+        "end": 4770
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 52
+    },
+    {
+      "start": 4950,
+      "end": 5040,
+      "start_time": 165.2,
+      "end_time": 168.2,
+      "raw_caption": "A man is skiing down a mountain slope on a sunny day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain ski slope', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        4950,
+        4980,
+        5010
+      ],
+      "raw_section": {
+        "start": 4950,
+        "end": 5040
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 55
+    },
+    {
+      "start": 5040,
+      "end": 5130,
+      "start_time": 168.2,
+      "end_time": 171.2,
+      "raw_caption": "Two skiers are enjoying a sunny day on a snowy mountain slope.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain', 'When': 'daytime', 'Who': 'two skiers'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        5040,
+        5070,
+        5100
+      ],
+      "raw_section": {
+        "start": 5040,
+        "end": 5130
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 56
+    },
+    {
+      "start": 5760,
+      "end": 5850,
+      "start_time": 192.2,
+      "end_time": 195.2,
+      "raw_caption": "A man is skiing down a snowy mountain during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'snowy mountain', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        5760,
+        5790,
+        5820
+      ],
+      "raw_section": {
+        "start": 5760,
+        "end": 5850
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 64
+    },
+    {
+      "start": 6300,
+      "end": 6390,
+      "start_time": 210.2,
+      "end_time": 213.2,
+      "raw_caption": "A man is skiing down a snowy mountain slope during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        6300,
+        6330,
+        6360
+      ],
+      "raw_section": {
+        "start": 6300,
+        "end": 6390
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 70
+    },
+    {
+      "start": 6390,
+      "end": 6480,
+      "start_time": 213.2,
+      "end_time": 216.2,
+      "raw_caption": "A man is skiing down a mountain slope during the daytime, showcasing an exciting winter sports activity.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        6390,
+        6420,
+        6450
+      ],
+      "raw_section": {
+        "start": 6390,
+        "end": 6480
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 71
+    },
+    {
+      "start": 6480,
+      "end": 6570,
+      "start_time": 216.2,
+      "end_time": 219.2,
+      "raw_caption": "Two people are skiing down a slope at a ski resort during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'two people'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        6480,
+        6510,
+        6540
+      ],
+      "raw_section": {
+        "start": 6480,
+        "end": 6570
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 72
+    },
+    {
+      "start": 6660,
+      "end": 6750,
+      "start_time": 222.2,
+      "end_time": 225.2,
+      "raw_caption": "A man is skiing down a snowy slope during the daytime.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski slope', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        6660,
+        6690,
+        6720
+      ],
+      "raw_section": {
+        "start": 6660,
+        "end": 6750
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 74
+    },
+    {
+      "start": 6840,
+      "end": 6930,
+      "start_time": 228.2,
+      "end_time": 231.2,
+      "raw_caption": "A man is skiing down a snowy slope at a ski resort during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'ski resort', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        6840,
+        6870,
+        6900
+      ],
+      "raw_section": {
+        "start": 6840,
+        "end": 6930
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 76
+    },
+    {
+      "start": 7290,
+      "end": 7380,
+      "start_time": 243.2,
+      "end_time": 246.2,
+      "raw_caption": "A man is skiing down a mountain slope during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain ski slope', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        7290,
+        7320,
+        7350
+      ],
+      "raw_section": {
+        "start": 7290,
+        "end": 7380
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 81
+    },
+    {
+      "start": 7560,
+      "end": 7650,
+      "start_time": 252.3,
+      "end_time": 255.3,
+      "raw_caption": "A man is skiing down a snowy mountain slope during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'man'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        7560,
+        7590,
+        7620
+      ],
+      "raw_section": {
+        "start": 7560,
+        "end": 7650
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 84
+    },
+    {
+      "start": 7650,
+      "end": 7740,
+      "start_time": 255.3,
+      "end_time": 258.3,
+      "raw_caption": "Several skiers are enjoying a run down a snowy mountain slope during the day.",
+      "attribute_caption_useful": "{'What': 'skiing', 'Where': 'mountain slope', 'When': 'daytime', 'Who': 'several skiers'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        7650,
+        7680,
+        7710
+      ],
+      "raw_section": {
+        "start": 7650,
+        "end": 7740
+      },
+      "raw_caption_path": "data/avt/caption_saliency/sports-skiing-Alex_E/E5OqGoDzNtg.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 85
+    }
+  ]
+}

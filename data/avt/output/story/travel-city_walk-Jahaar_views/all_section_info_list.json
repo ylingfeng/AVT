@@ -1,0 +1,2249 @@
+[
+  {
+    "start": 0,
+    "end": 90,
+    "start_time": 0.0,
+    "end_time": 3.0,
+    "raw_caption": "The video shows a calm waterfront scene with skyscrapers in the background during the evening.",
+    "attribute_caption_useful": "{'What': 'cityscape view', 'Where': 'waterfront with skyscrapers', 'When': 'evening', 'Who': 'none'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.8; [Highlight]: 0;",
+    "sample_id_list": [
+      0,
+      30,
+      60
+    ],
+    "raw_section": {
+      "start": 0,
+      "end": 90
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 0
+  },
+  {
+    "start": 90,
+    "end": 180,
+    "start_time": 3.0,
+    "end_time": 6.0,
+    "raw_caption": "The video shows a panoramic view of Marina Bay in Singapore during the evening.",
+    "attribute_caption_useful": "{'What': 'cityscape view', 'Where': 'Marina Bay, Singapore', 'When': 'evening', 'Who': 'no people visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.8; [Highlight]: 0;",
+    "sample_id_list": [
+      90,
+      120,
+      150
+    ],
+    "raw_section": {
+      "start": 90,
+      "end": 180
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 1
+  },
+  {
+    "start": 180,
+    "end": 270,
+    "start_time": 6.0,
+    "end_time": 9.0,
+    "raw_caption": "The video captures a scenic view of Marina Bay with iconic buildings in Singapore during the daytime.",
+    "attribute_caption_useful": "{'What': 'view of iconic buildings', 'Where': 'Marina Bay, Singapore', 'When': 'daytime', 'Who': 'not applicable'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0",
+    "sample_id_list": [
+      180,
+      210,
+      240
+    ],
+    "raw_section": {
+      "start": 180,
+      "end": 270
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 2
+  },
+  {
+    "start": 270,
+    "end": 360,
+    "start_time": 9.0,
+    "end_time": 12.0,
+    "raw_caption": "Tourists enjoy a scenic view of Marina Bay in Singapore during the day.",
+    "attribute_caption_useful": "{'What': 'sightseeing', 'Where': 'Marina Bay, Singapore', 'When': 'daytime', 'Who': 'tourists'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0",
+    "sample_id_list": [
+      270,
+      300,
+      330
+    ],
+    "raw_section": {
+      "start": 270,
+      "end": 360
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 3
+  },
+  {
+    "start": 360,
+    "end": 450,
+    "start_time": 12.0,
+    "end_time": 15.0,
+    "raw_caption": "People stroll along the Marina Bay waterfront in the evening, with a view of the city skyline and a ferry on the water.",
+    "attribute_caption_useful": "{'What': 'walking along waterfront', 'Where': 'Marina Bay, Singapore', 'When': 'evening', 'Who': 'several women and men'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0",
+    "sample_id_list": [
+      360,
+      390,
+      420
+    ],
+    "raw_section": {
+      "start": 360,
+      "end": 450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 4
+  },
+  {
+    "start": 450,
+    "end": 540,
+    "start_time": 15.0,
+    "end_time": 18.0,
+    "raw_caption": "People are walking along a waterfront with a scenic city skyline in the background during the evening.",
+    "attribute_caption_useful": "{'What': 'walking along waterfront', 'Where': 'city waterfront', 'When': 'evening', 'Who': 'women and men'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0",
+    "sample_id_list": [
+      450,
+      480,
+      510
+    ],
+    "raw_section": {
+      "start": 450,
+      "end": 540
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 5
+  },
+  {
+    "start": 540,
+    "end": 630,
+    "start_time": 18.0,
+    "end_time": 21.0,
+    "raw_caption": "People are walking along a waterfront promenade with a view of the city skyline and a riverboat.",
+    "attribute_caption_useful": "{'What': 'people walking', 'Where': 'urban waterfront', 'When': 'daytime', 'Who': 'men and women'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      540,
+      570,
+      600
+    ],
+    "raw_section": {
+      "start": 540,
+      "end": 630
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 6
+  },
+  {
+    "start": 630,
+    "end": 720,
+    "start_time": 21.0,
+    "end_time": 24.0,
+    "raw_caption": "People are walking along a city waterfront with a view of skyscrapers and a boat on the water.",
+    "attribute_caption_useful": "{'What': 'walking along waterfront', 'Where': 'city waterfront', 'When': 'daytime', 'Who': 'families and individuals'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.6; [Highlight]: 0;",
+    "sample_id_list": [
+      630,
+      660,
+      690
+    ],
+    "raw_section": {
+      "start": 630,
+      "end": 720
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 7
+  },
+  {
+    "start": 720,
+    "end": 810,
+    "start_time": 24.0,
+    "end_time": 27.0,
+    "raw_caption": "People are walking along a waterfront promenade with a view of the city skyline and a ferry in the water.",
+    "attribute_caption_useful": "{'What': 'people walking', 'Where': 'waterfront promenade', 'When': 'evening', 'Who': 'families and tourists'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0;",
+    "sample_id_list": [
+      720,
+      750,
+      780
+    ],
+    "raw_section": {
+      "start": 720,
+      "end": 810
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 8
+  },
+  {
+    "start": 810,
+    "end": 900,
+    "start_time": 27.0,
+    "end_time": 30.0,
+    "raw_caption": "People are enjoying a leisurely stroll and taking photos by an urban waterfront during the evening.",
+    "attribute_caption_useful": "{'What': 'sightseeing and taking photos', 'Where': 'urban waterfront', 'When': 'evening', 'Who': 'several people including woman and children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.8; [Highlight]: 0",
+    "sample_id_list": [
+      810,
+      840,
+      870
+    ],
+    "raw_section": {
+      "start": 810,
+      "end": 900
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 9
+  },
+  {
+    "start": 900,
+    "end": 990,
+    "start_time": 30.0,
+    "end_time": 33.0,
+    "raw_caption": "People are walking along a city promenade in the evening.",
+    "attribute_caption_useful": "{'What': 'walking', 'Where': 'city promenade', 'When': 'evening', 'Who': 'people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.8; [Highlight]: 0;",
+    "sample_id_list": [
+      900,
+      930,
+      960
+    ],
+    "raw_section": {
+      "start": 900,
+      "end": 990
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 10
+  },
+  {
+    "start": 990,
+    "end": 1080,
+    "start_time": 33.0,
+    "end_time": 36.0,
+    "raw_caption": "People are walking along a waterfront promenade, with some taking photos and enjoying the evening.",
+    "attribute_caption_useful": "{'What': 'people walking and taking photos', 'Where': 'urban waterfront promenade', 'When': 'evening', 'Who': 'various individuals including a couple'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      990,
+      1020,
+      1050
+    ],
+    "raw_section": {
+      "start": 990,
+      "end": 1080
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 11
+  },
+  {
+    "start": 1080,
+    "end": 1170,
+    "start_time": 36.0,
+    "end_time": 39.0,
+    "raw_caption": "A man with a backpack walks along a city waterfront in the evening.",
+    "attribute_caption_useful": "{'What': 'walking', 'Where': 'city waterfront', 'When': 'evening', 'Who': 'man with backpack'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.8; [Highlight]: 0;",
+    "sample_id_list": [
+      1080,
+      1110,
+      1140
+    ],
+    "raw_section": {
+      "start": 1080,
+      "end": 1170
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 12
+  },
+  {
+    "start": 1170,
+    "end": 1260,
+    "start_time": 39.0,
+    "end_time": 42.0,
+    "raw_caption": "A man walks along a waterfront promenade during the evening.",
+    "attribute_caption_useful": "{'What': 'walking', 'Where': 'promenade by the water', 'When': 'evening', 'Who': 'man with backpack'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.8; [Highlight]: 0;",
+    "sample_id_list": [
+      1170,
+      1200,
+      1230
+    ],
+    "raw_section": {
+      "start": 1170,
+      "end": 1260
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 13
+  },
+  {
+    "start": 1260,
+    "end": 1350,
+    "start_time": 42.0,
+    "end_time": 45.0,
+    "raw_caption": "People are walking along a waterfront promenade in an urban area during the evening.",
+    "attribute_caption_useful": "{'What': 'walking', 'Where': 'urban waterfront', 'When': 'evening', 'Who': 'men and women'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      1260,
+      1290,
+      1320
+    ],
+    "raw_section": {
+      "start": 1260,
+      "end": 1350
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 14
+  },
+  {
+    "start": 1350,
+    "end": 1440,
+    "start_time": 45.0,
+    "end_time": 48.0,
+    "raw_caption": "People are walking along the waterfront at Marina Bay in the evening.",
+    "attribute_caption_useful": "{'What': 'walking along waterfront', 'Where': 'Marina Bay, Singapore', 'When': 'evening', 'Who': 'people, various individuals'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      1350,
+      1380,
+      1410
+    ],
+    "raw_section": {
+      "start": 1350,
+      "end": 1440
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 15
+  },
+  {
+    "start": 1440,
+    "end": 1530,
+    "start_time": 48.0,
+    "end_time": 51.0,
+    "raw_caption": "Tourists enjoy a boat ride at Marina Bay in Singapore during the evening.",
+    "attribute_caption_useful": "{'What': 'sightseeing', 'Where': 'Marina Bay, Singapore', 'When': 'evening', 'Who': 'tourists on a boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0;",
+    "sample_id_list": [
+      1440,
+      1470,
+      1500
+    ],
+    "raw_section": {
+      "start": 1440,
+      "end": 1530
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 16
+  },
+  {
+    "start": 1530,
+    "end": 1620,
+    "start_time": 51.0,
+    "end_time": 54.0,
+    "raw_caption": "A boat with people is traveling along a city waterfront in the evening.",
+    "attribute_caption_useful": "{'What': 'boat on river', 'Where': 'city waterfront', 'When': 'evening', 'Who': 'people on boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      1530,
+      1560,
+      1590
+    ],
+    "raw_section": {
+      "start": 1530,
+      "end": 1620
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 17
+  },
+  {
+    "start": 1620,
+    "end": 1710,
+    "start_time": 54.0,
+    "end_time": 57.0,
+    "raw_caption": "A ferry arrives at a city waterfront in the evening with passengers on board.",
+    "attribute_caption_useful": "{'What': 'ferry arriving', 'Where': 'city waterfront', 'When': 'evening', 'Who': 'passengers on ferry'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      1620,
+      1650,
+      1680
+    ],
+    "raw_section": {
+      "start": 1620,
+      "end": 1710
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 18
+  },
+  {
+    "start": 1710,
+    "end": 1800,
+    "start_time": 57.0,
+    "end_time": 60.0,
+    "raw_caption": "A group of people are walking along a waterfront promenade in the evening.",
+    "attribute_caption_useful": "{'What': 'walking', 'Where': 'waterfront promenade', 'When': 'evening', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      1710,
+      1740,
+      1770
+    ],
+    "raw_section": {
+      "start": 1710,
+      "end": 1800
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 19
+  },
+  {
+    "start": 1800,
+    "end": 1890,
+    "start_time": 60.0,
+    "end_time": 63.0,
+    "raw_caption": "Tourists are enjoying a scenic view at a waterfront area with a ferry nearby.",
+    "attribute_caption_useful": "{'What': 'sightseeing', 'Where': 'waterfront', 'When': 'evening', 'Who': 'tourists and ferry'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      1800,
+      1830,
+      1860
+    ],
+    "raw_section": {
+      "start": 1800,
+      "end": 1890
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 20
+  },
+  {
+    "start": 1890,
+    "end": 1980,
+    "start_time": 63.0,
+    "end_time": 66.0,
+    "raw_caption": "Tourists enjoy a boat ride at Marina Bay in Singapore during the evening.",
+    "attribute_caption_useful": "{'What': 'sightseeing', 'Where': 'Marina Bay, Singapore', 'When': 'evening', 'Who': 'tourists on boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0",
+    "sample_id_list": [
+      1890,
+      1920,
+      1950
+    ],
+    "raw_section": {
+      "start": 1890,
+      "end": 1980
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 21
+  },
+  {
+    "start": 1980,
+    "end": 2070,
+    "start_time": 66.0,
+    "end_time": 69.0,
+    "raw_caption": "A serene view of Marina Bay Sands and the surrounding area in the evening.",
+    "attribute_caption_useful": "{'What': 'cityscape view', 'Where': 'Marina Bay, Singapore', 'When': 'evening', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      1980,
+      2010,
+      2040
+    ],
+    "raw_section": {
+      "start": 1980,
+      "end": 2070
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 22
+  },
+  {
+    "start": 2070,
+    "end": 2160,
+    "start_time": 69.0,
+    "end_time": 72.0,
+    "raw_caption": "The video captures tourists on a boat enjoying the view of Singapore's Marina Bay skyline during the evening.",
+    "attribute_caption_useful": "{'What': 'viewing skyline', 'Where': 'Singapore Marina Bay', 'When': 'evening', 'Who': 'tourists on a boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+    "sample_id_list": [
+      2070,
+      2100,
+      2130
+    ],
+    "raw_section": {
+      "start": 2070,
+      "end": 2160
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 23
+  },
+  {
+    "start": 2160,
+    "end": 2250,
+    "start_time": 72.0,
+    "end_time": 75.0,
+    "raw_caption": "A ferry approaches the dock at an urban waterfront during the evening, with passengers visible on board.",
+    "attribute_caption_useful": "{'What': 'ferry approaching dock', 'Where': 'urban waterfront', 'When': 'evening', 'Who': 'passengers on ferry'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      2160,
+      2190,
+      2220
+    ],
+    "raw_section": {
+      "start": 2160,
+      "end": 2250
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 24
+  },
+  {
+    "start": 2250,
+    "end": 2340,
+    "start_time": 75.0,
+    "end_time": 78.0,
+    "raw_caption": "People are boarding a boat at a marina with a city skyline in the background during the evening.",
+    "attribute_caption_useful": "{'What': 'people boarding a boat', 'Where': 'marina with skyline view', 'When': 'evening', 'Who': 'men and women'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.2;",
+    "sample_id_list": [
+      2250,
+      2280,
+      2310
+    ],
+    "raw_section": {
+      "start": 2250,
+      "end": 2340
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 25
+  },
+  {
+    "start": 2340,
+    "end": 2430,
+    "start_time": 78.0,
+    "end_time": 81.0,
+    "raw_caption": "A crowd of people is walking and sightseeing along a riverside promenade in the evening.",
+    "attribute_caption_useful": "{'What': 'walking and sightseeing', 'Where': 'promenade by the river', 'When': 'evening', 'Who': 'crowd of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.8; [Highlight]: 0;",
+    "sample_id_list": [
+      2340,
+      2370,
+      2400
+    ],
+    "raw_section": {
+      "start": 2340,
+      "end": 2430
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 26
+  },
+  {
+    "start": 2430,
+    "end": 2520,
+    "start_time": 81.0,
+    "end_time": 84.0,
+    "raw_caption": "People are walking along the Marina Bay promenade during the evening, with a view of the city skyline.",
+    "attribute_caption_useful": "{'What': 'walking', 'Where': 'Marina Bay promenade', 'When': 'evening', 'Who': 'multiple people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0;",
+    "sample_id_list": [
+      2430,
+      2460,
+      2490
+    ],
+    "raw_section": {
+      "start": 2430,
+      "end": 2520
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 27
+  },
+  {
+    "start": 2520,
+    "end": 2610,
+    "start_time": 84.0,
+    "end_time": 87.0,
+    "raw_caption": "People are walking along a city waterfront promenade in the evening.",
+    "attribute_caption_useful": "{'What': 'walking', 'Where': 'city waterfront', 'When': 'evening', 'Who': 'people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      2520,
+      2550,
+      2580
+    ],
+    "raw_section": {
+      "start": 2520,
+      "end": 2610
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 28
+  },
+  {
+    "start": 2610,
+    "end": 2700,
+    "start_time": 87.0,
+    "end_time": 90.0,
+    "raw_caption": "People are walking along a riverside promenade with a city skyline in the background during the evening.",
+    "attribute_caption_useful": "{'What': 'walking', 'Where': 'promenade by a river', 'When': 'evening', 'Who': 'men and women'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      2610,
+      2640,
+      2670
+    ],
+    "raw_section": {
+      "start": 2610,
+      "end": 2700
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 29
+  },
+  {
+    "start": 2700,
+    "end": 2790,
+    "start_time": 90.0,
+    "end_time": 93.0,
+    "raw_caption": "People stroll along a waterfront promenade as a ferry docks nearby during the evening.",
+    "attribute_caption_useful": "{'What': 'people walking and ferry docking', 'Where': 'urban waterfront', 'When': 'evening', 'Who': 'men and women'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.2;",
+    "sample_id_list": [
+      2700,
+      2730,
+      2760
+    ],
+    "raw_section": {
+      "start": 2700,
+      "end": 2790
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 30
+  },
+  {
+    "start": 2790,
+    "end": 2880,
+    "start_time": 93.0,
+    "end_time": 96.0,
+    "raw_caption": "A boat is cruising along an urban waterfront during the evening, with people on board enjoying the view.",
+    "attribute_caption_useful": "{'What': 'boat on river', 'Where': 'urban waterfront', 'When': 'evening', 'Who': 'people on boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.3;",
+    "sample_id_list": [
+      2790,
+      2820,
+      2850
+    ],
+    "raw_section": {
+      "start": 2790,
+      "end": 2880
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 31
+  },
+  {
+    "start": 2880,
+    "end": 2970,
+    "start_time": 96.0,
+    "end_time": 99.0,
+    "raw_caption": "The video captures a scenic view of Marina Bay in Singapore during the daytime.",
+    "attribute_caption_useful": "{'What': 'scenic view', 'Where': 'Marina Bay, Singapore', 'When': 'daytime', 'Who': 'not applicable'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+    "sample_id_list": [
+      2880,
+      2910,
+      2940
+    ],
+    "raw_section": {
+      "start": 2880,
+      "end": 2970
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 32
+  },
+  {
+    "start": 2970,
+    "end": 3060,
+    "start_time": 99.0,
+    "end_time": 102.0,
+    "raw_caption": "The video shows a daytime view of a waterfront cityscape with prominent buildings.",
+    "attribute_caption_useful": "{'What': 'view of buildings and water', 'Where': 'waterfront cityscape', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      2970,
+      3000,
+      3030
+    ],
+    "raw_section": {
+      "start": 2970,
+      "end": 3060
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 33
+  },
+  {
+    "start": 3060,
+    "end": 3150,
+    "start_time": 102.0,
+    "end_time": 105.0,
+    "raw_caption": "The video captures a calm waterfront cityscape during the evening.",
+    "attribute_caption_useful": "{'What': 'scenic view', 'Where': 'waterfront cityscape', 'When': 'evening', 'Who': 'no people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.8; [Highlight]: 0;",
+    "sample_id_list": [
+      3060,
+      3090,
+      3120
+    ],
+    "raw_section": {
+      "start": 3060,
+      "end": 3150
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 34
+  },
+  {
+    "start": 3150,
+    "end": 3240,
+    "start_time": 105.0,
+    "end_time": 108.0,
+    "raw_caption": "The video shows a panoramic view of Marina Bay in Singapore during the evening.",
+    "attribute_caption_useful": "{'What': 'cityscape view', 'Where': 'Marina Bay, Singapore', 'When': 'evening', 'Who': 'none'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      3150,
+      3180,
+      3210
+    ],
+    "raw_section": {
+      "start": 3150,
+      "end": 3240
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 35
+  },
+  {
+    "start": 3240,
+    "end": 3330,
+    "start_time": 108.0,
+    "end_time": 111.0,
+    "raw_caption": "The video captures a scenic view of Marina Bay in Singapore during the evening, with tourists on a boat enjoying the city skyline.",
+    "attribute_caption_useful": "{'What': 'cityscape view', 'Where': 'Marina Bay, Singapore', 'When': 'evening', 'Who': 'tourists on a boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      3240,
+      3270,
+      3300
+    ],
+    "raw_section": {
+      "start": 3240,
+      "end": 3330
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 36
+  },
+  {
+    "start": 3330,
+    "end": 3420,
+    "start_time": 111.0,
+    "end_time": 114.0,
+    "raw_caption": "A ferry is docked at a waterfront with a cityscape in the background during dusk.",
+    "attribute_caption_useful": "{'What': 'ferry docked', 'Where': 'waterfront cityscape', 'When': 'dusk', 'Who': 'people on ferry'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      3330,
+      3360,
+      3390
+    ],
+    "raw_section": {
+      "start": 3330,
+      "end": 3420
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 37
+  },
+  {
+    "start": 3420,
+    "end": 3510,
+    "start_time": 114.0,
+    "end_time": 117.0,
+    "raw_caption": "A ferry is docking at a city waterfront during the evening with people on the dock.",
+    "attribute_caption_useful": "{'What': 'ferry docking', 'Where': 'city waterfront', 'When': 'evening', 'Who': 'people on dock'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      3420,
+      3450,
+      3480
+    ],
+    "raw_section": {
+      "start": 3420,
+      "end": 3510
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 38
+  },
+  {
+    "start": 3510,
+    "end": 3600,
+    "start_time": 117.0,
+    "end_time": 120.0,
+    "raw_caption": "A boat sails along a city waterfront during the evening with people on board enjoying the view.",
+    "attribute_caption_useful": "{'What': 'boat sailing', 'Where': 'city waterfront', 'When': 'evening', 'Who': 'people on boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      3510,
+      3540,
+      3570
+    ],
+    "raw_section": {
+      "start": 3510,
+      "end": 3600
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 39
+  },
+  {
+    "start": 3600,
+    "end": 3690,
+    "start_time": 120.0,
+    "end_time": 123.0,
+    "raw_caption": "A boat is docking at a city waterfront as people observe the scene in the evening.",
+    "attribute_caption_useful": "{'What': 'boat docking', 'Where': 'city waterfront', 'When': 'evening', 'Who': 'people on boat and dock'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      3600,
+      3630,
+      3660
+    ],
+    "raw_section": {
+      "start": 3600,
+      "end": 3690
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 40
+  },
+  {
+    "start": 3690,
+    "end": 3780,
+    "start_time": 123.0,
+    "end_time": 126.0,
+    "raw_caption": "A ferry is docking at the Singapore waterfront as tourists prepare to board.",
+    "attribute_caption_useful": "{'What': 'ferry docking', 'Where': 'Singapore waterfront', 'When': 'evening', 'Who': 'tourists'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      3690,
+      3720,
+      3750
+    ],
+    "raw_section": {
+      "start": 3690,
+      "end": 3780
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 41
+  },
+  {
+    "start": 3780,
+    "end": 3870,
+    "start_time": 126.0,
+    "end_time": 129.0,
+    "raw_caption": "A ferry is docking at a city waterfront during the evening, with people visible on board.",
+    "attribute_caption_useful": "{'What': 'ferry docking', 'Where': 'city waterfront', 'When': 'evening', 'Who': 'people on ferry'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      3780,
+      3810,
+      3840
+    ],
+    "raw_section": {
+      "start": 3780,
+      "end": 3870
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 42
+  },
+  {
+    "start": 3870,
+    "end": 3960,
+    "start_time": 129.0,
+    "end_time": 132.0,
+    "raw_caption": "A boat is docking at a city waterfront during the evening, with a man visible on the deck.",
+    "attribute_caption_useful": "{'What': 'boat docking', 'Where': 'city waterfront', 'When': 'evening', 'Who': 'man on boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.2;",
+    "sample_id_list": [
+      3870,
+      3900,
+      3930
+    ],
+    "raw_section": {
+      "start": 3870,
+      "end": 3960
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 43
+  },
+  {
+    "start": 3960,
+    "end": 4050,
+    "start_time": 132.0,
+    "end_time": 135.0,
+    "raw_caption": "Tourists enjoy the scenic view along a city waterfront during the evening.",
+    "attribute_caption_useful": "{'What': 'sightseeing', 'Where': 'city waterfront', 'When': 'evening', 'Who': 'tourists'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0",
+    "sample_id_list": [
+      3960,
+      3990,
+      4020
+    ],
+    "raw_section": {
+      "start": 3960,
+      "end": 4050
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 44
+  },
+  {
+    "start": 4050,
+    "end": 4140,
+    "start_time": 135.0,
+    "end_time": 138.0,
+    "raw_caption": "A woman and a man are taking photos at an urban waterfront area during the day.",
+    "attribute_caption_useful": "{'What': 'people taking photos', 'Where': 'urban waterfront', 'When': 'daytime', 'Who': 'woman and man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      4050,
+      4080,
+      4110
+    ],
+    "raw_section": {
+      "start": 4050,
+      "end": 4140
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 45
+  },
+  {
+    "start": 4140,
+    "end": 4230,
+    "start_time": 138.0,
+    "end_time": 141.0,
+    "raw_caption": "People are walking near a modern building in a city with skyscrapers visible in the background.",
+    "attribute_caption_useful": "{'What': 'people walking', 'Where': 'urban area with skyscrapers', 'When': 'daytime', 'Who': 'man and woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      4140,
+      4170,
+      4200
+    ],
+    "raw_section": {
+      "start": 4140,
+      "end": 4230
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 46
+  },
+  {
+    "start": 4230,
+    "end": 4320,
+    "start_time": 141.0,
+    "end_time": 144.0,
+    "raw_caption": "The video shows a view of downtown skyscrapers during the day.",
+    "attribute_caption_useful": "{'What': 'cityscape view', 'Where': 'downtown skyscrapers', 'When': 'daytime', 'Who': 'no people visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      4230,
+      4260,
+      4290
+    ],
+    "raw_section": {
+      "start": 4230,
+      "end": 4320
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 47
+  },
+  {
+    "start": 4320,
+    "end": 4410,
+    "start_time": 144.0,
+    "end_time": 147.0,
+    "raw_caption": "People are dining at an outdoor restaurant in the evening.",
+    "attribute_caption_useful": "{'What': 'people dining', 'Where': 'outdoor restaurant', 'When': 'evening', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      4320,
+      4350,
+      4380
+    ],
+    "raw_section": {
+      "start": 4320,
+      "end": 4410
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 48
+  },
+  {
+    "start": 4410,
+    "end": 4500,
+    "start_time": 147.0,
+    "end_time": 150.0,
+    "raw_caption": "A crowd of people is gathered and walking along a city waterfront in the evening.",
+    "attribute_caption_useful": "{'What': 'people walking and gathering', 'Where': 'city waterfront', 'When': 'evening', 'Who': 'crowd of men and women'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.6; [Highlight]: 0;",
+    "sample_id_list": [
+      4410,
+      4440,
+      4470
+    ],
+    "raw_section": {
+      "start": 4410,
+      "end": 4500
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 49
+  },
+  {
+    "start": 4500,
+    "end": 4590,
+    "start_time": 150.0,
+    "end_time": 153.0,
+    "raw_caption": "A serene view of Marina Bay with city buildings and a ferris wheel during the evening.",
+    "attribute_caption_useful": "{'What': 'view of waterfront and cityscape', 'Where': 'Marina Bay, Singapore', 'When': 'evening', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      4500,
+      4530,
+      4560
+    ],
+    "raw_section": {
+      "start": 4500,
+      "end": 4590
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 50
+  },
+  {
+    "start": 4590,
+    "end": 4680,
+    "start_time": 153.0,
+    "end_time": 156.0,
+    "raw_caption": "The video captures a scenic view of Singapore's waterfront during the evening.",
+    "attribute_caption_useful": "{'What': 'view of waterfront', 'Where': 'Singapore', 'When': 'evening', 'Who': 'no people visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0;",
+    "sample_id_list": [
+      4590,
+      4620,
+      4650
+    ],
+    "raw_section": {
+      "start": 4590,
+      "end": 4680
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 51
+  },
+  {
+    "start": 4680,
+    "end": 4770,
+    "start_time": 156.0,
+    "end_time": 159.0,
+    "raw_caption": "The video shows a view of Singapore's Marina Bay Sands and surrounding landmarks during the evening.",
+    "attribute_caption_useful": "{'What': 'cityscape view', 'Where': 'Singapore Marina Bay', 'When': 'evening', 'Who': 'N/A'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0",
+    "sample_id_list": [
+      4680,
+      4710,
+      4740
+    ],
+    "raw_section": {
+      "start": 4680,
+      "end": 4770
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 52
+  },
+  {
+    "start": 4770,
+    "end": 4860,
+    "start_time": 159.0,
+    "end_time": 162.0,
+    "raw_caption": "A panoramic view of Marina Bay Sands and surrounding buildings in Singapore during the evening.",
+    "attribute_caption_useful": "{'What': 'cityscape view', 'Where': 'Singapore Marina Bay', 'When': 'evening', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      4770,
+      4800,
+      4830
+    ],
+    "raw_section": {
+      "start": 4770,
+      "end": 4860
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 53
+  },
+  {
+    "start": 4860,
+    "end": 4950,
+    "start_time": 162.0,
+    "end_time": 165.0,
+    "raw_caption": "A man and a woman are taking photos by the waterfront with skyscrapers in the background during the evening.",
+    "attribute_caption_useful": "{'What': 'people taking photos', 'Where': 'waterfront with skyscrapers', 'When': 'evening', 'Who': 'man and woman'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.1; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0.1;",
+    "sample_id_list": [
+      4860,
+      4890,
+      4920
+    ],
+    "raw_section": {
+      "start": 4860,
+      "end": 4950
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 54
+  },
+  {
+    "start": 4950,
+    "end": 5040,
+    "start_time": 165.0,
+    "end_time": 168.0,
+    "raw_caption": "A man is enjoying the city skyline from a waterfront area during the evening.",
+    "attribute_caption_useful": "{'What': 'viewing cityscape', 'Where': 'waterfront in city', 'When': 'evening', 'Who': 'man'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      4950,
+      4980,
+      5010
+    ],
+    "raw_section": {
+      "start": 4950,
+      "end": 5040
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 55
+  },
+  {
+    "start": 5040,
+    "end": 5130,
+    "start_time": 168.0,
+    "end_time": 171.0,
+    "raw_caption": "Bright pink flowers are shown by the edge of a lake during the day.",
+    "attribute_caption_useful": "{'What': 'flowers by water', 'Where': 'lake', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      5040,
+      5070,
+      5100
+    ],
+    "raw_section": {
+      "start": 5040,
+      "end": 5130
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 56
+  },
+  {
+    "start": 5130,
+    "end": 5220,
+    "start_time": 171.0,
+    "end_time": 174.0,
+    "raw_caption": "The video shows vibrant pink flowers blooming by a body of water during the day.",
+    "attribute_caption_useful": "{'What': 'blooming flowers', 'Where': 'garden by water', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.8; [Highlight]: 0;",
+    "sample_id_list": [
+      5130,
+      5160,
+      5190
+    ],
+    "raw_section": {
+      "start": 5130,
+      "end": 5220
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 57
+  },
+  {
+    "start": 5220,
+    "end": 5310,
+    "start_time": 174.0,
+    "end_time": 177.0,
+    "raw_caption": "The video shows vibrant pink flowers in full bloom by the lakeside during the day.",
+    "attribute_caption_useful": "{'What': 'blooming flowers', 'Where': 'lakeside', 'When': 'daytime', 'Who': 'none'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.9; [Highlight]: 0;",
+    "sample_id_list": [
+      5220,
+      5250,
+      5280
+    ],
+    "raw_section": {
+      "start": 5220,
+      "end": 5310
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 58
+  },
+  {
+    "start": 5310,
+    "end": 5400,
+    "start_time": 177.0,
+    "end_time": 180.0,
+    "raw_caption": "The video captures a scenic view of Marina Bay in Singapore during the daytime.",
+    "attribute_caption_useful": "{'What': 'viewing scenery', 'Where': 'Marina Bay, Singapore', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      5310,
+      5340,
+      5370
+    ],
+    "raw_section": {
+      "start": 5310,
+      "end": 5400
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 59
+  },
+  {
+    "start": 5400,
+    "end": 5490,
+    "start_time": 180.0,
+    "end_time": 183.0,
+    "raw_caption": "The video showcases a scenic view of Singapore's Marina Bay during the evening.",
+    "attribute_caption_useful": "{'What': 'cityscape view', 'Where': 'Singapore Marina Bay', 'When': 'evening', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0",
+    "sample_id_list": [
+      5400,
+      5430,
+      5460
+    ],
+    "raw_section": {
+      "start": 5400,
+      "end": 5490
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 60
+  },
+  {
+    "start": 5490,
+    "end": 5580,
+    "start_time": 183.0,
+    "end_time": 186.0,
+    "raw_caption": "A crowd of people is enjoying a walk along an urban waterfront with a city skyline in the background during the evening.",
+    "attribute_caption_useful": "{'What': 'sightseeing', 'Where': 'urban waterfront', 'When': 'evening', 'Who': 'crowd of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.8; [Highlight]: 0;",
+    "sample_id_list": [
+      5490,
+      5520,
+      5550
+    ],
+    "raw_section": {
+      "start": 5490,
+      "end": 5580
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 61
+  },
+  {
+    "start": 5580,
+    "end": 5670,
+    "start_time": 186.0,
+    "end_time": 189.0,
+    "raw_caption": "Tourists enjoy a scenic view of Singapore's waterfront during the evening.",
+    "attribute_caption_useful": "{'What': 'sightseeing', 'Where': 'Singapore waterfront', 'When': 'evening', 'Who': 'tourists'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      5580,
+      5610,
+      5640
+    ],
+    "raw_section": {
+      "start": 5580,
+      "end": 5670
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 62
+  },
+  {
+    "start": 5670,
+    "end": 5760,
+    "start_time": 189.0,
+    "end_time": 192.0,
+    "raw_caption": "The video shows a panoramic view of Marina Bay Sands and surrounding buildings in Singapore during the evening.",
+    "attribute_caption_useful": "{'What': 'cityscape view', 'Where': 'Marina Bay, Singapore', 'When': 'evening', 'Who': 'n/a'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      5670,
+      5700,
+      5730
+    ],
+    "raw_section": {
+      "start": 5670,
+      "end": 5760
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 63
+  },
+  {
+    "start": 5760,
+    "end": 5850,
+    "start_time": 192.0,
+    "end_time": 195.0,
+    "raw_caption": "People are walking along a waterfront promenade with skyscrapers in the background.",
+    "attribute_caption_useful": "{'What': 'walking', 'Where': 'city waterfront', 'When': 'daytime', 'Who': 'men and women'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0",
+    "sample_id_list": [
+      5760,
+      5790,
+      5820
+    ],
+    "raw_section": {
+      "start": 5760,
+      "end": 5850
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 64
+  },
+  {
+    "start": 5850,
+    "end": 5940,
+    "start_time": 195.0,
+    "end_time": 198.0,
+    "raw_caption": "People are walking along a waterfront promenade in a city during the evening.",
+    "attribute_caption_useful": "{'What': 'walking', 'Where': 'city waterfront', 'When': 'evening', 'Who': 'men and women'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      5850,
+      5880,
+      5910
+    ],
+    "raw_section": {
+      "start": 5850,
+      "end": 5940
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 65
+  },
+  {
+    "start": 5940,
+    "end": 6030,
+    "start_time": 198.0,
+    "end_time": 201.0,
+    "raw_caption": "The video captures a cityscape with skyscrapers and people walking along a waterfront during the evening.",
+    "attribute_caption_useful": "{'What': 'cityscape view', 'Where': 'urban waterfront', 'When': 'evening', 'Who': 'people walking'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      5940,
+      5970,
+      6000
+    ],
+    "raw_section": {
+      "start": 5940,
+      "end": 6030
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 66
+  },
+  {
+    "start": 6030,
+    "end": 6120,
+    "start_time": 201.0,
+    "end_time": 204.0,
+    "raw_caption": "The video shows a panoramic view of Marina Bay in Singapore during the evening.",
+    "attribute_caption_useful": "{'What': 'cityscape view', 'Where': 'Marina Bay, Singapore', 'When': 'evening', 'Who': 'no people visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0.2; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0",
+    "sample_id_list": [
+      6030,
+      6060,
+      6090
+    ],
+    "raw_section": {
+      "start": 6030,
+      "end": 6120
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 67
+  },
+  {
+    "start": 6120,
+    "end": 6210,
+    "start_time": 204.0,
+    "end_time": 207.0,
+    "raw_caption": "The video clip shows a view of Marina Bay Sands in Singapore during the day.",
+    "attribute_caption_useful": "{'What': 'viewing cityscape', 'Where': 'Marina Bay Sands, Singapore', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      6120,
+      6150,
+      6180
+    ],
+    "raw_section": {
+      "start": 6120,
+      "end": 6210
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 68
+  },
+  {
+    "start": 6210,
+    "end": 6300,
+    "start_time": 207.0,
+    "end_time": 210.0,
+    "raw_caption": "The video showcases a panoramic view of Marina Bay in Singapore, highlighting iconic buildings and structures.",
+    "attribute_caption_useful": "{'What': 'view of cityscape', 'Where': 'Singapore Marina Bay', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      6210,
+      6240,
+      6270
+    ],
+    "raw_section": {
+      "start": 6210,
+      "end": 6300
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 69
+  },
+  {
+    "start": 6300,
+    "end": 6390,
+    "start_time": 210.0,
+    "end_time": 213.0,
+    "raw_caption": "The video shows a calm evening view of Marina Bay in Singapore, featuring iconic buildings and a Ferris wheel.",
+    "attribute_caption_useful": "{'What': 'cityscape view', 'Where': 'Marina Bay, Singapore', 'When': 'evening', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      6300,
+      6330,
+      6360
+    ],
+    "raw_section": {
+      "start": 6300,
+      "end": 6390
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 70
+  },
+  {
+    "start": 6390,
+    "end": 6480,
+    "start_time": 213.0,
+    "end_time": 216.0,
+    "raw_caption": "The video shows a scenic view of Singapore's Marina Bay during the evening.",
+    "attribute_caption_useful": "{'What': 'cityscape view', 'Where': 'Singapore Marina Bay', 'When': 'evening', 'Who': 'no people visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0;",
+    "sample_id_list": [
+      6390,
+      6420,
+      6450
+    ],
+    "raw_section": {
+      "start": 6390,
+      "end": 6480
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 71
+  },
+  {
+    "start": 6480,
+    "end": 6570,
+    "start_time": 216.0,
+    "end_time": 219.0,
+    "raw_caption": "A boat is docked at a waterfront with a city skyline and a Ferris wheel visible in the background during the evening.",
+    "attribute_caption_useful": "{'What': 'boat docked', 'Where': 'waterfront cityscape', 'When': 'evening', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0",
+    "sample_id_list": [
+      6480,
+      6510,
+      6540
+    ],
+    "raw_section": {
+      "start": 6480,
+      "end": 6570
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 72
+  },
+  {
+    "start": 6570,
+    "end": 6660,
+    "start_time": 219.0,
+    "end_time": 222.0,
+    "raw_caption": "The video captures a scenic view of a city harbor with boats and a ferris wheel during the evening.",
+    "attribute_caption_useful": "{'What': 'view of waterfront', 'Where': 'city harbor', 'When': 'evening', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0;",
+    "sample_id_list": [
+      6570,
+      6600,
+      6630
+    ],
+    "raw_section": {
+      "start": 6570,
+      "end": 6660
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 73
+  },
+  {
+    "start": 6660,
+    "end": 6750,
+    "start_time": 222.0,
+    "end_time": 225.0,
+    "raw_caption": "The video shows a scenic view of the Singapore waterfront with buildings and a Ferris wheel in the background.",
+    "attribute_caption_useful": "{'What': 'scenic view', 'Where': 'Singapore waterfront', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0",
+    "sample_id_list": [
+      6660,
+      6690,
+      6720
+    ],
+    "raw_section": {
+      "start": 6660,
+      "end": 6750
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 74
+  },
+  {
+    "start": 6750,
+    "end": 6840,
+    "start_time": 225.0,
+    "end_time": 228.0,
+    "raw_caption": "The video shows a scenic view of an urban waterfront with a ferris wheel in the background.",
+    "attribute_caption_useful": "{'What': 'view of waterfront and ferris wheel', 'Where': 'urban waterfront', 'When': 'daytime', 'Who': 'not applicable'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      6750,
+      6780,
+      6810
+    ],
+    "raw_section": {
+      "start": 6750,
+      "end": 6840
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 75
+  },
+  {
+    "start": 6840,
+    "end": 6930,
+    "start_time": 228.0,
+    "end_time": 231.0,
+    "raw_caption": "A boat is seen moving along a city waterfront during the day.",
+    "attribute_caption_useful": "{'What': 'boat on water', 'Where': 'city waterfront', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0",
+    "sample_id_list": [
+      6840,
+      6870,
+      6900
+    ],
+    "raw_section": {
+      "start": 6840,
+      "end": 6930
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 76
+  },
+  {
+    "start": 6930,
+    "end": 7020,
+    "start_time": 231.0,
+    "end_time": 234.0,
+    "raw_caption": "A boat is seen moving along a city waterfront during the evening, with people on board.",
+    "attribute_caption_useful": "{'What': 'boat on water', 'Where': 'city waterfront', 'When': 'evening', 'Who': 'people on boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      6930,
+      6960,
+      6990
+    ],
+    "raw_section": {
+      "start": 6930,
+      "end": 7020
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 77
+  },
+  {
+    "start": 7020,
+    "end": 7110,
+    "start_time": 234.0,
+    "end_time": 237.0,
+    "raw_caption": "A boat is moving along an urban waterfront with people on board during the evening.",
+    "attribute_caption_useful": "{'What': 'boat on water', 'Where': 'urban waterfront', 'When': 'evening', 'Who': 'people on boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0;",
+    "sample_id_list": [
+      7020,
+      7050,
+      7080
+    ],
+    "raw_section": {
+      "start": 7020,
+      "end": 7110
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 78
+  },
+  {
+    "start": 7110,
+    "end": 7200,
+    "start_time": 237.0,
+    "end_time": 240.0,
+    "raw_caption": "A boat is moving along an urban waterfront with people on board during the daytime.",
+    "attribute_caption_useful": "{'What': 'boat on water', 'Where': 'urban waterfront', 'When': 'daytime', 'Who': 'people on boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0",
+    "sample_id_list": [
+      7110,
+      7140,
+      7170
+    ],
+    "raw_section": {
+      "start": 7110,
+      "end": 7200
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 79
+  },
+  {
+    "start": 7200,
+    "end": 7290,
+    "start_time": 240.0,
+    "end_time": 243.0,
+    "raw_caption": "A boat is cruising along a city waterfront with people on board during the day.",
+    "attribute_caption_useful": "{'What': 'boat cruising', 'Where': 'city waterfront', 'When': 'daytime', 'Who': 'people on boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      7200,
+      7230,
+      7260
+    ],
+    "raw_section": {
+      "start": 7200,
+      "end": 7290
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 80
+  },
+  {
+    "start": 7290,
+    "end": 7380,
+    "start_time": 243.0,
+    "end_time": 246.0,
+    "raw_caption": "A boat cruises along an urban waterfront with a group of people on board during the day.",
+    "attribute_caption_useful": "{'What': 'boat cruising', 'Where': 'urban waterfront', 'When': 'daytime', 'Who': 'group of people on boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      7290,
+      7320,
+      7350
+    ],
+    "raw_section": {
+      "start": 7290,
+      "end": 7380
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 81
+  },
+  {
+    "start": 7380,
+    "end": 7470,
+    "start_time": 246.0,
+    "end_time": 249.0,
+    "raw_caption": "A boat cruises along an urban riverfront with people on board during the daytime.",
+    "attribute_caption_useful": "{'What': 'boat cruising', 'Where': 'urban riverfront', 'When': 'daytime', 'Who': 'people on boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      7380,
+      7410,
+      7440
+    ],
+    "raw_section": {
+      "start": 7380,
+      "end": 7470
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 82
+  },
+  {
+    "start": 7470,
+    "end": 7560,
+    "start_time": 249.0,
+    "end_time": 252.0,
+    "raw_caption": "A boat carrying passengers cruises along a river with city buildings in the background during the day.",
+    "attribute_caption_useful": "{'What': 'boat ride', 'Where': 'river near city buildings', 'When': 'daytime', 'Who': 'passengers on a boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      7470,
+      7500,
+      7530
+    ],
+    "raw_section": {
+      "start": 7470,
+      "end": 7560
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 83
+  },
+  {
+    "start": 7560,
+    "end": 7650,
+    "start_time": 252.0,
+    "end_time": 255.0,
+    "raw_caption": "A group of people enjoys a boat ride on a river near a cityscape during the day.",
+    "attribute_caption_useful": "{'What': 'boat ride', 'Where': 'river near cityscape', 'When': 'daytime', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      7560,
+      7590,
+      7620
+    ],
+    "raw_section": {
+      "start": 7560,
+      "end": 7650
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 84
+  },
+  {
+    "start": 7650,
+    "end": 7740,
+    "start_time": 255.0,
+    "end_time": 258.0,
+    "raw_caption": "A boat carrying tourists travels along a river in a city during the day.",
+    "attribute_caption_useful": "{'What': 'boat ride', 'Where': 'river in a city', 'When': 'daytime', 'Who': 'tourists'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.2;",
+    "sample_id_list": [
+      7650,
+      7680,
+      7710
+    ],
+    "raw_section": {
+      "start": 7650,
+      "end": 7740
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 85
+  },
+  {
+    "start": 7740,
+    "end": 7830,
+    "start_time": 258.0,
+    "end_time": 261.0,
+    "raw_caption": "A group of people are enjoying a boat ride on a river near a cityscape during the daytime.",
+    "attribute_caption_useful": "{'What': 'boat ride', 'Where': 'river near a cityscape', 'When': 'daytime', 'Who': 'group of people on a boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      7740,
+      7770,
+      7800
+    ],
+    "raw_section": {
+      "start": 7740,
+      "end": 7830
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 86
+  },
+  {
+    "start": 7830,
+    "end": 7920,
+    "start_time": 261.0,
+    "end_time": 264.0,
+    "raw_caption": "A group of people are enjoying a boat ride on a waterfront during the day.",
+    "attribute_caption_useful": "{'What': 'boat ride', 'Where': 'urban waterfront', 'When': 'daytime', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.3;",
+    "sample_id_list": [
+      7830,
+      7860,
+      7890
+    ],
+    "raw_section": {
+      "start": 7830,
+      "end": 7920
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 87
+  },
+  {
+    "start": 7920,
+    "end": 8010,
+    "start_time": 264.0,
+    "end_time": 267.0,
+    "raw_caption": "A group of people is enjoying a boat ride along a city waterfront during the day.",
+    "attribute_caption_useful": "{'What': 'boat ride', 'Where': 'city waterfront', 'When': 'daytime', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.2;",
+    "sample_id_list": [
+      7920,
+      7950,
+      7980
+    ],
+    "raw_section": {
+      "start": 7920,
+      "end": 8010
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 88
+  },
+  {
+    "start": 8010,
+    "end": 8100,
+    "start_time": 267.0,
+    "end_time": 270.0,
+    "raw_caption": "A group of people is enjoying a boat ride on a river near a cityscape during the day.",
+    "attribute_caption_useful": "{'What': 'boat ride', 'Where': 'river near a cityscape', 'When': 'daytime', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      8010,
+      8040,
+      8070
+    ],
+    "raw_section": {
+      "start": 8010,
+      "end": 8100
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 89
+  },
+  {
+    "start": 8100,
+    "end": 8190,
+    "start_time": 270.0,
+    "end_time": 273.0,
+    "raw_caption": "A group of people enjoy a boat ride on a city river during the day.",
+    "attribute_caption_useful": "{'What': 'boat ride', 'Where': 'river in city', 'When': 'daytime', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.3;",
+    "sample_id_list": [
+      8100,
+      8130,
+      8160
+    ],
+    "raw_section": {
+      "start": 8100,
+      "end": 8190
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 90
+  },
+  {
+    "start": 8190,
+    "end": 8280,
+    "start_time": 273.0,
+    "end_time": 276.0,
+    "raw_caption": "A group of people is enjoying a boat ride on a river near modern buildings during the day.",
+    "attribute_caption_useful": "{'What': 'boat ride', 'Where': 'river near modern buildings', 'When': 'daytime', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.1; [Highlight]: 0.2;",
+    "sample_id_list": [
+      8190,
+      8220,
+      8250
+    ],
+    "raw_section": {
+      "start": 8190,
+      "end": 8280
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 91
+  },
+  {
+    "start": 8280,
+    "end": 8370,
+    "start_time": 276.0,
+    "end_time": 279.0,
+    "raw_caption": "A group of people is enjoying a boat ride along an urban waterfront during the day.",
+    "attribute_caption_useful": "{'What': 'boat ride', 'Where': 'urban waterfront', 'When': 'daytime', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      8280,
+      8310,
+      8340
+    ],
+    "raw_section": {
+      "start": 8280,
+      "end": 8370
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 92
+  },
+  {
+    "start": 8370,
+    "end": 8460,
+    "start_time": 279.0,
+    "end_time": 282.0,
+    "raw_caption": "A group of people is enjoying a boat ride on an urban waterfront during the day.",
+    "attribute_caption_useful": "{'What': 'boat ride', 'Where': 'urban waterfront', 'When': 'daytime', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.2;",
+    "sample_id_list": [
+      8370,
+      8400,
+      8430
+    ],
+    "raw_section": {
+      "start": 8370,
+      "end": 8460
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 93
+  },
+  {
+    "start": 8460,
+    "end": 8550,
+    "start_time": 282.0,
+    "end_time": 285.0,
+    "raw_caption": "A group of people is enjoying a boat ride along an urban waterfront during the day.",
+    "attribute_caption_useful": "{'What': 'boat ride', 'Where': 'urban waterfront', 'When': 'daytime', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      8460,
+      8490,
+      8520
+    ],
+    "raw_section": {
+      "start": 8460,
+      "end": 8550
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 94
+  },
+  {
+    "start": 8550,
+    "end": 8640,
+    "start_time": 285.0,
+    "end_time": 288.0,
+    "raw_caption": "A group of people are enjoying a boat ride on a river near a large building during the day.",
+    "attribute_caption_useful": "{'What': 'boat ride', 'Where': 'river near a large building', 'When': 'daytime', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0",
+    "sample_id_list": [
+      8550,
+      8580,
+      8610
+    ],
+    "raw_section": {
+      "start": 8550,
+      "end": 8640
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 95
+  },
+  {
+    "start": 8640,
+    "end": 8730,
+    "start_time": 288.0,
+    "end_time": 291.0,
+    "raw_caption": "A group of people is taking a boat ride along a waterfront cityscape during the day.",
+    "attribute_caption_useful": "{'What': 'boat ride', 'Where': 'waterfront cityscape', 'When': 'daytime', 'Who': 'group of people'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      8640,
+      8670,
+      8700
+    ],
+    "raw_section": {
+      "start": 8640,
+      "end": 8730
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 96
+  },
+  {
+    "start": 8730,
+    "end": 8820,
+    "start_time": 291.0,
+    "end_time": 294.0,
+    "raw_caption": "A boat cruises along a waterfront near a large modern building with people on board.",
+    "attribute_caption_useful": "{'What': 'boat cruising', 'Where': 'waterfront near modern building', 'When': 'daytime', 'Who': 'people on boat'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0.1;",
+    "sample_id_list": [
+      8730,
+      8760,
+      8790
+    ],
+    "raw_section": {
+      "start": 8730,
+      "end": 8820
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 97
+  },
+  {
+    "start": 8820,
+    "end": 8910,
+    "start_time": 294.0,
+    "end_time": 297.0,
+    "raw_caption": "The video captures a panoramic view of the Marina Bay skyline in Singapore during the day.",
+    "attribute_caption_useful": "{'What': 'viewing skyline', 'Where': 'Marina Bay, Singapore', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0;",
+    "sample_id_list": [
+      8820,
+      8850,
+      8880
+    ],
+    "raw_section": {
+      "start": 8820,
+      "end": 8910
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 98
+  },
+  {
+    "start": 8910,
+    "end": 9000,
+    "start_time": 297.0,
+    "end_time": 300.0,
+    "raw_caption": "The video shows a clear view of the Marina Bay Sands hotel in Singapore during the day.",
+    "attribute_caption_useful": "{'What': 'view of iconic building', 'Where': 'Singapore', 'When': 'daytime', 'Who': 'unknown'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0",
+    "sample_id_list": [
+      8910,
+      8940,
+      8970
+    ],
+    "raw_section": {
+      "start": 8910,
+      "end": 9000
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 99
+  },
+  {
+    "start": 9000,
+    "end": 9090,
+    "start_time": 300.0,
+    "end_time": 303.0,
+    "raw_caption": "The video showcases the Marina Bay Sands and surrounding landmarks in Singapore during the day.",
+    "attribute_caption_useful": "{'What': 'cityscape view', 'Where': 'Singapore Marina Bay Sands', 'When': 'daytime', 'Who': 'not applicable'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0;",
+    "sample_id_list": [
+      9000,
+      9030,
+      9060
+    ],
+    "raw_section": {
+      "start": 9000,
+      "end": 9090
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 100
+  },
+  {
+    "start": 9090,
+    "end": 9180,
+    "start_time": 303.0,
+    "end_time": 306.0,
+    "raw_caption": "The video captures a scenic view of Singapore's waterfront during the evening, showcasing iconic structures.",
+    "attribute_caption_useful": "{'What': 'view of iconic structures', 'Where': 'Singapore waterfront', 'When': 'evening', 'Who': 'no people visible'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      9090,
+      9120,
+      9150
+    ],
+    "raw_section": {
+      "start": 9090,
+      "end": 9180
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 101
+  },
+  {
+    "start": 9180,
+    "end": 9270,
+    "start_time": 306.0,
+    "end_time": 309.0,
+    "raw_caption": "Tourists enjoy the evening view of Marina Bay with its iconic skyline and Ferris wheel.",
+    "attribute_caption_useful": "{'What': 'sightseeing', 'Where': 'marina bay', 'When': 'evening', 'Who': 'tourists'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0;",
+    "sample_id_list": [
+      9180,
+      9210,
+      9240
+    ],
+    "raw_section": {
+      "start": 9180,
+      "end": 9270
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 102
+  },
+  {
+    "start": 9270,
+    "end": 9360,
+    "start_time": 309.0,
+    "end_time": 312.0,
+    "raw_caption": "People are enjoying a stroll and taking photos at Marina Bay waterfront during the day.",
+    "attribute_caption_useful": "{'What': 'people walking and taking photos', 'Where': 'Marina Bay waterfront', 'When': 'daytime', 'Who': 'men and women'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.2; [Highlight]: 0",
+    "sample_id_list": [
+      9270,
+      9300,
+      9330
+    ],
+    "raw_section": {
+      "start": 9270,
+      "end": 9360
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 103
+  },
+  {
+    "start": 9360,
+    "end": 9450,
+    "start_time": 312.0,
+    "end_time": 315.0,
+    "raw_caption": "People are strolling and capturing photos along a city waterfront during the day.",
+    "attribute_caption_useful": "{'What': 'people walking and taking photos', 'Where': 'city waterfront', 'When': 'daytime', 'Who': 'men and women, various ages'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.7; [Highlight]: 0;",
+    "sample_id_list": [
+      9360,
+      9390,
+      9420
+    ],
+    "raw_section": {
+      "start": 9360,
+      "end": 9450
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 104
+  },
+  {
+    "start": 9450,
+    "end": 9540,
+    "start_time": 315.0,
+    "end_time": 318.0,
+    "raw_caption": "People are enjoying a walk along a waterfront promenade with a view of the city skyline in the evening.",
+    "attribute_caption_useful": "{'What': 'people walking and sightseeing', 'Where': 'waterfront promenade', 'When': 'evening', 'Who': 'men, women, and children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.3; [Highlight]: 0.1;",
+    "sample_id_list": [
+      9450,
+      9480,
+      9510
+    ],
+    "raw_section": {
+      "start": 9450,
+      "end": 9540
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 105
+  },
+  {
+    "start": 9540,
+    "end": 9630,
+    "start_time": 318.0,
+    "end_time": 321.0,
+    "raw_caption": "The video shows people walking and sightseeing along an urban waterfront during the day.",
+    "attribute_caption_useful": "{'What': 'people walking and sightseeing', 'Where': 'urban waterfront', 'When': 'daytime', 'Who': 'men, women, and children'}",
+    "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0.5; [Highlight]: 0",
+    "sample_id_list": [
+      9540,
+      9570,
+      9600
+    ],
+    "raw_section": {
+      "start": 9540,
+      "end": 9630
+    },
+    "raw_caption_path": "data/avt/caption_saliency/travel-city_walk-Jahaar_views/tp912d19x4E.json",
+    "Highlight": "['Highlight Score']: 0",
+    "clip_id": 106
+  }
+]

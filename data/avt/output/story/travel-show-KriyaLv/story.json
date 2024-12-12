@@ -1,0 +1,476 @@
+{
+  "choose_clip_info": "step2 story: use merge. multi step1 (True), multi step2 (False), story choose: 20, all story video clip: 140, all useful video clip: 410, all video clip: 494",
+  "story_result": {
+    "section_id_list": [
+      154,
+      155,
+      161,
+      170,
+      171,
+      175,
+      181,
+      191,
+      197,
+      201,
+      207,
+      209,
+      230,
+      250,
+      256,
+      266,
+      269,
+      273,
+      302,
+      356
+    ],
+    "clip_caption": {
+      "154": "This clip of women performing a traditional dance in matching red and black outfits serves as a vibrant introduction to the sequence, setting the tone for a cultural celebration.",
+      "155": "The performance of women in coordinated costumes continues the theme of traditional dance, emphasizing unity and cultural expression.",
+      "161": "This clip highlights the vibrancy and synchronization of the women's traditional dance, reinforcing the cultural narrative.",
+      "170": "Introducing men into the traditional dance, this clip broadens the scope of the performance, adding diversity to the sequence.",
+      "171": "The inclusion of colorful costumes and coordinated movements in this folk dance clip enhances the visual appeal and cultural richness.",
+      "175": "This clip of a traditional dance on an indoor stage captures the essence of a shared cultural experience, suitable for the middle of the sequence.",
+      "181": "The theater setting and indoor event context in this clip provide a formal backdrop to the traditional dance, adding depth to the sequence.",
+      "191": "This clip emphasizes the cultural attire and coordinated movements, maintaining the theme of traditional dance.",
+      "197": "Featuring a group of dancers in a folk dance, this clip adds a layer of traditional artistry and cultural heritage.",
+      "201": "The focus on cultural costumes and choreography in this clip highlights the meticulous preparation and cultural significance of the dance.",
+      "207": "This clip showcases coordinated movements and lifts, adding dynamism and energy to the sequence.",
+      "209": "The colorful costumes and indoor event setting in this clip contribute to the vibrant and festive atmosphere of the traditional dance.",
+      "230": "This clip of women holding hands and moving in unison symbolizes unity and cultural tradition, suitable for the climax of the sequence.",
+      "250": "A lively folk dance in traditional attire adds a sense of celebration and energy, ideal for maintaining audience engagement.",
+      "256": "The theater stage setting in this clip provides a formal and polished context for the traditional dance performance.",
+      "266": "The lively folk dance on an indoor stage adds a sense of spontaneity and joy to the sequence.",
+      "269": "This clip of a folk dance showcases coordinated movements and attire, emphasizing the cultural significance of the performance.",
+      "273": "Energetic movements and traditional attire in this clip highlight the lively nature of the folk dance, enhancing the sequence's vibrancy.",
+      "302": "The colorful costumes and hats in this clip add a festive and traditional element, suitable for drawing the sequence towards a conclusion.",
+      "356": "This clip, with its highlight score of 1.0, serves as the grand finale with its cultural attire and choreography, encapsulating the theme of traditional folk dance."
+    },
+    "theme_caption": {
+      "[154, 155, 161, 230]": "Women's Traditional Dance: This theme captures the elegance and coordination of a group of women performing traditional dances, emphasizing cultural attire and unity.",
+      "[170, 171, 175, 181, 191, 197, 201, 207, 209, 250, 256, 266, 269, 273, 302, 356]": "Mixed-Gender Traditional and Folk Dance: This theme showcases a variety of traditional and folk dances performed by men and women, highlighting colorful costumes, synchronized movements, and a celebration of cultural heritage."
+    },
+    "global_caption": "The collection of video clips presents a vibrant tapestry of traditional dance performances, beginning with a focus on women's traditional dances that set the stage for a cultural celebration. As the sequence progresses, the inclusion of men broadens the narrative, showcasing a diverse array of traditional and folk dances. The performances are characterized by colorful costumes, synchronized movements, and a lively atmosphere, culminating in a grand finale that encapsulates the essence of cultural heritage and artistic expression."
+  },
+  "output_section_info_list": [
+    {
+      "start": 11550,
+      "end": 11625,
+      "start_time": 462.0,
+      "end_time": 465.0,
+      "raw_caption": "A group of women perform a traditional dance on stage, wearing matching red and black outfits.",
+      "attribute_caption_useful": "{'What': 'group dance', 'Where': 'stage', 'When': 'unknown', 'Who': 'women in traditional attire'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.8;",
+      "sample_id_list": [
+        11550,
+        11575,
+        11600
+      ],
+      "raw_section": {
+        "start": 11550,
+        "end": 11625
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.8",
+      "clip_id": 154
+    },
+    {
+      "start": 11625,
+      "end": 11700,
+      "start_time": 465.0,
+      "end_time": 468.0,
+      "raw_caption": "A group of women perform a traditional dance on stage, wearing coordinated costumes.",
+      "attribute_caption_useful": "{'What': 'traditional dance performance', 'Where': 'stage', 'When': 'unknown', 'Who': 'group of women'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        11625,
+        11650,
+        11675
+      ],
+      "raw_section": {
+        "start": 11625,
+        "end": 11700
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 155
+    },
+    {
+      "start": 12075,
+      "end": 12150,
+      "start_time": 483.0,
+      "end_time": 486.0,
+      "raw_caption": "A group of women performs a traditional dance on stage, showcasing vibrant costumes and synchronized movements.",
+      "attribute_caption_useful": "{'What': 'traditional dance performance', 'Where': 'stage', 'When': 'unknown', 'Who': 'group of women'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        12075,
+        12100,
+        12125
+      ],
+      "raw_section": {
+        "start": 12075,
+        "end": 12150
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 161
+    },
+    {
+      "start": 12750,
+      "end": 12825,
+      "start_time": 510.0,
+      "end_time": 513.0,
+      "raw_caption": "A group of men and women perform a traditional dance on stage during an indoor event.",
+      "attribute_caption_useful": "{'What': 'traditional dance', 'Where': 'stage', 'When': 'indoor event', 'Who': 'group of men and women'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        12750,
+        12775,
+        12800
+      ],
+      "raw_section": {
+        "start": 12750,
+        "end": 12825
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 170
+    },
+    {
+      "start": 12825,
+      "end": 12900,
+      "start_time": 513.0,
+      "end_time": 516.0,
+      "raw_caption": "A group of men and women perform a traditional folk dance on stage, showcasing coordinated movements and colorful costumes.",
+      "attribute_caption_useful": "{'What': 'folk dance performance', 'Where': 'stage', 'When': 'unknown time', 'Who': 'men and women in traditional attire'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        12825,
+        12850,
+        12875
+      ],
+      "raw_section": {
+        "start": 12825,
+        "end": 12900
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 171
+    },
+    {
+      "start": 13125,
+      "end": 13200,
+      "start_time": 525.0,
+      "end_time": 528.0,
+      "raw_caption": "A group of men and women perform a traditional dance on an indoor stage.",
+      "attribute_caption_useful": "{'What': 'traditional dance', 'Where': 'indoor stage', 'When': 'unknown', 'Who': 'men and women in traditional attire'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        13125,
+        13150,
+        13175
+      ],
+      "raw_section": {
+        "start": 13125,
+        "end": 13200
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 175
+    },
+    {
+      "start": 13575,
+      "end": 13650,
+      "start_time": 543.0,
+      "end_time": 546.0,
+      "raw_caption": "A group of performers in traditional costumes are dancing on a theater stage during an indoor event.",
+      "attribute_caption_useful": "{'What': 'folk dance performance', 'Where': 'theater stage', 'When': 'indoor event', 'Who': 'group of men and women in traditional costumes'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        13575,
+        13600,
+        13625
+      ],
+      "raw_section": {
+        "start": 13575,
+        "end": 13650
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 181
+    },
+    {
+      "start": 14325,
+      "end": 14400,
+      "start_time": 573.0,
+      "end_time": 576.0,
+      "raw_caption": "A group performs a traditional dance on stage, showcasing coordinated movements and cultural attire.",
+      "attribute_caption_useful": "{'What': 'traditional dance performance', 'Where': 'stage', 'When': 'indoors, artificial lighting', 'Who': 'group of men and women in traditional costumes'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        14325,
+        14350,
+        14375
+      ],
+      "raw_section": {
+        "start": 14325,
+        "end": 14400
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 191
+    },
+    {
+      "start": 14775,
+      "end": 14850,
+      "start_time": 591.0,
+      "end_time": 594.0,
+      "raw_caption": "A group of dancers performs a traditional folk dance on a stage.",
+      "attribute_caption_useful": "{'What': 'folk dance performance', 'Where': 'indoor stage', 'When': 'unknown', 'Who': 'group of men and women in traditional costumes'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        14775,
+        14800,
+        14825
+      ],
+      "raw_section": {
+        "start": 14775,
+        "end": 14850
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 197
+    },
+    {
+      "start": 15075,
+      "end": 15150,
+      "start_time": 603.0,
+      "end_time": 606.0,
+      "raw_caption": "A group of men and women perform a traditional dance on stage, showcasing cultural costumes and choreography.",
+      "attribute_caption_useful": "{'What': 'traditional dance performance', 'Where': 'stage', 'When': 'unknown', 'Who': 'group of men and women in traditional costumes'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        15075,
+        15100,
+        15125
+      ],
+      "raw_section": {
+        "start": 15075,
+        "end": 15150
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 201
+    },
+    {
+      "start": 15525,
+      "end": 15600,
+      "start_time": 621.0,
+      "end_time": 624.0,
+      "raw_caption": "A group of dancers perform a traditional dance on stage, showcasing coordinated movements and lifts.",
+      "attribute_caption_useful": "{'What': 'traditional dance performance', 'Where': 'stage', 'When': 'indoor event', 'Who': 'group of men and women in traditional costumes'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        15525,
+        15550,
+        15575
+      ],
+      "raw_section": {
+        "start": 15525,
+        "end": 15600
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 207
+    },
+    {
+      "start": 15675,
+      "end": 15750,
+      "start_time": 627.0,
+      "end_time": 630.0,
+      "raw_caption": "A group of men and women perform a traditional dance on stage, dressed in colorful costumes.",
+      "attribute_caption_useful": "{'What': 'traditional dance', 'Where': 'stage', 'When': 'indoor event', 'Who': 'men and women in traditional costumes'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        15675,
+        15700,
+        15725
+      ],
+      "raw_section": {
+        "start": 15675,
+        "end": 15750
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 209
+    },
+    {
+      "start": 17250,
+      "end": 17325,
+      "start_time": 690.0,
+      "end_time": 693.0,
+      "raw_caption": "A group of women perform a traditional dance on stage, holding hands and moving in unison.",
+      "attribute_caption_useful": "{'What': 'traditional dance', 'Where': 'stage', 'When': 'unknown', 'Who': 'group of women'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        17250,
+        17275,
+        17300
+      ],
+      "raw_section": {
+        "start": 17250,
+        "end": 17325
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 230
+    },
+    {
+      "start": 18750,
+      "end": 18825,
+      "start_time": 750.0,
+      "end_time": 753.0,
+      "raw_caption": "A group of men and women perform a lively folk dance on stage in traditional attire.",
+      "attribute_caption_useful": "{'What': 'folk dance performance', 'Where': 'stage', 'When': 'evening', 'Who': 'group of men and women'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        18750,
+        18775,
+        18800
+      ],
+      "raw_section": {
+        "start": 18750,
+        "end": 18825
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 250
+    },
+    {
+      "start": 19200,
+      "end": 19275,
+      "start_time": 768.0,
+      "end_time": 771.0,
+      "raw_caption": "A group of men and women perform a traditional dance on a theater stage, showcasing coordinated movements and costumes.",
+      "attribute_caption_useful": "{'What': 'traditional dance performance', 'Where': 'theater stage', 'When': 'unknown', 'Who': 'group of men and women in traditional attire'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        19200,
+        19225,
+        19250
+      ],
+      "raw_section": {
+        "start": 19200,
+        "end": 19275
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 256
+    },
+    {
+      "start": 19950,
+      "end": 20025,
+      "start_time": 798.0,
+      "end_time": 801.0,
+      "raw_caption": "A group of men and women perform a lively folk dance on an indoor stage.",
+      "attribute_caption_useful": "{'What': 'folk dance performance', 'Where': 'indoor stage', 'When': 'unknown', 'Who': 'group of men and women'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        19950,
+        19975,
+        20000
+      ],
+      "raw_section": {
+        "start": 19950,
+        "end": 20025
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 266
+    },
+    {
+      "start": 20175,
+      "end": 20250,
+      "start_time": 807.0,
+      "end_time": 810.0,
+      "raw_caption": "A group of men and women perform a traditional folk dance on stage, showcasing coordinated movements and attire.",
+      "attribute_caption_useful": "{'What': 'folk dance performance', 'Where': 'stage', 'When': 'unknown', 'Who': 'men and women in traditional costumes'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        20175,
+        20200,
+        20225
+      ],
+      "raw_section": {
+        "start": 20175,
+        "end": 20250
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 269
+    },
+    {
+      "start": 20475,
+      "end": 20550,
+      "start_time": 819.0,
+      "end_time": 822.0,
+      "raw_caption": "A group of men and women perform a lively folk dance on stage, showcasing traditional attire and energetic movements.",
+      "attribute_caption_useful": "{'What': 'folk dance performance', 'Where': 'stage', 'When': 'indoor event', 'Who': 'men and women in traditional attire'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        20475,
+        20500,
+        20525
+      ],
+      "raw_section": {
+        "start": 20475,
+        "end": 20550
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 273
+    },
+    {
+      "start": 22650,
+      "end": 22725,
+      "start_time": 906.0,
+      "end_time": 909.0,
+      "raw_caption": "A group of men and women perform a traditional dance on stage, wearing colorful costumes and hats.",
+      "attribute_caption_useful": "{'What': 'traditional dance performance', 'Where': 'stage', 'When': 'unknown', 'Who': 'men and women in traditional costumes'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 0.9;",
+      "sample_id_list": [
+        22650,
+        22675,
+        22700
+      ],
+      "raw_section": {
+        "start": 22650,
+        "end": 22725
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 0.9",
+      "clip_id": 302
+    },
+    {
+      "start": 26700,
+      "end": 26775,
+      "start_time": 1068.0,
+      "end_time": 1071.0,
+      "raw_caption": "A group of men and women perform a traditional folk dance on stage, showcasing cultural attire and choreography.",
+      "attribute_caption_useful": "{'What': 'folk dance performance', 'Where': 'stage', 'When': 'indoor event', 'Who': 'men and women in traditional costumes'}",
+      "attribute_caption_useless": "[Occlusion]: 0; [Shaking or Jittering]: 0; [Exposure]: 0; [Edited]: 0; [Meaningless]: 0; [Highlight]: 1;",
+      "sample_id_list": [
+        26700,
+        26725,
+        26750
+      ],
+      "raw_section": {
+        "start": 26700,
+        "end": 26775
+      },
+      "raw_caption_path": "data/avt/caption_saliency/travel-show-KriyaLv/1OLM0_Jzt5M.json",
+      "Highlight": "['Highlight Score']: 1.0",
+      "clip_id": 356
+    }
+  ]
+}
