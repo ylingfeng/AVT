@@ -84,28 +84,7 @@ This command would generate `./data/avt/output/evaluation`.
 
 
 ###  daily_life-family-Earls_Family_Vlogs (https://www.youtube.com/watch?v=MyLwV1V19WY)
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <div style="text-align: center;">
-    <video width="500" controls>
-      <source src="visualization\daily_life-family-Earls_Family_Vlogs_avt_1min.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <div style="text-align: center; color: gray; font-size: 13px;">AVT Video (ours)</div>
-  </div>
-  
-  <div style="text-align: center;">
-    <video width="500" controls>
-      <source src="visualization\daily_life-family-Earls_Family_Vlogs_univtg_1min.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <div style="text-align: center; color: gray; font-size: 13px;">UniVTG Video</div>
-  </div>
-  
-  <div style="text-align: center;">
-    <video width="500" controls>
-      <source src="visualization\daily_life-family-Earls_Family_Vlogs_uvcom_1min.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <div style="text-align: center; color: gray; font-size: 13px;">UVCOM Video</div>
-  </div>
-</div>
+| AVT Video (ours)                              | UniVTG Video                             | UVCOM Video                              |
+|-----------------------------------------------|------------------------------------------|------------------------------------------|
+| [![AVT Video](https://via.placeholder.com/500?text=AVT+Video)](visualization/daily_life-family-Earls_Family_Vlogs_avt_1min.mp4) | [![UniVTG Video](https://via.placeholder.com/500?text=UniVTG+Video)](visualization/daily_life-family-Earls_Family_Vlogs_univtg_1min.mp4) | [![UVCOM Video](https://via.placeholder.com/500?text=UVCOM+Video)](visualization/daily_life-family-Earls_Family_Vlogs_uvcom_1min.mp4) |
+
