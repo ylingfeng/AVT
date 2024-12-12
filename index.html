@@ -45,6 +45,27 @@
       .small-text {
           font-size: 0.9em; /* 字体大小为正常字体的 90% */
       }
+      .caption {
+        word-break:normal;
+        text-align: center; 
+        color: gray; 
+        font-size: 15px;
+      }
+      /* .t1 {
+        font-size: 32px;
+      }
+      .t2 {
+        font-size: 28px;
+      }
+      .t3 {
+        font-size: 24px;
+      } */
+      .t4 {
+        font-size: 20px; /* fixed */
+      }
+      /* .t5 {
+        font-size: 18px;
+      } */
   </style>
   </head>
 
@@ -150,7 +171,7 @@
                   <br><br><br>
                   <div class="columns is-centered has-text-centered">
                     <div class="column is-five-fourths width:100%">
-                      <h3 class=title is-2>
+                      <h3 class="title is-3">
                         The paper introduces a new class called Video Trimming (VT) and presents an agent-based approach
                         (AVT) to identify wasted footage, select valuable segments, and assemble them into a cohesive
                         final video.
@@ -164,8 +185,7 @@
                       </div>
                     </div>
                     <img src="static/images/video_trimming.svg" alt="fail" width="60%">
-                    <figcaption class="content has-text-justified"
-                      style="word-break:normal;text-align: center; color: gray; font-size: 15px;">
+                    <figcaption class="content has-text-justified caption">
                       A comparison between our new task and existing video tasks: (a) Highlight Detection retrieves
                       clips above a saliency threshold. (b) Moment Retrieval identifies the start and end for intervals
                       related to a given query. (c) Video Summarization extracts keyframes for each theme of the video.
@@ -175,10 +195,12 @@
                     <!-- <strong>(a)</strong> Classic KD methods perform distillation between independent teacher and student models. 
                       <strong>(b)</strong> PromptKD breaks the rules of teacher-student independence.  -->
                   </figure>
-                  <br>
+
+                  <br><br>
+
                   <figure>
                     <img src="static/images/framework.svg" alt="fail" width="100%">
-                    <figcaption class="content has-text-left"
+                    <figcaption class="content has-text-justified caption"
                       style="word-break:normal;text-align: center; color: gray; font-size: 15px;">
                       The overall framework of AVT. The approach first (a) converts sampled video content into
                       structured captions and attributes, then (b) discards defective clips, and finally (c) organizes
@@ -213,27 +235,99 @@
     <!-- End teaser video -->
 
     <!-- Paper abstract -->
-    <!-- <section class="section hero is-light">
+    <section class="section hero is-light">
       <div class="container is-max-desktop">
         <div class="columns is-centered has-text-centered">
           <div class="column is-four-fifths">
             <h2 class="title is-3">Abstract</h2>
             <div class="content has-text-justified">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper tellus sed ante aliquam
-                tempus. Etiam porttitor urna feugiat nibh elementum, et tempor dolor mattis. Donec accumsan enim augue,
-                a vulputate nisi sodales sit amet. Proin bibendum
-                ex eget mauris cursus euismod nec et nibh. Maecenas ac gravida ante, nec cursus dui. Vivamus purus nibh,
-                placerat ac purus eget, sagittis vestibulum metus. Sed vestibulum bibendum lectus gravida commodo.
-                Pellentesque auctor
-                leo vitae sagittis suscipit.
+                As information becomes more accessible, user-generated videos are increasing in length, placing a burden
+                on viewers to sift through vast content for valuable insights. This trend underscores the need for an
+                algorithm to extract key video information efficiently. Despite significant advancements in highlight
+                detection, moment retrieval, and video summarization, current approaches primarily focus on selecting
+                specific time intervals, often overlooking the relevance between segments and the potential for segment
+                arranging. In this paper, we introduce a novel task called Video Trimming (VT), which focuses on
+                detecting wasted footage, selecting valuable segments, and composing them into a final video with a
+                coherent story. To address this task, we propose Agent-based Video Trimming (AVT), structured into three
+                phases: Video Structuring, Clip Filtering, and Story Composition. Specifically, we employ a Video
+                Captioning Agent to convert video slices into structured textual descriptions, a Filtering Module to
+                dynamically discard low-quality footage based on the structured information of each clip, and a Video
+                Arrangement Agent to select and compile valid clips into a coherent final narrative. For evaluation, we
+                develop a Video Evaluation Agent to assess trimmed videos, conducting assessments in parallel with human
+                evaluations. Additionally, we curate a new benchmark dataset for video trimming using raw user videos
+                from the internet. As a result, AVT received more favorable evaluations in user studies and demonstrated
+                superior mAP and precision on the YouTube Highlights, TVSum, and our own dataset for the highlight
+                detection task. The code and models are available at https://ylingfeng.github.io/AVT.
               </p>
             </div>
           </div>
         </div>
       </div>
-    </section> -->
+    </section>
     <!-- End paper abstract -->
+
+    <section class="section hero">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered has-text-centered">
+          <div class="column is-five-fourths width:100%">
+            <h3 class="title is-3">
+              Visualization
+            </h3>
+          </div>
+        </div>
+        <br>
+        <p align="center">
+          <img src="static/images/visualization.svg" alt="visualization" style="width: 100%;">
+          <div class="caption">
+            Visualization of trimmed videos on the video trimming dataset. AVT creates a more complete
+            storyline with more highlight footage and less wasted footage.
+          </div>
+        </p>
+
+        <br>
+        <div style="text-align: left;">
+          <h4 class="t4">
+            <a href="https://www.youtube.com/watch?v=MyLwV1V19WY"
+              target="_blank">daily_life-family-Earls_Family_Vlogs</a>
+          </h4>
+        </div>
+        
+        <br>
+
+        <div style="display: flex; justify-content: space-between; gap: 10px;">
+          
+          <div style="text-align: center;">
+            <video width="500" controls muted>
+              <source src="static/videos/daily_life-family-Earls_Family_Vlogs_avt_1min.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <div class="caption">AVT Video (ours)</div>
+          </div>
+        
+          <div style="text-align: center;">
+            <video width="500" controls muted>
+              <source src="static/videos/daily_life-family-Earls_Family_Vlogs_univtg_1min.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <div class="caption">UniVTG Video</div>
+          </div>
+        
+          <div style="text-align: center;">
+            <video width="500" controls muted>
+              <source src="static/videos/daily_life-family-Earls_Family_Vlogs_uvcom_1min.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <div class="caption">UVCOM Video</div>
+          </div>
+        </div>
+        
+        
+        
+
+        </div>
+      </div>
+    </section>
 
     <!-- Image carousel -->
     <!-- <section class="hero is-small">
