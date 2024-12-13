@@ -1,5 +1,13 @@
 # Agent-based Video Trimming
 
+> [**Agent-based Video Trimming**]() <br>
+> Lingfeng Yang<sup>1†</sup>, Zhenyuan Chen<sup>2†</sup>, Xiang Li<sup>3,2∗</sup>, Peiyang Jia<sup>4</sup>, Liangqu Long<sup>4</sup>, Jian Yang<sup>1∗</sup>  <br>
+> <sup>1</sup>Nanjing University of Science and Technology, <sup>2</sup>VCIP, CS, Nankai University, <sup>3</sup>NKIARI, Shenzhen Futian, <sup>4</sup>Insta360<br>
+> [[Arxiv](https://arxiv.org/abs/2412.09513)] [[Project Page](https://ylingfeng.github.io/AVT/)] 
+
+<hr />
+
+
 <p align="center">
     <img src="./assets/video_trimming.svg" alt="video_trimming" style="width: 50%;">
     <div style="text-align: center; color: gray; font-size: 13px;">
