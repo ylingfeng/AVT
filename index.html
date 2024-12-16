@@ -50,27 +50,50 @@
         text-align: center; 
         color: gray; 
         font-size: 15px;
-        text-align: le;
+        text-align: center;
+      }   
+      .center {
+        text-align: center;
+      }   
+      .responsive-div {
+        width: 100%;
+        margin: 0 auto; /* 使 div 居中 */
       }
-      /* .t1 {
-        font-size: 32px;
+
+      @media (min-width: 1025px) and (max-width: 1200px) { /* 关键超参: 1025 */
+        .responsive-div {
+          width: 960px;
+          margin: 0 auto; /* 使 div 居中 */
+        }
       }
-      .t2 {
-        font-size: 28px;
+
+      @media (min-width: 1200px) {
+        .responsive-div {
+          width: 80vw;
+          margin: 0 auto; /* 使 div 居中 */
+        }
       }
-      .t3 {
-        font-size: 24px;
-      } */
-      .t4 {
-        font-size: 20px; /* fixed */
+      .grid-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, auto);
+        justify-items: center;
+        align-items: start;
+        width: 97.5%;
+        gap: 15px;
+        margin: 0 auto;
       }
-      /* .t5 {
-        font-size: 18px;
-      } */
+      .caption2 {
+        font-size: 15px;
+        font-weight: bold;
+        margin-bottom: 8px;
+      }
   </style>
+
   </head>
 
   <body>
+    <!-- TL;DR -->
     <section class="hero">
       <div class="hero-body">
         <div class="container is-max-desktop">
@@ -198,13 +221,10 @@
                   </div>
 
                   <figure>
-                    <div class="columns is-centered has-text-centered">
-                      <div class="column is-four-fifths width:100%">
-                      </div>
-                    </div>
                     <img src="static/images/video_trimming.svg" alt="fail" width="60%">
-                    <figcaption class="content has-text-justified caption">
-                      A comparison between our new task and existing video tasks: (a) Highlight Detection retrieves
+                    <figcaption class="has-text-justified caption2">
+                      Figure 1. A comparison between our new task and existing video tasks: (a) Highlight Detection
+                      retrieves
                       clips above a saliency threshold. (b) Moment Retrieval identifies the start and end for intervals
                       related to a given query. (c) Video Summarization extracts keyframes for each theme of the video.
                       (d) Video Trimming addresses more than just a retrieval task by also filtering wasted footage and
@@ -217,9 +237,8 @@
 
                   <figure>
                     <img src="static/images/framework.svg" alt="fail" width="100%">
-                    <figcaption class="content has-text-justified caption"
-                      style="word-break:normal;text-align: center; color: gray; font-size: 15px;">
-                      The overall framework of AVT. The approach first (a) converts sampled video content into
+                    <figcaption class="has-text-justified caption2">
+                      Figure 2. The overall framework of AVT. The approach first (a) converts sampled video content into
                       structured captions and attributes, then (b) discards defective clips, and finally (c) organizes
                       the remaining clips into a coherent final cut.
                     </figcaption>
@@ -232,24 +251,9 @@
         </div>
       </div>
     </section>
+    <!-- End TL;DR -->
 
     <br>
-
-    <!-- Teaser video-->
-    <!-- <section class="hero teaser">
-      <div class="container is-max-desktop">
-        <div class="hero-body">
-          <video poster id="tree" autoplay controls muted loop height="100%">
-            <source src="static/videos/banner_video.mp4" type="video/mp4" />
-          </video>
-          <h2 class="subtitle has-text-centered">
-            Aliquam vitae elit ullamcorper tellus egestas pellentesque. Ut lacus tellus, maximus vel lectus at, placerat
-            pretium mi. Maecenas dignissim tincidunt vestibulum. Sed consequat hendrerit nisl ut maximus.
-          </h2>
-        </div>
-      </div>
-    </section> -->
-    <!-- End teaser video -->
 
     <!-- Paper abstract -->
     <section class="section hero is-light">
@@ -284,6 +288,7 @@
     </section>
     <!-- End paper abstract -->
 
+    <!-- Visualization -->
     <section class="section hero">
       <div class="container is-max-desktop">
         <div class="columns is-centered has-text-centered">
@@ -293,190 +298,529 @@
             </h3>
           </div>
         </div>
+      </div>
 
-        <br>
+      <br>
 
-        <div style="text-align: center;">
-          <img src="static/images/visualization.svg" alt="visualization" style="width: 100%;">
-          <div class="caption" style="text-align: left;">
-            Visualization of trimmed videos on the video trimming dataset. AVT creates a more complete storyline with
-            more highlight footage and less wasted footage.
+      <div class="container is-max-desktop">
+        <div class="grid-container"> <div style="text-align: center; width: 100%;">
+            <iframe
+              style="width: 100%; height: auto; max-width: 100%; aspect-ratio: 16/9;"
+              src="https://www.youtube.com/embed/MyLwV1V19WY?mute=1"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen>
+            </iframe>
+            <div class="caption">Raw Video</div>
           </div>
-        </div>
-
-        <br>
-        <div style="text-align: left;">
-          <h4 class="t4">
-            <a href="https://www.youtube.com/watch?v=MyLwV1V19WY"
-              target="_blank">daily_life-family-Earls_Family_Vlogs</a>
-          </h4>
-        </div>
-
-        <br>
-
-        <div style="display: flex; justify-content: space-between; gap: 10px;">
-
-          <div style="text-align: center;">
-            <video width="500" controls muted>
-              <source src="static/videos/daily_life-family-Earls_Family_Vlogs_avt_1min.mp4" type="video/mp4">
+          <div style="text-align: center; width: 100%;">
+            <video style="width: 100%; aspect-ratio: 16/9;" controls muted>
+              <source
+                src="static/visualization/daily_life-family-Earls_Family_Vlogs/daily_life-family-Earls_Family_Vlogs_avt_1min.mp4"
+                type="video/mp4">
               Your browser does not support the video tag.
             </video>
             <div class="caption">AVT Video (ours)</div>
           </div>
-
-          <div style="text-align: center;">
-            <video width="500" controls muted>
-              <source src="static/videos/daily_life-family-Earls_Family_Vlogs_univtg_1min.mp4" type="video/mp4">
+          <div style="text-align: center; width: 100%;">
+            <video style="width: 100%; aspect-ratio: 16/9;" controls muted>
+              <source
+                src="static/visualization/daily_life-family-Earls_Family_Vlogs/daily_life-family-Earls_Family_Vlogs_univtg_1min.mp4"
+                type="video/mp4">
               Your browser does not support the video tag.
             </video>
             <div class="caption">UniVTG Video</div>
           </div>
+          <div style="text-align: center; width: 100%;">
+            <video style="width: 100%; aspect-ratio: 16/9;" controls muted>
+              <source
+                src="static/visualization/daily_life-family-Earls_Family_Vlogs/daily_life-family-Earls_Family_Vlogs_uvcom_1min.mp4"
+                type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <div class="caption">UVCOM Video</div>
 
-          <div style="text-align: center;">
-            <video width="500" controls muted>
-              <source src="static/videos/daily_life-family-Earls_Family_Vlogs_uvcom_1min.mp4" type="video/mp4">
+          </div>
+        </div>
+      </div>
+      <br>
+      <div class="container is-max-desktop">
+        <div style="text-align: center;">
+          <img src="static/visualization/daily_life-family-Earls_Family_Vlogs/hd.svg" alt="visualization"
+            style="width: 100%;">
+        </div>
+        <hr style="border: 5px;">
+      </div>
+
+      <br>
+
+      <div class="container is-max-desktop">
+        <div class="grid-container"> <div style="text-align: center; width: 100%;">
+            <iframe
+              style="width: 100%; height: auto; max-width: 100%; aspect-ratio: 16/9;"
+              src="https://www.youtube.com/embed/McC9gB5Cr6o?mute=1"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen>
+            </iframe>
+            <div class="caption">Raw Video</div>
+          </div>
+          <div style="text-align: center; width: 100%;">
+            <video style="width: 100%; aspect-ratio: 16/9;" controls muted>
+              <source
+                src="static/visualization/travel-show-HetfieldMustaine22/travel-show-HetfieldMustaine22_output_saliency_1.mp4"
+                type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <div class="caption">AVT Video (ours)</div>
+          </div>
+          <div style="text-align: center; width: 100%;">
+            <video style="width: 100%; aspect-ratio: 16/9;" controls muted>
+              <source
+                src="static/visualization/travel-show-HetfieldMustaine22/travel-show-HetfieldMustaine22_univtg_1min.mp4"
+                type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <div class="caption">UniVTG Video</div>
+          </div>
+          <div style="text-align: center; width: 100%;">
+            <video style="width: 100%; aspect-ratio: 16/9;" controls muted>
+              <source
+                src="static/visualization/travel-show-HetfieldMustaine22/travel-show-HetfieldMustaine22_uvcom_1min.mp4"
+                type="video/mp4">
               Your browser does not support the video tag.
             </video>
             <div class="caption">UVCOM Video</div>
           </div>
-
         </div>
       </div>
-    </section>
+      <br>
+      <div class="container is-max-desktop">
+        <div style="text-align: center;">
+          <img src="static/visualization/travel-show-HetfieldMustaine22/hd.svg" alt="visualization"
+            style="width: 100%;">
+        </div>
+        <hr style="border: 5px;">
+      </div>
 
-    <!-- Image carousel -->
-    <!-- <section class="hero is-small">
-      <div class="hero-body">
-        <div class="container">
-          <div id="results-carousel" class="carousel results-carousel">
-            <div class="item">
-              <img src="static/images/carousel1.jpg" alt="MY ALT TEXT" />
-              <h2 class="subtitle has-text-centered">
-                First image description.
-              </h2>
-            </div>
-            <div class="item">
-              <img src="static/images/carousel2.jpg" alt="MY ALT TEXT" />
-              <h2 class="subtitle has-text-centered">
-                Second image description.
-              </h2>
-            </div>
-            <div class="item">
-              <img src="static/images/carousel3.jpg" alt="MY ALT TEXT" />
-              <h2 class="subtitle has-text-centered">
-                Third image description.
-              </h2>
-            </div>
-            <div class="item">
-              <img src="static/images/carousel4.jpg" alt="MY ALT TEXT" />
-              <h2 class="subtitle has-text-centered">
-                Fourth image description.
-              </h2>
-            </div>
+      <br>
+
+      <div class="container is-max-desktop">
+        <div class="grid-container"> <div style="text-align: center; width: 100%;">
+            <iframe
+              style="width: 100%; height: auto; max-width: 100%; aspect-ratio: 16/9;"
+              src="https://www.youtube.com/embed/3iz5SmEQj9A?mute=1"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen>
+            </iframe>
+            <div class="caption">Raw Video</div>
+          </div>
+          <div style="text-align: center; width: 100%;">
+            <video style="width: 100%; aspect-ratio: 16/9;" controls muted>
+              <source
+                src="static/visualization/travel-water_park-Gezen_Adam/travel-water_park-Gezen_Adam_output_saliency_1.mp4"
+                type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <div class="caption">AVT Video (ours)</div>
+          </div>
+          <div style="text-align: center; width: 100%;">
+            <video style="width: 100%; aspect-ratio: 16/9;" controls muted>
+              <source
+                src="static/visualization/travel-water_park-Gezen_Adam/travel-water_park-Gezen_Adam_univtg_1min.mp4"
+                type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <div class="caption">UniVTG Video</div>
+          </div>
+          <div style="text-align: center; width: 100%;">
+            <video style="width: 100%; aspect-ratio: 16/9;" controls muted>
+              <source
+                src="static/visualization/travel-water_park-Gezen_Adam/travel-water_park-Gezen_Adam_uvcom_1min.mp4"
+                type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <div class="caption">UVCOM Video</div>
           </div>
         </div>
       </div>
-    </section> -->
-    <!-- End image carousel -->
+      <br>
+      <div class="container is-max-desktop">
+        <div style="text-align: center;">
+          <img src="static/visualization/travel-water_park-Gezen_Adam/hd.svg" alt="visualization" style="width: 100%;">
+        </div>
+        <hr style="border: 5px;">
+      </div>
 
-    <!-- Youtube video -->
-    <!-- <section class="hero is-small is-light">
+      <br>
+
+      <div class="container is-max-desktop">
+        <div class="grid-container"> <div style="text-align: center; width: 100%;">
+            <iframe
+              style="width: 100%; height: auto; max-width: 100%; aspect-ratio: 16/9;"
+              src="https://www.youtube.com/embed/MXAzBe7PZOQ?mute=1"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen>
+            </iframe>
+            <div class="caption">Raw Video</div>
+          </div>
+          <div style="text-align: center; width: 100%;">
+            <video style="width: 100%; aspect-ratio: 16/9;" controls muted>
+              <source
+                src="static/visualization/sports-motorcycle-Skaily_Production/sports-motorcycle-Skaily_Production_output_saliency_1.mp4"
+                type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <div class="caption">AVT Video (ours)</div>
+          </div>
+          <div style="text-align: center; width: 100%;">
+            <video style="width: 100%; aspect-ratio: 16/9;" controls muted>
+              <source
+                src="static/visualization/sports-motorcycle-Skaily_Production/sports-motorcycle-Skaily_Production_univtg_1min.mp4"
+                type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <div class="caption">UniVTG Video</div>
+          </div>
+          <div style="text-align: center; width: 100%;">
+            <video style="width: 100%; aspect-ratio: 16/9;" controls muted>
+              <source
+                src="static/visualization/sports-motorcycle-Skaily_Production/sports-motorcycle-Skaily_Production_uvcom_1min.mp4"
+                type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+            <div class="caption">UVCOM Video</div>
+          </div>
+        </div>
+      </div>
+      <br>
+      <div class="container is-max-desktop">
+        <div style="text-align: center;">
+          <img src="static/visualization/sports-motorcycle-Skaily_Production/hd.svg" alt="visualization"
+            style="width: 100%;">
+        </div>
+        <!-- <hr style="border: 5px;"> -->
+      </div>
+
+    </section>
+    <!-- End Visualization -->
+
+    <!-- Tutorial video -->
+    <section class="hero is-light">
       <div class="hero-body">
         <div class="container">
-          <h2 class="title is-3">Video Presentation</h2>
+
+          <div class="container is-max-desktop">
+            <div class="columns is-centered has-text-centered">
+              <div class="column is-five-fourths width:100%">
+                <h3 class="title is-3">
+                  Tutorial video
+                </h3>
+              </div>
+            </div>
+          </div>
+
+          <br>
+
+          <div class="center" style="font-size: 20px;">
+            Comming Soon
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Tutorial video -->
+
+    <!-- Experimental Results -->
+    <section class="hero">
+      <div class="hero-body">
+        <div class="container is-max-desktop">
           <div class="columns is-centered has-text-centered">
-            <div class="column is-four-fifths">
-              <div class="publication-video">
-                <iframe src="https://www.youtube.com/embed/JkaxUblCGz0" frameborder="0"
-                  allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <div class="column is-five-fourths">
+              <div class="is-centered has-text-centered">
+                <h3 class="title is-3">
+                  Experimental Results
+                </h3>
+
+                <br>
+
+                <div>
+                  <div class="content has-text-left is-size-5">
+                    <strong>User Study</strong>
+                  </div>
+                  <img src="static/table/user_study.png" alt="fail" width="50%">
+                  <div class="has-text-justified caption2">
+                    Table 1. User study through blind testing, using a scale from 1 to 10, of different methods on
+                    the video trimming dataset, comprising 30 final cuts from 42 raw videos and involving 17
+                    participants.
+                  </div>
+                  <br>
+                </div>
+
+                <div>
+                  <div class="content has-text-left is-size-5">
+                    <strong>Evaluation by Agent</strong>
+                  </div>
+                  <img src="static/table/eval_agent.png" alt="fail" width="50%">
+                  <div class="has-text-justified caption2">
+                    Table 2. Evaluation agent performance of different methods on the
+                    validation set of YouTube Highlights and TVSum dataset.
+                  </div>
+                  <br>
+                </div>
+
+                <div>
+                  <div class="content has-text-left is-size-5">
+                    <strong>Highlight Dectection</strong>
+                  </div>
+                  <img src="static/table/hd_table.png" alt="fail" width="100%">
+                  <div class="has-text-justified caption2">
+                    Table 3. Highlight detection results of Top-5 mAP on YouTube Highlights (left) and TVSum (right). †
+                    denotes using audio modality. FS: Fully supervised. WS: Weakly supervised. ZS: Zero-shot.
+                  </div>
+                  <br>
+                </div>
+
+                <div>
+                  <div class="content has-text-left is-size-5">
+                    <strong>Highlight Dectection under Various Metrics</strong>
+                  </div>
+                  <img src="static/table/hd_curve.png" alt="fail" width="50%">
+                  <div class="has-text-justified caption2" style="padding-top: 5px;">
+                    Figure 3. Highlight detection results of mAP and precision on our collected video trimming dataset.
+                  </div>
+                  <br>
+                </div>
+
+                <div>
+                  <div class="content has-text-left is-size-5">
+                    <strong>Ablation study on Different Components</strong>
+                  </div>
+                  <img src="static/table/ablation.png" alt="fail" width="50%">
+                  <div class="has-text-justified caption2">
+                    Table 4. Ablation study on the effectiveness of AVT components.
+                    VS: Video Structuring. CF: Clip Filtering. DF: Dynamic Filter.
+                    SC: Story Composition.
+                  </div>
+                  <br>
+                </div>
+
+                <div>
+                  <div class="content has-text-left is-size-5">
+                    <strong>Cost on API</strong>
+                  </div>
+                  <img src="static/table/cost.png" alt="fail" width="100%">
+                  <div class="has-text-justified caption2">
+                    Table 5. Ablation study on the impact of sampling ratio and prompt design on performance and cost.
+                  </div>
+                  <br>
+                </div>
+
+                <div>
+                  <div class="content has-text-left is-size-5">
+                    <strong>Fidelity</strong>
+                  </div>
+                  <img src="static/table/fidelity.png" alt="fail" width="40%">
+                  <div class="has-text-justified caption2">
+                    Table 6. Comparison of the fidelity between the final videos and the raw videos.
+                  </div>
+                  <br>
+                </div>
+
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </section>
+      <!-- End Experimental Results -->
+
+      <!-- Contributions -->
+      <section class="hero is-light">
+        <div class="hero-body">
+          <div class="container is-max-desktop">
+            <div class="columns is-centered has-text-centered">
+              <div class="column is-five-fourths">
+                <div class="is-centered has-text-centered">
+
+                  <h3 class="title is-3">
+                    Contributions
+                  </h3>
+
+                  <div class="content has-text-left" style="word-break:normal">
+                    <p>
+                      1. We are the first to introduce <strong>Video Trimming (VT)</strong> as a novel task, which aims
+                      to
+                      extract key
+                      intentions from user-captured long videos and generate concise videos with coherent narratives.
+                      <br><br>
+                      2. To establish a baseline method, we propose the <strong>Agent-based Video Trimming
+                        (AVT)</strong>
+                      algorithm, which
+                      transforms video content into structured descriptions, filters wasted footage, and organizes the
+                      selected clips into a coherent final narrative.
+                      <br><br>
+                      3. We have collected a new video trimming dataset and introduced the use of agent-assisted video
+                      quality assessment, thus establishing a new benchmark for video trimming.
+                      <br><br>
+                      4. The AVT method demonstrates exceptional performance in both video trimming and zero-shot
+                      highlight
+                      detection tasks, as validated through user surveys and multiple benchmark evaluations.
+                    </p>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
-    </section> -->
-    <!-- End youtube video -->
+      </section>
+      <!-- End Contributions -->
 
-    <!-- Video carousel -->
-    <!-- <section class="hero is-small">
-      <div class="hero-body">
-        <div class="container">
-          <h2 class="title is-3">Another Carousel</h2>
-          <div id="results-carousel" class="carousel results-carousel">
-            <div class="item item-video1">
-              <video poster id="video1" autoplay controls muted loop height="100%">
-                <source src="static/videos/carousel1.mp4" type="video/mp4" />
-              </video>
-            </div>
-            <div class="item item-video2">
-              <video poster id="video2" autoplay controls muted loop height="100%">
-                <source src="static/videos/carousel2.mp4" type="video/mp4" />
-              </video>
-            </div>
-            <div class="item item-video3">
-              <video poster id="video3" autoplay controls muted loop height="100%">
-                \
-                <source src="static/videos/carousel3.mp4" type="video/mp4" />
-              </video>
+      <!--BibTex citation -->
+      <section class="section" id="BibTeX">
+        <div class="container is-max-desktop content">
+          <h2 class="title">BibTeX</h2>
+
+          <p>
+            If you find our paper or repo helpful for your research, please consider citing the following paper and
+            giving
+            this repo a star. Thank you!
+          </p>
+
+          <pre><code>@article{avt,
+    title={Agent-based Video Trimming},
+    author={Yang, Lingfeng and Chen, Zhenyuan and Li, Xiang and Jia, Peiyang and Long, Liangqu and Yang, Jian},
+    journal={arXiv preprint arXiv:2412.09513},
+    year={2024}
+  }</code></pre>
+
+        </div>
+      </section>
+      <!--End BibTex citation -->
+
+      <!-- Teaser video-->
+      <!-- <section class="hero teaser">
+        <div class="container is-max-desktop">
+          <div class="hero-body">
+            <video poster id="tree" autoplay controls muted loop height="100%">
+              <source src="static/videos/banner_video.mp4" type="video/mp4" />
+            </video>
+            <h2 class="subtitle has-text-centered">
+              Aliquam vitae elit ullamcorper tellus egestas pellentesque. Ut lacus tellus, maximus vel lectus at,
+              placerat
+              pretium mi. Maecenas dignissim tincidunt vestibulum. Sed consequat hendrerit nisl ut maximus.
+            </h2>
+          </div>
+        </div>
+      </section> -->
+      <!-- End teaser video -->
+
+      <!-- Image carousel -->
+      <!-- <section class="hero is-small">
+        <div class="hero-body">
+          <div class="container">
+            <div id="results-carousel" class="carousel results-carousel">
+              <div class="item">
+                <img src="static/images/carousel1.jpg" alt="MY ALT TEXT" />
+                <h2 class="subtitle has-text-centered">
+                  First image description.
+                </h2>
+              </div>
+              <div class="item">
+                <img src="static/images/carousel2.jpg" alt="MY ALT TEXT" />
+                <h2 class="subtitle has-text-centered">
+                  Second image description.
+                </h2>
+              </div>
+              <div class="item">
+                <img src="static/images/carousel3.jpg" alt="MY ALT TEXT" />
+                <h2 class="subtitle has-text-centered">
+                  Third image description.
+                </h2>
+              </div>
+              <div class="item">
+                <img src="static/images/carousel4.jpg" alt="MY ALT TEXT" />
+                <h2 class="subtitle has-text-centered">
+                  Fourth image description.
+                </h2>
+              </div>
             </div>
           </div>
         </div>
-      </div>
-    </section> -->
-    <!-- End video carousel -->
+      </section> -->
+      <!-- End image carousel -->
 
-    <!-- Paper poster -->
-    <!-- <section class="hero is-small is-light">
-      <div class="hero-body">
-        <div class="container">
-          <h2 class="title">Poster</h2>
-
-          <iframe src="static/pdfs/xxx.pdf" width="100%" height="550"> </iframe>
-        </div>
-      </div>
-    </section> -->
-    <!--End paper poster -->
-
-    <!--BibTex citation -->
-    <!-- <section class="section" id="BibTeX">
-      <div class="container is-max-desktop content">
-        <h2 class="title">BibTeX</h2>
-        <pre><code>BibTex Code Here</code></pre>
-      </div>
-    </section> -->
-    <!--End BibTex citation -->
-
-    <!-- <footer class="footer">
-      <div class="container">
-        <div class="columns is-centered">
-          <div class="column is-8">
-            <div class="content">
-              <p>
-                This page was built using the
-                <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic
-                  Project Page Template</a>
-                which was adopted from the <a
-                  href="https://nerfies.github.io"
-                  target="_blank">Nerfies</a> project page. You are free to borrow the source code of this
-                website, we just ask that you link back to this page in the
-                footer. <br>
-                This website is licensed under a
-                <a
-                  rel="license"
-                  href="http://creativecommons.org/licenses/by-sa/4.0/"
-                  target="_blank">Creative Commons Attribution-ShareAlike 4.0 International
-                  License</a>.
-              </p>
+      <!-- Video carousel -->
+      <!-- <section class="hero is-small">
+        <div class="hero-body">
+          <div class="container">
+            <h2 class="title is-3">Another Carousel</h2>
+            <div id="results-carousel" class="carousel results-carousel">
+              <div class="item item-video1">
+                <video poster id="video1" autoplay controls muted loop height="100%">
+                  <source src="static/videos/carousel1.mp4" type="video/mp4" />
+                </video>
+              </div>
+              <div class="item item-video2">
+                <video poster id="video2" autoplay controls muted loop height="100%">
+                  <source src="static/videos/carousel2.mp4" type="video/mp4" />
+                </video>
+              </div>
+              <div class="item item-video3">
+                <video poster id="video3" autoplay controls muted loop height="100%">
+                  <source src="static/videos/carousel3.mp4" type="video/mp4" />
+                </video>
+              </div>
             </div>
           </div>
         </div>
-      </div>
-    </footer> -->
+      </section> -->
+      <!-- End video carousel -->
 
-    <!-- Statcounter tracking code -->
+      <!-- Paper poster -->
+      <!-- <section class="hero is-small is-light">
+        <div class="hero-body">
+          <div class="container">
+            <h2 class="title">Poster</h2>
 
-    <!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
+            <iframe src="static/pdfs/xxx.pdf" width="100%" height="550"> </iframe>
+          </div>
+        </div>
+      </section> -->
+      <!--End paper poster -->
 
-    <!-- End of Statcounter Code -->
-  </body>
-</html>
+      <!-- <footer class="footer">
+        <div class="container">
+          <div class="columns is-centered">
+            <div class="column is-8">
+              <div class="content">
+                <p>
+                  This page was built using the
+                  <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic
+                    Project Page Template</a>
+                  which was adopted from the <a
+                    href="https://nerfies.github.io"
+                    target="_blank">Nerfies</a> project page. You are free to borrow the source code of this
+                  website, we just ask that you link back to this page in the
+                  footer. <br>
+                  This website is licensed under a
+                  <a
+                    rel="license"
+                    href="http://creativecommons.org/licenses/by-sa/4.0/"
+                    target="_blank">Creative Commons Attribution-ShareAlike 4.0 International
+                    License</a>.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer> -->
+
+      <!-- Statcounter tracking code -->
+
+      <!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
+
+      <!-- End of Statcounter Code -->
+    </body>
+  </html>
