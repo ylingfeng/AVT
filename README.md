@@ -24,7 +24,7 @@
     </div>
 </p>
 
-## Data Preparation
+## 🛠 Data Preparation
 <pre>
 data
 ├── avt
@@ -48,43 +48,43 @@ data
      ...
 </pre>
 
-## How to start
-### Get Section Data
+## 🚀 How to start
+#### Get Section Data
 
 ```bash
 python tools/get_section_data.py --config data/avt/get_section_data.yaml
 ```
 This command would generate `./data/avt/section_data`.
 
-### Video Structuring
+#### Video Structuring
 
 ```bash
 python tools/get_caption.py --config data/avt/get_caption.yaml
 ```
 This command would generate `./data/avt/caption`.
 
-### Story Composition
+#### Story Composition
 
 ```bash
 python tools/get_story.py --config data/avt/get_story.yaml
 ```
 This command would generate `./data/avt/output/caption` and `./data/avt/output/story`.
 
-### Output Video
+#### Output Video
 
 ```bash
 python tools/get_video.py --config data/avt/get_video.yaml
 ```
 This command would generate `./data/avt/output/story/*/output_video.mp4`.
 
-### Video Evaluation
+#### Video Evaluation
 
 ```bash
 python tools/get_evaluation.py --config data/avt/get_evaluation.yaml
 ```
 This command would generate `./data/avt/output/evaluation`.
 
-## Visualization
+## 🎥 Visualization 
 <p align="center">
     <img src="./assets/visualization.svg" alt="visualization" style="width: 100%;">
     <div style="text-align: center; color: gray; font-size: 13px;">
