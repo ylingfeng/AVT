@@ -93,3 +93,15 @@ This command would generate `./data/avt/output/evaluation`.
 </p>
 
 Checkout the videos on our [project page](https://ylingfeng.github.io/AVT/) :)
+
+## ⭐ Citation
+If you find our paper or repo helpful for your research, please consider citing the following paper and giving this repo a star. Thank you!
+
+```
+@article{avt,
+  title={Agent-based Video Trimming},
+  author={Yang, Lingfeng and Chen, Zhenyuan and Li, Xiang and Jia, Peiyang and Long, Liangqu and Yang, Jian},
+  journal={arXiv preprint arXiv:2412.09513},
+  year={2024}
+}
+```
