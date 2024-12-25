@@ -25,7 +25,7 @@ prompt:
     - The selected clips should all of the themes and ensure content diversity.
     - The chosen <clip id> should cover the clips from the start, middle, end of the inputs sequence.
     - Focus on segments involving characters participating in activities such as skiing, skateboarding, running, and other sports, as well as segments where individuals interact with others. Pay more attention to the actions and events that are happening rather than fixed scenes .
-    - Ensure that the selected segments for the final story generation do not exceed 20 and no less than 15.
+    - Ensure that the selected segments for the final story generation do not exceed 10 and no less than 8.
     - Retain as many segments as possible, avoid excessive deletion, and extend the duration of the output while maintaining its narrative integrity.
     - When merging clips, consider the <highlight score> ranging from 0 to 1. A score closer to 1 signifies that the segment is critical and should be selected. These segments should be consistently included in the final output.
 

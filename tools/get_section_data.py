@@ -1,6 +1,5 @@
 import argparse
 import json
-import os
 import sys
 
 sys.path.pop(0)
@@ -8,12 +7,9 @@ sys.path.insert(0, '.')
 
 import cv2
 import yaml
-from dotenv import load_dotenv
 from joblib import Parallel, delayed
 
 from utils.misc import get_path_info_list
-
-load_dotenv()
 
 
 def handle_one_path_info(path_info):
@@ -68,7 +64,7 @@ def handle_one_path_info(path_info):
 
 def main(args):
     config_path = args.config_path
-    config = yaml.load(open(config_path), Loader=yaml.FullLoader)
+    config = yaml.load(open(config_path, encoding='UTF-8'), Loader=yaml.FullLoader)
 
     read_data_config = [
         dict(

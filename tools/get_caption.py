@@ -8,15 +8,12 @@ sys.path.pop(0)
 sys.path.insert(0, '.')
 
 import yaml
-from dotenv import load_dotenv
 from tqdm import tqdm
 
 from llms.gpt import gptv_caption
 from utils.image import short_side_resize
 from utils.misc import get_path_info_list
 from utils.video import read_frames
-
-load_dotenv()
 
 
 def get_section_list(section_path):
@@ -92,7 +89,7 @@ def handle_one_path_info(path_info):
                 break
 
             except Exception as e:
-                print(f'Try {i+1}: Exception at gpt_get_attribute: "{e}".')
+                print(f'Try {i + 1}: Exception at gpt_get_attribute: "{e}".')
                 print(response_str)
                 section_caption_info = dict(
                     start=section['start'],
@@ -121,7 +118,7 @@ def handle_one_path_info(path_info):
 
 def main(args):
     config_path = args.config_path
-    config = yaml.load(open(config_path), Loader=yaml.FullLoader)
+    config = yaml.load(open(config_path, encoding='UTF-8'), Loader=yaml.FullLoader)
 
     read_data_config = [
         dict(

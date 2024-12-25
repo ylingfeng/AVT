@@ -75,6 +75,7 @@ def get_output_path_info_list(input_path_info_list):
 
         for section_info in output_section_info_list:
             raw_caption_path = section_info['raw_caption_path']
+            raw_caption_path = raw_caption_path.replace("\\", "/")
             video_name = raw_caption_path.split("/")[-2]
             curr_video_dir = os.path.join(video_dir, video_name)
 
@@ -143,7 +144,7 @@ def handle_tmp_clip(video_dir, tmp_video_path_list, clip_list, output_fps, outpu
 
 
 def output_tmp_video_txt(tmp_video_path_list, tmp_video_txt):
-    with open(tmp_video_txt, 'w') as file:
+    with open(tmp_video_txt, 'w', encoding='UTF-8') as file:
         for video_path in tmp_video_path_list:
             file.write(f"file '{video_path}'\n")
 
@@ -157,17 +158,28 @@ def ensure_absolute_path(path):
 
 def merge_videos(tmp_video_txt, output_video_path, width, height):
     if (width is None) or (height is None):
-        command = f"ffmpeg -y -f concat -safe 0 -i '{tmp_video_txt}' -c copy '{output_video_path}'"
+        command = [
+            "ffmpeg", "-y",
+            "-f", "concat", "-safe", "0",
+            "-i", tmp_video_txt,
+            "-c", "copy",
+            output_video_path
+        ]
     else:
-        command = (
-            f"ffmpeg -y -f concat -safe 0 -i '{tmp_video_txt}' "
-            f"-vf 'scale={width}:{height}:force_original_aspect_ratio=decrease,"
-            f"pad={width}:{height}:(ow-iw)/2:(oh-ih)/2' "
-            f"-c:v libx264 -preset fast -crf 22 '{output_video_path}'"
-        )
+        command = [
+            "ffmpeg", "-y",
+            "-f", "concat", "-safe", "0",
+            "-i", tmp_video_txt,
+            "-vf", f"scale={width}:{height}:force_original_aspect_ratio=decrease,"
+            f"pad={width}:{height}:(ow-iw)/2:(oh-ih)/2",
+            "-c:v", "libx264",
+            "-preset", "fast",
+            "-crf", "22",
+            output_video_path
+        ]
 
     try:
-        subprocess.run(command, check=True, shell=True)
+        subprocess.run(command, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
     except subprocess.CalledProcessError as e:
         print(f"Error combining video: {e}")
 
@@ -304,7 +316,7 @@ def handle_one_path_info(path_info):
 
 def main(args):
     config_path = args.config_path
-    config = yaml.load(open(config_path), Loader=yaml.FullLoader)
+    config = yaml.load(open(config_path, encoding='UTF-8'), Loader=yaml.FullLoader)
 
     read_data_config = [
         dict(

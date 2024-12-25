@@ -9,14 +9,11 @@ sys.path.pop(0)
 sys.path.insert(0, '.')
 
 import yaml
-from dotenv import load_dotenv
 from tqdm import tqdm
 
 from utils.color_print import PINK, PURPLE, UNSET
 from utils.methods import *
 from utils.misc import get_path_info_list
-
-load_dotenv()
 
 
 def string_to_json(input_str):
@@ -296,7 +293,7 @@ def get_dir_info_list(path_info_list):
 
 def main(args):
     config_path = args.config_path
-    config = yaml.load(open(config_path), Loader=yaml.FullLoader)
+    config = yaml.load(open(config_path, encoding='UTF-8'), Loader=yaml.FullLoader)
 
     read_data_config = [
         dict(

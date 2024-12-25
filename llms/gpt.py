@@ -3,17 +3,19 @@ from openai import OpenAI
 from utils.color_print import UNSET, YELLOW
 from utils.image import encode_cv2_image
 
+GPT_API_KEY = None
+BASE_URL = None
+
 
 def gptv_caption(frame_list, tool_config):
     invalid_keyword_list = ["sorry", "cannot assist", "cannot provide", "can't assist"]
 
-    client = OpenAI(api_key="GPT_API_KEY")
+    client = OpenAI(api_key=GPT_API_KEY, base_url=BASE_URL)
     temperature = tool_config['temperature'] if 'temperature' in tool_config else 0.5
 
     short_side = tool_config['short_side']
 
     encoded_frame_list = [encode_cv2_image(x) for x in frame_list]
-    print(len(encoded_frame_list))
 
     max_try_count = tool_config['max_try_count']
     for i in range(max_try_count):
@@ -49,7 +51,7 @@ def gptv_caption(frame_list, tool_config):
 def gpt_refine_caption(raw_caption, tool_config):
     invalid_keyword_list = ["sorry", "cannot assist", "cannot provide", "can't assist"]
 
-    client = OpenAI()
+    client = OpenAI(api_key=GPT_API_KEY, base_url=BASE_URL)
     temperature = tool_config['temperature'] if 'temperature' in tool_config else 0.5
 
     max_try_count = tool_config['max_try_count']
@@ -79,7 +81,7 @@ def gpt_refine_caption(raw_caption, tool_config):
 def gpt_get_embedding(text, tool_config):
     text = text.replace("\n", " ")
 
-    client = OpenAI()
+    client = OpenAI(api_key=GPT_API_KEY, base_url=BASE_URL)
 
     max_try_count = tool_config['max_try_count']
     model = tool_config['model']
@@ -103,7 +105,7 @@ def gpt_get_embedding(text, tool_config):
 def gpt_remove_waste_section(text, tool_config):
     invalid_keyword_list = ["sorry", "cannot assist", "cannot provide", "can't assist"]
 
-    client = OpenAI()
+    client = OpenAI(api_key=GPT_API_KEY, base_url=BASE_URL)
     temperature = tool_config['temperature'] if 'temperature' in tool_config else 0.5
 
     max_try_count = tool_config['max_try_count']
@@ -134,7 +136,7 @@ def gpt_get_story(caption_text, tool_config, name="gpt_get_story"):
 
     invalid_keyword_list = ["sorry", "cannot assist", "cannot provide", "can't assist"]
 
-    client = OpenAI()
+    client = OpenAI(api_key=GPT_API_KEY, base_url=BASE_URL)
     temperature = tool_config['temperature'] if 'temperature' in tool_config else 0.5
 
     max_try_count = tool_config['max_try_count']
@@ -166,7 +168,7 @@ def gpt_get_story_with_instruction(caption_text, tool_config, instruction, name=
 
     invalid_keyword_list = ["sorry", "cannot assist", "cannot provide", "can't assist"]
 
-    client = OpenAI()
+    client = OpenAI(api_key=GPT_API_KEY, base_url=BASE_URL)
     temperature = tool_config['temperature'] if 'temperature' in tool_config else 0.5
 
     max_try_count = tool_config['max_try_count']

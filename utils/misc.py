@@ -1,7 +1,7 @@
 import copy
-import os
-import shutil
 from pathlib import Path
+
+import numpy as np
 
 
 def video_suffix_list():
@@ -29,7 +29,7 @@ def get_video_path_list(input_dir, recursive=False):
         path_list = [str(x) for x in path_list]
         total_path_list += path_list
 
-    return total_path_list
+    return np.unique(total_path_list).tolist()
 
 
 def get_config_item(data_item, tmp_path_info, name, default_value=None):

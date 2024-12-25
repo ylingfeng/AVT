@@ -8,7 +8,6 @@ sys.path.pop(0)
 sys.path.insert(0, '.')
 
 import yaml
-from dotenv import load_dotenv
 from tqdm import tqdm
 
 from llms.gemini import gemini_caption
@@ -16,8 +15,6 @@ from llms.gpt import gptv_caption
 from utils.image import short_side_resize
 from utils.misc import get_path_info_list
 from utils.video import read_frames
-
-load_dotenv()
 
 
 def extract_reason_and_score(attribute):
