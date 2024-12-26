@@ -1,0 +1,32 @@
+# common settings
+__pycache__
+_ext
+*.pyc
+*.pyd
+*.so
+*.dll
+*.egg-info/
+.eggs/
+build/
+dist/
+wheels/
+*.pth
+*.pt
+*.pkl
+*.npy
+*.ts
+*.h5
+.idea
+.vscode
+_darcs
+
+# custom settings
+/Makefile*
+/debug.py
+/debug.ipynb
+/z1*
+/z2*
+/z3*
+/data/
+!/data/avt
+/demo/output_logs
