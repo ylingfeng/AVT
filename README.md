@@ -5,7 +5,7 @@
 > <sup>1</sup>Nanjing University of Science and Technology, <sup>2</sup>VCIP, CS, Nankai University, <sup>3</sup>NKIARI, Shenzhen Futian, <sup>4</sup>Insta360<br>
 > `{yanglfnjust, csjyang}@njust.edu.cn, zhenyuanchen@mail.nankai.edu.cn,`  <br>
 > `xiang.li.implus@nankai.edu.cn, jiapeiyang@insta360.com, liangqu.long@gmail.com`<br>
-> [[Arxiv](https://arxiv.org/abs/2412.09513)] [[Project Page](https://ylingfeng.github.io/AVT/)] 
+> [[Arxiv](https://arxiv.org/abs/2412.09513)] [[Project Page](https://ylingfeng.github.io/AVT/)] [[Demo](https://huggingface.co/spaces/ylingfeng/Agent-based_Video_Trimming)]
 
 <hr />
 
