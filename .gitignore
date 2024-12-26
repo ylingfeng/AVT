@@ -27,4 +27,6 @@ _darcs
 /z1*
 /z2*
 /z3*
-/data/demo
+/data/
+!/data/avt
+/demo/output_logs

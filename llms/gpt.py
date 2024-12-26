@@ -1,10 +1,12 @@
+import os
+
 from openai import OpenAI
 
 from utils.color_print import UNSET, YELLOW
 from utils.image import encode_cv2_image
 
-GPT_API_KEY = None
-BASE_URL = None
+GPT_API_KEY = os.getenv("GPT_API_KEY")
+BASE_URL = os.getenv("BASE_URL")
 
 
 def gptv_caption(frame_list, tool_config):

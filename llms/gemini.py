@@ -1,10 +1,13 @@
 import io
+import os
 
 import cv2
 import google.generativeai as genai
 from PIL import Image
 
 from utils.image import encode_cv2_image
+
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 
 def encode_cv2_image_to_PIL(image):
@@ -16,7 +19,7 @@ def encode_cv2_image_to_PIL(image):
 
 def gemini_caption(frame_list, tool_config):
 
-    genai.configure(api_key="GEMINI_API_KEY")
+    genai.configure(api_key=GEMINI_API_KEY)
 
     client = genai.GenerativeModel('gemini-1.5-flash')
 
