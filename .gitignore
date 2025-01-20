@@ -27,6 +27,6 @@ _darcs
 /z1*
 /z2*
 /z3*
-/data/
-!/data/avt
+/data/*
+!/data/avt.tar.gz
 /demo/output_logs
